@@ -1,0 +1,104 @@
+[05/03/2020 15:51]  System: WorldMap loading...
+[05/03/2020 15:51]  System: Some of your Royal City Loyalty has decayed.
+[05/03/2020 15:51]  System: You have 5 of max 50 in your mailbox.
+[05/03/2020 15:51]  System: Autoloot: Invalid Bag, Switch to backpack
+[05/03/2020 15:51]  You see: Lord Hobo Jim [SOUL]
+[05/03/2020 15:51]  System: 
+[05/03/2020 15:51]  System: Loading WorldMap markers..
+[05/03/2020 15:51]  System: WorldMap loaded!
+[05/03/2020 15:51]  System: WorldMap markers loaded (0)
+[05/03/2020 15:51]  System: AUTOLOOT: Engine Start...
+[05/03/2020 15:51]  System: 97° 59'N, 29° 2'W
+[05/03/2020 15:51]  Hobo Jim: Kal Ort Por [Recall]
+[05/03/2020 15:51]  System: Your strength has changed by -10.  It is now 202
+[05/03/2020 15:51]  System: Your dexterity has changed by -10.  It is now 208
+[05/03/2020 15:51]  System: Your intelligence has changed by -10.  It is now 66
+[05/03/2020 15:51]  You see:  CityBooks the parrot
+[05/03/2020 15:51]  You see:  Akilah the waiter
+[05/03/2020 15:51]  You see:  Dungeons the parrot
+[05/03/2020 15:51]  You see:  TMapsFelANDTram the parrot
+[05/03/2020 15:51]  You see:  Misc Stuff 
+[05/03/2020 15:51]  You see:  Ele Deeds + PS's 
+[05/03/2020 15:51]  You see:  MARKED RUNE BOOKS 
+[05/03/2020 15:51]  You see:  MISC ITEMS 
+[05/03/2020 15:51]  You see:  STEALABLES / DECO 
+[05/03/2020 15:51]  You see:  Smith Rewards 
+[05/03/2020 15:51]  You see:  Tailor Rewards 
+[05/03/2020 15:51]  You see:  POWERSCROLLS 
+[05/03/2020 15:51]  You see:  GOLD SKULLS 
+[05/03/2020 15:51]  You see:  BULK BOARDS 
+[05/03/2020 15:51]  You see:  Crystals and Frags 
+[05/03/2020 15:51]  You see:  Imbue Mats 
+[05/03/2020 15:51]  You see:  Newbie 
+[05/03/2020 15:51]  You see:   
+[05/03/2020 15:51]  : If you have an empty vendor, remove them or they will be auto deleted!
+[05/03/2020 15:51]  You see:  Sukatai the Keeper of Chivalry
+[05/03/2020 15:51]  You see:   the tailor
+[05/03/2020 15:51]  You see:   the blacksmith
+[05/03/2020 15:51]  You see:   the weaver
+[05/03/2020 15:51]  You see:   the trash collector
+[05/03/2020 15:51]  You see:   the vote registrar
+[05/03/2020 15:51]  You see:   the town crier
+[05/03/2020 15:51]  You see:   
+[05/03/2020 15:51]  System: You have entered Luna Bank
+[05/03/2020 15:51]  You see:   the hairstylist
+[05/03/2020 15:51]  You see:   the innkeeper
+[05/03/2020 15:51]  You see:  a glass city kitsune 
+[05/03/2020 15:52]  You see: Please wait for your web browser to start...
+[05/03/2020 15:52]  You see:   
+[05/03/2020 15:52]  System: You must be within 3 paces to use this item.
+[05/03/2020 15:52]  System: Opening door...
+[05/03/2020 15:52]  System: You do not have enough Voting Tokens to purchase Crystal of Fire
+[05/03/2020 15:52]  Hobo Jim: Bank container has 224 items, 1089 stones
+[05/03/2020 15:52]  System: Treasures of Tokuno have faded!
+[05/03/2020 15:52]  System: 10 Vote Tokens have been placed in your pack.
+[05/03/2020 15:52]  System: 2 Voting Tokens has been withdrawn from your pack.
+[05/03/2020 15:52]  System: Crystal of Fire has been placed in your pack.
+[05/03/2020 15:52]  System: You purchased Crystal of Fire for 2 Voting Tokens.
+[05/03/2020 15:53]  System: 2 Voting Tokens has been withdrawn from your pack.
+[05/03/2020 15:53]  System: Crystal of Fire has been placed in your pack.
+[05/03/2020 15:53]  System: You purchased Crystal of Fire for 2 Voting Tokens.
+[05/03/2020 15:54]  System: 10 tourmalines have been placed in your pack.
+[05/03/2020 15:54]  System: 5 Relic Fragments have been placed in your pack.
+[05/03/2020 15:54]  System: Script <Grab.py> started.
+[05/03/2020 15:54]  System: Script <Grab.py> stopped.
+[05/03/2020 15:54]  System: 10 essence of controls have been placed in your pack.
+[05/03/2020 15:54]  System: Crystal of Fire has been placed in your pack.
+[05/03/2020 15:55]  System: 49° 7'N, 14° 12'W
+[05/03/2020 15:55]  Hobo Jim: Kal Ort Por [Recall]
+[05/03/2020 15:55]  System: You have left Luna Bank
+[05/03/2020 15:55]  System: Your skill in Alchemy has increased by 5.0.  It is now 130.0.
+[05/03/2020 15:55]  System: Your skill in Blacksmithy has increased by 5.0.  It is now 130.0.
+[05/03/2020 15:55]  System: Your skill in Carpentry has increased by 5.0.  It is now 130.0.
+[05/03/2020 15:55]  System: Your skill in Cartography has increased by 5.0.  It is now 130.0.
+[05/03/2020 15:55]  System: Your skill in Cooking has increased by 5.0.  It is now 130.0.
+[05/03/2020 15:55]  System: Your skill in Bowcraft/Fletching has increased by 5.0.  It is now 130.0.
+[05/03/2020 15:55]  System: Your skill in Imbuing has increased by 5.0.  It is now 130.0.
+[05/03/2020 15:55]  System: Your skill in Inscription has increased by 5.0.  It is now 130.0.
+[05/03/2020 15:55]  System: Your skill in Tailoring has increased by 5.0.  It is now 130.0.
+[05/03/2020 15:55]  System: Your skill in Tinkering has increased by 5.0.  It is now 130.0.
+[05/03/2020 15:55]  System: Script <Grab.py> started.
+[05/03/2020 15:55]  System: You can't do that in or near houses.
+[05/03/2020 15:55]  System: Script <Grab.py> stopped.
+[05/03/2020 15:55]  System: Script <Grab.py> started.
+[05/03/2020 15:55]  System: Script <Grab.py> stopped.
+[05/03/2020 15:55]  System: Script <Grab.py> started.
+[05/03/2020 15:55]  System: Script <Grab.py> stopped.
+[05/03/2020 15:55]  System: You can't do that in or near houses. [4]
+[05/03/2020 15:55]  System: Script <Grab.py> started.
+[05/03/2020 15:55]  System: Script <Grab.py> stopped.
+[05/03/2020 15:55]  System: Script <Grab.py> started.
+[05/03/2020 15:55]  System: Script <Grab.py> stopped.
+[05/03/2020 15:55]  System: You can't do that in or near houses. [4]
+[05/03/2020 15:56]  System: Script <Grab.py> started.
+[05/03/2020 15:56]  System: You can't do that in or near houses.
+[05/03/2020 15:56]  System: Script <Grab.py> stopped.
+[05/03/2020 15:56]  System: Script <Grab.py> started.
+[05/03/2020 15:56]  System: Script <Grab.py> stopped.
+[05/03/2020 15:56]  System: You can't do that in or near houses. [3]
+[05/03/2020 15:56]  System: Script <Grab.py> started.
+[05/03/2020 15:56]  System: You can't do that in or near houses.
+[05/03/2020 15:56]  System: Script <Grab.py> stopped.
+[05/03/2020 15:56]  System: You can't do that in or near houses.
+[05/03/2020 15:57]  System: Setting ability LightningArrow
+[05/03/2020 15:57]  System: Setting ability LightningArrow

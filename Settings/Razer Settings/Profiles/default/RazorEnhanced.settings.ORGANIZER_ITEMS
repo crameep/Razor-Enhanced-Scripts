@@ -1,0 +1,578 @@
+[
+  {
+    "Name": "White Potion (0F09)",
+    "Graphics": 3849,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "potions"
+  },
+  {
+    "Name": "Red Potion (0F0B)",
+    "Graphics": 3851,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "potions"
+  },
+  {
+    "Name": "Green Potion (0F0A)",
+    "Graphics": 3850,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "potions"
+  },
+  {
+    "Name": "Orange Potion (0F07)",
+    "Graphics": 3847,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "potions"
+  },
+  {
+    "Name": "Blue Potion (0F08)",
+    "Graphics": 3848,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "potions"
+  },
+  {
+    "Name": "Yellow Potion (0F0C)",
+    "Graphics": 3852,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "potions"
+  },
+  {
+    "Name": "White Potion (0F09)",
+    "Graphics": 3849,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "potions"
+  },
+  {
+    "Name": "Green Potion (0F0A)",
+    "Graphics": 3850,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "potions"
+  },
+  {
+    "Name": "scorp (10E7)",
+    "Graphics": 4327,
+    "Color": 2962,
+    "Amount": -1,
+    "Selected": true,
+    "List": "tools"
+  },
+  {
+    "Name": "smith's hammer (13E3)",
+    "Graphics": 5091,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "tools"
+  },
+  {
+    "Name": "sewing kit (0F9D)",
+    "Graphics": 3997,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "tools"
+  },
+  {
+    "Name": "tool kit (1EB8)",
+    "Graphics": 7864,
+    "Color": 1165,
+    "Amount": -1,
+    "Selected": true,
+    "List": "tools"
+  },
+  {
+    "Name": "chisels (1026)",
+    "Graphics": 4134,
+    "Color": 1165,
+    "Amount": -1,
+    "Selected": true,
+    "List": "tools"
+  },
+  {
+    "Name": "candle%s% (0A28)",
+    "Graphics": 2600,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "trash"
+  },
+  {
+    "Name": "crushed glass (573B)",
+    "Graphics": 22331,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "elven fletching (5737)",
+    "Graphics": 22327,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "crystal shards (5738)",
+    "Graphics": 22328,
+    "Color": 0,
+    "Amount": 0,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": " (3186)",
+    "Graphics": 12678,
+    "Color": 883,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "gold coin (0EED)",
+    "Graphics": 3821,
+    "Color": 1152,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": " (3187)",
+    "Graphics": 12679,
+    "Color": 731,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": " (3183)",
+    "Graphics": 12675,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "seed of renewal (5736)",
+    "Graphics": 22326,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "arcanic rune stone (573C)",
+    "Graphics": 22332,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "slith tongue (5746)",
+    "Graphics": 22342,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "essence of virtue (571C)",
+    "Graphics": 22300,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": " (3189)",
+    "Graphics": 12681,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "delicate scales (573A)",
+    "Graphics": 22330,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "Relic Fragment (2DB3)",
+    "Graphics": 11699,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "powdered iron (573D)",
+    "Graphics": 22333,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "powdered iron (573D)",
+    "Graphics": 22333,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": " (3184)",
+    "Graphics": 12676,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": " (3185)",
+    "Graphics": 12677,
+    "Color": 150,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": " (312F)",
+    "Graphics": 12591,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "reflective wolf eye (5749)",
+    "Graphics": 22345,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "delicate scales (573A)",
+    "Graphics": 22330,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": " (3188)",
+    "Graphics": 12680,
+    "Color": 57,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "silver snake skin (5744)",
+    "Graphics": 22340,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "citrine%s% (0F15)",
+    "Graphics": 3861,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "rub%ies/y% (0F13)",
+    "Graphics": 3859,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "diamond%s% (0F26)",
+    "Graphics": 3878,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "star sapphire%s% (0F21)",
+    "Graphics": 3873,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "amethyst%s% (0F16)",
+    "Graphics": 3862,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "Nox Crystal (0F8E)",
+    "Graphics": 3982,
+    "Color": 49,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "piece%s% of amber (0F25)",
+    "Graphics": 3877,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "vial of vitriol (5722)",
+    "Graphics": 22306,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": " (3190)",
+    "Graphics": 12688,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "Enchanted Essence (2DB2)",
+    "Graphics": 11698,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "faery dust (5745)",
+    "Graphics": 22341,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "arrow (0F3F)",
+    "Graphics": 3903,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "gold coin (0EED)",
+    "Graphics": 3821,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "Magical Residue (2DB1)",
+    "Graphics": 11697,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "blank scroll%s% (0EF3)",
+    "Graphics": 3827,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "tourmaline%s% (0F2D)",
+    "Graphics": 3885,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "sapphire%s% (0F19)",
+    "Graphics": 3865,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "emerald%s% (0F10)",
+    "Graphics": 3856,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "essence of virtue (571C)",
+    "Graphics": 22300,
+    "Color": 731,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "boura pelt (5742)",
+    "Graphics": 22338,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "bottle of ichor (5748)",
+    "Graphics": 22344,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": " (3197)",
+    "Graphics": 12695,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "chaga mushroom (5743)",
+    "Graphics": 22339,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "void orb (573E)",
+    "Graphics": 22334,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "Nox Crystal (0F8E)",
+    "Graphics": 3982,
+    "Color": 1260,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "dark sapphire (3192)",
+    "Graphics": 12690,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": " (3198)",
+    "Graphics": 12696,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": " (3193)",
+    "Graphics": 12691,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "lava serpent crust (572D)",
+    "Graphics": 22317,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "essence of virtue (571C)",
+    "Graphics": 22300,
+    "Color": 150,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "daemon claw (5721)",
+    "Graphics": 22305,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "goblin blood (572C)",
+    "Graphics": 22316,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": " (3191)",
+    "Graphics": 12689,
+    "Color": 0,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "Nox Crystal (0F8E)",
+    "Graphics": 3982,
+    "Color": 89,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  },
+  {
+    "Name": "Nox Crystal (0F8E)",
+    "Graphics": 3982,
+    "Color": 1283,
+    "Amount": -1,
+    "Selected": true,
+    "List": "imbuingmats"
+  }
+]

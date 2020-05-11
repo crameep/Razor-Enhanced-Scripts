@@ -1,0 +1,2282 @@
+[
+  {
+    "Group": "General",
+    "Name": "Resync",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "General",
+    "Name": "Take Screen Shot",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "General",
+    "Name": "Start Video Record",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "General",
+    "Name": "Stop Video Record",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "General",
+    "Name": "Ping Server",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "General",
+    "Name": "Accept Party",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "General",
+    "Name": "Decline Party",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "General",
+    "Name": "DPS Meter Start",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "General",
+    "Name": "DPS Meter Pause / Resume",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "General",
+    "Name": "DPS Meter Pause",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "General",
+    "Name": "No Run Stealth ON/OFF",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "General",
+    "Name": "Open Enhanced Map",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "General",
+    "Name": "Inspect Item/Ground",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Actions",
+    "Name": "Grab Item",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Actions",
+    "Name": "Drop Item",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Actions",
+    "Name": "Fly ON/OFF",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Actions",
+    "Name": "Hide Item",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Use",
+    "Name": "Last Item",
+    "Key": 262231,
+    "Pass": true
+  },
+  {
+    "Group": "Use",
+    "Name": "Left Hand",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Use",
+    "Name": "Right Hand",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Show Names",
+    "Name": "All",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Show Names",
+    "Name": "Corpses",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Show Names",
+    "Name": "Mobiles",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Show Names",
+    "Name": "Items",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Pet Commands",
+    "Name": "All Come",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Pet Commands",
+    "Name": "All Follow Me",
+    "Key": 131123,
+    "Pass": true
+  },
+  {
+    "Group": "Pet Commands",
+    "Name": "All Follow",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Pet Commands",
+    "Name": "All Guard Me",
+    "Key": 51,
+    "Pass": true
+  },
+  {
+    "Group": "Pet Commands",
+    "Name": "All Guard",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Pet Commands",
+    "Name": "All Kill",
+    "Key": 262195,
+    "Pass": true
+  },
+  {
+    "Group": "Pet Commands",
+    "Name": "All Stay",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Pet Commands",
+    "Name": "All Stop",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Pet Commands",
+    "Name": "Mount",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Pet Commands",
+    "Name": "Dismount",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Pet Commands",
+    "Name": "Mount / Dismount",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentAutoloot",
+    "Name": "Autoloot Trigger ON/OFF",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentAutoloot",
+    "Name": "Autoloot Set Bag",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentAutoloot",
+    "Name": "Autoloot Add Item",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentScavenger",
+    "Name": "Scavenger Trigger ON/OFF",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentScavenger",
+    "Name": "Scavenger Set Bag",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentScavenger",
+    "Name": "Scavenger Add Item",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentOrganizer",
+    "Name": "Organizer Start",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentOrganizer",
+    "Name": "Organizer Stop",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentOrganizer",
+    "Name": "Organizer Set Soruce Bag",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentOrganizer",
+    "Name": "Organizer Set Destination Bag",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentOrganizer",
+    "Name": "Organizer Add Item",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentSell",
+    "Name": "Sell Trigger ON/OFF",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentSell",
+    "Name": "Sell Set Soruce Bag",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentBuy",
+    "Name": "Buy Trigger ON/OFF",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentDress",
+    "Name": "Dress Start",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentDress",
+    "Name": "Undress Start",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentDress",
+    "Name": "Dress / Undress Stop",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentRestock",
+    "Name": "Restock Start",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentRestock",
+    "Name": "Restock Stop",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentRestock",
+    "Name": "Restock Set Soruce Bag",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentRestock",
+    "Name": "Restock Set Destination Bag",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentRestock",
+    "Name": "Restock Add Item",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentBandage",
+    "Name": "Bandage Heal Trigger ON/OFF",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentBoneCutter",
+    "Name": "Bone Cutter Trigger ON/OFF",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentBoneCutter",
+    "Name": "Bone Cutter Set Blade",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentAutoCarver",
+    "Name": "Auto Carver Trigger ON/OFF",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentAutoCarver",
+    "Name": "Auto Carver Set Blade",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentAutoRemount",
+    "Name": "Auto Remount Trigger ON/OFF",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentAutoRemount",
+    "Name": "Auto Remount Set Mount",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentGraphFilter",
+    "Name": "Graphic Filter Trigger ON/OFF",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "AgentFriend",
+    "Name": "Add Friend",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Abilities",
+    "Name": "Primary",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Abilities",
+    "Name": "Secondary",
+    "Key": 50,
+    "Pass": true
+  },
+  {
+    "Group": "Abilities",
+    "Name": "Cancel",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Abilities",
+    "Name": "Stun",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Abilities",
+    "Name": "Disarm",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Abilities",
+    "Name": "Primary ON/OFF",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Abilities",
+    "Name": "Secondary ON/OFF",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Attack",
+    "Name": "Attack Last Target",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Attack",
+    "Name": "Attack Last",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Attack",
+    "Name": "WarMode ON/OFF",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Bandage",
+    "Name": "Self",
+    "Key": 52,
+    "Pass": true
+  },
+  {
+    "Group": "Bandage",
+    "Name": "Last",
+    "Key": 262196,
+    "Pass": true
+  },
+  {
+    "Group": "Bandage",
+    "Name": "Use Only",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Potions",
+    "Name": "Potion Agility",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Potions",
+    "Name": "Potion Cure",
+    "Key": 65603,
+    "Pass": true
+  },
+  {
+    "Group": "Potions",
+    "Name": "Potion Explosion",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Potions",
+    "Name": "Potion Heal",
+    "Key": 65607,
+    "Pass": true
+  },
+  {
+    "Group": "Potions",
+    "Name": "Potion Refresh",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Potions",
+    "Name": "Potion Strength",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Potions",
+    "Name": "Potion Nightsight",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Potions",
+    "Name": "Potion Shatter",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Potions",
+    "Name": "Potion Parasitic",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Potions",
+    "Name": "Potion Supernova",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Potions",
+    "Name": "Potion Confusion Blast",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Potions",
+    "Name": "Potion Conflagration",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Potions",
+    "Name": "Potion Invisibility",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Potions",
+    "Name": "Potion Exploding Tar",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Potions",
+    "Name": "Fear Essence",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Potions",
+    "Name": "Darkglow Poison",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Potions",
+    "Name": "Kurak Ambusher's Essence",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Potions",
+    "Name": "Potion Sakkhra Prophylaxis",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Potions",
+    "Name": "Jukari Burn Poultice",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Potions",
+    "Name": "Barako Draft Of Might",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Potions",
+    "Name": "Urali Trance Tonic",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Other",
+    "Name": "Enchanted Apple",
+    "Key": 262197,
+    "Pass": true
+  },
+  {
+    "Group": "Other",
+    "Name": "Orange Petals",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Other",
+    "Name": "Wrath Grapes",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Other",
+    "Name": "Rose Of Trinsic",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Other",
+    "Name": "Smoke Bomb",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Other",
+    "Name": "Spell Stone",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Other",
+    "Name": "Healing Stone",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Other",
+    "Name": "Pouch",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Hands",
+    "Name": "Clear Left",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Hands",
+    "Name": "Clear Right",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Hands",
+    "Name": "Equip Right",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Hands",
+    "Name": "Equip Left",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Hands",
+    "Name": "Toggle Right",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Hands",
+    "Name": "Toggle Left",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Equip Wands",
+    "Name": "Wand Clumsy",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Equip Wands",
+    "Name": "Wand Identidication",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Equip Wands",
+    "Name": "Wand Heal",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Equip Wands",
+    "Name": "Wand Feebleming",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Equip Wands",
+    "Name": "Wand Weakness",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Equip Wands",
+    "Name": "Wand Magic Arrow",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Equip Wands",
+    "Name": "Wand Harm",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Equip Wands",
+    "Name": "Wand Fireball",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Equip Wands",
+    "Name": "Wand Greater Heal",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Equip Wands",
+    "Name": "Wand Lightning",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Equip Wands",
+    "Name": "Wand Mana Drain",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Skills",
+    "Name": "Last Used",
+    "Key": 90,
+    "Pass": true
+  },
+  {
+    "Group": "Skills",
+    "Name": "Animal Lore",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Skills",
+    "Name": "Item ID",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Skills",
+    "Name": "Arms Lore",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Skills",
+    "Name": "Begging",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Skills",
+    "Name": "Peacemaking",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Skills",
+    "Name": "Cartography",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Skills",
+    "Name": "Detect Hidden",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Skills",
+    "Name": "Eval Int",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Skills",
+    "Name": "Forensics",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Skills",
+    "Name": "Hiding",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Skills",
+    "Name": "Provocation",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Skills",
+    "Name": "Spirit Speak",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Skills",
+    "Name": "Stealing",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Skills",
+    "Name": "Animal Taming",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Skills",
+    "Name": "Taste ID",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Skills",
+    "Name": "Tracking",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Skills",
+    "Name": "Meditation",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Skills",
+    "Name": "Stealth",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Skills",
+    "Name": "RemoveTrap",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Skills",
+    "Name": "Inscribe",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Skills",
+    "Name": "Anatomy",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Skills",
+    "Name": "Discordance",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Skills",
+    "Name": "Imbuing",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsAgent",
+    "Name": "Mini Heal",
+    "Key": 71,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsAgent",
+    "Name": "Big Heal",
+    "Key": 262215,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsAgent",
+    "Name": "Chivarly Heal",
+    "Key": 131143,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsAgent",
+    "Name": "Interrupt",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsAgent",
+    "Name": "Last Spell",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Clumsy",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Create Food",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Feeblemind",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Heal",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Magic Arrow",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Night Sight",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Reactive Armor",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Weaken",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Agility",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Cunning",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Cure",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Harm",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Magic Trap",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Magic Untrap",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Protection",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Strength",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Bless",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Fireball",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Magic Lock",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Poison",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Telekinesis",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Teleport",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Unlock",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Wall of Stone",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Arch Cure",
+    "Key": 262211,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Arch Protection",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Curse",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Fire Field",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Greater Heal",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Lightning",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Mana Drain",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Recall",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Blade Spirits",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Dispel Field",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Incognito",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Magic Reflection",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Mind Blast",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Paralyze",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Poison Field",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Summon Creature",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Dispel",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Energy Bolt",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Explosion",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Invisibility",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Mark",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Mass Curse",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Paralyze Field",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Reveal",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Chain Lightning",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Energy Field",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Flamestrike",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Gate Travel",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Mana Vampire",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Mass Dispel",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Meteor Swarm",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Polymorph",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Earthquake",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Energy Vortex",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Resurrection",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Summon Air Elemental",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Summon Daemon",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Summon Earth Elemental",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Summon Fire Elemental",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMagery",
+    "Name": "Summon Water Elemental",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsNecro",
+    "Name": "Animate Dead",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsNecro",
+    "Name": "Blood Oath",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsNecro",
+    "Name": "Corpse Skin",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsNecro",
+    "Name": "Curse Weapon",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsNecro",
+    "Name": "Evil Omen",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsNecro",
+    "Name": "Horrific Beast",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsNecro",
+    "Name": "Lich Form",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsNecro",
+    "Name": "Mind Rot",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsNecro",
+    "Name": "Pain Spike",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsNecro",
+    "Name": "Poison Strike",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsNecro",
+    "Name": "Strangle",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsNecro",
+    "Name": "Summon Familiar",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsNecro",
+    "Name": "Vampiric Embrace",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsNecro",
+    "Name": "Vengeful Spirit",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsNecro",
+    "Name": "Wither",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsNecro",
+    "Name": "Wraith Form",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsNecro",
+    "Name": "Exorcism",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsBushido",
+    "Name": "Honorable Execution",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsBushido",
+    "Name": "Confidence",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsBushido",
+    "Name": "Evasion",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsBushido",
+    "Name": "Counter Attack",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsBushido",
+    "Name": "Lightning Strike",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsBushido",
+    "Name": "Momentum Strike",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsNinjitsu",
+    "Name": "Focus Attack",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsNinjitsu",
+    "Name": "Death Strike",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsNinjitsu",
+    "Name": "Animal Form",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsNinjitsu",
+    "Name": "Ki Attack",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsNinjitsu",
+    "Name": "Surprise Attack",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsNinjitsu",
+    "Name": "Backstab",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsNinjitsu",
+    "Name": "Shadow jump",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsNinjitsu",
+    "Name": "Mirror Image",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsSpellweaving",
+    "Name": "Arcane Circle",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsSpellweaving",
+    "Name": "Gift Of Renewal",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsSpellweaving",
+    "Name": "Immolating Weapon",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsSpellweaving",
+    "Name": "Thunderstorm",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsSpellweaving",
+    "Name": "Natures Fury",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsSpellweaving",
+    "Name": "Summon Fey",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsSpellweaving",
+    "Name": "Summoniend",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsSpellweaving",
+    "Name": "Reaper Form",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsSpellweaving",
+    "Name": "Wildfire",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsSpellweaving",
+    "Name": "Essence Of Wind",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsSpellweaving",
+    "Name": "Dryad Allure",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsSpellweaving",
+    "Name": "Ethereal Voyage",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsSpellweaving",
+    "Name": "Word Of Death",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsSpellweaving",
+    "Name": "Gift Of Life",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsSpellweaving",
+    "Name": "Arcane Empowerment",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsSpellweaving",
+    "Name": "Attunement",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMysticism",
+    "Name": "Nether Bolt",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMysticism",
+    "Name": "Healing Stone",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMysticism",
+    "Name": "Purge Magic",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMysticism",
+    "Name": "Enchant",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMysticism",
+    "Name": "Sleep",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMysticism",
+    "Name": "Eagle Strike",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMysticism",
+    "Name": "Animated Weapon",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMysticism",
+    "Name": "Stone Form",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMysticism",
+    "Name": "Spell Trigger",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMysticism",
+    "Name": "Mass Sleep",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMysticism",
+    "Name": "Cleansing Winds",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMysticism",
+    "Name": "Bombard",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMysticism",
+    "Name": "Spell Plague",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMysticism",
+    "Name": "Hail Storm",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMysticism",
+    "Name": "Nether Cyclone",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMysticism",
+    "Name": "Rising Colossus",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsChivalry",
+    "Name": "Cleanse By Fire",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsChivalry",
+    "Name": "Close Wounds",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsChivalry",
+    "Name": "Consecrate Weapon",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsChivalry",
+    "Name": "Dispel Evil",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsChivalry",
+    "Name": "Divine Fury",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsChivalry",
+    "Name": "Enemy Of One",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsChivalry",
+    "Name": "Holy Light",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsChivalry",
+    "Name": "Noble Sacrifice",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsChivalry",
+    "Name": "Remove Curse",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsChivalry",
+    "Name": "Sacred Journey",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Inspire",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Invigorate",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Resilience",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Perseverance",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Tribulation",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Despair",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Death Ray",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Ethereal Blast",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Nether Blast",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Mystic Weapon",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Command Undead",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Mana Shield",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Summon Reaper",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Enchanted Summoning",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Anticipate Hit",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Warcry",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Intuition",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Rejuvenate",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Holy Fist",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Shadow",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "White Tiger Form",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Flaming Shot",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Playing The Odds",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Thrust",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Pierce",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Stagger",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Toughness",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Onslaught",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Focused Eye",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Elemental Fury",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Called Shot",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Saving Throw",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Shield Bash",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Bodyguard",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Heighten Senses",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Tolerance",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Injected Strike",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Potency",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Rampage",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Fists Of Fury",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Knockout",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Whispering",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Combat Training",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsMastery",
+    "Name": "Boarding",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsCleric",
+    "Name": "Angelic Faith",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsCleric",
+    "Name": "Banish Evil",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsCleric",
+    "Name": "Dampen Spirit",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsCleric",
+    "Name": "Divine Focus",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsCleric",
+    "Name": "Hammer of Faith",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsCleric",
+    "Name": "Purge",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsCleric",
+    "Name": "Restoration",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsCleric",
+    "Name": "Sacred Boon",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsCleric",
+    "Name": "Sacrifice",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsCleric",
+    "Name": "Smite",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsCleric",
+    "Name": "Touch of Life",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsCleric",
+    "Name": "Trial by Fire",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsDruid",
+    "Name": "Leaf whirlwind",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsDruid",
+    "Name": "Hollow Reed",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsDruid",
+    "Name": "Pack of Beasts",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsDruid",
+    "Name": "Spring of Life",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsDruid",
+    "Name": "Grasping Roots",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsDruid",
+    "Name": "Blend with Forest",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsDruid",
+    "Name": "Swarm of Insects",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsDruid",
+    "Name": "Volcanic Eruption",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsDruid",
+    "Name": "Summon Familiar",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsDruid",
+    "Name": "Stone Circle",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsDruid",
+    "Name": "Enchanted Grove",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsDruid",
+    "Name": "Lure Stone",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsDruid",
+    "Name": "Natures Passage",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsDruid",
+    "Name": "Mushroom Gateway",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsDruid",
+    "Name": "Restorative Soil",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "SpellsDruid",
+    "Name": "Shield of Earth",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "UseVirtue",
+    "Name": "Honor",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "UseVirtue",
+    "Name": "Sacrifice",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "UseVirtue",
+    "Name": "Compassion",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "UseVirtue",
+    "Name": "Valor",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "UseVirtue",
+    "Name": "Honesty",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "UseVirtue",
+    "Name": "Humility",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "UseVirtue",
+    "Name": "Justice",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Target",
+    "Name": "Target Self",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Target",
+    "Name": "Target Last",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Target",
+    "Name": "Target Cancel",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Target",
+    "Name": "Target Self Queued",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Target",
+    "Name": "Target Last Queued",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Target",
+    "Name": "Clear Target Queue",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Target",
+    "Name": "Clear Last Target",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Target",
+    "Name": "Clear Last and Queue",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Target",
+    "Name": "Set Last",
+    "Key": 0,
+    "Pass": true
+  },
+  {
+    "Group": "Script",
+    "Name": "Stop All",
+    "Key": 0,
+    "Pass": true
+  }
+]

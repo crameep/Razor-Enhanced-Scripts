@@ -1,0 +1,58 @@
+[05/11/2020 08:02]  System: WorldMap loading...
+[05/11/2020 08:02]  System: You have 6 of max 50 in your mailbox.
+[05/11/2020 08:02]  You see: Lord Hobo Jim [SOUL]
+[05/11/2020 08:02]  You see:  Darrell the minter
+[05/11/2020 08:02]  You see:  Skyler the banker
+[05/11/2020 08:02]  You see:  a magpie 
+[05/11/2020 08:02]  You see:  Judd the town crier
+[05/11/2020 08:02]  You see:  Vela the sorceress
+[05/11/2020 08:02]  System: 
+[05/11/2020 08:02]  You see:  Darrell the minter
+[05/11/2020 08:02]  You see:  Skyler the banker
+[05/11/2020 08:02]  You see:  a magpie 
+[05/11/2020 08:02]  You see:  Judd the town crier
+[05/11/2020 08:02]  You see:  Vela the sorceress
+[05/11/2020 08:02]  System: Loading WorldMap markers..
+[05/11/2020 08:02]  System: WorldMap markers loaded (0)
+[05/11/2020 08:02]  System: WorldMap loaded!
+[05/11/2020 08:02]  System: AUTOLOOT: Engine Start...
+[05/11/2020 08:03]  You see:  a dog 
+[05/11/2020 08:03]  You see:  a cat 
+[05/11/2020 08:03]  You see:  a rat 
+[05/11/2020 08:03]  You see:  a rat 
+[05/11/2020 08:03]  You see:  a rat 
+[05/11/2020 08:03]  Hobo Jim: Bank container has 351 items, 1292 stones
+[05/11/2020 08:03]  System: Resource Box: I added 1,075 Trash Token to my storage!
+[05/11/2020 08:05]  You see:  a rat 
+[05/11/2020 08:05]  You see:  a rat 
+[05/11/2020 08:06]  You see:  a cat 
+[05/11/2020 08:06]  You see:  a rat 
+[05/11/2020 08:06]  System: [1:06 PM]: The world is saving, please wait.
+[05/11/2020 08:06]  System: [1:06 PM]: World save complete. The entire process took 8.0 seconds.
+[05/11/2020 08:06]  System: Treasures of Tokuno have faded!
+[05/11/2020 08:06]  System: You must wait to perform another action.
+[05/11/2020 08:07]  System: You didn't receive any tokens this time.
+[05/11/2020 08:07]  You see:  a rat 
+[05/11/2020 08:07]  Hobo Jim: Bank container has 349 items, 1285 stones
+[05/11/2020 08:08]  You see:  a cat 
+[05/11/2020 08:08]  You see:  a cat 
+[05/11/2020 08:08]  System: Resource Box: I added 35,315 Gold Coin to my storage!
+[05/11/2020 08:08]  You see:  a rat 
+[05/11/2020 08:09]  You see: statue
+[05/11/2020 08:11]  System: Resource Box: I added 227 Trash Token to my storage!
+[05/11/2020 08:12]  You see:  a rat 
+[05/11/2020 08:12]  You see:  a cat 
+[05/11/2020 08:12]  You see:  a cat 
+[05/11/2020 08:12]  You see:  a cat 
+[05/11/2020 08:13]  You see:  a cat 
+[05/11/2020 08:13]  You see:  a cat 
+[05/11/2020 08:16]  You see:  a rat 
+[05/11/2020 08:16]  You see:  a rat 
+[05/11/2020 08:17]  You see:  a cat 
+[05/11/2020 08:18]  You see:  a cat 
+[05/11/2020 08:19]  You see:  a rat 
+[05/11/2020 08:19]  You see:  a rat 
+[05/11/2020 08:20]  You see:  a rat 
+[05/11/2020 08:20]  System: a virtuebane peerless is about to break loose into this dimension (60min headsup)
+[05/11/2020 08:21]  You see:  a cat 
+[05/11/2020 08:22]  You see:  a rat 

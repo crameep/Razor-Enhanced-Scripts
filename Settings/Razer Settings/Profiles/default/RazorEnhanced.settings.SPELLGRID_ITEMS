@@ -1,0 +1,502 @@
+[
+  {
+    "Group": "Abilities",
+    "Spell": "Primary",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Abilities",
+    "Spell": "Secondary",
+    "Color": "Color [AntiqueWhite]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Script",
+    "Spell": "GetPets.py",
+    "Color": "Color [AliceBlue]"
+  },
+  {
+    "Group": "Script",
+    "Spell": "ShrinkPets.py",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Magery",
+    "Spell": "Resurrection",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Chivalry",
+    "Spell": "Cleanse By Fire",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Magery",
+    "Spell": "Mark",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Magery",
+    "Spell": "Invisibility",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  },
+  {
+    "Group": "Empty",
+    "Spell": "Empty",
+    "Color": "Color [Transparent]"
+  }
+]

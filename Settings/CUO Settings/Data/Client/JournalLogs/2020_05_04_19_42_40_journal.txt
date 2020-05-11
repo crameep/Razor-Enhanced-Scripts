@@ -1,0 +1,224 @@
+[05/04/2020 19:42]  System: WorldMap loading...
+[05/04/2020 19:42]  System: You have 6 of max 50 in your mailbox.
+[05/04/2020 19:42]  You see: Lord Hobo Jim [SOUL]
+[05/04/2020 19:42]  You see:  Belina the trash collector
+[05/04/2020 19:42]  You see:  Training Elemental For Spell casting pets
+[05/04/2020 19:42]  You see:  Terry 
+[05/04/2020 19:42]  You see:  Barry 
+[05/04/2020 19:42]  You see:  Fairy 
+[05/04/2020 19:42]  You see:  Mary 
+[05/04/2020 19:42]  You see:  Harry 
+[05/04/2020 19:42]  You see:  Larry 
+[05/04/2020 19:42]  You see:  Sherry 
+[05/04/2020 19:42]  You see:  Carry  - The Parry instructor
+[05/04/2020 19:42]  You see:  Training Tier 1 
+[05/04/2020 19:42]  You see:  Training Tier 2 
+[05/04/2020 19:42]  You see:  Training Tier 0 
+[05/04/2020 19:42]  You see:  Training Elemental 
+[05/04/2020 19:42]  You see:  a Heal Training Dummy 
+[05/04/2020 19:42]  You see:  a Vet Training Ferret 
+[05/04/2020 19:42]  You see:  Training Tier 4 (Also Dmg tester, 70 in all resists)
+[05/04/2020 19:42]  You see:  Drak The Gargoyle Mystic [Start Imbuing Training]
+[05/04/2020 19:42]  You see:  Solana the vet
+[05/04/2020 19:42]  You see:  Gregory the peasant
+[05/04/2020 19:42]  You see:  Frederica the peasant
+[05/04/2020 19:42]  You see:   (Newbie dungeon below!)
+[05/04/2020 19:42]  System: 
+[05/04/2020 19:42]  You see:  Animated Weapon 
+[05/04/2020 19:42]  You see:  Animated Weapon 
+[05/04/2020 19:42]  You see:  Animated Weapon 
+[05/04/2020 19:42]  You see:  Animated Weapon 
+[05/04/2020 19:42]  You see:  Belina the trash collector
+[05/04/2020 19:42]  You see:  Training Elemental For Spell casting pets
+[05/04/2020 19:42]  You see:  Terry 
+[05/04/2020 19:42]  You see:  Barry 
+[05/04/2020 19:42]  You see:  Fairy 
+[05/04/2020 19:42]  You see:  Mary 
+[05/04/2020 19:42]  You see:  Harry 
+[05/04/2020 19:42]  You see:  Larry 
+[05/04/2020 19:42]  You see:  Sherry 
+[05/04/2020 19:42]  You see:  Carry  - The Parry instructor
+[05/04/2020 19:42]  You see:  Training Tier 1 
+[05/04/2020 19:42]  You see:  Training Tier 2 
+[05/04/2020 19:42]  You see:  Training Tier 0 
+[05/04/2020 19:42]  You see:  Training Elemental 
+[05/04/2020 19:42]  You see:  a Heal Training Dummy 
+[05/04/2020 19:42]  You see:  a Vet Training Ferret 
+[05/04/2020 19:42]  You see:  Training Tier 4 (Also Dmg tester, 70 in all resists)
+[05/04/2020 19:42]  You see:  Drak The Gargoyle Mystic [Start Imbuing Training]
+[05/04/2020 19:42]  You see:  Solana the vet
+[05/04/2020 19:42]  You see:  Animated Weapon 
+[05/04/2020 19:42]  You see:  Animated Weapon 
+[05/04/2020 19:42]  You see:  Animated Weapon 
+[05/04/2020 19:42]  You see:  Animated Weapon 
+[05/04/2020 19:42]  You see:  Gregory the peasant
+[05/04/2020 19:42]  You see:  Frederica the peasant
+[05/04/2020 19:42]  You see:   (Newbie dungeon below!)
+[05/04/2020 19:42]  System: Loading WorldMap markers..
+[05/04/2020 19:42]  System: WorldMap markers loaded (0)
+[05/04/2020 19:42]  System: WorldMap loaded!
+[05/04/2020 19:42]  System: AUTOLOOT: Engine Start...
+[05/04/2020 19:42]  You see: Lord Hobo Jim [SOUL]
+[05/04/2020 19:42]  You see: Lord Hobo Jim [SOUL]
+[05/04/2020 19:44]  You see:  Gregory the peasant
+[05/04/2020 19:44]  You see: (blessed)
+[05/04/2020 19:44]  You see: book of ninjitsu
+[05/04/2020 19:44]  You see: 8 Spells
+[05/04/2020 19:44]  System: Script <Grab.py> started.
+[05/04/2020 19:44]  System: You grabbed 2 Trash Tokens
+[05/04/2020 19:44]  System: Script <Grab.py> stopped.
+[05/04/2020 19:44]  You see: Lord Hobo Jim [SOUL]
+[05/04/2020 19:44]  You see: Lord Hobo Jim [SOUL]
+[05/04/2020 19:44]  You see: Lord Hobo Jim [SOUL]
+[05/04/2020 19:45]  System: Script <Grab.py> started.
+[05/04/2020 19:45]  System: You couldn't find anything to grab
+[05/04/2020 19:45]  System: Script <Grab.py> stopped.
+[05/04/2020 19:45]  System: You must wait for 4.94 seconds.
+[05/04/2020 19:45]  System: Script <Grab.py> started.
+[05/04/2020 19:45]  System: Script <Grab.py> stopped.
+[05/04/2020 19:45]  System: Script <Grab.py> started.
+[05/04/2020 19:45]  System: You couldn't find anything to grab
+[05/04/2020 19:45]  System: Script <Grab.py> stopped.
+[05/04/2020 19:45]  System: Script <Grab.py> started.
+[05/04/2020 19:45]  System: You must wait for 4.44 seconds.
+[05/04/2020 19:45]  System: Script <Grab.py> stopped.
+[05/04/2020 19:45]  System: Your strength has changed by 1.  It is now 288
+[05/04/2020 19:45]  System: Your intelligence has changed by -1.  It is now 113
+[05/04/2020 19:45]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/04/2020 19:45]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/04/2020 19:45]  You see: cobblestones
+[05/04/2020 19:45]  System: Your strength has changed by 1.  It is now 289
+[05/04/2020 19:45]  System: Your intelligence has changed by -1.  It is now 112
+[05/04/2020 19:46]  You see: cobblestones
+[05/04/2020 19:47]  System: Your strength has changed by 1.  It is now 290
+[05/04/2020 19:47]  System: Your intelligence has changed by -1.  It is now 111
+[05/04/2020 19:47]  System: Your strength has changed by 1.  It is now 291
+[05/04/2020 19:47]  System: Your intelligence has changed by -1.  It is now 110
+[05/04/2020 19:48]  You see:  Frederica the peasant
+[05/04/2020 19:49]  System: Your strength has changed by 1.  It is now 292
+[05/04/2020 19:49]  System: Your intelligence has changed by -1.  It is now 109
+[05/04/2020 19:50]  System: Your strength has changed by 1.  It is now 293
+[05/04/2020 19:50]  System: Your intelligence has changed by -1.  It is now 108
+[05/04/2020 19:51]  System: Your strength has changed by 1.  It is now 294
+[05/04/2020 19:51]  System: Your intelligence has changed by -1.  It is now 107
+[05/04/2020 19:51]  You see: cobblestones
+[05/04/2020 19:51]  You see:  Buns (Young)
+[05/04/2020 19:51]  You see:  Buns (Young)
+[05/04/2020 19:51]  You see:  Buns (Young)
+[05/04/2020 19:51]  You see:  Buns (Young)
+[05/04/2020 19:51]  : Step into the red or green zone to get lowered hp or poiosoned
+[05/04/2020 19:52]  You see: cobblestones
+[05/04/2020 19:53]  System: Your strength has changed by 1.  It is now 295
+[05/04/2020 19:53]  System: Your intelligence has changed by -1.  It is now 106
+[05/04/2020 19:53]  You see:  Belina the trash collector
+[05/04/2020 19:53]  You see:  a Taming Training Target 
+[05/04/2020 19:53]  You see:  a Taming Training Target 
+[05/04/2020 19:53]  You see:  a Taming Training Target 
+[05/04/2020 19:53]  You see:  a Taming Training Target 
+[05/04/2020 19:53]  You see:  a Taming Training Target 
+[05/04/2020 19:53]  You see:  a Taming Training Target 
+[05/04/2020 19:53]  You see:  a Taming Training Target 
+[05/04/2020 19:53]  You see:  a Taming Training Target 
+[05/04/2020 19:53]  You see:  a Taming Training Target 
+[05/04/2020 19:53]  You see:  a Taming Training Target 
+[05/04/2020 19:53]  You see:  a Taming Training Target 
+[05/04/2020 19:53]  You see:  Arsenio the banker
+[05/04/2020 19:53]  You see:  Hassan the guardian
+[05/04/2020 19:53]  You see:  Cyrus the town crier
+[05/04/2020 19:53]  You see:  Gavrie the banker
+[05/04/2020 19:53]  You see:  Xenia the provisioner
+[05/04/2020 19:53]  You see:  Kliftin the tailor
+[05/04/2020 19:53]  You see:  Candide the guardian
+[05/04/2020 19:53]  You see:  Vevila the scribe
+[05/04/2020 19:53]  You see:  Vrinda the bard
+[05/04/2020 19:53]  You see:  Angelica the animal trainer
+[05/04/2020 19:53]  You see:  Ishimura the Gargoyle Mystic
+[05/04/2020 19:53]  You see:  a cow 
+[05/04/2020 19:53]  You see:  a giant beetle 
+[05/04/2020 19:53]  You see:  a bull 
+[05/04/2020 19:53]  You see:  a polar bear 
+[05/04/2020 19:53]  You see:  Anemone the carpet weaver
+[05/04/2020 19:53]  You see:  a polar bear 
+[05/04/2020 19:53]  You see:  a bull 
+[05/04/2020 19:53]  You see:  a cow 
+[05/04/2020 19:53]  You see:  Cassia the tinker
+[05/04/2020 19:53]  You see:  a bull 
+[05/04/2020 19:53]  You see:  a cow 
+[05/04/2020 19:53]  You see:  a polar bear 
+[05/04/2020 19:53]  You see:  Dusty the mage
+[05/04/2020 19:53]  System: You have left the town of Insula
+[05/04/2020 19:53]  System: You have been teleported to: Luna - Bank
+[05/04/2020 19:53]  You see:   The Prov
+[05/04/2020 19:53]  You see:   the tinker
+[05/04/2020 19:53]  You see:   the alchemist
+[05/04/2020 19:53]  You see:   the Holy Mage
+[05/04/2020 19:53]  You see:  a glass city kitsune 
+[05/04/2020 19:53]  You see:  Deacon the brewer
+[05/04/2020 19:53]  You see:  Lord Blackthorne 
+[05/04/2020 19:53]  You see: Lord The Animal [CoF]
+[05/04/2020 19:53]  You see:   the Keeper of Chivalry
+[05/04/2020 19:53]  You see:   the Keeper of Chivalry
+[05/04/2020 19:53]  You see:  Sherman the bounty officer
+[05/04/2020 19:53]  You see:  a rabbit 
+[05/04/2020 19:53]  System: WorldMap loaded!
+[05/04/2020 19:53]  System: You have entered Luna Bank
+[05/04/2020 19:53]  You see: Lord Seti [AoV]
+[05/04/2020 19:53]  You see:   the hairstylist
+[05/04/2020 19:53]  You see:   the town crier
+[05/04/2020 19:53]  You see:   
+[05/04/2020 19:53]  You see: Lord blackmyst [WSF]
+[05/04/2020 19:55]  System: You couldn't find anything to grab
+[05/04/2020 19:55]  System: Script <Grab.py> started.
+[05/04/2020 19:55]  System: Script <Grab.py> stopped.
+[05/04/2020 19:55]  System: You must wait for 4.22 seconds.
+[05/04/2020 19:55]  System: Script <Grab.py> started.
+[05/04/2020 19:55]  System: Script <Grab.py> stopped.
+[05/04/2020 19:55]  System: Script <Grab.py> started.
+[05/04/2020 19:55]  System: You must wait for 3.77 seconds.
+[05/04/2020 19:55]  System: You must wait for 3.64 seconds.
+[05/04/2020 19:55]  System: Script <Grab.py> stopped.
+[05/04/2020 19:55]  System: You couldn't find anything to grab
+[05/04/2020 19:55]  System: Script <Grab.py> started.
+[05/04/2020 19:55]  System: Script <Grab.py> stopped.
+[05/04/2020 19:55]  System: Script <Grab.py> started.
+[05/04/2020 19:55]  System: You must wait for 4.64 seconds.
+[05/04/2020 19:55]  System: You must wait for 4.59 seconds.
+[05/04/2020 19:55]  System: Script <Grab.py> stopped.
+[05/04/2020 19:55]  System: Script <Grab.py> started.
+[05/04/2020 19:55]  System: You must wait for 4.3 seconds.
+[05/04/2020 19:55]  System: You must wait for 4.25 seconds.
+[05/04/2020 19:55]  System: Script <Grab.py> stopped.
+[05/04/2020 19:55]  System: Script <Grab.py> started.
+[05/04/2020 19:55]  System: You must wait for 3.95 seconds.
+[05/04/2020 19:55]  System: You must wait for 3.92 seconds.
+[05/04/2020 19:55]  System: Script <Grab.py> stopped.
+[05/04/2020 19:55]  System: Script <Grab.py> started.
+[05/04/2020 19:55]  System: You must wait for 3.66 seconds.
+[05/04/2020 19:55]  System: You must wait for 3.61 seconds.
+[05/04/2020 19:55]  System: Script <Grab.py> stopped.
+[05/04/2020 19:56]  Hobo Jim: bank
+[05/04/2020 19:56]  Hobo Jim: Bank container has 251 items, 1167 stones
+[05/04/2020 19:57]  System: Resource Box: I added 2 Trash Token to my storage!
+[05/04/2020 19:57]  You see: (blessed)
+[05/04/2020 19:57]  You see: Resource Box
+[05/04/2020 19:58]  Hobo Jim: bank
+[05/04/2020 19:58]  Hobo Jim: Bank container has 256 items, 1178 stones
+[05/04/2020 19:58]  System: BANDAGE HEAL: Engine Start...
+[05/04/2020 19:59]  Hobo Jim: Vas An Nox [Arch Cure]
+[05/04/2020 19:59]  You see: wooden door
+[05/04/2020 19:59]  You see:  Empati [HB]
+[05/04/2020 20:00]  You see: Lord handikap [HB]
+[05/04/2020 20:00]  handikap: Rel Sanct [Bless]
+[05/04/2020 20:00]  You see:  a pandorian tiger 
+[05/04/2020 20:00]  System: Undress Container set to: bag (0E76) (0x41397A0A)
+[05/04/2020 20:00]  handikap: all stay
+[05/04/2020 20:00]  Hobo Jim: nice
+[05/04/2020 20:00]  handikap: üüchc"
+[05/04/2020 20:00]  You see:  Buns (Young)
+[05/04/2020 20:00]  handikap: bank
+[05/04/2020 20:00]  You see:  a pandorian tiger 
+[05/04/2020 20:00]  Hobo Jim: hey my clients goofed no context menus
+[05/04/2020 20:00]  Hobo Jim: oh crap u got two?
+[05/04/2020 20:01]  handikap: ""
+[05/04/2020 20:01]  handikap: mine is ok
+[05/04/2020 20:01]  Hobo Jim: i suddenly feel inadequate

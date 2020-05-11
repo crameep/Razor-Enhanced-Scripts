@@ -1,0 +1,30 @@
+{
+  "username": "crameep",
+  "password": "1+2F2C233B313D621F",
+  "ip": "play.pandorauo.com",
+  "port": 2593,
+  "ultimaonlinedirectory": "C:\\Program Files (x86)\\Electronic Arts\\Ultima Online Classic",
+  "clientversion": "7.0.85.15",
+  "lastcharactername": "Hobo Jim",
+  "cliloc": "Cliloc.enu",
+  "lastservernum": 1,
+  "fps": 60,
+  "window_position": "0,0",
+  "window_size": "1920,1017",
+  "is_win_maximized": true,
+  "profiler": true,
+  "saveaccount": true,
+  "autologin": true,
+  "reconnect": false,
+  "reconnect_time": 0,
+  "login_music": true,
+  "login_music_volume": 70,
+  "shard_type": 0,
+  "fixed_time_step": true,
+  "run_mouse_in_separate_thread": true,
+  "use_verdata": false,
+  "encryption": 0,
+  "plugins": [
+    "C:\\Users\\crame\\Desktop\\UOTools\\Razor-Enhanced - Live\\RazorEnhanced.exe"
+  ]
+}

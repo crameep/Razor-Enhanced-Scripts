@@ -1,0 +1,102 @@
+[05/04/2020 19:28]  System: WorldMap loading...
+[05/04/2020 19:28]  System: Some of your Royal City Loyalty has decayed.
+[05/04/2020 19:28]  System: You have 6 of max 50 in your mailbox.
+[05/04/2020 19:28]  You see: Lord Hobo Jim [SOUL]
+[05/04/2020 19:28]  You see:  Training Elemental For Spell casting pets
+[05/04/2020 19:28]  You see:  Belina the trash collector
+[05/04/2020 19:28]  You see:  Terry 
+[05/04/2020 19:28]  You see:  Barry 
+[05/04/2020 19:28]  You see:  Fairy 
+[05/04/2020 19:28]  You see:  Mary 
+[05/04/2020 19:28]  You see:  Harry 
+[05/04/2020 19:28]  You see:  Larry 
+[05/04/2020 19:28]  You see:  Sherry 
+[05/04/2020 19:28]  You see:  Carry  - The Parry instructor
+[05/04/2020 19:28]  You see:  Training Tier 1 
+[05/04/2020 19:28]  You see:  Training Tier 2 
+[05/04/2020 19:28]  You see:  Training Tier 0 
+[05/04/2020 19:28]  You see:  Training Elemental 
+[05/04/2020 19:28]  You see:  a Heal Training Dummy 
+[05/04/2020 19:28]  You see:  a Vet Training Ferret 
+[05/04/2020 19:28]  You see:  Training Tier 4 (Also Dmg tester, 70 in all resists)
+[05/04/2020 19:28]  You see:  Drak The Gargoyle Mystic [Start Imbuing Training]
+[05/04/2020 19:28]  You see:  Solana the vet
+[05/04/2020 19:28]  You see:  Frederica the peasant
+[05/04/2020 19:28]  System: 
+[05/04/2020 19:28]  You see:  Training Elemental For Spell casting pets
+[05/04/2020 19:28]  You see:  Belina the trash collector
+[05/04/2020 19:28]  You see:  Terry 
+[05/04/2020 19:28]  You see:  Barry 
+[05/04/2020 19:28]  You see:  Fairy 
+[05/04/2020 19:28]  You see:  Mary 
+[05/04/2020 19:28]  You see:  Harry 
+[05/04/2020 19:28]  You see:  Larry 
+[05/04/2020 19:28]  You see:  Sherry 
+[05/04/2020 19:28]  You see:  Carry  - The Parry instructor
+[05/04/2020 19:28]  You see:  Training Tier 1 
+[05/04/2020 19:28]  You see:  Training Tier 2 
+[05/04/2020 19:28]  You see:  Training Tier 0 
+[05/04/2020 19:28]  You see:  Training Elemental 
+[05/04/2020 19:28]  You see:  a Heal Training Dummy 
+[05/04/2020 19:28]  You see:  a Vet Training Ferret 
+[05/04/2020 19:28]  You see:  Training Tier 4 (Also Dmg tester, 70 in all resists)
+[05/04/2020 19:28]  You see:  Drak The Gargoyle Mystic [Start Imbuing Training]
+[05/04/2020 19:28]  You see:  Solana the vet
+[05/04/2020 19:28]  You see:  Frederica the peasant
+[05/04/2020 19:28]  System: Loading WorldMap markers..
+[05/04/2020 19:28]  System: WorldMap markers loaded (0)
+[05/04/2020 19:28]  System: WorldMap loaded!
+[05/04/2020 19:28]  System: AUTOLOOT: Engine Start...
+[05/04/2020 19:29]  Hobo Jim: Divinum Furis [Divine Fury]
+[05/04/2020 19:29]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/04/2020 19:31]  You see: Lord Hobo Jim [SOUL]
+[05/04/2020 19:31]  You see: Lord Hobo Jim [SOUL]
+[05/04/2020 19:31]  You see: Lord Hobo Jim [SOUL]
+[05/04/2020 19:31]  You see: Lord Hobo Jim [SOUL]
+[05/04/2020 19:31]  You see: Lord Hobo Jim [SOUL]
+[05/04/2020 19:31]  You see: Lord Hobo Jim [SOUL]
+[05/04/2020 19:31]  You see:  Belina the trash collector
+[05/04/2020 19:32]  You see: a vintage shroud
+[05/04/2020 19:32]  : 
+[05/04/2020 19:32]  :  [Blessed]
+[05/04/2020 19:32]  You see: a vintage shroud
+[05/04/2020 19:32]  <basefont Color=#EEE8AA><big> A Vintage Shroud</big><basefont Color=#FFFFFF>: 
+[05/04/2020 19:32]  <basefont Color=#EEE8AA><big> A Vintage Shroud</big><basefont Color=#FFFFFF>:  [Blessed]
+[05/04/2020 19:32]  You see:   (Newbie dungeon below!)
+[05/04/2020 19:32]  System: Your strength has changed by 1.  It is now 283
+[05/04/2020 19:32]  System: Your dexterity has changed by -1.  It is now 219
+[05/04/2020 19:32]  System: Your strength has changed by 1.  It is now 284
+[05/04/2020 19:32]  System: Your dexterity has changed by -1.  It is now 218
+[05/04/2020 19:33]  System: A virtuebane peerless is about to break loose into this dimension (30 min headsup)
+[05/04/2020 19:34]  Hobo Jim: Divinum Furis [Divine Fury]
+[05/04/2020 19:34]  Hobo Jim: Forul Solum [Enemy of One]
+[05/04/2020 19:34]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/04/2020 19:34]  Hobo Jim: Divinum Furis [Divine Fury]
+[05/04/2020 19:34]  Hobo Jim: Divinum Furis [Divine Fury]
+[05/04/2020 19:35]  Hobo Jim: Divinum Furis [Divine Fury]
+[05/04/2020 19:35]  Hobo Jim: Divinum Furis [Divine Fury]
+[05/04/2020 19:35]  System: Your strength has changed by 1.  It is now 285
+[05/04/2020 19:35]  System: Your dexterity has changed by -1.  It is now 217
+[05/04/2020 19:36]  You see: Lord Hobo Jim [SOUL]
+[05/04/2020 19:36]  System: Your strength has changed by 1.  It is now 286
+[05/04/2020 19:36]  You see:  Belina the trash collector
+[05/04/2020 19:37]  System: Your strength has changed by 1.  It is now 287
+[05/04/2020 19:38]  System: A champion has awoken at (5281, 3368, 36) in Felucca.
+[05/04/2020 19:39]  You see:  Frederica the peasant
+[05/04/2020 19:39]  You see: (blessed)
+[05/04/2020 19:39]  You see: Mysticism Spellbook
+[05/04/2020 19:39]  You see: 16 Spells
+[05/04/2020 19:40]  Hobo Jim: In Jux Por Ylem [Animated Weapon]
+[05/04/2020 19:40]  You see:  Animated Weapon 
+[05/04/2020 19:40]  Hobo Jim: In Jux Por Ylem [Animated Weapon]
+[05/04/2020 19:40]  You see:  Animated Weapon 
+[05/04/2020 19:40]  Hobo Jim: In Jux Por Ylem [Animated Weapon]
+[05/04/2020 19:40]  System: You are already casting a spell.
+[05/04/2020 19:40]  You see:  Animated Weapon 
+[05/04/2020 19:40]  System: You have not yet recovered from casting a spell.
+[05/04/2020 19:40]  Hobo Jim: In Jux Por Ylem [Animated Weapon]
+[05/04/2020 19:40]  Hobo Jim: All Kill
+[05/04/2020 19:40]  System: You are already casting a spell. [2]
+[05/04/2020 19:40]  You see:  Animated Weapon 
+[05/04/2020 19:40]  Hobo Jim: All Kill
+[05/04/2020 19:42]  You see:   (Newbie dungeon below!)

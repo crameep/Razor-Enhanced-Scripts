@@ -1,0 +1,9 @@
+[05/03/2020 15:57]  System: WorldMap loading...
+[05/03/2020 15:57]  System: You have 5 of max 50 in your mailbox.
+[05/03/2020 15:57]  System: Autoloot: Invalid Bag, Switch to backpack
+[05/03/2020 15:57]  You see: Lord Hobo Jim [SOUL]
+[05/03/2020 15:57]  System: 
+[05/03/2020 15:57]  System: Loading WorldMap markers..
+[05/03/2020 15:57]  System: WorldMap loaded!
+[05/03/2020 15:57]  System: WorldMap markers loaded (0)
+[05/03/2020 15:57]  System: AUTOLOOT: Engine Start...

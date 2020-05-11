@@ -1,0 +1,182 @@
+[
+  {
+    "Filename": "GetPets.py",
+    "Flag": "System.Drawing.Bitmap",
+    "Status": "Stopped",
+    "Loop": false,
+    "Wait": false,
+    "HotKey": 0,
+    "HotKeyPass": false,
+    "AutoStart": false
+  },
+  {
+    "Filename": "ShrinkPets.py",
+    "Flag": "System.Drawing.Bitmap",
+    "Status": "Stopped",
+    "Loop": false,
+    "Wait": false,
+    "HotKey": 0,
+    "HotKeyPass": false,
+    "AutoStart": false
+  },
+  {
+    "Filename": "pvm_pvp_attack_simple.py",
+    "Flag": "System.Drawing.Bitmap",
+    "Status": "Stopped",
+    "Loop": true,
+    "Wait": false,
+    "HotKey": 9,
+    "HotKeyPass": false,
+    "AutoStart": false
+  },
+  {
+    "Filename": "pvm_pvp_healPets.py",
+    "Flag": "System.Drawing.Bitmap",
+    "Status": "Stopped",
+    "Loop": false,
+    "Wait": false,
+    "HotKey": 0,
+    "HotKeyPass": false,
+    "AutoStart": false
+  },
+  {
+    "Filename": "player_say_bank.py",
+    "Flag": "System.Drawing.Bitmap",
+    "Status": "Stopped",
+    "Loop": false,
+    "Wait": false,
+    "HotKey": 0,
+    "HotKeyPass": false,
+    "AutoStart": false
+  },
+  {
+    "Filename": "Grab.py",
+    "Flag": "System.Drawing.Bitmap",
+    "Status": "Stopped",
+    "Loop": false,
+    "Wait": false,
+    "HotKey": 501,
+    "HotKeyPass": false,
+    "AutoStart": false
+  },
+  {
+    "Filename": "skill_Mining.py",
+    "Flag": "System.Drawing.Bitmap",
+    "Status": "Stopped",
+    "Loop": false,
+    "Wait": false,
+    "HotKey": 0,
+    "HotKeyPass": false,
+    "AutoStart": false
+  },
+  {
+    "Filename": "BODSorter.py",
+    "Flag": "System.Drawing.Bitmap",
+    "Status": "Stopped",
+    "Loop": false,
+    "Wait": false,
+    "HotKey": 0,
+    "HotKeyPass": false,
+    "AutoStart": false
+  },
+  {
+    "Filename": "BODCollector.py",
+    "Flag": "System.Drawing.Bitmap",
+    "Status": "Stopped",
+    "Loop": false,
+    "Wait": false,
+    "HotKey": 0,
+    "HotKeyPass": false,
+    "AutoStart": false
+  },
+  {
+    "Filename": "BODFiller.py",
+    "Flag": "System.Drawing.Bitmap",
+    "Status": "Stopped",
+    "Loop": false,
+    "Wait": false,
+    "HotKey": 0,
+    "HotKeyPass": false,
+    "AutoStart": false
+  },
+  {
+    "Filename": "DropSandAndTreasure.py",
+    "Flag": "System.Drawing.Bitmap",
+    "Status": "Stopped",
+    "Loop": false,
+    "Wait": false,
+    "HotKey": 0,
+    "HotKeyPass": false,
+    "AutoStart": false
+  },
+  {
+    "Filename": "Use Unravels.py",
+    "Flag": "System.Drawing.Bitmap",
+    "Status": "Stopped",
+    "Loop": false,
+    "Wait": false,
+    "HotKey": 0,
+    "HotKeyPass": false,
+    "AutoStart": false
+  },
+  {
+    "Filename": "HealKanga.py",
+    "Flag": "System.Drawing.Bitmap",
+    "Status": "Stopped",
+    "Loop": false,
+    "Wait": false,
+    "HotKey": 0,
+    "HotKeyPass": false,
+    "AutoStart": false
+  },
+  {
+    "Filename": "PetHealToggle.py",
+    "Flag": "System.Drawing.Bitmap",
+    "Status": "Stopped",
+    "Loop": false,
+    "Wait": false,
+    "HotKey": 72,
+    "HotKeyPass": false,
+    "AutoStart": false
+  },
+  {
+    "Filename": "PetHealer.py",
+    "Flag": "System.Drawing.Bitmap",
+    "Status": "Stopped",
+    "Loop": false,
+    "Wait": false,
+    "HotKey": 74,
+    "HotKeyPass": false,
+    "AutoStart": false
+  },
+  {
+    "Filename": "Chiv.py",
+    "Flag": "System.Drawing.Bitmap",
+    "Status": "Stopped",
+    "Loop": true,
+    "Wait": false,
+    "HotKey": 192,
+    "HotKeyPass": true,
+    "AutoStart": false
+  },
+  {
+    "Filename": "PrimaryAbility.py",
+    "Flag": "System.Drawing.Bitmap",
+    "Status": "Stopped",
+    "Loop": false,
+    "Wait": false,
+    "HotKey": 49,
+    "HotKeyPass": false,
+    "AutoStart": false
+  },
+  {
+    "Filename": "recall_luna.py",
+    "Flag": "System.Drawing.Bitmap",
+    "Status": "Stopped",
+    "Loop": false,
+    "Wait": false,
+    "HotKey": 0,
+    "HotKeyPass": false,
+    "AutoStart": false
+  }
+]

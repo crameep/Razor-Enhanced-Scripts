@@ -1,0 +1,1458 @@
+[05/09/2020 08:56]  System: WorldMap loading...
+[05/09/2020 08:56]  System: You have 6 of max 50 in your mailbox.
+[05/09/2020 08:56]  You see: Lord Hobo Jim [SOUL]
+[05/09/2020 08:56]  System: 
+[05/09/2020 08:56]  System: Loading WorldMap markers..
+[05/09/2020 08:56]  System: WorldMap loaded!
+[05/09/2020 08:56]  System: WorldMap markers loaded (0)
+[05/09/2020 08:56]  System: AUTOLOOT: Engine Start...
+[05/09/2020 09:40]  System: The Tookenador Bot: Like my new vault, or this nifty new grab bag?” Then all you gotta do is click some buttons and vote!!! Not only will it help you get some new gear or items but it will bring more people to our server! Let’s make Pandora famous!!! Every vote matters!
+[05/09/2020 09:40]  System: A champion has awoken at (473, 2829, -12) in Ter Mur.
+[05/09/2020 09:46]  System: Treasures of Tokuno have charged!
+[05/09/2020 09:54]  System: [2:54 PM]: The world is saving, please wait.
+[05/09/2020 09:54]  System: [2:54 PM]: World save complete. The entire process took 5.7 seconds.
+[05/09/2020 10:15]  System: A champion has awoken at (473, 2829, -12) in Ter Mur.
+[05/09/2020 10:21]  System: <Pandora> Ilcid: does the item properties tooltip not always show up for others?
+[05/09/2020 10:25]  System: A 1 vs 1 PvP Tournament is starting up in 5 minutes. Type [dailypvp To Join.
+[05/09/2020 10:26]  System: A 1 vs 1 PvP Tournament Style Elimination is starting up in 4 minutes.  Type [DailyPvp To Join. - It's completely safe.
+[05/09/2020 10:27]  System: A 1 vs 1 PvP Tournament Style Elimination is starting up in 3 minutes.  Type [DailyPvp To Join. - It's completely safe.
+[05/09/2020 10:27]  System: <Pandora> Seti: come to dailypvp.. get free pvp coins.. ill buy from you!!
+[05/09/2020 10:28]  System: A 1 vs 1 PvP Tournament Style Elimination is starting up in 2 minutes.  Type [DailyPvp To Join. - It's completely safe.
+[05/09/2020 10:29]  System: <Pandora> Seti: come on ppl.. you dont die you dont lose naything.. you get free coins just to show up!!
+[05/09/2020 10:29]  System: <Pandora> Seti: type [dailypvp
+[05/09/2020 10:29]  System: <Pandora> Seti: type [dailypvp
+[05/09/2020 10:29]  System: A 1 vs 1 PvP Tournament Style Elimination is starting up in 1 minutes.  Type [DailyPvp To Join. - It's completely safe.
+[05/09/2020 10:29]  System: <Pandora> Seti: come to dailypvp.. get free pvp coins.. ill buy from you!!
+[05/09/2020 10:31]  System: Seti has won the pvp tournament
+[05/09/2020 10:36]  System: A champion has awoken at (5259, 837, 46) in Felucca.
+[05/09/2020 10:38]  System: Treasures of Tokuno have faded!
+[05/09/2020 11:19]  System: a virtuebane peerless is about to break loose into this dimension (60min headsup)
+[05/09/2020 11:21]  System: Treasures of Tokuno have charged!
+[05/09/2020 11:28]  System: A champion has awoken at (473, 2829, -12) in Ter Mur.
+[05/09/2020 11:49]  System: A virtuebane peerless is about to break loose into this dimension (30 min headsup)
+[05/09/2020 11:55]  System: [4:55 PM]: The world is saving, please wait.
+[05/09/2020 11:55]  System: [4:55 PM]: World save complete. The entire process took 8.5 seconds.
+[05/09/2020 11:55]  System: [4:55 PM]: The world is optimizing, please wait.
+[05/09/2020 11:55]  System: [4:55 PM]: World optimization complete.  The entire process took 0.6 seconds.
+[05/09/2020 11:57]  System: A champion has awoken at (473, 2829, -12) in Ter Mur.
+[05/09/2020 12:19]  System: A Virtuebane have spawned in Buccaneer's Den (Felucca)
+[05/09/2020 12:45]  System: Treasures of Tokuno have faded!
+[05/09/2020 13:50]  System: Treasures of Tokuno have charged!
+[05/09/2020 13:55]  System: [6:55 PM]: The world is saving, please wait.
+[05/09/2020 13:55]  System: You have lost some Honor.
+[05/09/2020 13:55]  System: [6:55 PM]: World save complete. The entire process took 5.8 seconds.
+[05/09/2020 14:48]  System: Treasures of Tokuno have faded!
+[05/09/2020 15:00]  System: Ice Isle is preparing!
+[05/09/2020 15:01]  System: Ice Isle will start in 2 minutes! Use [Battles to join!
+[05/09/2020 15:02]  System: Ice Isle will start in 1 minute! Use [Battles to join!
+[05/09/2020 15:03]  System: Ice Isle has begun!
+[05/09/2020 15:03]  System: Ice Isle has ended!
+[05/09/2020 15:52]  System: Treasures of Tokuno have charged!
+[05/09/2020 15:52]  System: A champion has awoken at (5549, 2640, 0) in Felucca.
+[05/09/2020 15:56]  System: [8:56 PM]: The world is saving, please wait.
+[05/09/2020 15:56]  System: [8:56 PM]: World save complete. The entire process took 5.8 seconds.
+[05/09/2020 16:17]  System: A Noll Bot (Yes its evil): Remember to vote everyday! ( with [Vote ).. Also win pandora chest keys in the vote message competition on discord! (Join us there, if you havnt allready!)
+[05/09/2020 16:25]  System: A 1 vs 1 PvP Tournament is starting up in 5 minutes. Type [dailypvp To Join.
+[05/09/2020 16:26]  System: A 1 vs 1 PvP Tournament Style Elimination is starting up in 4 minutes.  Type [DailyPvp To Join. - It's completely safe.
+[05/09/2020 16:27]  System: A 1 vs 1 PvP Tournament Style Elimination is starting up in 3 minutes.  Type [DailyPvp To Join. - It's completely safe.
+[05/09/2020 16:28]  System: A 1 vs 1 PvP Tournament Style Elimination is starting up in 2 minutes.  Type [DailyPvp To Join. - It's completely safe.
+[05/09/2020 16:29]  System: A 1 vs 1 PvP Tournament Style Elimination is starting up in 1 minutes.  Type [DailyPvp To Join. - It's completely safe.
+[05/09/2020 16:31]  System: handikap has won the pvp tournament
+[05/09/2020 16:44]  System: Treasures of Tokuno have faded!
+[05/09/2020 16:44]  System: A champion has awoken at (473, 2829, -12) in Ter Mur.
+[05/09/2020 17:18]  System: A champion has awoken at (5511, 2360, 25) in Felucca.
+[05/09/2020 17:20]  System: a virtuebane peerless is about to break loose into this dimension (60min headsup)
+[05/09/2020 17:50]  System: A virtuebane peerless is about to break loose into this dimension (30 min headsup)
+[05/09/2020 17:57]  System: [10:57 PM]: The world is saving, please wait.
+[05/09/2020 17:57]  System: [10:57 PM]: World save complete. The entire process took 7.0 seconds.
+[05/09/2020 17:57]  System: [10:57 PM]: The world is optimizing, please wait.
+[05/09/2020 17:57]  System: [10:57 PM]: World optimization complete.  The entire process took 0.6 seconds.
+[05/09/2020 18:00]  System: Cave Maze is preparing!
+[05/09/2020 18:01]  System: Cave Maze will start in 2 minutes! Use [Battles to join!
+[05/09/2020 18:02]  System: Treasures of Tokuno have charged!
+[05/09/2020 18:03]  System: Cave Maze has begun!
+[05/09/2020 18:03]  System: Cave Maze has ended!
+[05/09/2020 18:20]  System: A Virtuebane have spawned in Buccaneer's Den (Felucca)
+[05/09/2020 19:00]  System: Red Light District is preparing!
+[05/09/2020 19:01]  System: Red Light District will start in 2 minutes! Use [Battles to join!
+[05/09/2020 19:02]  System: Red Light District will start in 1 minute! Use [Battles to join!
+[05/09/2020 19:03]  System: Red Light District has begun!
+[05/09/2020 19:03]  System: Red Light District has ended!
+[05/09/2020 19:09]  System: <Pandora> James D: selling 120 vet reward items, your choise, 10 mil or best offer
+[05/09/2020 19:10]  System: The Tookenador Bot: Like my new vault, or this nifty new grab bag?” Then all you gotta do is click some buttons and vote!!! Not only will it help you get some new gear or items but it will bring more people to our server! Let’s make Pandora famous!!! Every vote matters!
+[05/09/2020 19:23]  System: Treasures of Tokuno have faded!
+[05/09/2020 19:57]  System: [12:57 AM]: The world is saving, please wait.
+[05/09/2020 19:57]  System: [12:57 AM]: World save complete. The entire process took 5.7 seconds.
+[05/09/2020 20:38]  System: Treasures of Tokuno have charged!
+[05/09/2020 21:12]  System: Treasures of Tokuno have faded!
+[05/09/2020 21:40]  System: Opening door...
+[05/09/2020 21:40]  System: Your skill in Alchemy has decreased by 5.0.  It is now 125.0.
+[05/09/2020 21:40]  System: Your skill in Blacksmithy has decreased by 5.0.  It is now 125.0.
+[05/09/2020 21:40]  System: Your skill in Carpentry has decreased by 5.0.  It is now 125.0.
+[05/09/2020 21:40]  System: Your skill in Cartography has decreased by 5.0.  It is now 125.0.
+[05/09/2020 21:40]  System: Your skill in Cooking has decreased by 5.0.  It is now 125.0.
+[05/09/2020 21:40]  System: Your skill in Bowcraft/Fletching has decreased by 5.0.  It is now 125.0.
+[05/09/2020 21:40]  System: Your skill in Imbuing has decreased by 5.0.  It is now 125.0.
+[05/09/2020 21:40]  System: Your skill in Inscription has decreased by 5.0.  It is now 125.0.
+[05/09/2020 21:40]  System: Your skill in Tailoring has decreased by 5.0.  It is now 125.0.
+[05/09/2020 21:40]  System: Your skill in Tinkering has decreased by 5.0.  It is now 125.0.
+[05/09/2020 21:41]  System: Your strength has changed by 10.  It is now 332
+[05/09/2020 21:41]  System: Your dexterity has changed by 10.  It is now 240
+[05/09/2020 21:41]  System: Your intelligence has changed by 10.  It is now 128
+[05/09/2020 21:42]  System: Treasures of Tokuno have charged!
+[05/09/2020 21:46]  System: 97° 59'N, 29° 2'W
+[05/09/2020 21:46]  Hobo Jim: Kal Ort Por [Recall]
+[05/09/2020 21:46]  System: Your strength has changed by -10.  It is now 322
+[05/09/2020 21:46]  System: Your dexterity has changed by -10.  It is now 230
+[05/09/2020 21:46]  System: Your intelligence has changed by -10.  It is now 118
+[05/09/2020 21:46]  You see:  CityBooks the parrot
+[05/09/2020 21:46]  You see:  Akilah the waiter
+[05/09/2020 21:46]  You see:  Dungeons the parrot
+[05/09/2020 21:46]  You see:  TMapsFelANDTram the parrot
+[05/09/2020 21:46]  You see:  Misc Stuff 
+[05/09/2020 21:46]  You see:  Ele Deeds + PS's 
+[05/09/2020 21:46]  You see:  MARKED RUNE BOOKS 
+[05/09/2020 21:46]  You see:  MISC ITEMS 
+[05/09/2020 21:46]  You see:  STEALABLES / DECO 
+[05/09/2020 21:46]  You see:  Smith Rewards 
+[05/09/2020 21:46]  You see:  Tailor Rewards 
+[05/09/2020 21:46]  You see:  POWERSCROLLS 
+[05/09/2020 21:46]  You see:  GOLD SKULLS 
+[05/09/2020 21:46]  You see:  BULK BOARDS 
+[05/09/2020 21:46]  You see:  Crystals and Frags 
+[05/09/2020 21:46]  You see:  Imbue Mats 
+[05/09/2020 21:46]  You see:  Newbie 
+[05/09/2020 21:46]  You see:   
+[05/09/2020 21:46]  You see:   
+[05/09/2020 21:46]  : If you have an empty vendor, remove them or they will be auto deleted!
+[05/09/2020 21:46]  You see:  Sukatai the Keeper of Chivalry
+[05/09/2020 21:46]  You see:   
+[05/09/2020 21:46]  You see:   the tailor
+[05/09/2020 21:46]  You see:   the blacksmith
+[05/09/2020 21:46]  You see:   the weaver
+[05/09/2020 21:46]  You see:   the trash collector
+[05/09/2020 21:46]  You see:   the vote registrar
+[05/09/2020 21:46]  You see: Lord blackmyst [WSF]
+[05/09/2020 21:46]  You see:   the town crier
+[05/09/2020 21:46]  You see:   
+[05/09/2020 21:46]  System: You have entered Luna Bank
+[05/09/2020 21:46]  You see:   the hairstylist
+[05/09/2020 21:46]  You see:  Seti [AoV]
+[05/09/2020 21:46]  You see:   the innkeeper
+[05/09/2020 21:46]  You see: Lord Evolution [WSF]
+[05/09/2020 21:46]  You see: Lord The Animal [CoF]
+[05/09/2020 21:46]  You see:   the tinker
+[05/09/2020 21:46]  You see:  Deacon the brewer
+[05/09/2020 21:46]  You see:   the alchemist
+[05/09/2020 21:46]  You see:   the Holy Mage
+[05/09/2020 21:46]  You see:   The Prov
+[05/09/2020 21:46]  You see:  Lord Blackthorne 
+[05/09/2020 21:46]  System: A Noll Bot (Yes its evil): Remember to vote everyday! ( with [Vote ).. Also win pandora chest keys in the vote message competition on discord! (Join us there, if you havnt allready!)
+[05/09/2020 21:46]  You see:  Erol the vet
+[05/09/2020 21:46]  You see:  Empati [HB]
+[05/09/2020 21:46]  You see:  Coldsteel the hallowed
+[05/09/2020 21:46]  System: You have left Luna Bank
+[05/09/2020 21:46]  You see:  Sherman the bounty officer
+[05/09/2020 21:46]  You see:  a rabbit 
+[05/09/2020 21:47]  You see:   the Keeper of Chivalry
+[05/09/2020 21:47]  You see:   the Keeper of Chivalry
+[05/09/2020 21:50]  System: You have been teleported to: Covetous Trammel
+[05/09/2020 21:50]  You see:  Asher the wandering healer
+[05/09/2020 21:50]  System: WorldMap loaded!
+[05/09/2020 21:51]  System: You are too far away to use the gate.
+[05/09/2020 21:51]  System: It begins to rain.
+[05/09/2020 21:51]  System: You are now under the protection of the town guards.
+[05/09/2020 21:51]  System: You have been teleported to: Cove
+[05/09/2020 21:51]  You see:  Judd the town crier
+[05/09/2020 21:51]  You see:  Vela the sorceress
+[05/09/2020 21:51]  You see:  a nightingale 
+[05/09/2020 21:51]  You see:  a rat 
+[05/09/2020 21:53]  System: A champion has awoken at (5549, 2640, 0) in Felucca.
+[05/09/2020 21:53]  You see:  a nightingale 
+[05/09/2020 21:54]  You see:  a nightingale 
+[05/09/2020 21:54]  You see:  a nightingale 
+[05/09/2020 21:58]  System: [2:58 AM]: The world is saving, please wait.
+[05/09/2020 21:58]  System: [2:58 AM]: World save complete. The entire process took 5.9 seconds.
+[05/09/2020 22:00]  System: That must be in your pack for you to use it.
+[05/09/2020 22:01]  You see:  a nightingale 
+[05/09/2020 22:01]  You see:  a magpie 
+[05/09/2020 22:01]  You see:  Skyler the banker
+[05/09/2020 22:01]  You see:  Darrell the minter
+[05/09/2020 22:02]  You see:  a dog 
+[05/09/2020 22:03]  You see:  a dog 
+[05/09/2020 22:03]  You see:  a magpie 
+[05/09/2020 22:04]  You see:  a magpie 
+[05/09/2020 22:04]  You see:  a magpie 
+[05/09/2020 22:05]  You see:  a dog 
+[05/09/2020 22:09]  You see:  Mason the cobbler
+[05/09/2020 22:25]  System: a virtuebane peerless is about to break loose into this dimension (60min headsup)
+[05/09/2020 22:25]  System: A 1 vs 1 PvP Tournament is starting up in 5 minutes. Type [dailypvp To Join.
+[05/09/2020 22:26]  System: A 1 vs 1 PvP Tournament Style Elimination is starting up in 4 minutes.  Type [DailyPvp To Join. - It's completely safe.
+[05/09/2020 22:26]  System: Opening door...
+[05/09/2020 22:27]  System: A 1 vs 1 PvP Tournament Style Elimination is starting up in 3 minutes.  Type [DailyPvp To Join. - It's completely safe.
+[05/09/2020 22:28]  System: A 1 vs 1 PvP Tournament Style Elimination is starting up in 2 minutes.  Type [DailyPvp To Join. - It's completely safe.
+[05/09/2020 22:29]  System: A 1 vs 1 PvP Tournament Style Elimination is starting up in 1 minutes.  Type [DailyPvp To Join. - It's completely safe.
+[05/09/2020 22:29]  You see:  Durand the healer guildmaster
+[05/09/2020 22:30]  System: Remember everyone gets PvP Coin(s) that participates! New & old players! You never die, no insurance lost, nothing to lose.
+[05/09/2020 22:49]  System: Opening door...
+[05/09/2020 22:49]  You see:  Vela the sorceress
+[05/09/2020 22:50]  System: 97° 59'N, 29° 2'W
+[05/09/2020 22:50]  Hobo Jim: Kal Ort Por [Recall]
+[05/09/2020 22:50]  System: You have left the protection of the town guards.
+[05/09/2020 22:50]  You see:  CityBooks the parrot
+[05/09/2020 22:50]  You see:  Akilah the waiter
+[05/09/2020 22:50]  You see:  Dungeons the parrot
+[05/09/2020 22:50]  You see:  TMapsFelANDTram the parrot
+[05/09/2020 22:50]  You see:  Ilcid (Young)
+[05/09/2020 22:50]  System: WorldMap loaded!
+[05/09/2020 22:50]  You see:  Ilcid (Young)
+[05/09/2020 22:50]  You see:  GOLD SKULLS 
+[05/09/2020 22:50]  You see:  BULK BOARDS 
+[05/09/2020 22:50]  You see:  Vala the innkeeper
+[05/09/2020 22:50]  You see:  Crystals and Frags 
+[05/09/2020 22:50]  You see:  Imbue Mats 
+[05/09/2020 22:50]  You see:  Newbie 
+[05/09/2020 22:50]  You see:   
+[05/09/2020 22:50]  : If you have an empty vendor, remove them or they will be auto deleted!
+[05/09/2020 22:50]  You see:   
+[05/09/2020 22:50]  You see:  Sukatai the Keeper of Chivalry
+[05/09/2020 22:50]  You see:   the tailor
+[05/09/2020 22:50]  You see:   the blacksmith
+[05/09/2020 22:50]  You see:   the weaver
+[05/09/2020 22:50]  You see:   the trash collector
+[05/09/2020 22:50]  You see:   the vote registrar
+[05/09/2020 22:50]  You see: Lord blackmyst [WSF]
+[05/09/2020 22:50]  You see:   the town crier
+[05/09/2020 22:50]  You see:   
+[05/09/2020 22:50]  System: You have entered Luna Bank
+[05/09/2020 22:50]  You see:  Seti [AoV]
+[05/09/2020 22:50]  You see:   the innkeeper
+[05/09/2020 22:50]  You see:   the hairstylist
+[05/09/2020 22:50]  You see: Lord Evolution [WSF]
+[05/09/2020 22:50]  You see: Lord The Animal [CoF]
+[05/09/2020 22:50]  You see:   the tinker
+[05/09/2020 22:50]  You see:  Deacon the brewer
+[05/09/2020 22:50]  You see:   the alchemist
+[05/09/2020 22:50]  You see:   the Holy Mage
+[05/09/2020 22:50]  You see:   The Prov
+[05/09/2020 22:50]  You see:  Lord Blackthorne 
+[05/09/2020 22:55]  System: A virtuebane peerless is about to break loose into this dimension (30 min headsup)
+[05/09/2020 23:05]  System: Treasures of Tokuno have faded!
+[05/09/2020 23:10]  You see:  Lord Blackthorne 
+[05/09/2020 23:10]  You see:  Gorrow the mayor
+[05/09/2020 23:10]  You see:  Ilcid (Young)
+[05/09/2020 23:10]  You see:  Erol the vet
+[05/09/2020 23:10]  You see:  Coldsteel the hallowed
+[05/09/2020 23:10]  System: You have left Luna Bank
+[05/09/2020 23:10]  You see:  Sherman the bounty officer
+[05/09/2020 23:10]  You see:  a rabbit 
+[05/09/2020 23:10]  You see:   the Keeper of Chivalry
+[05/09/2020 23:10]  You see:   the Keeper of Chivalry
+[05/09/2020 23:10]  System: You are now under the protection of the town guards.
+[05/09/2020 23:10]  System: You have been teleported to: Gold Sink Store *West Britain Bank*
+[05/09/2020 23:10]  You see:  Texas Hold Em' - 50/100 
+[05/09/2020 23:10]  You see:  Treva the banker
+[05/09/2020 23:10]  You see:  Laird the minter
+[05/09/2020 23:10]  You see:  Narmada the universal repairdeed seller
+[05/09/2020 23:10]  You see:  Ryder the general goods seller
+[05/09/2020 23:10]  You see:  Ivana the Gold Sink Banker
+[05/09/2020 23:10]  You see:  Nori the jeweler
+[05/09/2020 23:10]  System: WorldMap loaded!
+[05/09/2020 23:10]  System: Opening door...
+[05/09/2020 23:10]  Narmada: Greetings.  Have a look around.
+[05/09/2020 23:10]  Narmada: The total of thy purchase is 697,500 Gold, which has been withdrawn from your bank account.  My thanks for the patronage.
+[05/09/2020 23:10]  System: What item would you like to repair?
+[05/09/2020 23:10]  System: You have repaired your weapon!
+[05/09/2020 23:10]  System: Your strength has changed by -5.  It is now 317
+[05/09/2020 23:10]  System: Your strength has changed by 10.  It is now 327
+[05/09/2020 23:15]  System: 95° 37'N, 28° 7'W
+[05/09/2020 23:15]  Hobo Jim: Kal Ort Por [Recall]
+[05/09/2020 23:15]  System: You have left the protection of the town guards.
+[05/09/2020 23:15]  You see:  a silver serpent 
+[05/09/2020 23:15]  You see:  an acid elemental 
+[05/09/2020 23:15]  You see:  a sea spider 
+[05/09/2020 23:15]  You see:  a leather wolf 
+[05/09/2020 23:15]  System: WorldMap loaded!
+[05/09/2020 23:15]  You see: a silver serpent corpse
+[05/09/2020 23:15]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/09/2020 23:15]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/09/2020 23:15]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/09/2020 23:15]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/09/2020 23:15]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/09/2020 23:15]  System: The soul charge effect converts some of the damage you received into mana.
+[05/09/2020 23:15]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:15]  System: some damage has been healed : 2
+[05/09/2020 23:15]  System: some damage has been healed : 1
+[05/09/2020 23:15]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/09/2020 23:15]  System: some damage has been healed : 2
+[05/09/2020 23:15]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/09/2020 23:15]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/09/2020 23:15]  System: some damage has been healed : 1
+[05/09/2020 23:15]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/09/2020 23:15]  System: some damage has been healed : 3
+[05/09/2020 23:15]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:15]  System: The soul charge effect converts some of the damage you received into mana.
+[05/09/2020 23:15]  System: Some of the damage you received has been converted to heal you. [4]
+[05/09/2020 23:15]  System: The whirling attack strikes a target!
+[05/09/2020 23:15]  You see: an acid elemental corpse
+[05/09/2020 23:15]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:15]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/09/2020 23:15]  You see: a slith corpse
+[05/09/2020 23:15]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/09/2020 23:15]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:15]  System: The whirling attack strikes a target!
+[05/09/2020 23:15]  System: The soul charge effect converts some of the damage you received into mana.
+[05/09/2020 23:15]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:15]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/09/2020 23:15]  System: The soul charge effect converts some of the damage you received into mana.
+[05/09/2020 23:15]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:15]  System: BANDAGE HEAL: Engine Start...
+[05/09/2020 23:15]  System: Who will you use the bandages on?
+[05/09/2020 23:15]  System: You begin applying the bandages.
+[05/09/2020 23:15]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/09/2020 23:15]  System: The soul charge effect converts some of the damage you received into mana. [2]
+[05/09/2020 23:15]  System: Some of the damage you received has been converted to heal you. [2]
+[05/09/2020 23:16]  System: You finish applying the bandages.
+[05/09/2020 23:16]  System: You have been cured of all poisons!
+[05/09/2020 23:16]  You see:  an acid elemental 
+[05/09/2020 23:16]  System: Script <GetPets.py> started.
+[05/09/2020 23:16]  You see:  PigletForDinner 
+[05/09/2020 23:16]  You see:  iAteKanga 
+[05/09/2020 23:16]  System: Script <GetPets.py> stopped.
+[05/09/2020 23:16]  Hobo Jim: All Guard Me
+[05/09/2020 23:16]  System: iAteKanga is now guarding you.
+[05/09/2020 23:16]  System: PigletForDinner is now guarding you.
+[05/09/2020 23:16]  You see:  a silver serpent 
+[05/09/2020 23:16]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:16]  System: some damage has been healed : 1
+[05/09/2020 23:16]  You see: a slith corpse
+[05/09/2020 23:16]  System: Who will you use the bandages on?
+[05/09/2020 23:16]  System: You begin applying the bandages.
+[05/09/2020 23:16]  You see: a slith corpse
+[05/09/2020 23:16]  System: You heal what little damage your patient had.
+[05/09/2020 23:16]  Hobo Jim: * You feel disoriented and nauseous! *
+[05/09/2020 23:16]  You see: a silver serpent corpse
+[05/09/2020 23:16]  System: You begin applying the bandages.
+[05/09/2020 23:16]  System: Who will you use the bandages on?
+[05/09/2020 23:16]  You see: an acid elemental corpse
+[05/09/2020 23:16]  System: You finish applying the bandages.
+[05/09/2020 23:16]  System: You have been cured of all poisons!
+[05/09/2020 23:16]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/09/2020 23:16]  System: The whirling attack strikes multiple targets!
+[05/09/2020 23:16]  You see: a wolf corpse
+[05/09/2020 23:16]  You see: a wolf corpse
+[05/09/2020 23:16]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:16]  System: some damage has been healed : 2
+[05/09/2020 23:16]  System: Who will you use the bandages on?
+[05/09/2020 23:16]  System: You begin applying the bandages.
+[05/09/2020 23:16]  System: You heal what little damage your patient had.
+[05/09/2020 23:16]  You see: a wolf corpse
+[05/09/2020 23:16]  You see: some damage has been healed : 2
+[05/09/2020 23:16]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:16]  Hobo Jim: Forul Solum [Enemy of One]
+[05/09/2020 23:16]  Hobo Jim: Rel Xen An Sanct [Vampiric Embrace]
+[05/09/2020 23:16]  System: You have lost a lot of karma.
+[05/09/2020 23:16]  System: Script <Grab.py> started.
+[05/09/2020 23:16]  System: 293 gold coins have been placed in your pack.
+[05/09/2020 23:16]  System: You grabbed 8 Items, 293 Gold
+[05/09/2020 23:16]  System: Your share of the Gold is 293
+[05/09/2020 23:16]  System: You must wait for 4.98 seconds.
+[05/09/2020 23:16]  System: Script <Grab.py> stopped.
+[05/09/2020 23:17]  You see:  a silver serpent 
+[05/09/2020 23:17]  You see: a silver serpent corpse
+[05/09/2020 23:17]  You see:  Clan Chitter Assistant 
+[05/09/2020 23:17]  You see:  Clan Chitter Assistant 
+[05/09/2020 23:17]  You see:  Clan Chitter Assistant 
+[05/09/2020 23:17]  You see:  Clan Chitter Assistant 
+[05/09/2020 23:17]  You see:  Clan Chitter Assistant 
+[05/09/2020 23:17]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:17]  System: some damage has been healed : 8
+[05/09/2020 23:17]  System: Who will you use the bandages on?
+[05/09/2020 23:17]  System: You begin applying the bandages.
+[05/09/2020 23:17]  System: You finish applying the bandages.
+[05/09/2020 23:17]  System: Your strength has changed by 1.  It is now 328
+[05/09/2020 23:17]  System: Your dexterity has changed by -1.  It is now 229
+[05/09/2020 23:17]  System: Who will you use the bandages on?
+[05/09/2020 23:17]  You see: a ratman corpse
+[05/09/2020 23:17]  System: You begin applying the bandages.
+[05/09/2020 23:17]  System: You heal what little damage your patient had.
+[05/09/2020 23:17]  You see: a ratman corpse
+[05/09/2020 23:17]  You see: a ratman corpse
+[05/09/2020 23:17]  You see: a ratman corpse
+[05/09/2020 23:17]  Clan Chitter Assistant: Tokyk tutcckyruk.
+[05/09/2020 23:17]  Clan Chitter Assistant: Oof! That hurt!
+[05/09/2020 23:17]  Clan Chitter Assistant: Tottaktta! Ykkucko.
+[05/09/2020 23:17]  Clan Chitter Assistant: Away with thee!
+[05/09/2020 23:17]  System: 450 gold coins have been placed in your pack.
+[05/09/2020 23:17]  System: You grabbed 22 Items, 450 Gold, 8 Trash Tokens
+[05/09/2020 23:17]  System: Your share of the Gold is 450
+[05/09/2020 23:17]  System: Script <Grab.py> started.
+[05/09/2020 23:17]  System: Script <Grab.py> stopped.
+[05/09/2020 23:17]  You see: a ratman corpse
+[05/09/2020 23:17]  System: Script <Grab.py> started.
+[05/09/2020 23:17]  System: 101 gold coins have been placed in your pack.
+[05/09/2020 23:17]  System: You grabbed 5 Items, 101 Gold, 2 Trash Tokens
+[05/09/2020 23:17]  System: Your share of the Gold is 101
+[05/09/2020 23:17]  System: Script <Grab.py> stopped.
+[05/09/2020 23:18]  Hobo Jim: All Guard Me
+[05/09/2020 23:18]  System: PigletForDinner is now guarding you.
+[05/09/2020 23:18]  System: iAteKanga is now guarding you.
+[05/09/2020 23:18]  You see:  Clan Chitter Tinker 
+[05/09/2020 23:18]  You see:  Clan Chitter Tinker 
+[05/09/2020 23:18]  You see:  Clan Chitter Tinker 
+[05/09/2020 23:18]  You see:  Clan Chitter Tinker 
+[05/09/2020 23:18]  You see:  Clan Chitter Tinker 
+[05/09/2020 23:18]  Clan Chitter Tinker: Rechach ttotukett. Ackeck. Ch. Ttutitrrap tykcka.
+[05/09/2020 23:18]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:18]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:18]  System: some damage has been healed : 8
+[05/09/2020 23:18]  System: Who will you use the bandages on?
+[05/09/2020 23:18]  System: You begin applying the bandages.
+[05/09/2020 23:18]  Clan Chitter Tinker: Rropryk echtatet.
+[05/09/2020 23:18]  Clan Chitter Tinker: Ouch!
+[05/09/2020 23:18]  Clan Chitter Tinker: Kiottrak ttorrupecktik rriptchaottock!
+[05/09/2020 23:18]  Clan Chitter Tinker: Away with thee!
+[05/09/2020 23:18]  Clan Chitter Tinker: Tekack tykchaytt aktyt.
+[05/09/2020 23:18]  Clan Chitter Tinker: Me hurt!
+[05/09/2020 23:18]  System: The whirling attack strikes a target!
+[05/09/2020 23:18]  Clan Chitter Tinker: Chytytko ochtat.
+[05/09/2020 23:18]  Clan Chitter Tinker: Thy blows soft!
+[05/09/2020 23:18]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:18]  System: You heal what little damage your patient had.
+[05/09/2020 23:18]  Clan Chitter Tinker: Ckoruchskrit tchyrropche ruk.
+[05/09/2020 23:18]  Clan Chitter Tinker: Good blow!
+[05/09/2020 23:18]  Clan Chitter Tinker: Tterik keke.
+[05/09/2020 23:18]  Clan Chitter Tinker: You bad with weapon!
+[05/09/2020 23:18]  Clan Chitter Tinker: Ett tykckeych.
+[05/09/2020 23:18]  Clan Chitter Tinker: Aaah! That hurt...
+[05/09/2020 23:18]  Clan Chitter Tinker: Kucckocckoak eckrach tturechchyett.
+[05/09/2020 23:18]  Clan Chitter Tinker: You bad with weapon!
+[05/09/2020 23:18]  Clan Chitter Tinker: Ttarech. Rrep.
+[05/09/2020 23:18]  Clan Chitter Tinker: Good blow!
+[05/09/2020 23:18]  System: The whirling attack strikes multiple targets!
+[05/09/2020 23:18]  You see:  a silver serpent 
+[05/09/2020 23:18]  You see: some damage has been healed : 8
+[05/09/2020 23:18]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:18]  System: You begin applying the bandages.
+[05/09/2020 23:18]  System: Who will you use the bandages on?
+[05/09/2020 23:18]  Clan Chitter Tinker: Tok. Ittuck!
+[05/09/2020 23:18]  Clan Chitter Tinker: Thy blows soft!
+[05/09/2020 23:18]  Clan Chitter Tinker: Tchytchy skrit ttiach.
+[05/09/2020 23:18]  Clan Chitter Tinker: Good blow!
+[05/09/2020 23:18]  Clan Chitter Tinker: Cki tok!
+[05/09/2020 23:18]  Clan Chitter Tinker: Aaah! That hurt...
+[05/09/2020 23:18]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:18]  System: You heal what little damage your patient had.
+[05/09/2020 23:18]  System: The whirling attack strikes a target!
+[05/09/2020 23:18]  You see: a silver serpent corpse
+[05/09/2020 23:18]  System: The whirling attack strikes multiple targets!
+[05/09/2020 23:18]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:18]  System: Some of the damage you received has been converted to heal you. [2]
+[05/09/2020 23:18]  You see: some damage has been healed : 8
+[05/09/2020 23:18]  System: You begin applying the bandages.
+[05/09/2020 23:18]  System: Who will you use the bandages on?
+[05/09/2020 23:18]  System: You finish applying the bandages.
+[05/09/2020 23:18]  Clan Chitter Tinker: Keettukti it!
+[05/09/2020 23:18]  Clan Chitter Tinker: No, kill me not!
+[05/09/2020 23:18]  Clan Chitter Tinker: Tukko. Ccky rrop.
+[05/09/2020 23:18]  Clan Chitter Tinker: Ouch! Me hurt!
+[05/09/2020 23:18]  Clan Chitter Tinker: Ttiyk. Titta.
+[05/09/2020 23:18]  Clan Chitter Tinker: Away with thee!
+[05/09/2020 23:18]  Clan Chitter Tinker: Uckccke richrryp! Tatakttu.
+[05/09/2020 23:18]  Clan Chitter Tinker: Away with thee!
+[05/09/2020 23:18]  Clan Chitter Tinker: Ckerikky ckarrop.
+[05/09/2020 23:18]  Clan Chitter Tinker: Aaah! That hurt...
+[05/09/2020 23:18]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:18]  System: The whirling attack strikes a target!
+[05/09/2020 23:18]  You see: a ratman corpse
+[05/09/2020 23:18]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:18]  Clan Chitter Tinker: Cckuttoccka rektik rrip.
+[05/09/2020 23:18]  Clan Chitter Tinker: Good blow!
+[05/09/2020 23:18]  Clan Chitter Tinker: Rek rrupkirach churak!
+[05/09/2020 23:18]  Clan Chitter Tinker: No, kill me not!
+[05/09/2020 23:18]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:18]  System: Who will you use the bandages on?
+[05/09/2020 23:18]  System: You begin applying the bandages.
+[05/09/2020 23:18]  Clan Chitter Tinker: Aktikych. Koittiich tetattit.
+[05/09/2020 23:18]  Clan Chitter Tinker: Aaah! That hurt...
+[05/09/2020 23:18]  Clan Chitter Tinker: Tyt kicke tetiktto.
+[05/09/2020 23:18]  Clan Chitter Tinker: Aaah! That hurt...
+[05/09/2020 23:18]  System: The whirling attack strikes a target! [3]
+[05/09/2020 23:18]  System: You finish applying the bandages.
+[05/09/2020 23:18]  Clan Chitter Tinker: Rrap ckirreprich titto.
+[05/09/2020 23:18]  Clan Chitter Tinker: Thou fight bad.
+[05/09/2020 23:18]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:18]  Clan Chitter Tinker: Icktcho rukrokeck ytrichche.
+[05/09/2020 23:18]  Clan Chitter Tinker: Good blow!
+[05/09/2020 23:18]  Clan Chitter Tinker: Ckeett cckocho.
+[05/09/2020 23:18]  Clan Chitter Tinker: Oof! That hurt!
+[05/09/2020 23:18]  Clan Chitter Tinker: Tettirukykcky ckoyckruk! Ak.
+[05/09/2020 23:18]  Clan Chitter Tinker: Oof! That hurt!
+[05/09/2020 23:18]  Clan Chitter Tinker: Akccku uckut!
+[05/09/2020 23:18]  Clan Chitter Tinker: You bad with weapon!
+[05/09/2020 23:18]  Clan Chitter Tinker: Uk! Ikytt.
+[05/09/2020 23:18]  Clan Chitter Tinker: Me hurt!
+[05/09/2020 23:18]  Clan Chitter Tinker: Tittotut. Ykock!
+[05/09/2020 23:18]  Clan Chitter Tinker: Oof! That hurt!
+[05/09/2020 23:18]  System: The whirling attack strikes a target!
+[05/09/2020 23:18]  You see: a ratman corpse
+[05/09/2020 23:18]  You see: a ratman corpse
+[05/09/2020 23:18]  You see:  Clan Chitter Tinker 
+[05/09/2020 23:18]  System: You must wait to perform another action.
+[05/09/2020 23:18]  Clan Chitter Tinker: Rrypchu ttetti!
+[05/09/2020 23:18]  Clan Chitter Tinker: I... I...
+[05/09/2020 23:18]  You see: a ratman corpse
+[05/09/2020 23:18]  You see:  Vraal [a Guardian of Ter-Mur]
+[05/09/2020 23:18]  You see:  Clan Chitter Tinker 
+[05/09/2020 23:18]  System: Script <Grab.py> started.
+[05/09/2020 23:18]  System: 142 gold coins have been placed in your pack.
+[05/09/2020 23:18]  System: You grabbed 1 Items, 142 Gold, 6 Trash Tokens
+[05/09/2020 23:18]  System: Your share of the Gold is 142
+[05/09/2020 23:18]  System: You must wait for 4.95 seconds.
+[05/09/2020 23:18]  System: Script <Grab.py> stopped.
+[05/09/2020 23:18]  You see: a ratman corpse
+[05/09/2020 23:18]  System: You must wait to perform another action.
+[05/09/2020 23:18]  System: You must wait for 1.69 seconds.
+[05/09/2020 23:18]  System: Script <Grab.py> started.
+[05/09/2020 23:18]  System: Script <Grab.py> stopped.
+[05/09/2020 23:18]  System: You must wait for 0.59 seconds.
+[05/09/2020 23:18]  System: Script <Grab.py> started.
+[05/09/2020 23:18]  System: Script <Grab.py> stopped.
+[05/09/2020 23:18]  System: You couldn't find anything to grab
+[05/09/2020 23:18]  System: Script <Grab.py> started.
+[05/09/2020 23:18]  System: Script <Grab.py> stopped.
+[05/09/2020 23:18]  System: Script <Grab.py> started.
+[05/09/2020 23:18]  System: You must wait for 4.2 seconds.
+[05/09/2020 23:18]  System: You must wait for 4.17 seconds.
+[05/09/2020 23:18]  System: Script <Grab.py> stopped.
+[05/09/2020 23:18]  System: Script <Grab.py> started.
+[05/09/2020 23:18]  System: You grabbed 1 Items, 8 Trash Tokens
+[05/09/2020 23:18]  System: Script <Grab.py> stopped.
+[05/09/2020 23:18]  System: You must wait for 1.53 seconds.
+[05/09/2020 23:18]  System: Script <Grab.py> started.
+[05/09/2020 23:18]  System: Script <Grab.py> stopped.
+[05/09/2020 23:18]  System: You must wait for 0.7 seconds.
+[05/09/2020 23:18]  System: Script <Grab.py> started.
+[05/09/2020 23:18]  System: Script <Grab.py> stopped.
+[05/09/2020 23:18]  System: Script <Grab.py> started.
+[05/09/2020 23:18]  System: 105 gold coins have been placed in your pack.
+[05/09/2020 23:18]  System: You grabbed 2 Items, 105 Gold, 2 Trash Tokens
+[05/09/2020 23:18]  System: Your share of the Gold is 105
+[05/09/2020 23:18]  System: Script <Grab.py> stopped.
+[05/09/2020 23:19]  You see:  a silver serpent 
+[05/09/2020 23:19]  System: Your strength has changed by -10.  It is now 318
+[05/09/2020 23:19]  System: The soul charge effect converts some of the damage you received into mana.
+[05/09/2020 23:19]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:19]  System: some damage has been healed : 5
+[05/09/2020 23:19]  System: You must wait to perform another action.
+[05/09/2020 23:19]  System: Your strength has changed by 5.  It is now 323
+[05/09/2020 23:19]  You see: a silver serpent corpse
+[05/09/2020 23:19]  You see:  Clan Chitter Chieftain [Renowned] 
+[05/09/2020 23:19]  Clan Chitter Chieftain [Renown: Chitukotityck ak titot.
+[05/09/2020 23:19]  Clan Chitter Chieftain [Renown: Good blow!
+[05/09/2020 23:19]  System: You cannot move!
+[05/09/2020 23:19]  System: You can move!
+[05/09/2020 23:19]  System: Setting ability ArmorIgnore
+[05/09/2020 23:19]  System: Your attack penetrates their armor!
+[05/09/2020 23:19]  System: Setting ability ArmorIgnore
+[05/09/2020 23:19]  Hobo Jim: Forul Solum [Enemy of One]
+[05/09/2020 23:19]  Hobo Jim: All Kill
+[05/09/2020 23:19]  System: Your attack penetrates their armor! [3]
+[05/09/2020 23:19]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/09/2020 23:19]  System: Your concentration is disturbed, thus ruining thy spell.
+[05/09/2020 23:19]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:19]  System: some damage has been healed : 3
+[05/09/2020 23:19]  System: Who will you use the bandages on?
+[05/09/2020 23:19]  System: You begin applying the bandages.
+[05/09/2020 23:19]  System: Setting ability ArmorIgnore
+[05/09/2020 23:19]  System: Your attack penetrates their armor! [2]
+[05/09/2020 23:19]  System: Setting ability MovingShot
+[05/09/2020 23:19]  System: You heal what little damage your patient had.
+[05/09/2020 23:19]  Clan Chitter Chieftain [Renown: Rrapcckaik! Aktta attchock.
+[05/09/2020 23:19]  Clan Chitter Chieftain [Renown: Aaah! That hurt...
+[05/09/2020 23:19]  System: Your shot was successful
+[05/09/2020 23:19]  System: Setting ability ArmorIgnore
+[05/09/2020 23:19]  System: Setting ability ArmorIgnore
+[05/09/2020 23:19]  System: Your attack penetrates their armor! [2]
+[05/09/2020 23:19]  Clan Chitter Chieftain [Renown: Chyti tchychi! Korak.
+[05/09/2020 23:19]  Clan Chitter Chieftain [Renown: Ouch! Me hurt!
+[05/09/2020 23:19]  System: some damage has been healed : 4
+[05/09/2020 23:19]  System: Who will you use the bandages on?
+[05/09/2020 23:19]  System: You begin applying the bandages.
+[05/09/2020 23:19]  System: Setting ability ArmorIgnore
+[05/09/2020 23:19]  System: Setting ability ArmorIgnore
+[05/09/2020 23:19]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:19]  System: You heal what little damage your patient had.
+[05/09/2020 23:19]  System: Setting ability ArmorIgnore
+[05/09/2020 23:19]  System: Your attack penetrates their armor! [8]
+[05/09/2020 23:19]  System: You cannot move!
+[05/09/2020 23:19]  System: Setting ability ArmorIgnore
+[05/09/2020 23:19]  System: You can move!
+[05/09/2020 23:19]  Clan Chitter Chieftain [Renown: Tekichrrup. Tto. Aktchy.
+[05/09/2020 23:19]  Clan Chitter Chieftain [Renown: Me hurt!
+[05/09/2020 23:19]  System: Your strength has changed by -5.  It is now 318
+[05/09/2020 23:19]  System: Your attack penetrates their armor! [2]
+[05/09/2020 23:19]  System: Your strength has changed by 10.  It is now 328
+[05/09/2020 23:19]  System: Who will you use the bandages on?
+[05/09/2020 23:19]  System: You begin applying the bandages.
+[05/09/2020 23:19]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:19]  System: You feel yourself resisting magical energy.
+[05/09/2020 23:19]  Clan Chitter Chieftain [Renown: Roktchiuteckryk. Rruprok.
+[05/09/2020 23:19]  Clan Chitter Chieftain [Renown: Away with thee!
+[05/09/2020 23:19]  Clan Chitter Chieftain [Renown: Rykccko ruktto!
+[05/09/2020 23:19]  Clan Chitter Chieftain [Renown: Me hurt!
+[05/09/2020 23:19]  System: The whirling attack strikes a target!
+[05/09/2020 23:19]  System: You heal what little damage your patient had.
+[05/09/2020 23:19]  System: Setting ability Disarm
+[05/09/2020 23:19]  System: Your target is already unarmed!
+[05/09/2020 23:19]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:19]  System: The whirling attack strikes a target!
+[05/09/2020 23:19]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:19]  Clan Chitter Chieftain [Renown: Chtti. Rykik tokku.
+[05/09/2020 23:19]  Clan Chitter Chieftain [Renown: No, kill me not!
+[05/09/2020 23:19]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:19]  System: The whirling attack strikes a target!
+[05/09/2020 23:19]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:19]  Clan Chitter Chieftain [Renown: Tiktirechttutchi! Ttucckucky ykckoock.
+[05/09/2020 23:19]  Clan Chitter Chieftain [Renown: Good blow!
+[05/09/2020 23:19]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:19]  Clan Chitter Chieftain [Renown: Yttok tte.
+[05/09/2020 23:19]  Clan Chitter Chieftain [Renown: No, kill me not!
+[05/09/2020 23:19]  System: The whirling attack strikes a target! [3]
+[05/09/2020 23:19]  Clan Chitter Chieftain [Renown: Uttttu cckoikcku.
+[05/09/2020 23:19]  Clan Chitter Chieftain [Renown: Me hurt!
+[05/09/2020 23:19]  Hobo Jim: Divinum Furis [Divine Fury]
+[05/09/2020 23:19]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:19]  Clan Chitter Chieftain [Renown: Chyrrip! Etitychrryp!
+[05/09/2020 23:19]  Clan Chitter Chieftain [Renown: Aaah! That hurt...
+[05/09/2020 23:19]  System: The whirling attack strikes a target!
+[05/09/2020 23:19]  System: Setting ability Disarm
+[05/09/2020 23:19]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:19]  System: some damage has been healed : 12
+[05/09/2020 23:19]  System: Who will you use the bandages on?
+[05/09/2020 23:19]  System: You begin applying the bandages.
+[05/09/2020 23:19]  System: Your target is already unarmed!
+[05/09/2020 23:19]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:19]  Clan Chitter Chieftain [Renown: Rok! Kucka.
+[05/09/2020 23:19]  Clan Chitter Chieftain [Renown: Ouch! Me hurt!
+[05/09/2020 23:20]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:20]  System: You heal what little damage your patient had.
+[05/09/2020 23:20]  System: The whirling attack strikes a target!
+[05/09/2020 23:20]  Clan Chitter Chieftain [Renown: Chaachakruk. Ockrachcckyetit utrokyk.
+[05/09/2020 23:20]  Clan Chitter Chieftain [Renown: Oof! That hurt!
+[05/09/2020 23:20]  System: some damage has been healed : 1
+[05/09/2020 23:20]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:20]  System: You begin applying the bandages.
+[05/09/2020 23:20]  System: Who will you use the bandages on?
+[05/09/2020 23:20]  System: Your fingers slip!
+[05/09/2020 23:20]  System: some damage has been healed : 12
+[05/09/2020 23:20]  Clan Chitter Chieftain [Renown: Rek skritchuruch. Rrupikti.
+[05/09/2020 23:20]  Clan Chitter Chieftain [Renown: Away with thee!
+[05/09/2020 23:20]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:20]  You see: a Rakktavi [Renowned] Corpse
+[05/09/2020 23:20]  System: You heal what little damage your patient had.
+[05/09/2020 23:20]  System: The whirling attack strikes a target! [2]
+[05/09/2020 23:20]  System: Some of the damage you received has been converted to heal you. [2]
+[05/09/2020 23:20]  System: 130 gold coins have been placed in your pack.
+[05/09/2020 23:20]  System: You grabbed 10 Items, 130 Gold, 1 Trash Tokens
+[05/09/2020 23:20]  System: Your share of the Gold is 130
+[05/09/2020 23:20]  System: Script <Grab.py> started.
+[05/09/2020 23:20]  System: Script <Grab.py> stopped.
+[05/09/2020 23:20]  You see:  a silver serpent 
+[05/09/2020 23:20]  System: The whirling attack strikes a target!
+[05/09/2020 23:20]  System: The soul charge effect converts some of the damage you received into mana.
+[05/09/2020 23:20]  System: some damage has been healed : 11
+[05/09/2020 23:20]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:20]  System: Who will you use the bandages on?
+[05/09/2020 23:20]  System: You begin applying the bandages.
+[05/09/2020 23:20]  You see: a silver serpent corpse
+[05/09/2020 23:20]  System: You heal what little damage your patient had.
+[05/09/2020 23:21]  You see:  a clockwork scorpion 
+[05/09/2020 23:21]  You see:  a toxic slith 
+[05/09/2020 23:21]  You see:  a leather wolf 
+[05/09/2020 23:21]  You see:  a leather wolf 
+[05/09/2020 23:21]  You see:  a leather wolf 
+[05/09/2020 23:21]  You see:  a clockwork scorpion 
+[05/09/2020 23:21]  System: 36 gold coins have been placed in your pack.
+[05/09/2020 23:21]  System: You grabbed 36 Gold
+[05/09/2020 23:21]  System: Your share of the Gold is 36
+[05/09/2020 23:21]  System: Script <Grab.py> started.
+[05/09/2020 23:21]  System: Script <Grab.py> stopped.
+[05/09/2020 23:21]  You see:  a silver serpent 
+[05/09/2020 23:21]  You see: a wolf corpse
+[05/09/2020 23:21]  System: Each piece of your equipment gained 32 Tier XP!
+[05/09/2020 23:21]  You see: a silver serpent corpse
+[05/09/2020 23:21]  You see: a slith corpse
+[05/09/2020 23:21]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:21]  System: The whirling attack strikes a target!
+[05/09/2020 23:21]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:21]  System: some damage has been healed : 7
+[05/09/2020 23:21]  System: Who will you use the bandages on?
+[05/09/2020 23:21]  System: You begin applying the bandages.
+[05/09/2020 23:21]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:21]  System: The whirling attack strikes multiple targets!
+[05/09/2020 23:21]  You see: a wolf corpse
+[05/09/2020 23:21]  System: You heal what little damage your patient had.
+[05/09/2020 23:21]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:21]  System: The soul charge effect converts some of the damage you received into mana.
+[05/09/2020 23:21]  System: some damage has been healed : 6
+[05/09/2020 23:21]  System: You begin applying the bandages.
+[05/09/2020 23:21]  System: Who will you use the bandages on?
+[05/09/2020 23:21]  System: The whirling attack strikes a target!
+[05/09/2020 23:21]  You see: a clockwork scorpion corpse
+[05/09/2020 23:21]  System: You heal what little damage your patient had.
+[05/09/2020 23:21]  System: Your strength has changed by -10.  It is now 318
+[05/09/2020 23:21]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:21]  System: Your strength has changed by 5.  It is now 323
+[05/09/2020 23:21]  You see: a clockwork scorpion corpse
+[05/09/2020 23:21]  System: Setting ability ArmorIgnore
+[05/09/2020 23:21]  System: Your attack penetrates their armor!
+[05/09/2020 23:21]  System: Setting ability ArmorIgnore
+[05/09/2020 23:21]  You see: a wolf corpse
+[05/09/2020 23:21]  Hobo Jim: All Guard Me
+[05/09/2020 23:21]  System: iAteKanga is now guarding you.
+[05/09/2020 23:21]  System: PigletForDinner is now guarding you.
+[05/09/2020 23:21]  System: Your attack penetrates their armor! [3]
+[05/09/2020 23:21]  System: 515 gold coins have been placed in your pack.
+[05/09/2020 23:21]  System: You grabbed 9 Items, 515 Gold, 6 Trash Tokens
+[05/09/2020 23:21]  System: Your share of the Gold is 515
+[05/09/2020 23:21]  System: Script <Grab.py> started.
+[05/09/2020 23:21]  System: Script <Grab.py> stopped.
+[05/09/2020 23:22]  You see:  Clan Chitter Assistant 
+[05/09/2020 23:22]  You see:  Clan Chitter Assistant 
+[05/09/2020 23:22]  You see:  Clan Chitter Assistant 
+[05/09/2020 23:22]  You see:  Clan Chitter Assistant 
+[05/09/2020 23:22]  You see:  Clan Chitter Assistant 
+[05/09/2020 23:22]  You see: a ratman corpse
+[05/09/2020 23:22]  You see:  a silver serpent 
+[05/09/2020 23:22]  Clan Chitter Assistant: Kychuyck ok.
+[05/09/2020 23:22]  Clan Chitter Assistant: Away with thee!
+[05/09/2020 23:22]  You see: a ratman corpse
+[05/09/2020 23:22]  You see: a ratman corpse
+[05/09/2020 23:22]  You see: a ratman corpse
+[05/09/2020 23:22]  Clan Chitter Assistant: Cha ckeack cckutchochi.
+[05/09/2020 23:22]  Clan Chitter Assistant: Oooh, me hurt...
+[05/09/2020 23:22]  You see: a ratman corpse
+[05/09/2020 23:22]  You see: a silver serpent corpse
+[05/09/2020 23:22]  System: 297 gold coins have been placed in your pack.
+[05/09/2020 23:22]  System: You grabbed 15 Items, 297 Gold, 6 Trash Tokens
+[05/09/2020 23:22]  System: Your share of the Gold is 297
+[05/09/2020 23:22]  System: Script <Grab.py> started.
+[05/09/2020 23:22]  System: Script <Grab.py> stopped.
+[05/09/2020 23:22]  System: 44 gold coins have been placed in your pack.
+[05/09/2020 23:22]  System: You grabbed 44 Gold
+[05/09/2020 23:22]  System: Your share of the Gold is 44
+[05/09/2020 23:22]  System: Script <Grab.py> started.
+[05/09/2020 23:22]  System: Script <Grab.py> stopped.
+[05/09/2020 23:22]  Hobo Jim: Forul Solum [Enemy of One]
+[05/09/2020 23:22]  You see:  Clan Chitter Tinker 
+[05/09/2020 23:22]  You see:  Clan Chitter Tinker 
+[05/09/2020 23:22]  You see:  Clan Chitter Tinker 
+[05/09/2020 23:22]  You see:  Clan Chitter Tinker 
+[05/09/2020 23:22]  You see:  Clan Chitter Tinker 
+[05/09/2020 23:22]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:22]  System: some damage has been healed : 4
+[05/09/2020 23:22]  System: Who will you use the bandages on?
+[05/09/2020 23:22]  System: You begin applying the bandages.
+[05/09/2020 23:22]  Clan Chitter Tinker: Ochott. Akechot.
+[05/09/2020 23:22]  Clan Chitter Tinker: Ouch! Me hurt!
+[05/09/2020 23:22]  System: You heal what little damage your patient had.
+[05/09/2020 23:22]  You see: some damage has been healed : 4
+[05/09/2020 23:22]  System: You begin applying the bandages.
+[05/09/2020 23:22]  System: Who will you use the bandages on?
+[05/09/2020 23:22]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/09/2020 23:22]  System: You heal what little damage your patient had.
+[05/09/2020 23:22]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:22]  Clan Chitter Tinker: Tteruchott ckuyck! Cka.
+[05/09/2020 23:22]  Clan Chitter Tinker: Away with thee!
+[05/09/2020 23:22]  Clan Chitter Tinker: Ttetteccku. Rrep ack.
+[05/09/2020 23:22]  Clan Chitter Tinker: Oof! That hurt!
+[05/09/2020 23:22]  System: some damage has been healed : 4
+[05/09/2020 23:22]  System: Who will you use the bandages on?
+[05/09/2020 23:22]  System: You begin applying the bandages.
+[05/09/2020 23:23]  You see: a ratman corpse
+[05/09/2020 23:23]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:23]  System: You heal what little damage your patient had.
+[05/09/2020 23:23]  You see: a ratman corpse
+[05/09/2020 23:23]  Clan Chitter Tinker: Chitet rryp etrriptik!
+[05/09/2020 23:23]  Clan Chitter Tinker: Away with thee!
+[05/09/2020 23:23]  You see: a ratman corpse
+[05/09/2020 23:23]  Clan Chitter Tinker: Ottotitcke tytchi.
+[05/09/2020 23:23]  Clan Chitter Tinker: Ouch! Me hurt!
+[05/09/2020 23:23]  You see: a ratman corpse
+[05/09/2020 23:23]  You see:  a silver serpent 
+[05/09/2020 23:23]  System: The soul charge effect converts some of the damage you received into mana.
+[05/09/2020 23:23]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:23]  System: some damage has been healed : 11
+[05/09/2020 23:23]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/09/2020 23:23]  System: Who will you use the bandages on?
+[05/09/2020 23:23]  System: You begin applying the bandages.
+[05/09/2020 23:23]  System: You finish applying the bandages.
+[05/09/2020 23:23]  System: You have been cured of all poisons!
+[05/09/2020 23:23]  You see: a silver serpent corpse
+[05/09/2020 23:23]  System: 518 gold coins have been placed in your pack.
+[05/09/2020 23:23]  System: You grabbed 11 Items, 518 Gold, 16 Trash Tokens
+[05/09/2020 23:23]  System: Your share of the Gold is 518
+[05/09/2020 23:23]  System: Script <Grab.py> started.
+[05/09/2020 23:23]  System: Script <Grab.py> stopped.
+[05/09/2020 23:24]  Clan Chitter Tinker: Ukoch ruch.
+[05/09/2020 23:24]  Clan Chitter Tinker: Me hurt!
+[05/09/2020 23:24]  Clan Chitter Tinker: Ch rok.
+[05/09/2020 23:24]  Clan Chitter Tinker: Aaah! That hurt...
+[05/09/2020 23:24]  System: Setting ability ArmorIgnore
+[05/09/2020 23:24]  System: Your attack penetrates their armor!
+[05/09/2020 23:24]  System: Setting ability ArmorIgnore
+[05/09/2020 23:24]  System: Setting ability ArmorIgnore
+[05/09/2020 23:24]  System: Setting ability ArmorIgnore
+[05/09/2020 23:24]  System: Your attack penetrates their armor! [5]
+[05/09/2020 23:24]  System: Setting ability ArmorIgnore
+[05/09/2020 23:24]  You see: a ratman corpse
+[05/09/2020 23:24]  System: Setting ability ArmorIgnore
+[05/09/2020 23:24]  System: Your attack penetrates their armor! [4]
+[05/09/2020 23:24]  System: 43 gold coins have been placed in your pack.
+[05/09/2020 23:24]  System: You grabbed 43 Gold
+[05/09/2020 23:24]  System: Your share of the Gold is 43
+[05/09/2020 23:24]  System: Script <Grab.py> started.
+[05/09/2020 23:24]  System: You must wait for 4.92 seconds.
+[05/09/2020 23:24]  System: Script <Grab.py> stopped.
+[05/09/2020 23:24]  You see:  a silver serpent 
+[05/09/2020 23:24]  System: Your attack penetrates their armor!
+[05/09/2020 23:24]  System: Setting ability ArmorIgnore
+[05/09/2020 23:24]  You see: a silver serpent corpse
+[05/09/2020 23:24]  System: 106 gold coins have been placed in your pack.
+[05/09/2020 23:24]  System: You grabbed 3 Items, 106 Gold, 2 Trash Tokens
+[05/09/2020 23:24]  System: Your share of the Gold is 106
+[05/09/2020 23:24]  System: Script <Grab.py> started.
+[05/09/2020 23:24]  System: Script <Grab.py> stopped.
+[05/09/2020 23:24]  You see:  Clan Chitter Chieftain [Renowned] 
+[05/09/2020 23:24]  System: Your attack penetrates their armor! [3]
+[05/09/2020 23:24]  Hobo Jim: All Kill
+[05/09/2020 23:24]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:24]  System: Who will you use the bandages on?
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Chiruchccki ackrokke che.
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Ouch! Me hurt!
+[05/09/2020 23:24]  System: Who will you use the bandages on?
+[05/09/2020 23:24]  System: You begin applying the bandages.
+[05/09/2020 23:24]  Hobo Jim: All Kill
+[05/09/2020 23:24]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:24]  System: You finish applying the bandages.
+[05/09/2020 23:24]  System: some damage has been healed : 1
+[05/09/2020 23:24]  System: Who will you use the bandages on?
+[05/09/2020 23:24]  System: You must wait to perform another action.
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Ckoukuch okkerech! Ekcckatuk.
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Aaah! That hurt...
+[05/09/2020 23:24]  System: You begin applying the bandages.
+[05/09/2020 23:24]  System: Your strength has changed by -5.  It is now 318
+[05/09/2020 23:24]  System: You heal what little damage your patient had.
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Tcheach tattchi.
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Ouch! Me hurt!
+[05/09/2020 23:24]  System: Your strength has changed by 10.  It is now 328
+[05/09/2020 23:24]  System: Who will you use the bandages on?
+[05/09/2020 23:24]  System: You begin applying the bandages.
+[05/09/2020 23:24]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Ttychake. Rach.
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Ouch! Me hurt!
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Ichtiruch ichechitett tukttu.
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Me hurt!
+[05/09/2020 23:24]  System: The whirling attack strikes a target!
+[05/09/2020 23:24]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:24]  System: Setting ability Disarm
+[05/09/2020 23:24]  System: You heal what little damage your patient had.
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Cki rrypchy. Tytrryp.
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Me hurt!
+[05/09/2020 23:24]  System: Your target is already unarmed!
+[05/09/2020 23:24]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:24]  System: Who will you use the bandages on?
+[05/09/2020 23:24]  System: You begin applying the bandages.
+[05/09/2020 23:24]  System: You finish applying the bandages.
+[05/09/2020 23:24]  Hobo Jim: Forul Solum [Enemy of One]
+[05/09/2020 23:24]  System: The whirling attack strikes a target!
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Cckerak rukrrep. Cki.
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Ouch! Me hurt!
+[05/09/2020 23:24]  Hobo Jim: Divinum Furis [Divine Fury]
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Ackruch tykichrachchyick.
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Away with thee!
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Chi rech. Cckecckarukutccko.
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: No, kill me not!
+[05/09/2020 23:24]  System: Who will you use the bandages on?
+[05/09/2020 23:24]  System: You begin applying the bandages.
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Yt chout tchy.
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Ouch! Me hurt!
+[05/09/2020 23:24]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/09/2020 23:24]  System: You finish applying the bandages.
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Cckarych itkurrop. Ch.
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Me hurt!
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Attyt. Ttiytkocko.
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: No, kill me not!
+[05/09/2020 23:24]  System: You begin applying the bandages.
+[05/09/2020 23:24]  System: Who will you use the bandages on?
+[05/09/2020 23:24]  PigletForDinner: * The poison seems to have no effect. *
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Ochckattu cku ckyoch!
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Aaah! That hurt...
+[05/09/2020 23:24]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Ruk. Churychrachychke.
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Away with thee!
+[05/09/2020 23:24]  System: You finish applying the bandages.
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Tcho aktta!
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Good blow!
+[05/09/2020 23:24]  System: The whirling attack strikes a target!
+[05/09/2020 23:24]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Ckuttu echkaach!
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Ouch! Me hurt!
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Rykrektchi tchocku akrok.
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Good blow!
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Rykrroptyktekcki tottit iktte.
+[05/09/2020 23:24]  Clan Chitter Chieftain [Renown: Me hurt!
+[05/09/2020 23:24]  System: Setting ability WhirlwindAttack
+[05/09/2020 23:24]  System: Setting ability Disarm
+[05/09/2020 23:25]  System: Your target is already unarmed!
+[05/09/2020 23:25]  System: Setting ability Disarm
+[05/09/2020 23:25]  System: The whirling attack strikes a target!
+[05/09/2020 23:25]  System: Who will you use the bandages on?
+[05/09/2020 23:25]  System: You begin applying the bandages.
+[05/09/2020 23:25]  Clan Chitter Chieftain [Renown: Ccko. Rukko.
+[05/09/2020 23:25]  Clan Chitter Chieftain [Renown: Good blow!
+[05/09/2020 23:25]  Clan Chitter Chieftain [Renown: Ttetutechttu kyrek.
+[05/09/2020 23:25]  Clan Chitter Chieftain [Renown: Away with thee!
+[05/09/2020 23:25]  System: You finish applying the bandages.
+[05/09/2020 23:25]  System: Your target is already unarmed!
+[05/09/2020 23:25]  System: You begin applying the bandages.
+[05/09/2020 23:25]  System: Who will you use the bandages on?
+[05/09/2020 23:25]  System: You finish applying the bandages.
+[05/09/2020 23:25]  Clan Chitter Chieftain [Renown: Otuch yttot itchiccka.
+[05/09/2020 23:25]  Clan Chitter Chieftain [Renown: No, kill me not!
+[05/09/2020 23:25]  iAteKanga: * The poison seems to have no effect. *
+[05/09/2020 23:25]  Clan Chitter Chieftain [Renown: Ckiitttik tche!
+[05/09/2020 23:25]  Clan Chitter Chieftain [Renown: Ouch! Me hurt!
+[05/09/2020 23:25]  System: Script <Grab.py> started.
+[05/09/2020 23:25]  You see:  a silver serpent 
+[05/09/2020 23:25]  System: You couldn't find anything to grab
+[05/09/2020 23:25]  System: You must wait for 4.98 seconds.
+[05/09/2020 23:25]  System: Script <Grab.py> stopped.
+[05/09/2020 23:25]  You see: a Rakktavi [Renowned] Corpse
+[05/09/2020 23:25]  System: A Virtuebane have spawned in Buccaneer's Den (Felucca)
+[05/09/2020 23:25]  System: Your strength has changed by -10.  It is now 318
+[05/09/2020 23:25]  System: Your strength has changed by 5.  It is now 323
+[05/09/2020 23:25]  You see: a silver serpent corpse
+[05/09/2020 23:25]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/09/2020 23:25]  System: Script <Grab.py> started.
+[05/09/2020 23:25]  System: 140 gold coins have been placed in your pack.
+[05/09/2020 23:25]  System: You grabbed 7 Items, 140 Gold, 2 Trash Tokens
+[05/09/2020 23:25]  System: Your share of the Gold is 140
+[05/09/2020 23:25]  System: Script <Grab.py> stopped.
+[05/09/2020 23:25]  You see:  an acid slug 
+[05/09/2020 23:25]  System: You couldn't find anything to grab
+[05/09/2020 23:25]  System: Script <Grab.py> started.
+[05/09/2020 23:25]  System: You must wait for 4.91 seconds.
+[05/09/2020 23:25]  System: Script <Grab.py> stopped.
+[05/09/2020 23:25]  You see:  an acid elemental 
+[05/09/2020 23:25]  You see:  a toxic slith 
+[05/09/2020 23:25]  You see:  a toxic slith 
+[05/09/2020 23:25]  You see:  a leather wolf 
+[05/09/2020 23:25]  You see:  a leather wolf 
+[05/09/2020 23:25]  You see:  a leather wolf 
+[05/09/2020 23:25]  You see:  a toxic slith 
+[05/09/2020 23:25]  Hobo Jim: Divinum Furis [Divine Fury]
+[05/09/2020 23:25]  Hobo Jim: Forul Solum [Enemy of One]
+[05/09/2020 23:26]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:26]  System: some damage has been healed : 3
+[05/09/2020 23:26]  System: Who will you use the bandages on?
+[05/09/2020 23:26]  System: That being is not damaged!
+[05/09/2020 23:26]  You see: a slith corpse
+[05/09/2020 23:26]  System: some damage has been healed : 5
+[05/09/2020 23:26]  System: some damage has been healed : 4
+[05/09/2020 23:26]  System: You begin applying the bandages.
+[05/09/2020 23:26]  System: Who will you use the bandages on?
+[05/09/2020 23:26]  You see: some damage has been healed : 5
+[05/09/2020 23:26]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/09/2020 23:26]  System: You finish applying the bandages.
+[05/09/2020 23:26]  System: some damage has been healed : 4
+[05/09/2020 23:26]  System: You begin applying the bandages.
+[05/09/2020 23:26]  System: some damage has been healed : 2
+[05/09/2020 23:26]  You see: a slith corpse
+[05/09/2020 23:26]  System: Some of the damage you received has been converted to heal you. [6]
+[05/09/2020 23:26]  System: Who will you use the bandages on?
+[05/09/2020 23:26]  System: some damage has been healed : 5
+[05/09/2020 23:26]  System: You finish applying the bandages.
+[05/09/2020 23:26]  System: Setting ability ArmorIgnore
+[05/09/2020 23:26]  You see: some damage has been healed : 4
+[05/09/2020 23:26]  System: Your attack penetrates their armor!
+[05/09/2020 23:26]  You see: a slith corpse
+[05/09/2020 23:26]  System: Setting ability ArmorIgnore
+[05/09/2020 23:26]  System: Setting ability ArmorIgnore
+[05/09/2020 23:26]  System: Setting ability ArmorIgnore
+[05/09/2020 23:26]  You see: a wolf corpse
+[05/09/2020 23:26]  System: Your attack penetrates their armor! [7]
+[05/09/2020 23:26]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:26]  System: Setting ability ArmorIgnore
+[05/09/2020 23:26]  System: Setting ability ArmorIgnore
+[05/09/2020 23:26]  System: Setting ability ArmorIgnore
+[05/09/2020 23:26]  You see: a wolf corpse
+[05/09/2020 23:26]  System: Your attack penetrates their armor! [6]
+[05/09/2020 23:26]  You see:  a silver serpent 
+[05/09/2020 23:26]  System: The soul charge effect converts some of the damage you received into mana.
+[05/09/2020 23:26]  System: some damage has been healed : 10
+[05/09/2020 23:26]  System: Who will you use the bandages on?
+[05/09/2020 23:26]  System: You begin applying the bandages.
+[05/09/2020 23:26]  System: Setting ability ArmorIgnore
+[05/09/2020 23:26]  You see: a silver serpent corpse
+[05/09/2020 23:26]  System: You heal what little damage your patient had.
+[05/09/2020 23:26]  System: Your attack penetrates their armor! [2]
+[05/09/2020 23:26]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:26]  System: Setting ability ArmorIgnore
+[05/09/2020 23:26]  System: Setting ability ArmorIgnore
+[05/09/2020 23:26]  You see: a wolf corpse
+[05/09/2020 23:26]  System: Your attack penetrates their armor! [4]
+[05/09/2020 23:26]  System: You must wait to perform another action.
+[05/09/2020 23:26]  System: Script <Grab.py> started.
+[05/09/2020 23:26]  System: 268 gold coins have been placed in your pack.
+[05/09/2020 23:26]  System: You grabbed 5 Items, 268 Gold, 2 Trash Tokens
+[05/09/2020 23:26]  System: Your share of the Gold is 268
+[05/09/2020 23:26]  System: You must wait for 4.97 seconds.
+[05/09/2020 23:26]  System: Script <Grab.py> stopped.
+[05/09/2020 23:26]  You see:  Clan Chitter Assistant 
+[05/09/2020 23:26]  You see:  Clan Chitter Assistant 
+[05/09/2020 23:26]  You see:  Clan Chitter Assistant 
+[05/09/2020 23:26]  You see:  Clan Chitter Assistant 
+[05/09/2020 23:26]  You see:  Clan Chitter Assistant 
+[05/09/2020 23:26]  You see: a ratman corpse
+[05/09/2020 23:26]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:26]  System: some damage has been healed : 8
+[05/09/2020 23:26]  System: Who will you use the bandages on?
+[05/09/2020 23:26]  System: You begin applying the bandages.
+[05/09/2020 23:26]  System: You heal what little damage your patient had.
+[05/09/2020 23:26]  System: some damage has been healed : 9
+[05/09/2020 23:26]  You see: a ratman corpse
+[05/09/2020 23:26]  System: Who will you use the bandages on?
+[05/09/2020 23:26]  System: You begin applying the bandages.
+[05/09/2020 23:26]  You see: a ratman corpse
+[05/09/2020 23:26]  System: You heal what little damage your patient had.
+[05/09/2020 23:26]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:26]  Clan Chitter Assistant: Ttotty! Ickokrak rrop.
+[05/09/2020 23:26]  Clan Chitter Assistant: No, kill me not!
+[05/09/2020 23:27]  System: some damage has been healed : 7
+[05/09/2020 23:27]  System: Who will you use the bandages on?
+[05/09/2020 23:27]  System: some damage has been healed : 10
+[05/09/2020 23:27]  System: You begin applying the bandages.
+[05/09/2020 23:27]  System: You heal what little damage your patient had.
+[05/09/2020 23:27]  System: Some of the damage you received has been converted to heal you. [2]
+[05/09/2020 23:27]  You see: a ratman corpse
+[05/09/2020 23:27]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:27]  You see:  a silver serpent 
+[05/09/2020 23:27]  You see: a silver serpent corpse
+[05/09/2020 23:27]  System: 277 gold coins have been placed in your pack.
+[05/09/2020 23:27]  System: You grabbed 6 Items, 277 Gold, 5 Trash Tokens
+[05/09/2020 23:27]  System: Your share of the Gold is 277
+[05/09/2020 23:27]  System: Script <Grab.py> started.
+[05/09/2020 23:27]  System: Script <Grab.py> stopped.
+[05/09/2020 23:28]  You see:  a silver serpent 
+[05/09/2020 23:28]  System: The soul charge effect converts some of the damage you received into mana.
+[05/09/2020 23:28]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:28]  System: some damage has been healed : 6
+[05/09/2020 23:28]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/09/2020 23:28]  System: Who will you use the bandages on?
+[05/09/2020 23:28]  System: You begin applying the bandages.
+[05/09/2020 23:28]  System: You finish applying the bandages.
+[05/09/2020 23:28]  System: You have been cured of all poisons!
+[05/09/2020 23:28]  You see: a silver serpent corpse
+[05/09/2020 23:29]  You see:  a silver serpent 
+[05/09/2020 23:29]  You see: a silver serpent corpse
+[05/09/2020 23:30]  You see:  a silver serpent 
+[05/09/2020 23:30]  You see: a silver serpent corpse
+[05/09/2020 23:31]  You see:  a silver serpent 
+[05/09/2020 23:31]  You see: a silver serpent corpse
+[05/09/2020 23:31]  Clan Chitter Assistant: It. Tcheche. Tet tchutti. Yttytitt. Ittcckacku.
+[05/09/2020 23:31]  You see: a ratman corpse
+[05/09/2020 23:31]  System: Script <Grab.py> started.
+[05/09/2020 23:31]  System: 80 gold coins have been placed in your pack.
+[05/09/2020 23:31]  System: You grabbed 80 Gold
+[05/09/2020 23:31]  System: Your share of the Gold is 80
+[05/09/2020 23:31]  System: Script <Grab.py> stopped.
+[05/09/2020 23:31]  System: Script <Grab.py> started.
+[05/09/2020 23:31]  System: You must wait for 3.33 seconds.
+[05/09/2020 23:31]  System: You must wait for 3.31 seconds.
+[05/09/2020 23:31]  System: Script <Grab.py> stopped.
+[05/09/2020 23:31]  System: Script <Grab.py> started.
+[05/09/2020 23:31]  System: You must wait for 0.77 seconds.
+[05/09/2020 23:31]  System: Script <Grab.py> stopped.
+[05/09/2020 23:31]  System: Script <Grab.py> started.
+[05/09/2020 23:31]  System: You couldn't find anything to grab
+[05/09/2020 23:31]  System: You must wait for 4.95 seconds.
+[05/09/2020 23:31]  System: Script <Grab.py> stopped.
+[05/09/2020 23:31]  System: Script <Grab.py> started.
+[05/09/2020 23:31]  System: You must wait for 0.97 seconds.
+[05/09/2020 23:31]  System: Script <Grab.py> stopped.
+[05/09/2020 23:31]  System: You couldn't find anything to grab
+[05/09/2020 23:31]  System: Script <Grab.py> started.
+[05/09/2020 23:31]  System: Script <Grab.py> stopped.
+[05/09/2020 23:31]  System: You must wait to perform another action.
+[05/09/2020 23:31]  System: You couldn't find anything to grab
+[05/09/2020 23:31]  System: Script <Grab.py> started.
+[05/09/2020 23:31]  System: Script <Grab.py> stopped.
+[05/09/2020 23:32]  You see:  Clan Chitter Tinker 
+[05/09/2020 23:32]  You see:  Clan Chitter Tinker 
+[05/09/2020 23:32]  You see:  Clan Chitter Tinker 
+[05/09/2020 23:32]  You see:  Clan Chitter Tinker 
+[05/09/2020 23:32]  You see:  Clan Chitter Tinker 
+[05/09/2020 23:32]  Clan Chitter Tinker: *rummages through a corpse and takes an item*
+[05/09/2020 23:32]  Clan Chitter Tinker: Takochtto! Ruk.
+[05/09/2020 23:32]  Clan Chitter Tinker: No, kill me not!
+[05/09/2020 23:32]  Clan Chitter Tinker: Ach echit.
+[05/09/2020 23:32]  Clan Chitter Tinker: Ouch! Me hurt!
+[05/09/2020 23:32]  Clan Chitter Tinker: Cckatty tchetokroch!
+[05/09/2020 23:32]  Clan Chitter Tinker: Oof! That hurt!
+[05/09/2020 23:32]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:32]  System: some damage has been healed : 4
+[05/09/2020 23:32]  System: Who will you use the bandages on?
+[05/09/2020 23:32]  System: You begin applying the bandages.
+[05/09/2020 23:32]  Hobo Jim: All Guard Me
+[05/09/2020 23:32]  System: iAteKanga is now guarding you.
+[05/09/2020 23:32]  System: PigletForDinner is now guarding you.
+[05/09/2020 23:32]  System: You heal what little damage your patient had.
+[05/09/2020 23:32]  You see: some damage has been healed : 4
+[05/09/2020 23:32]  System: Who will you use the bandages on?
+[05/09/2020 23:32]  System: You begin applying the bandages.
+[05/09/2020 23:32]  System: Some of the damage you received has been converted to heal you. [2]
+[05/09/2020 23:32]  You see: some damage has been healed : 4
+[05/09/2020 23:32]  You see: a ratman corpse
+[05/09/2020 23:32]  You see:  a silver serpent 
+[05/09/2020 23:32]  You see: a ratman corpse
+[05/09/2020 23:32]  System: You heal what little damage your patient had.
+[05/09/2020 23:32]  You see: a ratman corpse
+[05/09/2020 23:32]  System: You begin applying the bandages.
+[05/09/2020 23:32]  System: Who will you use the bandages on?
+[05/09/2020 23:32]  You see: some damage has been healed : 4 [2]
+[05/09/2020 23:32]  System: You heal what little damage your patient had.
+[05/09/2020 23:32]  You see: a ratman corpse
+[05/09/2020 23:32]  System: Some of the damage you received has been converted to heal you. [2]
+[05/09/2020 23:32]  You see: a silver serpent corpse
+[05/09/2020 23:32]  System: Each piece of your equipment gained 47 Tier XP!
+[05/09/2020 23:32]  System: Who will you use the bandages on?
+[05/09/2020 23:32]  System: You begin applying the bandages.
+[05/09/2020 23:32]  System: 296 gold coins have been placed in your pack.
+[05/09/2020 23:32]  System: You grabbed 7 Items, 296 Gold, 7 Trash Tokens
+[05/09/2020 23:32]  System: Your share of the Gold is 296
+[05/09/2020 23:32]  System: Script <Grab.py> started.
+[05/09/2020 23:32]  System: Script <Grab.py> stopped.
+[05/09/2020 23:32]  System: You heal what little damage your patient had.
+[05/09/2020 23:32]  You see:  Clan Chitter Chieftain [Renowned] 
+[05/09/2020 23:32]  Clan Chitter Chieftain [Renown: Rrap! Cky rak.
+[05/09/2020 23:32]  Clan Chitter Chieftain [Renown: No, kill me not!
+[05/09/2020 23:32]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:32]  System: some damage has been healed : 1
+[05/09/2020 23:32]  System: Who will you use the bandages on?
+[05/09/2020 23:32]  System: You begin applying the bandages.
+[05/09/2020 23:32]  Hobo Jim: All Kill
+[05/09/2020 23:32]  System: You heal what little damage your patient had.
+[05/09/2020 23:32]  System: You begin applying the bandages.
+[05/09/2020 23:32]  System: Who will you use the bandages on?
+[05/09/2020 23:32]  Hobo Jim: Forul Solum [Enemy of One]
+[05/09/2020 23:32]  Clan Chitter Chieftain [Renown: Uch ccku tchi.
+[05/09/2020 23:32]  Clan Chitter Chieftain [Renown: Away with thee!
+[05/09/2020 23:32]  System: You finish applying the bandages.
+[05/09/2020 23:32]  System: Your strength has changed by -5.  It is now 318
+[05/09/2020 23:32]  PigletForDinner: * The poison seems to have no effect. *
+[05/09/2020 23:32]  System: You must wait to perform another action.
+[05/09/2020 23:33]  System: Setting ability ArmorIgnore
+[05/09/2020 23:33]  System: Your attack penetrates their armor!
+[05/09/2020 23:33]  Clan Chitter Chieftain [Renown: Tchoit tchirokkytcheytt.
+[05/09/2020 23:33]  Clan Chitter Chieftain [Renown: Oof! That hurt!
+[05/09/2020 23:33]  System: Setting ability ArmorIgnore
+[05/09/2020 23:33]  System: Setting ability ArmorIgnore
+[05/09/2020 23:33]  Clan Chitter Chieftain [Renown: Ckuche tcho rychtty!
+[05/09/2020 23:33]  Clan Chitter Chieftain [Renown: Aaah! That hurt...
+[05/09/2020 23:33]  System: Who will you use the bandages on?
+[05/09/2020 23:33]  System: You begin applying the bandages.
+[05/09/2020 23:33]  System: Setting ability ArmorIgnore
+[05/09/2020 23:33]  System: Setting ability ArmorIgnore
+[05/09/2020 23:33]  System: Your attack penetrates their armor! [7]
+[05/09/2020 23:33]  System: Setting ability ArmorIgnore
+[05/09/2020 23:33]  System: You finish applying the bandages.
+[05/09/2020 23:33]  System: Setting ability ArmorIgnore
+[05/09/2020 23:33]  System: Setting ability ArmorIgnore
+[05/09/2020 23:33]  Clan Chitter Chieftain [Renown: Chrryp yktchirek.
+[05/09/2020 23:33]  Clan Chitter Chieftain [Renown: Me hurt!
+[05/09/2020 23:33]  Clan Chitter Chieftain [Renown: Ttichitok tcha. Ttoityck.
+[05/09/2020 23:33]  Clan Chitter Chieftain [Renown: Good blow!
+[05/09/2020 23:33]  System: Your attack penetrates their armor! [8]
+[05/09/2020 23:33]  System: Setting ability ArmorIgnore
+[05/09/2020 23:33]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/09/2020 23:33]  System: Who will you use the bandages on?
+[05/09/2020 23:33]  System: You begin applying the bandages.
+[05/09/2020 23:33]  System: Setting ability ArmorIgnore
+[05/09/2020 23:33]  Clan Chitter Chieftain [Renown: Kaatchech tok tetit.
+[05/09/2020 23:33]  Clan Chitter Chieftain [Renown: Away with thee!
+[05/09/2020 23:33]  System: Setting ability ArmorIgnore
+[05/09/2020 23:33]  System: Your attack penetrates their armor! [2]
+[05/09/2020 23:33]  System: You finish applying the bandages.
+[05/09/2020 23:33]  System: Setting ability ArmorIgnore
+[05/09/2020 23:33]  Clan Chitter Chieftain [Renown: Tiicktchy at.
+[05/09/2020 23:33]  Clan Chitter Chieftain [Renown: Oof! That hurt!
+[05/09/2020 23:33]  System: Setting ability ArmorIgnore
+[05/09/2020 23:33]  Clan Chitter Chieftain [Renown: Skrit tteyttettet richtitytcckuik.
+[05/09/2020 23:33]  Clan Chitter Chieftain [Renown: No, kill me not!
+[05/09/2020 23:33]  System: Setting ability ArmorIgnore
+[05/09/2020 23:33]  Clan Chitter Chieftain [Renown: Rykytt! Kuccko ckackurrapckyki.
+[05/09/2020 23:33]  Clan Chitter Chieftain [Renown: Oof! That hurt!
+[05/09/2020 23:33]  System: Your attack penetrates their armor! [8]
+[05/09/2020 23:33]  Clan Chitter Chieftain [Renown: Ockckukyick ytttto! Cckakookit.
+[05/09/2020 23:33]  Clan Chitter Chieftain [Renown: Aaah! That hurt...
+[05/09/2020 23:33]  Clan Chitter Chieftain [Renown: Ckiackcku rechrrup tche.
+[05/09/2020 23:33]  Clan Chitter Chieftain [Renown: Me hurt!
+[05/09/2020 23:33]  Clan Chitter Chieftain [Renown: Ychccke tcheotko yckichtchu.
+[05/09/2020 23:33]  Clan Chitter Chieftain [Renown: No, kill me not!
+[05/09/2020 23:33]  You see:  a silver serpent 
+[05/09/2020 23:33]  Clan Chitter Chieftain [Renown: Tchytutckichi ackich. Chu.
+[05/09/2020 23:33]  Clan Chitter Chieftain [Renown: Good blow!
+[05/09/2020 23:33]  System: Setting ability ArmorIgnore
+[05/09/2020 23:33]  System: Setting ability ArmorIgnore
+[05/09/2020 23:33]  System: Setting ability ArmorIgnore
+[05/09/2020 23:33]  System: Who will you use the bandages on?
+[05/09/2020 23:33]  System: You begin applying the bandages.
+[05/09/2020 23:33]  System: Your attack penetrates their armor!
+[05/09/2020 23:33]  You see: a Rakktavi [Renowned] Corpse
+[05/09/2020 23:33]  System: You finish applying the bandages.
+[05/09/2020 23:33]  System: Setting ability ArmorIgnore
+[05/09/2020 23:33]  System: Your attack penetrates their armor! [3]
+[05/09/2020 23:33]  You see: a silver serpent corpse
+[05/09/2020 23:33]  System: You must wait to perform another action.
+[05/09/2020 23:33]  System: Script <Grab.py> started.
+[05/09/2020 23:33]  System: 149 gold coins have been placed in your pack.
+[05/09/2020 23:33]  System: You grabbed 10 Items, 149 Gold
+[05/09/2020 23:33]  System: Your share of the Gold is 149
+[05/09/2020 23:33]  System: Script <Grab.py> stopped.
+[05/09/2020 23:33]  System: 97° 59'N, 29° 2'W
+[05/09/2020 23:33]  Hobo Jim: Kal Ort Por [Recall]
+[05/09/2020 23:33]  You see:  CityBooks the parrot
+[05/09/2020 23:33]  You see:  PigletForDinner 
+[05/09/2020 23:33]  You see:  iAteKanga 
+[05/09/2020 23:33]  You see:  Akilah the waiter
+[05/09/2020 23:33]  You see:  Dungeons the parrot
+[05/09/2020 23:33]  You see:  TMapsFelANDTram the parrot
+[05/09/2020 23:33]  System: WorldMap loaded!
+[05/09/2020 23:34]  System: You couldn't find anything to grab
+[05/09/2020 23:34]  System: Script <Grab.py> started.
+[05/09/2020 23:34]  System: You must wait for 4.83 seconds.
+[05/09/2020 23:34]  System: Script <Grab.py> stopped.
+[05/09/2020 23:34]  System: You must wait for 2.81 seconds.
+[05/09/2020 23:34]  System: Script <Grab.py> started.
+[05/09/2020 23:34]  System: Script <Grab.py> stopped.
+[05/09/2020 23:34]  System: You must wait for 1.95 seconds.
+[05/09/2020 23:34]  System: Script <Grab.py> started.
+[05/09/2020 23:34]  System: Script <Grab.py> stopped.
+[05/09/2020 23:34]  System: You must wait for 1.72 seconds.
+[05/09/2020 23:34]  System: Script <Grab.py> started.
+[05/09/2020 23:34]  System: Script <Grab.py> stopped.
+[05/09/2020 23:34]  You see:  GOLD SKULLS 
+[05/09/2020 23:34]  You see:  BULK BOARDS 
+[05/09/2020 23:34]  You see:  Crystals and Frags 
+[05/09/2020 23:34]  You see:  Imbue Mats 
+[05/09/2020 23:34]  You see:  Newbie 
+[05/09/2020 23:34]  System: Script <ShrinkPets.py> started.
+[05/09/2020 23:34]  System: Shrinking...
+[05/09/2020 23:34]  System: You place the PigletForDinner Idol into your pack.
+[05/09/2020 23:34]  System: Shrinking...
+[05/09/2020 23:34]  System: You place the iAteKanga Idol into your pack.
+[05/09/2020 23:34]  System: Script <ShrinkPets.py> stopped.
+[05/09/2020 23:37]  You see:   
+[05/09/2020 23:37]  You see:  New Stuff 
+[05/09/2020 23:37]  : If you have an empty vendor, remove them or they will be auto deleted!
+[05/09/2020 23:37]  You see:  Sukatai the Keeper of Chivalry
+[05/09/2020 23:37]  You see:   the tailor
+[05/09/2020 23:37]  You see:   the blacksmith
+[05/09/2020 23:37]  You see:   the weaver
+[05/09/2020 23:37]  You see:   the trash collector
+[05/09/2020 23:37]  You see:   the vote registrar
+[05/09/2020 23:37]  You see: Lord blackmyst [WSF]
+[05/09/2020 23:37]  You see:   the town crier
+[05/09/2020 23:37]  You see:   
+[05/09/2020 23:37]  System: You have entered Luna Bank
+[05/09/2020 23:37]  You see:  Seti [AoV]
+[05/09/2020 23:37]  You see:   the hairstylist
+[05/09/2020 23:37]  You see:   the innkeeper
+[05/09/2020 23:37]  You see: Lord Evolution [WSF]
+[05/09/2020 23:37]  You see: Lord The Animal [CoF]
+[05/09/2020 23:37]  You see:   the tinker
+[05/09/2020 23:37]  You see:  Deacon the brewer
+[05/09/2020 23:37]  You see:   the alchemist
+[05/09/2020 23:37]  You see:   the Holy Mage
+[05/09/2020 23:37]  You see:   The Prov
+[05/09/2020 23:37]  You see:  Lord Blackthorne 
+[05/09/2020 23:37]  You see:  Erol the vet
+[05/09/2020 23:37]  You see:  Coldsteel the hallowed
+[05/09/2020 23:37]  System: You have left Luna Bank
+[05/09/2020 23:37]  You see:  Sherman the bounty officer
+[05/09/2020 23:37]  You see:  a rabbit 
+[05/09/2020 23:37]  You see:   the Keeper of Chivalry
+[05/09/2020 23:37]  You see:   the Keeper of Chivalry
+[05/09/2020 23:37]  System: You cannot perform harmful acts on your target.
+[05/09/2020 23:37]  System: You cannot perform negative acts on your target.
+[05/09/2020 23:37]  System: You cannot perform negative acts on your target. [32]
+[05/09/2020 23:37]  System: You cannot perform harmful acts on your target. [65]
+[05/09/2020 23:37]  System: You cannot perform negative acts on your target. [32]
+[05/09/2020 23:37]  System: You cannot perform harmful acts on your target. [64]
+[05/09/2020 23:37]  System: You have been teleported to: Covetous Trammel
+[05/09/2020 23:37]  You see:  Asher the wandering healer
+[05/09/2020 23:37]  System: WorldMap loaded!
+[05/09/2020 23:37]  System: You cannot perform negative acts on your target. [9]
+[05/09/2020 23:37]  System: You cannot perform harmful acts on your target. [18]
+[05/09/2020 23:37]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:37]  System: some damage has been healed : 1
+[05/09/2020 23:37]  System: Who will you use the bandages on?
+[05/09/2020 23:37]  System: You begin applying the bandages.
+[05/09/2020 23:37]  System: You finish applying the bandages.
+[05/09/2020 23:37]  You see:  a harpy 
+[05/09/2020 23:37]  You see:  a harpy 
+[05/09/2020 23:37]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:37]  System: some damage has been healed : 1
+[05/09/2020 23:37]  System: Who will you use the bandages on?
+[05/09/2020 23:37]  You see:  a headless one 
+[05/09/2020 23:37]  System: That being is not damaged!
+[05/09/2020 23:37]  You see: a harpy corpse
+[05/09/2020 23:37]  Hobo Jim: You have hidden yourself well.
+[05/09/2020 23:39]  You see:  a harpy 
+[05/09/2020 23:39]  a harpy: *rummages through a corpse and takes an item*
+[05/09/2020 23:40]  System: 97° 59'N, 29° 2'W
+[05/09/2020 23:40]  Hobo Jim: Kal Ort Por [Recall]
+[05/09/2020 23:40]  System: You cannot perform harmful acts on your target.
+[05/09/2020 23:40]  System: You cannot perform negative acts on your target.
+[05/09/2020 23:40]  You see:  CityBooks the parrot
+[05/09/2020 23:40]  You see:  Akilah the waiter
+[05/09/2020 23:40]  You see:  Dungeons the parrot
+[05/09/2020 23:40]  You see:  TMapsFelANDTram the parrot
+[05/09/2020 23:40]  System: WorldMap loaded!
+[05/09/2020 23:40]  You see:  GOLD SKULLS 
+[05/09/2020 23:40]  You see:  BULK BOARDS 
+[05/09/2020 23:40]  You see:  Crystals and Frags 
+[05/09/2020 23:40]  You see:  Imbue Mats 
+[05/09/2020 23:40]  You see:  Newbie 
+[05/09/2020 23:40]  You see:   
+[05/09/2020 23:40]  You see:   
+[05/09/2020 23:40]  You see:   
+[05/09/2020 23:40]  : If you have an empty vendor, remove them or they will be auto deleted!
+[05/09/2020 23:40]  You see:  Sukatai the Keeper of Chivalry
+[05/09/2020 23:40]  You see:   the tailor
+[05/09/2020 23:40]  You see:   the blacksmith
+[05/09/2020 23:40]  You see:   the weaver
+[05/09/2020 23:40]  You see:   the trash collector
+[05/09/2020 23:40]  You see:   the vote registrar
+[05/09/2020 23:40]  You see: Lord blackmyst [WSF]
+[05/09/2020 23:40]  You see:   the town crier
+[05/09/2020 23:40]  You see:   
+[05/09/2020 23:40]  System: You have entered Luna Bank
+[05/09/2020 23:40]  You see:  Seti [AoV]
+[05/09/2020 23:40]  You see:   the hairstylist
+[05/09/2020 23:40]  You see:   the innkeeper
+[05/09/2020 23:40]  You see: Lord Evolution [WSF]
+[05/09/2020 23:40]  You see: Lord The Animal [CoF]
+[05/09/2020 23:40]  You see:  Deacon the brewer
+[05/09/2020 23:40]  You see:   the tinker
+[05/09/2020 23:40]  You see:   the alchemist
+[05/09/2020 23:40]  You see:   the Holy Mage
+[05/09/2020 23:40]  You see:   The Prov
+[05/09/2020 23:40]  You see:  Lord Blackthorne 
+[05/09/2020 23:40]  You see:  Erol the vet
+[05/09/2020 23:40]  You see:  Coldsteel the hallowed
+[05/09/2020 23:40]  System: Opening door...
+[05/09/2020 23:40]  You see:   the vote registrar
+[05/09/2020 23:40]  You see:   the weaver
+[05/09/2020 23:40]  You see:   the trash collector
+[05/09/2020 23:40]  You see:   the blacksmith
+[05/09/2020 23:40]  You see:   the tailor
+[05/09/2020 23:40]  You see:  Sukatai the Keeper of Chivalry
+[05/09/2020 23:40]  You see:   
+[05/09/2020 23:40]  You see:   
+[05/09/2020 23:40]  You see:   
+[05/09/2020 23:40]  System: You have left Luna Bank
+[05/09/2020 23:40]  You see:  Newbie 
+[05/09/2020 23:40]  You see:  Imbue Mats 
+[05/09/2020 23:40]  You see:  Crystals and Frags 
+[05/09/2020 23:40]  You see:  BULK BOARDS 
+[05/09/2020 23:40]  : If you have an empty vendor, remove them or they will be auto deleted!
+[05/09/2020 23:40]  You see:  GOLD SKULLS 
+[05/09/2020 23:40]  You see:  POWERSCROLLS 
+[05/09/2020 23:40]  You see:  Tailor Rewards 
+[05/09/2020 23:40]  You see:  MISC ITEMS 
+[05/09/2020 23:40]  You see:  STEALABLES / DECO 
+[05/09/2020 23:40]  You see:  Smith Rewards 
+[05/09/2020 23:40]  You see:  Ele Deeds + PS's 
+[05/09/2020 23:40]  You see:  MARKED RUNE BOOKS 
+[05/09/2020 23:40]  You see:  Misc Stuff 
+[05/09/2020 23:40]  You see:  TMapsFelANDTram the parrot
+[05/09/2020 23:40]  You see:  CityBooks the parrot
+[05/09/2020 23:40]  You see:  Dungeons the parrot
+[05/09/2020 23:40]  You see:  Akilah the waiter
+[05/09/2020 23:40]  You see:  Vala the innkeeper
+[05/09/2020 23:40]  System: Your skill in Alchemy has increased by 5.0.  It is now 130.0.
+[05/09/2020 23:40]  System: Your skill in Blacksmithy has increased by 5.0.  It is now 130.0.
+[05/09/2020 23:40]  System: Your skill in Carpentry has increased by 5.0.  It is now 130.0.
+[05/09/2020 23:40]  System: Your skill in Cartography has increased by 5.0.  It is now 130.0.
+[05/09/2020 23:40]  System: Your skill in Cooking has increased by 5.0.  It is now 130.0.
+[05/09/2020 23:40]  System: Your skill in Bowcraft/Fletching has increased by 5.0.  It is now 130.0.
+[05/09/2020 23:40]  System: Your skill in Imbuing has increased by 5.0.  It is now 130.0.
+[05/09/2020 23:40]  System: Your skill in Inscription has increased by 5.0.  It is now 130.0.
+[05/09/2020 23:40]  System: Your skill in Tailoring has increased by 5.0.  It is now 130.0.
+[05/09/2020 23:40]  System: Your skill in Tinkering has increased by 5.0.  It is now 130.0.
+[05/09/2020 23:40]  You see:  Rune- and Spellbooks 
+[05/09/2020 23:40]  You see:  Lesser Arties 
+[05/09/2020 23:40]  You see:  Nigel Horns 
+[05/09/2020 23:40]  You see:  Deco & Misc 
+[05/09/2020 23:40]  You see:  SOP 
+[05/09/2020 23:40]  You see:  Misc & Newbies 
+[05/09/2020 23:40]  You see:  SOP 
+[05/09/2020 23:40]  System: 69° 31'N, 74° 57'E
+[05/09/2020 23:40]  Hobo Jim: Kal Ort Por [Recall]
+[05/09/2020 23:41]  System: Your skill in Alchemy has decreased by 5.0.  It is now 125.0.
+[05/09/2020 23:41]  System: Your skill in Blacksmithy has decreased by 5.0.  It is now 125.0.
+[05/09/2020 23:41]  System: Your skill in Carpentry has decreased by 5.0.  It is now 125.0.
+[05/09/2020 23:41]  System: Your skill in Cartography has decreased by 5.0.  It is now 125.0.
+[05/09/2020 23:41]  System: Your skill in Cooking has decreased by 5.0.  It is now 125.0.
+[05/09/2020 23:41]  System: Your skill in Bowcraft/Fletching has decreased by 5.0.  It is now 125.0.
+[05/09/2020 23:41]  System: Your skill in Imbuing has decreased by 5.0.  It is now 125.0.
+[05/09/2020 23:41]  System: Your skill in Inscription has decreased by 5.0.  It is now 125.0.
+[05/09/2020 23:41]  System: Your skill in Tailoring has decreased by 5.0.  It is now 125.0.
+[05/09/2020 23:41]  System: Your skill in Tinkering has decreased by 5.0.  It is now 125.0.
+[05/09/2020 23:41]  System: WorldMap loaded!
+[05/09/2020 23:41]  You see:  a headless one 
+[05/09/2020 23:41]  System: The Void Pool walls have been damaged! Defend the Void Pool!
+[05/09/2020 23:41]  : Do note that hit effects animation are turned off vs wave creatures (they still do damage)
+[05/09/2020 23:41]  System: What should I use these scissors on?
+[05/09/2020 23:41]  System: Didn't your parents ever tell you not to run with scissors in your hand?!
+[05/09/2020 23:41]  You see: a headless corpse
+[05/09/2020 23:41]  System: Cora's forces have destroyed the Void Pool walls. The battle is lost!
+[05/09/2020 23:41]  System: The battle for the Void Pool will begin in 300 minutes.
+[05/09/2020 23:41]  System: The Void Pool walls have been damaged! Defend the Void Pool! [26]
+[05/09/2020 23:41]  You see:  a headless one 
+[05/09/2020 23:41]  Hobo Jim: Forul Solum [Enemy of One]
+[05/09/2020 23:42]  You see:  a dread spider 
+[05/09/2020 23:42]  You see:  a giant spider 
+[05/09/2020 23:42]  You see:  a slime 
+[05/09/2020 23:42]  You see:  a giant spider 
+[05/09/2020 23:42]  You see: gas trap
+[05/09/2020 23:42]  You see:  a headless one 
+[05/09/2020 23:42]  You see: a headless corpse
+[05/09/2020 23:42]  You see:  a headless one 
+[05/09/2020 23:42]  You see:  a headless one 
+[05/09/2020 23:42]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:42]  System: some damage has been healed : 1
+[05/09/2020 23:42]  You see: a headless corpse
+[05/09/2020 23:42]  System: Who will you use the bandages on?
+[05/09/2020 23:42]  System: You begin applying the bandages.
+[05/09/2020 23:42]  System: You heal what little damage your patient had.
+[05/09/2020 23:42]  You see:  a headless one 
+[05/09/2020 23:43]  You see: a headless corpse
+[05/09/2020 23:43]  You see: a headless corpse
+[05/09/2020 23:43]  You see: a headless corpse
+[05/09/2020 23:43]  System: Some of the damage you received has been converted to heal you.
+[05/09/2020 23:43]  System: Who will you use the bandages on?
+[05/09/2020 23:43]  System: You begin applying the bandages.
+[05/09/2020 23:43]  System: some damage has been healed : 1
+[05/09/2020 23:43]  System: You finish applying the bandages.
+[05/09/2020 23:43]  System: Who will you use the bandages on?
+[05/09/2020 23:43]  System: You begin applying the bandages.
+[05/09/2020 23:43]  System: You heal what little damage your patient had.
+[05/09/2020 23:43]  System: Some of the damage you received has been converted to heal you. [2]
+[05/09/2020 23:43]  You see: A Corpse Stone
+[05/09/2020 23:43]  You see: forge
+[05/09/2020 23:43]  System: 97° 59'N, 29° 2'W
+[05/09/2020 23:43]  System: Thy spell doth not appear to work...

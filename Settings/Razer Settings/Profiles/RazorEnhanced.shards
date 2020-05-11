@@ -1,0 +1,24 @@
+{
+  "SHARDS": [
+    {
+      "Description": "pandorauo",
+      "ClientPath": "C:\\Program Files (x86)\\Electronic Arts\\Ultima Online Classic\\client.exe",
+      "ClientFolder": "C:\\Program Files (x86)\\Electronic Arts\\Ultima Online Classic",
+      "Host": "play.pandorauo.com",
+      "Port": 2593,
+      "PatchEnc": true,
+      "OSIEnc": false,
+      "Selected": true
+    },
+    {
+      "Description": "demise",
+      "ClientPath": "C:\\Program Files (x86)\\Electronic Arts\\Ultima Online Classic\\client.exe",
+      "ClientFolder": "C:\\Program Files (x86)\\Electronic Arts\\Ultima Online Classic",
+      "Host": "login.uogdemise.com",
+      "Port": 2593,
+      "PatchEnc": true,
+      "OSIEnc": false,
+      "Selected": false
+    }
+  ]
+}

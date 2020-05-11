@@ -1,0 +1,208 @@
+[05/07/2020 22:02]  System: WorldMap loading...
+[05/07/2020 22:02]  System: You have 6 of max 50 in your mailbox.
+[05/07/2020 22:02]  System: Some of the damage you received has been converted to heal you.
+[05/07/2020 22:02]  System: some damage has been healed : 2
+[05/07/2020 22:02]  You see: Lord Hobo Jim [SOUL]
+[05/07/2020 22:02]  System: 3000 gold has been withdrawn from your bank box.
+[05/07/2020 22:02]  System: 4500 gold has been withdrawn from your bank box.
+[05/07/2020 22:02]  System: 1300 gold has been withdrawn from your bank box.
+[05/07/2020 22:02]  System: 750 gold has been withdrawn from your bank box.
+[05/07/2020 22:02]  System: 1200 gold has been withdrawn from your bank box.
+[05/07/2020 22:02]  System: 650 gold has been withdrawn from your bank box.
+[05/07/2020 22:02]  System: 500 gold has been withdrawn from your bank box.
+[05/07/2020 22:02]  System: 1500 gold has been withdrawn from your bank box.
+[05/07/2020 22:02]  System: 1100 gold has been withdrawn from your bank box.
+[05/07/2020 22:02]  System: 1000 gold has been withdrawn from your bank box.
+[05/07/2020 22:02]  System: 3250 gold has been withdrawn from your bank box.
+[05/07/2020 22:02]  System: You gasp for air as you are pulled out of the underworld!  You suffer no loss of fame or karma this time.
+[05/07/2020 22:02]  System: 54100 gold has been withdrawn from your bank box.
+[05/07/2020 22:02]  Hobo Jim: I am dead and cannot do that.
+[05/07/2020 22:02]  You see:  Siaththh 
+[05/07/2020 22:02]  You see: an oni corpse
+[05/07/2020 22:02]  You see: an oni corpse
+[05/07/2020 22:02]  You see: a hiryu corpse
+[05/07/2020 22:02]  You see: an oni corpse
+[05/07/2020 22:02]  You see: Lord handikap [HB]
+[05/07/2020 22:02]  You see:  Serado the awakened (Infested)
+[05/07/2020 22:02]  You see:  a pandorian tiger 
+[05/07/2020 22:02]  You see: a hiryu corpse
+[05/07/2020 22:02]  You see: an oni corpse
+[05/07/2020 22:02]  You see: a hiryu corpse
+[05/07/2020 22:02]  You see: a pandorian tiger corpse
+[05/07/2020 22:02]  You see: a hiryu corpse
+[05/07/2020 22:02]  You see: a pandorian tiger corpse
+[05/07/2020 22:02]  System: 
+[05/07/2020 22:02]  You see:  iAteKanga 
+[05/07/2020 22:02]  You see:  PigletForDinner 
+[05/07/2020 22:02]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:02]  You see: the remains of Hobo Jim
+[05/07/2020 22:02]  You see:  Siaththh 
+[05/07/2020 22:02]  You see: an oni corpse
+[05/07/2020 22:02]  You see: an oni corpse
+[05/07/2020 22:02]  You see: a hiryu corpse
+[05/07/2020 22:02]  You see: an oni corpse
+[05/07/2020 22:02]  You see: Lord handikap [HB]
+[05/07/2020 22:02]  You see:  Serado the awakened (Infested)
+[05/07/2020 22:02]  You see:  a pandorian tiger 
+[05/07/2020 22:02]  You see:  iAteKanga 
+[05/07/2020 22:02]  You see:  PigletForDinner 
+[05/07/2020 22:02]  You see: a hiryu corpse
+[05/07/2020 22:02]  You see: an oni corpse
+[05/07/2020 22:02]  You see: a hiryu corpse
+[05/07/2020 22:02]  You see: a pandorian tiger corpse
+[05/07/2020 22:02]  You see: a hiryu corpse
+[05/07/2020 22:02]  You see: the remains of Hobo Jim
+[05/07/2020 22:02]  You see: a pandorian tiger corpse
+[05/07/2020 22:02]  System: AUTOLOOT: Engine Start...
+[05/07/2020 22:02]  System: Loading WorldMap markers..
+[05/07/2020 22:02]  System: WorldMap loaded!
+[05/07/2020 22:02]  System: WorldMap markers loaded (0)
+[05/07/2020 22:02]  You see: a lizardman corpse
+[05/07/2020 22:02]  Hobo Jim: I am dead and cannot do that.
+[05/07/2020 22:02]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:02]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:02]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:02]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:02]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:02]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:02]  You see: some damage has been healed : 2 [27]
+[05/07/2020 22:02]  handikap: Divinum Furis [Divine Fury]
+[05/07/2020 22:02]  System: 500 gold has been withdrawn from your bank box. [19]
+[05/07/2020 22:02]  System: 750 gold has been withdrawn from your bank box. [3]
+[05/07/2020 22:02]  System: 3000 gold has been withdrawn from your bank box.
+[05/07/2020 22:02]  System: 1300 gold has been withdrawn from your bank box. [2]
+[05/07/2020 22:02]  System: 4500 gold has been withdrawn from your bank box. [4]
+[05/07/2020 22:02]  System: You will be automatically resurrected in 15 minutes.  You can explore the underworld or find another way to live again.
+[05/07/2020 22:02]  handikap: Vas An Nox [Arch Cure]
+[05/07/2020 22:02]  System: Some of the damage you received has been converted to heal you. [28]
+[05/07/2020 22:02]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:02]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/07/2020 22:02]  You see:  a pandorian tiger 
+[05/07/2020 22:02]  You see:  iAteKanga 
+[05/07/2020 22:02]  You see:  PigletForDinner 
+[05/07/2020 22:02]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/07/2020 22:02]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:02]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:02]  handikap: Vas An Nox [Arch Cure]
+[05/07/2020 22:02]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:02]  handikap: An Corp [Resurrection]
+[05/07/2020 22:02]  handikap: Vas An Nox [Arch Cure]
+[05/07/2020 22:02]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:02]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:02]  handikap: Vas An Nox [Arch Cure]
+[05/07/2020 22:02]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:02]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:02]  handikap: Vas An Nox [Arch Cure]
+[05/07/2020 22:02]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:02]  handikap: An Corp [Resurrection]
+[05/07/2020 22:02]  handikap: Vas An Nox [Arch Cure]
+[05/07/2020 22:02]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:02]  handikap: An Corp [Resurrection]
+[05/07/2020 22:02]  handikap: An Corp [Resurrection]
+[05/07/2020 22:02]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:02]  handikap: Vas An Nox [Arch Cure]
+[05/07/2020 22:02]  You see:  a deathwatch beetle (Infested)
+[05/07/2020 22:02]  handikap: An Corp [Resurrection]
+[05/07/2020 22:02]  System: Friend added: handikap
+[05/07/2020 22:02]  System: You have lost a lot of fame.
+[05/07/2020 22:02]  System: Autoloot: Invalid Bag, Switch to backpack
+[05/07/2020 22:02]  handikap: Augus Luminos [Holy Light]
+[05/07/2020 22:02]  You see: a deathwatchbeetle corpse
+[05/07/2020 22:03]  System: handikap : Attempting to heal you.
+[05/07/2020 22:03]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/07/2020 22:03]  System: You are frozen and cannot move.
+[05/07/2020 22:03]  System: some damage has been healed : 39
+[05/07/2020 22:03]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:03]  You see:  Serado the awakened (Infested)
+[05/07/2020 22:03]  You see:  a pandorian tiger 
+[05/07/2020 22:03]  You see:  iAteKanga 
+[05/07/2020 22:03]  You see:  PigletForDinner 
+[05/07/2020 22:03]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/07/2020 22:03]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:03]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:03]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:03]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:03]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:03]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:03]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:03]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/07/2020 22:03]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/07/2020 22:03]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:03]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:03]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:03]  handikap: Divinum Furis [Divine Fury]
+[05/07/2020 22:03]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:03]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:03]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:03]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:03]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:03]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:03]  System: The soul charge effect converts some of the damage you received into mana.
+[05/07/2020 22:03]  System: Some of the damage you received has been converted to heal you.
+[05/07/2020 22:03]  System: some damage has been healed : 2
+[05/07/2020 22:03]  handikap: Forul Solum [Enemy of One]
+[05/07/2020 22:03]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:03]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:03]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:03]  Hobo Jim: Forul Solum [Enemy of One]
+[05/07/2020 22:03]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:03]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:03]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:03]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:03]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/07/2020 22:03]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:03]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:03]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:03]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:03]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:03]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:03]  System: some damage has been healed : 2
+[05/07/2020 22:03]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/07/2020 22:03]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:03]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:03]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:03]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:03]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:03]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:03]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:03]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:03]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:03]  You see:  a deathwatch beetle hatchling (Infested)
+[05/07/2020 22:03]  You see:  a deathwatch beetle 
+[05/07/2020 22:03]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:03]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:03]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:03]  System: Some of the damage you received has been converted to heal you.
+[05/07/2020 22:03]  System: The soul charge effect converts some of the damage you received into mana.
+[05/07/2020 22:03]  handikap: Forul Solum [Enemy of One]
+[05/07/2020 22:03]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/07/2020 22:03]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/07/2020 22:03]  a deathwatch beetle: * a deathwatch beetle begins to spasm uncontrollably. *
+[05/07/2020 22:03]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:03]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:03]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:03]  System: a deathwatch beetle spits a poisonous substance at you!
+[05/07/2020 22:03]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:03]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:03]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:03]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:03]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:03]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:03]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/07/2020 22:03]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/07/2020 22:03]  System: some damage has been healed : 2
+[05/07/2020 22:03]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:03]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:03]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:03]  You see: a deathwatchbeetle corpse
+[05/07/2020 22:03]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:03]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/07/2020 22:03]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/07/2020 22:03]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:03]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:03]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:03]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:03]  System: Some of the damage you received has been converted to heal you.
+[05/07/2020 22:03]  System: The soul charge effect converts some of the damage you received into mana.
+[05/07/2020 22:03]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/07/2020 22:03]  System: Script <pvm_pvp_attack_simple.py> stopped.

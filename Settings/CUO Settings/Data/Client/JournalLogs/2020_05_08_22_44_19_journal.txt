@@ -1,0 +1,843 @@
+[05/08/2020 22:44]  System: WorldMap loading...
+[05/08/2020 22:44]  System: Autoloot: Invalid Bag, Switch to backpack
+[05/08/2020 22:44]  System: You have 6 of max 50 in your mailbox.
+[05/08/2020 22:44]  You see: Lord Hobo Jim [SOUL]
+[05/08/2020 22:44]  You see:  Tony 
+[05/08/2020 22:44]  You see: Lord Draden [WKA]
+[05/08/2020 22:44]  You see: an impaler corpse
+[05/08/2020 22:44]  You see: an impaler corpse
+[05/08/2020 22:44]  System: 
+[05/08/2020 22:44]  You see:  iAteKanga 
+[05/08/2020 22:44]  You see:  PigletForDinner 
+[05/08/2020 22:44]  You see:  Tony 
+[05/08/2020 22:44]  You see: Lord Draden [WKA]
+[05/08/2020 22:44]  You see:  iAteKanga 
+[05/08/2020 22:44]  You see:  PigletForDinner 
+[05/08/2020 22:44]  You see: an impaler corpse
+[05/08/2020 22:44]  You see: an impaler corpse
+[05/08/2020 22:44]  System: Loading WorldMap markers..
+[05/08/2020 22:44]  System: WorldMap markers loaded (0)
+[05/08/2020 22:44]  System: WorldMap loaded!
+[05/08/2020 22:44]  System: The soul charge effect converts some of the damage you received into mana.
+[05/08/2020 22:44]  System: Some of the damage you received has been converted to heal you.
+[05/08/2020 22:44]  Hobo Jim: * You feel extremely weak and are in severe pain! *
+[05/08/2020 22:44]  System: The soul charge effect converts some of the damage you received into mana.
+[05/08/2020 22:44]  System: Some of the damage you received has been converted to heal you.
+[05/08/2020 22:44]  You see:  Tony 
+[05/08/2020 22:44]  You see: Lord Draden [WKA]
+[05/08/2020 22:44]  Hobo Jim: * You feel extremely weak and are in severe pain! *
+[05/08/2020 22:44]  System: The soul charge effect converts some of the damage you received into mana.
+[05/08/2020 22:44]  System: Some of the damage you received has been converted to heal you.
+[05/08/2020 22:44]  System: The soul charge effect converts some of the damage you received into mana.
+[05/08/2020 22:44]  System: Some of the damage you received has been converted to heal you.
+[05/08/2020 22:44]  Hobo Jim: * You feel extremely weak and are in severe pain! *
+[05/08/2020 22:44]  System: The soul charge effect converts some of the damage you received into mana. [2]
+[05/08/2020 22:44]  System: Some of the damage you received has been converted to heal you. [2]
+[05/08/2020 22:44]  Hobo Jim: * You feel extremely weak and are in severe pain! *
+[05/08/2020 22:44]  System: The soul charge effect converts some of the damage you received into mana.
+[05/08/2020 22:44]  System: Some of the damage you received has been converted to heal you.
+[05/08/2020 22:45]  System: The soul charge effect converts some of the damage you received into mana.
+[05/08/2020 22:45]  System: Some of the damage you received has been converted to heal you.
+[05/08/2020 22:45]  Hobo Jim: * You feel extremely weak and are in severe pain! *
+[05/08/2020 22:45]  Draden: Des Sanct [Curse]
+[05/08/2020 22:45]  System: The soul charge effect converts some of the damage you received into mana.
+[05/08/2020 22:45]  System: Some of the damage you received has been converted to heal you.
+[05/08/2020 22:45]  Hobo Jim: An Nox [Cure]
+[05/08/2020 22:45]  System: You have been cured of all poisons!
+[05/08/2020 22:45]  Draden: str nd d bon
+[05/08/2020 22:45]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/08/2020 22:45]  System: You are frozen and cannot move.
+[05/08/2020 22:45]  System: The soul charge effect converts some of the damage you received into mana.
+[05/08/2020 22:45]  System: Some of the damage you received has been converted to heal you.
+[05/08/2020 22:45]  System: Your strength has changed by -6.  It is now 311
+[05/08/2020 22:45]  System: Your dexterity has changed by -6.  It is now 224
+[05/08/2020 22:45]  System: Your intelligence has changed by -6.  It is now 112
+[05/08/2020 22:45]  System: Your strength has changed by 6.  It is now 317
+[05/08/2020 22:45]  System: Your dexterity has changed by 6.  It is now 230
+[05/08/2020 22:45]  System: Your intelligence has changed by 6.  It is now 118
+[05/08/2020 22:45]  System: Your dexterity has changed by -12.  It is now 218
+[05/08/2020 22:45]  System: Your dexterity has changed by 12.  It is now 230
+[05/08/2020 22:45]  System: Your strength has changed by -6.  It is now 311
+[05/08/2020 22:45]  System: Your dexterity has changed by -6.  It is now 224
+[05/08/2020 22:45]  System: Your intelligence has changed by -6.  It is now 112
+[05/08/2020 22:46]  Draden: Rel Sanct [Bless]
+[05/08/2020 22:46]  Draden: Extermo Vomica [Remove Curse]
+[05/08/2020 22:47]  System: Script <ShrinkPets.py> started.
+[05/08/2020 22:47]  System: Shrinking...
+[05/08/2020 22:47]  System: Script Error: UseItem: Invalid Serial
+[05/08/2020 22:47]  System: Shrinking...
+[05/08/2020 22:47]  System: You place the iAteKanga Idol into your pack.
+[05/08/2020 22:47]  System: Shrinking...
+[05/08/2020 22:47]  System: Script <ShrinkPets.py> stopped.
+[05/08/2020 22:47]  System: Script <ShrinkPets.py> started.
+[05/08/2020 22:47]  System: Shrinking...
+[05/08/2020 22:47]  System: You place the PigletForDinner Idol into your pack.
+[05/08/2020 22:48]  System: Shrinking...
+[05/08/2020 22:48]  System: Script <ShrinkPets.py> stopped.
+[05/08/2020 22:48]  System: If you give me your unused ToT or Doom artifacts, i will bless you with good fortune in your future battles!
+[05/08/2020 22:48]  You see:  Richard the artifact hoarder
+[05/08/2020 22:48]  You see:  Kon's Brother The Dealer
+[05/08/2020 22:48]  : When AFK, hang out here. Do not PvM afk or can get banned
+[05/08/2020 22:48]  System: You have entered *Safe AFK Zone*
+[05/08/2020 22:48]  System: You have left *Safe AFK Zone*
+[05/08/2020 22:48]  You see:  Mireya the variety dealer
+[05/08/2020 22:48]  You see:  George the alchemist
+[05/08/2020 22:48]  Mireya: Greetings.  Have a look around.
+[05/08/2020 22:48]  System: You couldn't find anything to grab
+[05/08/2020 22:48]  System: Script <Grab.py> started.
+[05/08/2020 22:48]  System: Script <Grab.py> stopped.
+[05/08/2020 22:48]  System: You must wait for 4.58 seconds.
+[05/08/2020 22:48]  System: Script <Grab.py> started.
+[05/08/2020 22:48]  System: Script <Grab.py> stopped.
+[05/08/2020 22:48]  System: Script <Grab.py> started.
+[05/08/2020 22:48]  System: You must wait for 4.2 seconds.
+[05/08/2020 22:48]  System: Script <Grab.py> stopped.
+[05/08/2020 22:48]  System: You must wait for 3.47 seconds.
+[05/08/2020 22:48]  System: Script <Grab.py> started.
+[05/08/2020 22:48]  System: Script <Grab.py> stopped.
+[05/08/2020 22:48]  System: You must wait for 3.28 seconds.
+[05/08/2020 22:48]  System: Script <Grab.py> started.
+[05/08/2020 22:48]  System: Script <Grab.py> stopped.
+[05/08/2020 22:48]  System: Script <Grab.py> started.
+[05/08/2020 22:48]  System: You must wait for 3 seconds.
+[05/08/2020 22:48]  System: You must wait for 2.91 seconds.
+[05/08/2020 22:48]  System: Script <Grab.py> stopped.
+[05/08/2020 22:49]  You see: forge
+[05/08/2020 22:49]  You see:  Kon's Brother The Dealer
+[05/08/2020 22:49]  You see:  Richard the artifact hoarder
+[05/08/2020 22:49]  System: You have entered *Safe AFK Zone*
+[05/08/2020 22:49]  System: Richard the artifact hoarder cannot be harmed.
+[05/08/2020 22:49]  Kon's Brother: Greetings.  Have a look around.
+[05/08/2020 22:49]  System: Script <Grab.py> started.
+[05/08/2020 22:49]  System: You couldn't find anything to grab
+[05/08/2020 22:49]  System: You must wait for 4.97 seconds.
+[05/08/2020 22:49]  System: Script <Grab.py> stopped.
+[05/08/2020 22:49]  System: You must wait for 4.64 seconds.
+[05/08/2020 22:49]  System: Script <Grab.py> started.
+[05/08/2020 22:49]  System: Script <Grab.py> stopped.
+[05/08/2020 22:49]  System: Script <Grab.py> started.
+[05/08/2020 22:49]  System: You must wait for 4.36 seconds.
+[05/08/2020 22:49]  System: You must wait for 4.33 seconds.
+[05/08/2020 22:49]  System: Script <Grab.py> stopped.
+[05/08/2020 22:49]  System: You must wait for 4.08 seconds.
+[05/08/2020 22:49]  System: Script <Grab.py> started.
+[05/08/2020 22:49]  System: Script <Grab.py> stopped.
+[05/08/2020 22:49]  System: Script <Grab.py> started.
+[05/08/2020 22:49]  System: You must wait for 3.72 seconds.
+[05/08/2020 22:49]  System: Script <Grab.py> stopped.
+[05/08/2020 22:49]  System: You must wait for 3.44 seconds.
+[05/08/2020 22:49]  System: Script <Grab.py> started.
+[05/08/2020 22:49]  System: Script <Grab.py> stopped.
+[05/08/2020 22:49]  System: Script <Grab.py> started.
+[05/08/2020 22:49]  System: You must wait for 3.14 seconds.
+[05/08/2020 22:49]  System: You must wait for 3.11 seconds.
+[05/08/2020 22:49]  System: Script <Grab.py> stopped.
+[05/08/2020 22:49]  System: Script <Grab.py> started.
+[05/08/2020 22:49]  System: You must wait for 2.84 seconds.
+[05/08/2020 22:49]  System: You must wait for 2.8 seconds.
+[05/08/2020 22:49]  System: Script <Grab.py> stopped.
+[05/08/2020 22:49]  System: You must wait for 2.58 seconds.
+[05/08/2020 22:49]  System: Script <Grab.py> started.
+[05/08/2020 22:49]  System: Script <Grab.py> stopped.
+[05/08/2020 22:49]  System: Script <Grab.py> started.
+[05/08/2020 22:49]  System: You must wait for 2.28 seconds.
+[05/08/2020 22:49]  System: Script <Grab.py> stopped.
+[05/08/2020 22:49]  Richard: Oh thank you kindly, this was quite an item of calamity, the sheen still lusters in this one, truly precious!
+[05/08/2020 22:49]  System: You have gained a tremendous amount of blessing's from Lady Luck
+[05/08/2020 22:49]  System: Lady Luck thanks you for your offering, but looks sad when she looks at you.
+[05/08/2020 22:49]  : When AFK, hang out here. Do not PvM afk or can get banned
+[05/08/2020 22:49]  System: You have left *Safe AFK Zone*
+[05/08/2020 22:49]  System: Your strength has changed by 6.  It is now 317
+[05/08/2020 22:49]  System: Your dexterity has changed by 6.  It is now 230
+[05/08/2020 22:49]  System: Your intelligence has changed by 6.  It is now 118
+[05/08/2020 22:50]  You see: Lord Draden [WKA]
+[05/08/2020 22:50]  You see:  Tony 
+[05/08/2020 22:50]  You see: Lord Greenblazer 
+[05/08/2020 22:50]  You see:  an abyssmal horror 
+[05/08/2020 22:50]  System: Script <GetPets.py> started.
+[05/08/2020 22:50]  Greenblazer: nvm
+[05/08/2020 22:50]  You see:  iAteKanga 
+[05/08/2020 22:50]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 22:50]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 22:50]  System: Setting ability ArmorIgnore
+[05/08/2020 22:50]  You see:  PigletForDinner 
+[05/08/2020 22:50]  System: Your attack penetrates their armor!
+[05/08/2020 22:50]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 22:50]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 22:50]  System: Setting ability ArmorIgnore
+[05/08/2020 22:50]  System: Script <GetPets.py> stopped.
+[05/08/2020 22:50]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 22:50]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 22:50]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 22:50]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 22:50]  You see: an abyssmal horror corpse
+[05/08/2020 22:50]  System: Your attack penetrates their armor! [3]
+[05/08/2020 22:50]  You see:  Arsat the Dark Father
+[05/08/2020 22:50]  You see: Lord Draden [WKA]
+[05/08/2020 22:50]  You see: Lord Greenblazer 
+[05/08/2020 22:50]  You see:  Ajayi the taxed healer
+[05/08/2020 22:50]  You see:  Tony 
+[05/08/2020 22:51]  Greenblazer: u freeze too?
+[05/08/2020 22:51]  You see: Lord Draden [WKA]
+[05/08/2020 22:51]  Hobo Jim: few times
+[05/08/2020 22:51]  Hobo Jim: lol
+[05/08/2020 22:51]  You see: Lord Draden [WKA]
+[05/08/2020 22:51]  Greenblazer: Forul Solum [Enemy of One]
+[05/08/2020 22:51]  Hobo Jim: went to trade in a thingy
+[05/08/2020 22:51]  System: Some of the damage you received has been converted to heal you.
+[05/08/2020 22:51]  System: some damage has been healed : 3
+[05/08/2020 22:51]  Hobo Jim: Forul Solum [Enemy of One]
+[05/08/2020 22:51]  Hobo Jim: All Kill
+[05/08/2020 22:51]  System: some damage has been healed : 1
+[05/08/2020 22:51]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 22:51]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 22:51]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 22:51]  System: Your attack penetrates their armor!
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  Draden: Forul Solum [Enemy of One]
+[05/08/2020 22:51]  Draden: All Kill
+[05/08/2020 22:51]  System: Setting ability MortalStrike
+[05/08/2020 22:51]  System: Some of the damage you received has been converted to heal you. [12]
+[05/08/2020 22:51]  You see: some damage has been healed : 1 [8]
+[05/08/2020 22:51]  System: You deliver a mortal wound!
+[05/08/2020 22:51]  System: Setting ability MortalStrike
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  System: Your attack penetrates their armor! [5]
+[05/08/2020 22:51]  Hobo Jim: Divinum Furis [Divine Fury]
+[05/08/2020 22:51]  Draden: Des Mani [Weaken]
+[05/08/2020 22:51]  System: Your calm senses made you able to continue casting the spell.
+[05/08/2020 22:51]  You see: some damage has been healed : 1 [8]
+[05/08/2020 22:51]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  System: Your attack penetrates their armor! [4]
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  System: You need 52 mana to perform that attack
+[05/08/2020 22:51]  System: Some of the damage you received has been converted to heal you. [17]
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  You see: some damage has been healed : 1 [5]
+[05/08/2020 22:51]  You see:  a skeletal knight 
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  System: You need 26 mana to perform that attack
+[05/08/2020 22:51]  You see: a skeletal corpse
+[05/08/2020 22:51]  You see:  a bone knight 
+[05/08/2020 22:51]  You see:  a rotting corpse 
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  System: Your attack penetrates their armor!
+[05/08/2020 22:51]  You see: a skeletal corpse
+[05/08/2020 22:51]  System: You need 52 mana to perform that attack
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  You see: a rotting corpse
+[05/08/2020 22:51]  You see: some damage has been healed : 1 [5]
+[05/08/2020 22:51]  You see:  a spectre 
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  You see: a ghostly corpse
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  System: Your attack penetrates their armor! [7]
+[05/08/2020 22:51]  You see:  a lich 
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  System: Some of the damage you received has been converted to heal you. [16]
+[05/08/2020 22:51]  You see: some damage has been healed : 1 [5]
+[05/08/2020 22:51]  You see:  a ghoul 
+[05/08/2020 22:51]  You see: a ghostly corpse
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  You see:  a skeleton 
+[05/08/2020 22:51]  You see: a lich corpse
+[05/08/2020 22:51]  System: Your attack penetrates their armor! [8]
+[05/08/2020 22:51]  You see: a skeletal corpse
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  Draden: Des Sanct [Curse]
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  You see: some damage has been healed : 1 [9]
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  You see:  a rotting corpse 
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  You see:  a zombie 
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  System: Your attack penetrates their armor! [6]
+[05/08/2020 22:51]  You see: a rotting corpse
+[05/08/2020 22:51]  You see: a rotting corpse
+[05/08/2020 22:51]  You see:  a ghoul 
+[05/08/2020 22:51]  You see: a ghostly corpse
+[05/08/2020 22:51]  You see:  a skeletal knight 
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  You see:  a lich 
+[05/08/2020 22:51]  a lich: *rummages through a corpse and takes an item*
+[05/08/2020 22:51]  System: Some of the damage you received has been converted to heal you. [18]
+[05/08/2020 22:51]  You see: some damage has been healed : 1 [6]
+[05/08/2020 22:51]  You see: a skeletal corpse
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  Tony: * The poison seems to have no effect. *
+[05/08/2020 22:51]  You see: a lich corpse
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  You see:  a lich lord 
+[05/08/2020 22:51]  You see:  a mummy 
+[05/08/2020 22:51]  System: Your attack penetrates their armor! [8]
+[05/08/2020 22:51]  You see:  a mummy 
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  You see: a mummy corpse
+[05/08/2020 22:51]  You see: a mummy corpse
+[05/08/2020 22:51]  You see:  a zombie 
+[05/08/2020 22:51]  You see: some damage has been healed : 1 [8]
+[05/08/2020 22:51]  You see: a rotting corpse
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  System: Your attack penetrates their armor! [6]
+[05/08/2020 22:51]  You see:  a zombie 
+[05/08/2020 22:51]  You see: a rotting corpse
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  You see:  a rotting corpse 
+[05/08/2020 22:51]  System: Some of the damage you received has been converted to heal you. [16]
+[05/08/2020 22:51]  You see: some damage has been healed : 1 [5]
+[05/08/2020 22:51]  You see:  a rotting corpse 
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  You see: a rotting corpse
+[05/08/2020 22:51]  You see: a rotting corpse
+[05/08/2020 22:51]  You see: a ghostly corpse
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  System: Setting ability MortalStrike
+[05/08/2020 22:51]  System: Your attack penetrates their armor! [8]
+[05/08/2020 22:51]  System: You deliver a mortal wound!
+[05/08/2020 22:51]  You see:  a rotting corpse 
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  You see: some damage has been healed : 1 [10]
+[05/08/2020 22:51]  You see: a rotting corpse
+[05/08/2020 22:51]  System: Setting ability ArmorIgnore
+[05/08/2020 22:51]  You see:  a lich 
+[05/08/2020 22:51]  You see: a ghostly corpse
+[05/08/2020 22:51]  Hobo Jim: All Kill
+[05/08/2020 22:52]  System: Your attack penetrates their armor! [4]
+[05/08/2020 22:52]  System: Setting ability ArmorIgnore
+[05/08/2020 22:52]  System: Some of the damage you received has been converted to heal you. [18]
+[05/08/2020 22:52]  PigletForDinner: * The poison seems to have no effect. *
+[05/08/2020 22:52]  You see: some damage has been healed : 1 [4]
+[05/08/2020 22:52]  System: Setting ability ArmorIgnore
+[05/08/2020 22:52]  You see: a skeletal corpse
+[05/08/2020 22:52]  You see:  a lich lord 
+[05/08/2020 22:52]  You see:  a lich 
+[05/08/2020 22:52]  System: Setting ability ArmorIgnore
+[05/08/2020 22:52]  You see: a lich corpse
+[05/08/2020 22:52]  You see:  a spectre 
+[05/08/2020 22:52]  You see: a ghostly corpse
+[05/08/2020 22:52]  System: Your attack penetrates their armor! [6]
+[05/08/2020 22:52]  You see:  a lich lord 
+[05/08/2020 22:52]  System: Setting ability ArmorIgnore
+[05/08/2020 22:52]  You see:  a ghoul 
+[05/08/2020 22:52]  You see: some damage has been healed : 1 [9]
+[05/08/2020 22:52]  System: Setting ability ArmorIgnore
+[05/08/2020 22:52]  Greenblazer: * Greenblazer looks extremely ill. *
+[05/08/2020 22:52]  You see: a ghostly corpse
+[05/08/2020 22:52]  You see: a lich corpse
+[05/08/2020 22:52]  You see: a liche lords' corpse
+[05/08/2020 22:52]  System: Setting ability ArmorIgnore
+[05/08/2020 22:52]  System: Your attack penetrates their armor! [6]
+[05/08/2020 22:52]  System: Setting ability ArmorIgnore
+[05/08/2020 22:52]  You see:  a lich 
+[05/08/2020 22:52]  a lich: *rummages through a corpse and takes an item*
+[05/08/2020 22:52]  You see:  a mummy 
+[05/08/2020 22:52]  System: Some of the damage you received has been converted to heal you. [16]
+[05/08/2020 22:52]  System: Setting ability ArmorIgnore
+[05/08/2020 22:52]  You see: some damage has been healed : 1 [3]
+[05/08/2020 22:52]  You see: a mummy corpse
+[05/08/2020 22:52]  You see:  a spectre 
+[05/08/2020 22:52]  You see: a ghostly corpse
+[05/08/2020 22:52]  You see: a lich corpse
+[05/08/2020 22:52]  System: Setting ability ArmorIgnore
+[05/08/2020 22:52]  You see: a liche lords' corpse
+[05/08/2020 22:52]  System: Setting ability ArmorIgnore
+[05/08/2020 22:52]  System: Setting ability ArmorIgnore
+[05/08/2020 22:52]  System: Your attack penetrates their armor! [8]
+[05/08/2020 22:52]  You see: a liche lords' corpse
+[05/08/2020 22:52]  You see: some damage has been healed : 1 [5]
+[05/08/2020 22:52]  System: Setting ability ArmorIgnore
+[05/08/2020 22:52]  You see:  a spectre 
+[05/08/2020 22:52]  System: Setting ability ArmorIgnore
+[05/08/2020 22:52]  Draden: I honor you
+[05/08/2020 22:52]  You see:  a skeletal knight 
+[05/08/2020 22:52]  System: Setting ability ArmorIgnore
+[05/08/2020 22:52]  System: some damage has been healed : 8
+[05/08/2020 22:52]  System: Your attack penetrates their armor! [2]
+[05/08/2020 22:52]  You see:  a rotting corpse 
+[05/08/2020 22:52]  Greenblazer: * Greenblazer looks extremely ill. *
+[05/08/2020 22:52]  System: Some of the damage you received has been converted to heal you. [10]
+[05/08/2020 22:52]  You see: a ghostly corpse
+[05/08/2020 22:52]  System: some damage has been healed : 1
+[05/08/2020 22:52]  System: Setting ability MortalStrike
+[05/08/2020 22:52]  You see: a skeletal corpse
+[05/08/2020 22:52]  You see:  a skeleton 
+[05/08/2020 22:52]  You see:  a skeleton 
+[05/08/2020 22:52]  System: Setting ability MortalStrike
+[05/08/2020 22:52]  System: You deliver a mortal wound!
+[05/08/2020 22:52]  System: Your attack penetrates their armor! [2]
+[05/08/2020 22:52]  You see: a skeletal corpse
+[05/08/2020 22:52]  You see: a skeletal corpse
+[05/08/2020 22:52]  You see: a rotting corpse
+[05/08/2020 22:52]  System: Setting ability MortalStrike
+[05/08/2020 22:52]  System: Your target mortal wounds is still healing, your attack does increased damage instead!
+[05/08/2020 22:52]  You see: some damage has been healed : 1 [4]
+[05/08/2020 22:52]  System: Setting ability MortalStrike
+[05/08/2020 22:52]  System: Setting ability ArmorIgnore
+[05/08/2020 22:52]  You see:  a zombie 
+[05/08/2020 22:52]  System: You have gained a lot of fame.
+[05/08/2020 22:52]  You see: a demon knight corpse
+[05/08/2020 22:52]  Draden: I honor you
+[05/08/2020 22:52]  You see:  a rotting corpse 
+[05/08/2020 22:52]  You see:  a spectre 
+[05/08/2020 22:52]  You see:  a lich 
+[05/08/2020 22:52]  Draden: I honor you
+[05/08/2020 22:52]  System: Your attack penetrates their armor! [2]
+[05/08/2020 22:52]  You see:  a lich lord 
+[05/08/2020 22:52]  a zombie: Brains!!!
+[05/08/2020 22:52]  System: Some of the damage you received has been converted to heal you. [8]
+[05/08/2020 22:52]  You see: a rotting corpse
+[05/08/2020 22:52]  You see: a ghostly corpse
+[05/08/2020 22:52]  You see: some damage has been healed : 1
+[05/08/2020 22:52]  You see:  a lich lord 
+[05/08/2020 22:52]  a lich lord: *rummages through a corpse and takes an item*
+[05/08/2020 22:52]  Draden: I honor you
+[05/08/2020 22:52]  You see: a rotting corpse
+[05/08/2020 22:52]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 22:52]  Greenblazer: * Greenblazer looks extremely ill. *
+[05/08/2020 22:52]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 22:52]  You see: a lich corpse
+[05/08/2020 22:52]  You see:  a wraith 
+[05/08/2020 22:52]  Draden: Forul Solum [Enemy of One]
+[05/08/2020 22:52]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 22:52]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 22:52]  You see:  a mummy 
+[05/08/2020 22:52]  You see:  a mummy 
+[05/08/2020 22:52]  System: Setting ability ArmorIgnore
+[05/08/2020 22:52]  System: Your attack penetrates their armor!
+[05/08/2020 22:52]  System: You must wait to perform another action.
+[05/08/2020 22:52]  You see: a ghostly corpse
+[05/08/2020 22:52]  System: Setting ability ArmorIgnore
+[05/08/2020 22:52]  You see: a liche lords' corpse
+[05/08/2020 22:52]  System: Setting ability ArmorIgnore
+[05/08/2020 22:52]  System: You have gained a good amount of fame.
+[05/08/2020 22:52]  You see: a mummy corpse
+[05/08/2020 22:52]  You see: a mummy corpse
+[05/08/2020 22:52]  You see: a liche lords' corpse
+[05/08/2020 22:52]  System: Your attack penetrates their armor! [3]
+[05/08/2020 22:52]  System: You must wait to perform another action.
+[05/08/2020 22:52]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 22:52]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 22:52]  Greenblazer: * Greenblazer looks extremely ill. *
+[05/08/2020 22:52]  System: You must wait to perform another action.
+[05/08/2020 22:52]  Hobo Jim: All Kill
+[05/08/2020 22:52]  Hobo Jim: You stepped onto a spike trap!
+[05/08/2020 22:52]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 22:52]  System: Your attack penetrates their armor!
+[05/08/2020 22:52]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 22:52]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 22:52]  Greenblazer: Forul Solum [Enemy of One]
+[05/08/2020 22:52]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 22:52]  System: Setting ability ArmorIgnore
+[05/08/2020 22:52]  Hobo Jim: Forul Solum [Enemy of One]
+[05/08/2020 22:52]  System: Your attack penetrates their armor!
+[05/08/2020 22:52]  You see:  Tony 
+[05/08/2020 22:52]  You see: Lord Draden [WKA]
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  System: Some of the damage you received has been converted to heal you.
+[05/08/2020 22:53]  System: some damage has been healed : 3
+[05/08/2020 22:53]  Hobo Jim: Forul Solum [Enemy of One]
+[05/08/2020 22:53]  Draden: All Kill
+[05/08/2020 22:53]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 22:53]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  System: Your attack penetrates their armor!
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  Draden: Forul Solum [Enemy of One]
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  Draden: Des Mani [Weaken]
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  System: Setting ability MortalStrike
+[05/08/2020 22:53]  System: Your attack penetrates their armor! [7]
+[05/08/2020 22:53]  System: You deliver a mortal wound!
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  System: Some of the damage you received has been converted to heal you.
+[05/08/2020 22:53]  System: some damage has been healed : 3
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  System: The soul charge effect converts some of the damage you received into mana.
+[05/08/2020 22:53]  System: some damage has been healed : 7
+[05/08/2020 22:53]  System: Your attack penetrates their armor! [6]
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  System: Your attack penetrates their armor! [6]
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  System: some damage has been healed : 6
+[05/08/2020 22:53]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/08/2020 22:53]  System: Some of the damage you received has been converted to heal you. [2]
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  Greenblazer: wings of nobility trash?
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  System: The soul charge effect converts some of the damage you received into mana.
+[05/08/2020 22:53]  System: Your attack penetrates their armor! [8]
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  System: some damage has been healed : 2
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  System: Your attack penetrates their armor! [6]
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  System: some damage has been healed : 9
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  System: Some of the damage you received has been converted to heal you. [2]
+[05/08/2020 22:53]  System: Your strength has changed by -8.  It is now 309
+[05/08/2020 22:53]  System: Your dexterity has changed by -4.  It is now 226
+[05/08/2020 22:53]  System: some damage has been healed : 7
+[05/08/2020 22:53]  System: some damage has been healed : 3
+[05/08/2020 22:53]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  System: The soul charge effect converts some of the damage you received into mana. [3]
+[05/08/2020 22:53]  System: Your attack penetrates their armor! [6]
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  System: Setting ability MortalStrike
+[05/08/2020 22:53]  System: You deliver a mortal wound!
+[05/08/2020 22:53]  System: Setting ability MortalStrike
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  System: Your attack penetrates their armor! [4]
+[05/08/2020 22:53]  System: some damage has been healed : 3
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  System: Some of the damage you received has been converted to heal you. [3]
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  System: You have gained a lot of fame.
+[05/08/2020 22:53]  You see: a darknight creeper corpse
+[05/08/2020 22:53]  System: The soul charge effect converts some of the damage you received into mana.
+[05/08/2020 22:53]  System: Your attack penetrates their armor! [4]
+[05/08/2020 22:53]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/08/2020 22:53]  System: Some of the damage you received has been converted to heal you.
+[05/08/2020 22:53]  You see: Lord Draden [WKA]
+[05/08/2020 22:53]  System: The soul charge effect converts some of the damage you received into mana.
+[05/08/2020 22:53]  Greenblazer: Forul Solum [Enemy of One]
+[05/08/2020 22:53]  You see: Lord Draden [WKA]
+[05/08/2020 22:53]  System: Some of the damage you received has been converted to heal you.
+[05/08/2020 22:53]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/08/2020 22:53]  System: The soul charge effect converts some of the damage you received into mana. [2]
+[05/08/2020 22:53]  Hobo Jim: All Kill
+[05/08/2020 22:53]  Draden: I honor you
+[05/08/2020 22:53]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 22:53]  System: Your attack penetrates their armor!
+[05/08/2020 22:53]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 22:53]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 22:53]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 22:53]  Draden: All Kill
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  System: Some of the damage you received has been converted to heal you. [2]
+[05/08/2020 22:53]  System: The soul charge effect converts some of the damage you received into mana.
+[05/08/2020 22:53]  Hobo Jim: Forul Solum [Enemy of One]
+[05/08/2020 22:53]  Draden: Forul Solum [Enemy of One]
+[05/08/2020 22:53]  System: Your attack penetrates their armor! [3]
+[05/08/2020 22:53]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/08/2020 22:53]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:53]  System: Your attack penetrates their armor! [2]
+[05/08/2020 22:53]  System: Setting ability ArmorIgnore
+[05/08/2020 22:54]  System: Some of the damage you received has been converted to heal you.
+[05/08/2020 22:54]  Draden: An Nox [Cure]
+[05/08/2020 22:54]  System: Setting ability ArmorIgnore
+[05/08/2020 22:54]  System: The soul charge effect converts some of the damage you received into mana.
+[05/08/2020 22:54]  System: You have been cured of all poisons!
+[05/08/2020 22:54]  System: Setting ability ArmorIgnore
+[05/08/2020 22:54]  System: Setting ability ArmorIgnore
+[05/08/2020 22:54]  System: Your attack penetrates their armor! [6]
+[05/08/2020 22:54]  Hobo Jim: Divinum Furis [Divine Fury]
+[05/08/2020 22:54]  Draden: Des Mani [Weaken]
+[05/08/2020 22:54]  System: Setting ability MortalStrike
+[05/08/2020 22:54]  System: You deliver a mortal wound!
+[05/08/2020 22:54]  System: Your attack penetrates their armor! [2]
+[05/08/2020 22:54]  Draden: Uus Jux [Clumsy]
+[05/08/2020 22:54]  System: Setting ability ArmorIgnore
+[05/08/2020 22:54]  System: Some of the damage you received has been converted to heal you.
+[05/08/2020 22:54]  System: some damage has been healed : 3
+[05/08/2020 22:54]  System: Setting ability ArmorIgnore
+[05/08/2020 22:54]  System: The soul charge effect converts some of the damage you received into mana.
+[05/08/2020 22:54]  System: Setting ability ArmorIgnore
+[05/08/2020 22:54]  System: Setting ability ArmorIgnore
+[05/08/2020 22:54]  System: Your attack penetrates their armor! [6]
+[05/08/2020 22:54]  System: Setting ability ArmorIgnore
+[05/08/2020 22:54]  System: Setting ability ArmorIgnore
+[05/08/2020 22:54]  System: Setting ability ArmorIgnore
+[05/08/2020 22:54]  System: Your attack penetrates their armor! [4]
+[05/08/2020 22:54]  System: Setting ability ArmorIgnore
+[05/08/2020 22:54]  System: Setting ability ArmorIgnore
+[05/08/2020 22:54]  System: Setting ability ArmorIgnore
+[05/08/2020 22:54]  System: Your attack penetrates their armor! [8]
+[05/08/2020 22:54]  System: Setting ability ArmorIgnore
+[05/08/2020 22:54]  System: Setting ability ArmorIgnore
+[05/08/2020 22:54]  System: Setting ability ArmorIgnore
+[05/08/2020 22:54]  System: Setting ability ArmorIgnore
+[05/08/2020 22:54]  System: You have gained a little fame.
+[05/08/2020 22:54]  You see: a fleshrenderer corpse
+[05/08/2020 22:54]  System: Your attack penetrates their armor! [2]
+[05/08/2020 22:54]  System: Drag drop queue is FULL! Please wait.
+[05/08/2020 22:54]  System: Drag drop queue is FULL! Please wait.
+[05/08/2020 22:54]  System: Drag drop queue is FULL! Please wait.
+[05/08/2020 22:54]  System: Drag drop queue is FULL! Please wait.
+[05/08/2020 22:54]  System: Drag drop queue is FULL! Please wait.
+[05/08/2020 22:54]  System: Drag drop queue is FULL! Please wait.
+[05/08/2020 22:54]  System: Drag drop queue is FULL! Please wait.
+[05/08/2020 22:54]  System: Drag drop queue is FULL! Please wait.
+[05/08/2020 22:54]  System: Drag drop queue is FULL! Please wait.
+[05/08/2020 22:54]  System: Drag drop queue is FULL! Please wait.
+[05/08/2020 22:54]  System: Drag drop queue is FULL! Please wait.
+[05/08/2020 22:54]  System: Opening door...
+[05/08/2020 22:54]  You see: Lord Draden [WKA]
+[05/08/2020 22:54]  You see:  Magor 
+[05/08/2020 22:54]  You see: Lord Draden [WKA]
+[05/08/2020 22:54]  Greenblazer: Forul Solum [Enemy of One]
+[05/08/2020 22:54]  You see: Lord Greenblazer 
+[05/08/2020 22:54]  Hobo Jim: All Kill
+[05/08/2020 22:54]  Draden: All Kill
+[05/08/2020 22:54]  Draden: I honor you
+[05/08/2020 22:54]  System: Your attack penetrates their armor!
+[05/08/2020 22:54]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 22:54]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 22:54]  System: Setting ability ArmorIgnore
+[05/08/2020 22:54]  System: Setting ability MortalStrike
+[05/08/2020 22:54]  Hobo Jim: Forul Solum [Enemy of One]
+[05/08/2020 22:54]  Draden: Forul Solum [Enemy of One]
+[05/08/2020 22:54]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 22:54]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 22:54]  System: Your attack penetrates their armor!
+[05/08/2020 22:54]  System: Setting ability ArmorIgnore
+[05/08/2020 22:54]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/08/2020 22:54]  System: Setting ability MortalStrike
+[05/08/2020 22:54]  System: You cannot perform this special move right now.
+[05/08/2020 22:54]  Draden: Des Mani [Weaken]
+[05/08/2020 22:54]  Draden: Rel Wis [Feeblemind]
+[05/08/2020 22:54]  System: Your attack penetrates their armor! [2]
+[05/08/2020 22:54]  System: Setting ability MortalStrike
+[05/08/2020 22:54]  Draden: Uus Jux [Clumsy]
+[05/08/2020 22:54]  System: You deliver a mortal wound!
+[05/08/2020 22:55]  System: Setting ability ArmorIgnore
+[05/08/2020 22:55]  System: Your attack penetrates their armor! [2]
+[05/08/2020 22:55]  System: Setting ability ArmorIgnore
+[05/08/2020 22:55]  System: Setting ability ArmorIgnore
+[05/08/2020 22:55]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/08/2020 22:55]  System: Setting ability ArmorIgnore
+[05/08/2020 22:55]  System: Your attack penetrates their armor! [4]
+[05/08/2020 22:55]  System: Setting ability ArmorIgnore
+[05/08/2020 22:55]  System: Setting ability ArmorIgnore
+[05/08/2020 22:55]  System: Setting ability ArmorIgnore
+[05/08/2020 22:55]  System: Your attack penetrates their armor! [6]
+[05/08/2020 22:55]  System: Setting ability ArmorIgnore
+[05/08/2020 22:55]  System: Setting ability ArmorIgnore
+[05/08/2020 22:55]  System: Setting ability ArmorIgnore
+[05/08/2020 22:55]  System: Setting ability ArmorIgnore
+[05/08/2020 22:55]  System: Your attack penetrates their armor! [6]
+[05/08/2020 22:55]  System: Setting ability ArmorIgnore
+[05/08/2020 22:55]  System: Setting ability ArmorIgnore
+[05/08/2020 22:55]  System: Setting ability ArmorIgnore
+[05/08/2020 22:55]  System: Your attack penetrates their armor! [8]
+[05/08/2020 22:55]  You see: an impaler corpse
+[05/08/2020 22:55]  System: Opening door...
+[05/08/2020 22:55]  You see: Lord Draden [WKA]
+[05/08/2020 22:55]  System: Your strength has changed by 8.  It is now 317
+[05/08/2020 22:55]  System: Your dexterity has changed by 4.  It is now 230
+[05/08/2020 22:55]  You see: Lord Greenblazer 
+[05/08/2020 22:55]  You see: Lord Greenblazer 
+[05/08/2020 22:55]  You see: Lord Draden [WKA]
+[05/08/2020 22:55]  You see: Lord Greenblazer 
+[05/08/2020 22:55]  You see: Lord Greenblazer 
+[05/08/2020 22:55]  You see:  Tony 
+[05/08/2020 22:55]  Greenblazer: Forul Solum [Enemy of One]
+[05/08/2020 22:55]  You see: Lord Draden [WKA]
+[05/08/2020 22:55]  Hobo Jim: Forul Solum [Enemy of One]
+[05/08/2020 22:55]  Draden: I honor you
+[05/08/2020 22:55]  Draden: All Kill
+[05/08/2020 22:55]  Hobo Jim: All Kill
+[05/08/2020 22:55]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 22:55]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 22:55]  Draden: Forul Solum [Enemy of One]
+[05/08/2020 22:55]  System: Setting ability ArmorIgnore
+[05/08/2020 22:55]  System: Your attack penetrates their armor!
+[05/08/2020 22:55]  Draden: Des Mani [Weaken]
+[05/08/2020 22:55]  System: Setting ability MortalStrike
+[05/08/2020 22:55]  System: You deliver a mortal wound!
+[05/08/2020 22:55]  System: Setting ability MortalStrike
+[05/08/2020 22:55]  System: Your target mortal wounds is still healing, your attack does increased damage instead!
+[05/08/2020 22:55]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 22:55]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 22:55]  System: Your attack penetrates their armor!
+[05/08/2020 22:55]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 22:55]  Draden: Rel Wis [Feeblemind]
+[05/08/2020 22:55]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 22:55]  System: Setting ability MortalStrike
+[05/08/2020 22:55]  System: Setting ability ArmorIgnore
+[05/08/2020 22:55]  Draden: Uus Jux [Clumsy]
+[05/08/2020 22:55]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/08/2020 22:55]  System: Your attack penetrates their armor! [2]
+[05/08/2020 22:55]  Hobo Jim: Divinum Furis [Divine Fury]
+[05/08/2020 22:55]  System: Setting ability ArmorIgnore
+[05/08/2020 22:55]  System: Setting ability ArmorIgnore
+[05/08/2020 22:55]  System: Your target mortal wounds is still healing, your attack does increased damage instead!
+[05/08/2020 22:55]  System: Your attack penetrates their armor! [2]
+[05/08/2020 22:56]  System: Where will you search?
+[05/08/2020 22:56]  You see:  Marth'Fador the Shadow Knight
+[05/08/2020 22:56]  Hobo Jim: All Kill
+[05/08/2020 22:56]  System: Setting ability ArmorIgnore
+[05/08/2020 22:56]  System: Setting ability ArmorIgnore
+[05/08/2020 22:56]  Draden: All Kill
+[05/08/2020 22:56]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 22:56]  System: Your attack penetrates their armor!
+[05/08/2020 22:56]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 22:56]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 22:56]  System: Some of the damage you received has been converted to heal you.
+[05/08/2020 22:56]  System: some damage has been healed : 4
+[05/08/2020 22:56]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 22:56]  System: Setting ability ArmorIgnore
+[05/08/2020 22:56]  System: Setting ability MortalStrike
+[05/08/2020 22:56]  System: You deliver a mortal wound!
+[05/08/2020 22:56]  System: Your strength has changed by -8.  It is now 309
+[05/08/2020 22:56]  System: Your dexterity has changed by -4.  It is now 226
+[05/08/2020 22:56]  System: Setting ability ArmorIgnore
+[05/08/2020 22:56]  System: Your attack penetrates their armor! [5]
+[05/08/2020 22:56]  System: Setting ability ArmorIgnore
+[05/08/2020 22:56]  System: Setting ability ArmorIgnore
+[05/08/2020 22:56]  System: Setting ability ArmorIgnore
+[05/08/2020 22:56]  System: Setting ability ArmorIgnore
+[05/08/2020 22:56]  System: Your attack penetrates their armor! [8]
+[05/08/2020 22:56]  System: Setting ability ArmorIgnore
+[05/08/2020 22:56]  You see: a shadow knight corpse
+[05/08/2020 22:56]  System: Setting ability ArmorIgnore
+[05/08/2020 22:56]  System: Drag drop queue is FULL! Please wait.
+[05/08/2020 22:56]  System: Drag drop queue is FULL! Please wait.
+[05/08/2020 22:56]  System: Drag drop queue is FULL! Please wait.
+[05/08/2020 22:56]  System: Your attack penetrates their armor! [2]
+[05/08/2020 22:56]  You see: Lord Draden [WKA]
+[05/08/2020 22:56]  System: Opening door...
+[05/08/2020 22:56]  You see: Lord Draden [WKA]
+[05/08/2020 22:56]  You see:  an abyssmal horror 
+[05/08/2020 22:56]  You see: Lord Draden [WKA]
+[05/08/2020 22:56]  Hobo Jim: All Kill
+[05/08/2020 22:56]  Greenblazer: Forul Solum [Enemy of One]
+[05/08/2020 22:56]  Draden: I honor you
+[05/08/2020 22:56]  Draden: All Kill
+[05/08/2020 22:56]  Draden: All Kill
+[05/08/2020 22:56]  Hobo Jim: Forul Solum [Enemy of One]
+[05/08/2020 22:56]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 22:56]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 22:56]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 22:56]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 22:56]  System: Setting ability ArmorIgnore
+[05/08/2020 22:56]  System: Your attack penetrates their armor!
+[05/08/2020 22:56]  System: Setting ability MortalStrike
+[05/08/2020 22:56]  Draden: Forul Solum [Enemy of One]
+[05/08/2020 22:56]  System: You deliver a mortal wound!
+[05/08/2020 22:56]  System: Setting ability ArmorIgnore
+[05/08/2020 22:56]  System: Setting ability MortalStrike
+[05/08/2020 22:56]  System: Your target mortal wounds is still healing, your attack does increased damage instead!
+[05/08/2020 22:56]  System: Setting ability ArmorIgnore
+[05/08/2020 22:56]  System: Your attack penetrates their armor!
+[05/08/2020 22:56]  System: Setting ability ArmorIgnore
+[05/08/2020 22:56]  System: Setting ability ArmorIgnore
+[05/08/2020 22:56]  You see: an abyssmal horror corpse
+[05/08/2020 22:56]  System: Your attack penetrates their armor! [4]
+[05/08/2020 22:57]  You see:  Peirazo the Dark Father
+[05/08/2020 22:57]  Draden: I honor you
+[05/08/2020 22:57]  You see:  Ajayi the taxed healer
+[05/08/2020 22:57]  System: Script <Grab.py> started.
+[05/08/2020 22:57]  System: You must wait for others to leave before you can do that.
+[05/08/2020 22:57]  System: Script <Grab.py> stopped.
+[05/08/2020 22:57]  System: You must wait to perform another action.
+[05/08/2020 22:57]  System: You must wait to perform another action.
+[05/08/2020 22:57]  System: You must wait for others to leave before you can do that.
+[05/08/2020 22:57]  Hobo Jim: Bank container has 346 items, 1272 stones
+[05/08/2020 22:57]  You see: Lord Draden [WKA]
+[05/08/2020 22:57]  System: You must wait to perform another action. [2]
+[05/08/2020 22:57]  System: You must wait to perform another action.
+[05/08/2020 22:57]  You see: Lord Draden [WKA]
+[05/08/2020 22:57]  You see:  a spectre 
+[05/08/2020 22:57]  Draden: All Kill
+[05/08/2020 22:57]  Hobo Jim: All Kill
+[05/08/2020 22:57]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 22:57]  System: Some of the damage you received has been converted to heal you.
+[05/08/2020 22:57]  System: some damage has been healed : 1
+[05/08/2020 22:57]  System: Your attack penetrates their armor!
+[05/08/2020 22:57]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 22:57]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 22:57]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 22:57]  System: Setting ability ArmorIgnore
+[05/08/2020 22:57]  You see:  a spectre 
+[05/08/2020 22:57]  System: I honor you
+[05/08/2020 22:57]  System: Setting ability MortalStrike
+[05/08/2020 22:57]  System: You deliver a mortal wound!
+[05/08/2020 22:57]  You see: some damage has been healed : 1 [3]
+[05/08/2020 22:57]  System: Your attack penetrates their armor! [3]
+[05/08/2020 22:57]  System: The soul charge effect converts some of the damage you received into mana.
+[05/08/2020 22:57]  System: some damage has been healed : 19
+[05/08/2020 22:57]  System: You take extra damage from the crushing attack!
+[05/08/2020 22:57]  Greenblazer: Forul Solum [Enemy of One]
+[05/08/2020 22:57]  You see:  a bogle 
+[05/08/2020 22:57]  You see:  a bogle 
+[05/08/2020 22:57]  Hobo Jim: All Kill
+[05/08/2020 22:57]  You see: a ghostly corpse
+[05/08/2020 22:57]  You see: a ghostly corpse
+[05/08/2020 22:57]  You see:  a lich lord 
+[05/08/2020 22:57]  You see: some damage has been healed : 1 [5]
+[05/08/2020 22:57]  System: Some of the damage you received has been converted to heal you. [16]
+[05/08/2020 22:57]  Hobo Jim: Forul Solum [Enemy of One]
+[05/08/2020 22:57]  System: Your calm senses made you able to continue casting the spell.
+[05/08/2020 22:57]  System: some damage has been healed : 9
+[05/08/2020 22:57]  System: Setting ability ArmorIgnore
+[05/08/2020 22:57]  You see:  a lich 
+[05/08/2020 22:57]  a lich: *rummages through a corpse and takes an item*
+[05/08/2020 22:57]  You see: some damage has been healed : 1 [6]
+[05/08/2020 22:57]  System: Your attack penetrates their armor!
+[05/08/2020 22:57]  Hobo Jim: Divinum Furis [Divine Fury]
+[05/08/2020 22:57]  You see:  a bogle 
+[05/08/2020 22:57]  You see:  a spectre 
+[05/08/2020 22:57]  Draden: * Draden seems resistant to the poison *
+[05/08/2020 22:57]  You see: a ghostly corpse
+[05/08/2020 22:57]  You see: a ghostly corpse
+[05/08/2020 22:57]  You see:  a mummy 
+[05/08/2020 22:57]  You see: Lord Draden [WKA]
+[05/08/2020 22:57]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/08/2020 22:57]  You see:  a zombie 
+[05/08/2020 22:57]  You see: a mummy corpse
+[05/08/2020 22:57]  You see: a rotting corpse
+[05/08/2020 22:57]  System: Setting ability ArmorIgnore
+[05/08/2020 22:57]  System: Some of the damage you received has been converted to heal you. [21]
+[05/08/2020 22:57]  You see: a liche lords' corpse
+[05/08/2020 22:57]  a zombie: Brains!!!
+[05/08/2020 22:57]  You see:  a zombie 
+[05/08/2020 22:57]  You see: a rotting corpse
+[05/08/2020 22:57]  You see: some damage has been healed : 1 [8]
+[05/08/2020 22:57]  System: Your attack penetrates their armor! [3]
+[05/08/2020 22:57]  System: Setting ability ArmorIgnore
+[05/08/2020 22:57]  Draden: All Kill
+[05/08/2020 22:57]  System: Setting ability ArmorIgnore
+[05/08/2020 22:57]  System: Setting ability ArmorIgnore
+[05/08/2020 22:57]  You see: some damage has been healed : 1 [2]
+[05/08/2020 22:57]  System: Your attack penetrates their armor! [2]
+[05/08/2020 22:57]  System: Setting ability ArmorIgnore
+[05/08/2020 22:57]  System: Setting ability ArmorIgnore
+[05/08/2020 22:57]  System: Setting ability ArmorIgnore
+[05/08/2020 22:57]  System: Setting ability ArmorIgnore
+[05/08/2020 22:57]  System: Setting ability ArmorIgnore
+[05/08/2020 22:57]  System: Setting ability ArmorIgnore
+[05/08/2020 22:57]  System: Some of the damage you received has been converted to heal you. [4]
+[05/08/2020 22:57]  System: Setting ability ArmorIgnore
+[05/08/2020 22:57]  System: Setting ability MortalStrike
+[05/08/2020 22:57]  System: Setting ability ArmorIgnore
+[05/08/2020 22:57]  System: Setting ability MortalStrike
+[05/08/2020 22:57]  System: Setting ability MortalStrike
+[05/08/2020 22:57]  System: Setting ability ArmorIgnore
+[05/08/2020 22:58]  System: Setting ability MortalStrike
+[05/08/2020 22:58]  System: Setting ability ArmorIgnore
+[05/08/2020 22:58]  System: Setting ability ArmorIgnore
+[05/08/2020 22:58]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 22:58]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 22:58]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 22:58]  System: Script <pvm_pvp_attack_simple.py> stopped.

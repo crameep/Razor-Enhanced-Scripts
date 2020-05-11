@@ -1,0 +1,1918 @@
+[05/10/2020 19:36]  System: WorldMap loading...
+[05/10/2020 19:36]  System: Some of your Royal City Loyalty has decayed.
+[05/10/2020 19:36]  System: You have 6 of max 50 in your mailbox.
+[05/10/2020 19:36]  You see: Lord Hobo Jim [SOUL]
+[05/10/2020 19:36]  System: 
+[05/10/2020 19:36]  System: Loading WorldMap markers..
+[05/10/2020 19:36]  System: WorldMap markers loaded (0)
+[05/10/2020 19:36]  System: WorldMap loaded!
+[05/10/2020 19:36]  System: AUTOLOOT: Engine Start...
+[05/10/2020 19:36]  You see:  a headless one 
+[05/10/2020 19:36]  You see:  a headless one 
+[05/10/2020 19:36]  You see:  a headless one 
+[05/10/2020 19:37]  System: Some of the damage you received has been converted to heal you.
+[05/10/2020 19:37]  You see:  a headless one 
+[05/10/2020 19:37]  You see:  a headless one 
+[05/10/2020 19:37]  : Do note that hit effects animation are turned off vs wave creatures (they still do damage)
+[05/10/2020 19:37]  System: What should I use these scissors on?
+[05/10/2020 19:37]  System: 97° 59'N, 29° 2'W
+[05/10/2020 19:37]  Hobo Jim: Kal Ort Por [Recall]
+[05/10/2020 19:37]  You see:  CityBooks the parrot
+[05/10/2020 19:37]  You see:  Akilah the waiter
+[05/10/2020 19:37]  You see:  Dungeons the parrot
+[05/10/2020 19:37]  You see:  TMapsFelANDTram the parrot
+[05/10/2020 19:37]  System: WorldMap loaded!
+[05/10/2020 19:37]  You see:  GOLD SKULLS 
+[05/10/2020 19:37]  You see:  BULK BOARDS 
+[05/10/2020 19:37]  You see:  Crystals and Frags 
+[05/10/2020 19:37]  You see:  Imbue Mats 
+[05/10/2020 19:37]  You see:  Newbie 
+[05/10/2020 19:37]  You see:  New Stuff 
+[05/10/2020 19:37]  You see:   
+[05/10/2020 19:37]  You see:  Sukatai the Keeper of Chivalry
+[05/10/2020 19:37]  : If you have an empty vendor, remove them or they will be auto deleted!
+[05/10/2020 19:37]  You see:   
+[05/10/2020 19:37]  You see:   the tailor
+[05/10/2020 19:37]  You see:   the blacksmith
+[05/10/2020 19:37]  You see:   the weaver
+[05/10/2020 19:37]  You see:   the trash collector
+[05/10/2020 19:37]  You see:   the vote registrar
+[05/10/2020 19:37]  You see:  Mesmerize [WSF]
+[05/10/2020 19:37]  You see: Lord blackmyst [WSF]
+[05/10/2020 19:37]  You see:   the town crier
+[05/10/2020 19:37]  You see:   
+[05/10/2020 19:37]  System: You have entered Luna Bank
+[05/10/2020 19:37]  You see:   the hairstylist
+[05/10/2020 19:37]  You see:  Seti [AoV]
+[05/10/2020 19:37]  You see:   the innkeeper
+[05/10/2020 19:37]  You see: Lord The Animal [CoF]
+[05/10/2020 19:38]  You see:   the tinker
+[05/10/2020 19:38]  You see:  Deacon the brewer
+[05/10/2020 19:38]  You see:   the alchemist
+[05/10/2020 19:38]  You see:   the Holy Mage
+[05/10/2020 19:38]  You see:   The Prov
+[05/10/2020 19:38]  System: Script <Grab.py> started.
+[05/10/2020 19:38]  System: You must wait for others to leave before you can do that.
+[05/10/2020 19:38]  System: Script <Grab.py> stopped.
+[05/10/2020 19:38]  System: You must wait for others to leave before you can do that.
+[05/10/2020 19:38]  System: Script <Grab.py> started.
+[05/10/2020 19:38]  System: Script <Grab.py> stopped.
+[05/10/2020 19:40]  You see:  Lord Blackthorne 
+[05/10/2020 19:40]  You see:  Erol the vet
+[05/10/2020 19:42]  You see: Lord Insanity- 
+[05/10/2020 19:47]  You see:  a Dinosaur 
+[05/10/2020 19:47]  You see: Lord Insanity- 
+[05/10/2020 19:47]  Insanity-: 444bank
+[05/10/2020 19:48]  You see: Lord dnc 
+[05/10/2020 19:52]  You see: Lord Insanity- 
+[05/10/2020 19:52]  Insanity-: bank
+[05/10/2020 19:53]  You see: Lord dnc 
+[05/10/2020 19:55]  System: You there!  Yes you, the simpleton wandering aimlessly.  Come here.
+[05/10/2020 19:55]  You see: Lord Insanity- 
+[05/10/2020 19:56]  dnc: Extermo Vomica [Remove Curse]
+[05/10/2020 19:56]  dnc: [`[c
+[05/10/2020 19:57]  dnc: Kal Ort Por [Recall]
+[05/10/2020 19:57]  You see: Lord sheldor [WSF]
+[05/10/2020 20:00]  Hobo Jim: Bank container has 351 items, 1292 stones
+[05/10/2020 20:00]  System: A champion has awoken at (5511, 2360, 25) in Felucca.
+[05/10/2020 20:00]  System: ORGANIZER: Engine Start...
+[05/10/2020 20:00]  System: Resource Box: I added 3,990 Gold Coin to my storage!
+[05/10/2020 20:00]  System: Enhanced Organizer: Finish!
+[05/10/2020 20:00]  System: Select Source container
+[05/10/2020 20:00]  System: Source Container set to: bag (0E76) (0x40F8CB7C)
+[05/10/2020 20:00]  System: ORGANIZER: Engine Start...
+[05/10/2020 20:00]  System: Resource Box: I added 11 Powdered Iron to my storage!
+[05/10/2020 20:00]  System: Script Error: Move: Source Item  not found
+[05/10/2020 20:00]  System: Resource Box: I added 11 Essence Of Balance to my storage!
+[05/10/2020 20:00]  System: Resource Box: I added 14 Delicate Scales to my storage!
+[05/10/2020 20:00]  System: Script Error: Move: Source Item  not found
+[05/10/2020 20:00]  System: Resource Box: I added 17 Crystal Shards to my storage!
+[05/10/2020 20:00]  System: Resource Box: I added 9 Arcanic Rune Stone to my storage!
+[05/10/2020 20:00]  System: Resource Box: I added 12 Reflective Wolf Eye to my storage!
+[05/10/2020 20:00]  System: Resource Box: I added 2 Leather Wolf Skin to my storage!
+[05/10/2020 20:00]  System: Resource Box: I added 1,321 Arrow to my storage!
+[05/10/2020 20:00]  System: Resource Box: I added 12 Abyssal Cloth to my storage!
+[05/10/2020 20:00]  System: Resource Box: I added 13 Elven Fletching to my storage!
+[05/10/2020 20:00]  System: Resource Box: I added 20 Crushed Glass to my storage!
+[05/10/2020 20:00]  System: Resource Box: I added 11 Seed Of Renewal to my storage!
+[05/10/2020 20:00]  System: Resource Box: I added 208 Gold Coin to my storage!
+[05/10/2020 20:00]  System: Resource Box: I added 1 Blight to my storage!
+[05/10/2020 20:00]  System: Resource Box: I added 2 Crystal Of Earth to my storage!
+[05/10/2020 20:00]  System: Resource Box: I added 2 Putrefaction to my storage!
+[05/10/2020 20:00]  System: Resource Box: I added 1 Slith Tongue to my storage!
+[05/10/2020 20:00]  System: Resource Box: I added 1 Amber to my storage!
+[05/10/2020 20:00]  System: Resource Box: I added 1 Citrine to my storage!
+[05/10/2020 20:01]  System: Enhanced Organizer: Finish!
+[05/10/2020 20:03]  System: [1:03 AM]: The world is saving, please wait.
+[05/10/2020 20:03]  System: [1:03 AM]: World save complete. The entire process took 5.8 seconds.
+[05/10/2020 20:09]  You see: Lord Insanity- 
+[05/10/2020 20:11]  You see:  Gorrow the mayor
+[05/10/2020 20:12]  System: You have left Luna Bank
+[05/10/2020 20:12]  You see:  Sherman the bounty officer
+[05/10/2020 20:12]  You see:  a rabbit 
+[05/10/2020 20:12]  You see:  PigletForDinner 
+[05/10/2020 20:13]  System: They are already at full health.
+[05/10/2020 20:17]  System: Treasures of Tokuno have charged!
+[05/10/2020 20:18]  You see: Lord Insanity- 
+[05/10/2020 20:18]  Insanity-: 4`bank
+[05/10/2020 20:19]  Insanity-: bank
+[05/10/2020 20:20]  You see: Lord Insanity- 
+[05/10/2020 20:20]  Trash Can: That's What SHE Said!
+[05/10/2020 20:22]  Hobo Jim: Heal Pet 2: False
+[05/10/2020 20:24]  You see:   the Keeper of Chivalry
+[05/10/2020 20:24]  You see:   the Keeper of Chivalry
+[05/10/2020 20:24]  You see: Lord Insanity- 
+[05/10/2020 20:26]  Hobo Jim: Heal Pet 2: True
+[05/10/2020 20:26]  Hobo Jim: Heal Pet 2: False
+[05/10/2020 20:26]  Hobo Jim: Heal Pet 2: True
+[05/10/2020 20:26]  Hobo Jim: Heal Pet 2: False
+[05/10/2020 20:26]  Hobo Jim: Heal Pet 2: True
+[05/10/2020 20:26]  Hobo Jim: Heal Pet 2: False
+[05/10/2020 20:26]  You see: Lord Insanity- 
+[05/10/2020 20:28]  System: You place the PigletForDinner Idol into your pack.
+[05/10/2020 20:29]  You see:  iAteKanga 
+[05/10/2020 20:32]  You see: Lord handikap [HB]
+[05/10/2020 20:32]  You see:  Empati [HB]
+[05/10/2020 20:32]  Empati: Rel Sanct [Bless]
+[05/10/2020 20:32]  handikap: yo :
+[05/10/2020 20:32]  handikap: Rel Sanct [Bless]
+[05/10/2020 20:32]  You see: Lord dnc 
+[05/10/2020 20:33]  Hobo Jim: what you up to
+[05/10/2020 20:33]  handikap: Kal Vas Flam [Flamestrike]
+[05/10/2020 20:33]  handikap: Vas Ort Flam [Explosion]
+[05/10/2020 20:33]  handikap: In Sar [Pain Spike]
+[05/10/2020 20:33]  handikap: Kal Vas Flam [Flamestrike]
+[05/10/2020 20:33]  handikap: ijstbyedlnahose
+[05/10/2020 20:33]  handikap: oops
+[05/10/2020 20:33]  handikap: wanna see my new house
+[05/10/2020 20:33]  handikap: :)
+[05/10/2020 20:33]  handikap: in luna hehe
+[05/10/2020 20:33]  Hobo Jim: sure
+[05/10/2020 20:33]  handikap: come
+[05/10/2020 20:33]  System: Script <ShrinkPets.py> started.
+[05/10/2020 20:33]  System: Shrinking...
+[05/10/2020 20:33]  System: You place the iAteKanga Idol into your pack.
+[05/10/2020 20:33]  System: Shrinking...
+[05/10/2020 20:33]  System: Script <ShrinkPets.py> stopped.
+[05/10/2020 20:33]  You see:  Bonny The Luna Librarian
+[05/10/2020 20:33]  You see:  Public Bank Vault 
+[05/10/2020 20:33]  You see:  105-125 POWER SCROLL 
+[05/10/2020 20:33]  You see:  STAT SCROLLS 
+[05/10/2020 20:33]  You see:  INFESTED ARTY 
+[05/10/2020 20:33]  You see:  APRONS HIGH SEAS 
+[05/10/2020 20:33]  You see:  DOOMS ARTİES 
+[05/10/2020 20:33]  You see:  IMBUED ITEMS 
+[05/10/2020 20:33]  handikap: ""this one
+[05/10/2020 20:33]  handikap: i bought
+[05/10/2020 20:33]  Hobo Jim: nice
+[05/10/2020 20:34]  Hobo Jim: In Mani [Heal]
+[05/10/2020 20:34]  Hobo Jim: gona make some cashish sellin shit
+[05/10/2020 20:34]  handikap: hehe little house :P
+[05/10/2020 20:34]  105-125 POWER SCROLL: Take a look at my goods.
+[05/10/2020 20:34]  STAT SCROLLS: Take a look at my goods.
+[05/10/2020 20:34]  INFESTED ARTY: Take a look at my goods.
+[05/10/2020 20:34]  APRONS HIGH SEAS: Take a look at my goods.
+[05/10/2020 20:34]  Hobo Jim: got a sot?
+[05/10/2020 20:34]  Hobo Jim: lol
+[05/10/2020 20:34]  handikap: i can give you vendor here if you want
+[05/10/2020 20:34]  Hobo Jim: sweet if i need one ill yell at you
+[05/10/2020 20:35]  handikap: cool :)
+[05/10/2020 20:35]  Hobo Jim: dont have much worth selling at m
+[05/10/2020 20:35]  Hobo Jim: still trying to get that sot
+[05/10/2020 20:35]  handikap: everything sale on the floor
+[05/10/2020 20:35]  handikap: this one?
+[05/10/2020 20:35]  You see:  Pktwo 
+[05/10/2020 20:35]  Hobo Jim: nice
+[05/10/2020 20:35]  You see:  Pkone 
+[05/10/2020 20:35]  handikap: stable
+[05/10/2020 20:35]  handikap: stable
+[05/10/2020 20:35]  handikap: stable
+[05/10/2020 20:35]  handikap: claim list
+[05/10/2020 20:35]  System: Here you go...
+[05/10/2020 20:35]  handikap: claim list
+[05/10/2020 20:35]  You see:  a pandorian tiger 
+[05/10/2020 20:35]  System: Here you go...
+[05/10/2020 20:35]  handikap: claim list
+[05/10/2020 20:35]  You see:  Pktwo 
+[05/10/2020 20:35]  System: Here you go...
+[05/10/2020 20:35]  You see:  Pkone 
+[05/10/2020 20:35]  handikap: ""
+[05/10/2020 20:35]  handikap: hehe
+[05/10/2020 20:35]  handikap: have three pet
+[05/10/2020 20:36]  handikap: stable
+[05/10/2020 20:36]  handikap: stable
+[05/10/2020 20:36]  handikap: stable
+[05/10/2020 20:36]  Hobo Jim: nice
+[05/10/2020 20:36]  Hobo Jim: still got my tiger and charger
+[05/10/2020 20:36]  handikap: Extermo Vomica [Remove Curse]
+[05/10/2020 20:36]  handikap: "thy
+[05/10/2020 20:36]  Hobo Jim: dino
+[05/10/2020 20:36]  handikap: :D
+[05/10/2020 20:36]  handikap: In Sar [Pain Spike]
+[05/10/2020 20:36]  handikap: In Nox [Poison]
+[05/10/2020 20:36]  handikap: * handikap seems resistant to the poison *
+[05/10/2020 20:36]  Hobo Jim: working on my pot macro for pets atm
+[05/10/2020 20:36]  handikap: you are rich hehe
+[05/10/2020 20:36]  Hobo Jim: made a toggle to switch between
+[05/10/2020 20:36]  Hobo Jim: right
+[05/10/2020 20:36]  Hobo Jim: lol
+[05/10/2020 20:36]  handikap: cool
+[05/10/2020 20:36]  Hobo Jim: not good at decorating though]
+[05/10/2020 20:37]  Hobo Jim: put up some tables
+[05/10/2020 20:37]  Hobo Jim: thats it
+[05/10/2020 20:37]  handikap: :))
+[05/10/2020 20:37]  Hobo Jim: wana do void in a few?
+[05/10/2020 20:37]  You see:  Chaos 
+[05/10/2020 20:37]  Hobo Jim: got you a dino too ?
+[05/10/2020 20:37]  handikap: ""
+[05/10/2020 20:37]  handikap: this is fake
+[05/10/2020 20:37]  Hobo Jim: ah
+[05/10/2020 20:37]  You see:  Chaos 
+[05/10/2020 20:37]  handikap: ""
+[05/10/2020 20:37]  handikap: look
+[05/10/2020 20:37]  handikap: :)
+[05/10/2020 20:37]  Hobo Jim: lol
+[05/10/2020 20:37]  Hobo Jim: i see
+[05/10/2020 20:37]  handikap: you cant tame it anymore
+[05/10/2020 20:38]  Hobo Jim: what is seti on
+[05/10/2020 20:38]  Hobo Jim: at the bank
+[05/10/2020 20:38]  handikap: i just tame it long time ago and dye it
+[05/10/2020 20:38]  Hobo Jim: some sort of peacok
+[05/10/2020 20:38]  Hobo Jim: is that a tameable?
+[05/10/2020 20:38]  handikap: "event
+[05/10/2020 20:38]  handikap: no
+[05/10/2020 20:38]  Hobo Jim: ah
+[05/10/2020 20:38]  handikap: its ethy
+[05/10/2020 20:38]  Hobo Jim: i see
+[05/10/2020 20:38]  handikap: from event
+[05/10/2020 20:38]  Hobo Jim: its neat
+[05/10/2020 20:38]  handikap: need 20 peacock
+[05/10/2020 20:38]  handikap: i dont like it
+[05/10/2020 20:38]  : You are not allowed to access this.
+[05/10/2020 20:39]  You see:  R 
+[05/10/2020 20:39]  Hobo Jim: looks cool
+[05/10/2020 20:39]  handikap: original
+[05/10/2020 20:39]  You see:  Chaos 
+[05/10/2020 20:39]  Hobo Jim: haha
+[05/10/2020 20:39]  handikap: hehe this is original bear
+[05/10/2020 20:39]  You see:  R 
+[05/10/2020 20:39]  You see:  Terminator 
+[05/10/2020 20:39]  handikap: ""
+[05/10/2020 20:39]  handikap: this is my first pet
+[05/10/2020 20:40]  Hobo Jim: hehe same love Cu
+[05/10/2020 20:40]  handikap: and its have 120 skills
+[05/10/2020 20:40]  Hobo Jim: done so much with them
+[05/10/2020 20:40]  handikap: yeah
+[05/10/2020 20:40]  handikap: still loving cu
+[05/10/2020 20:40]  Hobo Jim: especialy on older servers
+[05/10/2020 20:40]  handikap: cu forever :D
+[05/10/2020 20:40]  Hobo Jim: lol
+[05/10/2020 20:40]  You see:  Terminator 
+[05/10/2020 20:40]  Hobo Jim: void in 6 minutes
+[05/10/2020 20:40]  Hobo Jim: you donw?
+[05/10/2020 20:40]  Hobo Jim: i can get another to go
+[05/10/2020 20:40]  handikap: trammel?
+[05/10/2020 20:40]  Hobo Jim: yeah
+[05/10/2020 20:40]  handikap: trammel giving half
+[05/10/2020 20:40]  handikap: point
+[05/10/2020 20:41]  Hobo Jim: still trying to learn it
+[05/10/2020 20:41]  Hobo Jim: ill get smoked in pvp
+[05/10/2020 20:41]  Hobo Jim: lol
+[05/10/2020 20:41]  handikap: :D
+[05/10/2020 20:41]  System: a virtuebane peerless is about to break loose into this dimension (60min headsup)
+[05/10/2020 20:41]  Hobo Jim: how come it doesn't show on the timer now
+[05/10/2020 20:41]  Hobo Jim: it says 59 minutes
+[05/10/2020 20:41]  handikap: void really hard
+[05/10/2020 20:41]  Hobo Jim: i dont get it
+[05/10/2020 20:41]  handikap: Forul Solum [Enemy of One]
+[05/10/2020 20:41]  handikap: Forul Solum [Enemy of One]
+[05/10/2020 20:41]  Hobo Jim: i set the timer for when trammel starts
+[05/10/2020 20:41]  handikap: felucca after 50 min
+[05/10/2020 20:42]  handikap: felucca better
+[05/10/2020 20:42]  handikap: with point
+[05/10/2020 20:42]  Hobo Jim: so does trammel still start in 5?
+[05/10/2020 20:42]  Hobo Jim: or did it already
+[05/10/2020 20:42]  Hobo Jim: im confused
+[05/10/2020 20:42]  handikap: probably
+[05/10/2020 20:42]  Hobo Jim: wtf
+[05/10/2020 20:42]  Hobo Jim: my timer says shouldt start for 5
+[05/10/2020 20:42]  Hobo Jim: br
+[05/10/2020 20:42]  handikap: ""
+[05/10/2020 20:43]  handikap: fellucca and trammel
+[05/10/2020 20:43]  handikap: yimer different
+[05/10/2020 20:43]  handikap: timer
+[05/10/2020 20:43]  Hobo Jim: it stoped showing trammel though
+[05/10/2020 20:43]  handikap: here is felucca
+[05/10/2020 20:43]  Hobo Jim: only shows fel now
+[05/10/2020 20:43]  handikap: so you can see felucca here
+[05/10/2020 20:43]  handikap: if you want to see trammel timer
+[05/10/2020 20:43]  Hobo Jim: oh depends where u are?
+[05/10/2020 20:43]  handikap: go trammel and check again
+[05/10/2020 20:43]  Hobo Jim: OOOOH
+[05/10/2020 20:43]  handikap: yeah
+[05/10/2020 20:43]  Hobo Jim: lols
+[05/10/2020 20:43]  handikap: :)
+[05/10/2020 20:43]  Hobo Jim: <- dumb
+[05/10/2020 20:44]  You see:   the Keeper of Chivalry
+[05/10/2020 20:44]  You see:   the Keeper of Chivalry
+[05/10/2020 20:44]  You see:  Sherman the bounty officer
+[05/10/2020 20:44]  You see:  a rabbit 
+[05/10/2020 20:44]  You see:  Coldsteel the hallowed
+[05/10/2020 20:44]  You see: Public Gate: Luna Library
+[05/10/2020 20:44]  You see:  Erol the vet
+[05/10/2020 20:44]  You see:  Lord Blackthorne 
+[05/10/2020 20:44]  You see:  Empati [HB]
+[05/10/2020 20:44]  You see:   The Prov
+[05/10/2020 20:44]  You see:   the alchemist
+[05/10/2020 20:44]  You see:   the Holy Mage
+[05/10/2020 20:44]  You see:   the tinker
+[05/10/2020 20:44]  You see:  Deacon the brewer
+[05/10/2020 20:44]  You see: Lord The Animal [CoF]
+[05/10/2020 20:44]  You see:   the innkeeper
+[05/10/2020 20:44]  You see:   the hairstylist
+[05/10/2020 20:44]  System: You have entered Luna Bank
+[05/10/2020 20:44]  You see:  Seti [AoV]
+[05/10/2020 20:44]  You see:   the town crier
+[05/10/2020 20:44]  You see:   
+[05/10/2020 20:44]  You see: Lord blackmyst [WSF]
+[05/10/2020 20:44]  You see:  Mesmerize [WSF]
+[05/10/2020 20:44]  Hobo Jim: In Mani [Heal]
+[05/10/2020 20:44]  Hobo Jim: gona finish this macro
+[05/10/2020 20:44]  handikap: In Vas Mani [Greater Heal]
+[05/10/2020 20:44]  handikap: ok :)
+[05/10/2020 20:44]  Hobo Jim: trex kicked my ass again
+[05/10/2020 20:44]  Hobo Jim: gota get it right
+[05/10/2020 20:44]  Hobo Jim: oh look at gloves
+[05/10/2020 20:44]  handikap: i will check bosses
+[05/10/2020 20:44]  Lord Blackthorne: We no longer offer a checking service.
+[05/10/2020 20:44]  You see:  Gorrow the mayor
+[05/10/2020 20:44]  handikap: oo
+[05/10/2020 20:45]  handikap: great
+[05/10/2020 20:45]  handikap: you got it with?
+[05/10/2020 20:45]  Hobo Jim: did doom like 100 times
+[05/10/2020 20:45]  Hobo Jim: lol 1m gold
+[05/10/2020 20:45]  Hobo Jim: In Mani [Heal]
+[05/10/2020 20:45]  handikap: hehe
+[05/10/2020 20:45]  Hobo Jim: bought
+[05/10/2020 20:45]  handikap: insure it
+[05/10/2020 20:45]  handikap: lol
+[05/10/2020 20:45]  handikap: its worth alot more
+[05/10/2020 20:45]  System: 600 gold has been withdrawn from your bank box.
+[05/10/2020 20:45]  System: You have insured the item
+[05/10/2020 20:45]  Hobo Jim: nice
+[05/10/2020 20:45]  handikap: min 40-50m
+[05/10/2020 20:45]  Hobo Jim: insurance is for pussy
+[05/10/2020 20:45]  Hobo Jim: lol
+[05/10/2020 20:45]  handikap: :D
+[05/10/2020 20:46]  Hobo Jim: oops
+[05/10/2020 20:46]  You see:   the real estate broker
+[05/10/2020 20:46]  handikap: blessed for?
+[05/10/2020 20:46]  Hobo Jim: i woulda been so pissed
+[05/10/2020 20:46]  handikap: asshole?
+[05/10/2020 20:46]  handikap: :D
+[05/10/2020 20:46]  Hobo Jim: lol blessed for the smart people
+[05/10/2020 20:46]  Hobo Jim: no insurance fees
+[05/10/2020 20:46]  Hobo Jim: was like 12k last time i died
+[05/10/2020 20:46]  Hobo Jim: lol
+[05/10/2020 20:46]  handikap: i dont care insurance cause gold easy to get
+[05/10/2020 20:46]  handikap: its not take alot golds
+[05/10/2020 20:46]  System: A champion has awoken at (5511, 2360, 25) in Felucca.
+[05/10/2020 20:46]  Hobo Jim: yeah the champs drop alot
+[05/10/2020 20:47]  handikap: my insurance just 50k
+[05/10/2020 20:47]  Hobo Jim: leme finish this script i can try on a boss
+[05/10/2020 20:47]  handikap: ok
+[05/10/2020 20:47]  Hobo Jim: leme know on disco if you want one
+[05/10/2020 20:47]  handikap: script?
+[05/10/2020 20:47]  Hobo Jim: want help
+[05/10/2020 20:47]  Hobo Jim: sorry
+[05/10/2020 20:47]  handikap: cool
+[05/10/2020 20:47]  handikap: i like scripts :)
+[05/10/2020 20:48]  handikap: ok i will let you finish it :)
+[05/10/2020 20:48]  Hobo Jim: script for razor enhanced lol
+[05/10/2020 20:49]  System: Script <PetHealToggle.py> started.
+[05/10/2020 20:49]  Hobo Jim: Heal Pet 2: True
+[05/10/2020 20:49]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 20:49]  Hobo Jim: Heal Pet 2: False
+[05/10/2020 20:49]  System: Script <PetHealToggle.py> started.
+[05/10/2020 20:49]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 20:49]  You see: Lord dnc 
+[05/10/2020 20:49]  You see: sandstone stairs
+[05/10/2020 20:49]  System: Script <PetHealer.py> started.
+[05/10/2020 20:49]  System: Script <PetHealer.py> stopped.
+[05/10/2020 20:50]  dnc: Kal Ort Por [Recall]
+[05/10/2020 20:50]  System: That is too far away.
+[05/10/2020 20:50]  You see:  PigletForDinner 
+[05/10/2020 20:50]  System: Script <PetHealer.py> started.
+[05/10/2020 20:50]  System: Script <PetHealer.py> stopped.
+[05/10/2020 20:50]  System: Script <PetHealer.py> started.
+[05/10/2020 20:50]  System: Script <PetHealer.py> stopped.
+[05/10/2020 20:50]  System: Script <PetHealer.py> started.
+[05/10/2020 20:50]  System: They are already at full health.
+[05/10/2020 20:50]  System: They are already at full health.
+[05/10/2020 20:51]  System: They are already at full health.
+[05/10/2020 20:51]  System: They are already at full health.
+[05/10/2020 20:51]  System: They are already at full health.
+[05/10/2020 20:51]  System: Healing Pet 2
+[05/10/2020 20:51]  System: They are already at full health.
+[05/10/2020 20:51]  System: You must wait to perform another action.
+[05/10/2020 20:51]  System: Healing Pet 2
+[05/10/2020 20:51]  System: They are already at full health.
+[05/10/2020 20:51]  Hobo Jim: Heal Pet 2: True
+[05/10/2020 20:51]  System: Script <PetHealToggle.py> started.
+[05/10/2020 20:51]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 20:51]  You see: Lord dnc 
+[05/10/2020 20:51]  System: Script <PetHealer.py> stopped.
+[05/10/2020 20:51]  System: Healing Pet 2
+[05/10/2020 20:51]  System: They are already at full health.
+[05/10/2020 20:51]  Hobo Jim: Heal Pet 2: False
+[05/10/2020 20:51]  System: Script <PetHealToggle.py> started.
+[05/10/2020 20:51]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 20:51]  System: Script <PetHealer.py> started.
+[05/10/2020 20:51]  System: They are already at full health.
+[05/10/2020 20:52]  System: Healing Pet 2
+[05/10/2020 20:52]  System: They are already at full health.
+[05/10/2020 20:52]  System: They are already at full health.
+[05/10/2020 20:52]  System: Healing Pet 2
+[05/10/2020 20:52]  System: They are already at full health.
+[05/10/2020 20:52]  System: They are already at full health.
+[05/10/2020 20:52]  System: Healing Pet 2
+[05/10/2020 20:52]  System: You must wait to perform another action.
+[05/10/2020 20:52]  dnc: Kal Ort Por [Recall]
+[05/10/2020 20:52]  System: They are already at full health.
+[05/10/2020 20:52]  Hobo Jim: Heal Pet 2: True
+[05/10/2020 20:52]  System: Script <PetHealToggle.py> started.
+[05/10/2020 20:52]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 20:52]  System: Healing Pet 2
+[05/10/2020 20:52]  System: They are already at full health.
+[05/10/2020 20:52]  You see:  iAteKanga 
+[05/10/2020 20:52]  System: You have left Luna Bank
+[05/10/2020 20:52]  You see:  Sherman the bounty officer
+[05/10/2020 20:52]  You see:  a rabbit 
+[05/10/2020 20:52]  You see:   the Keeper of Chivalry
+[05/10/2020 20:52]  You see:   the Keeper of Chivalry
+[05/10/2020 20:52]  System: Healing Pet 2
+[05/10/2020 20:52]  System: They are already at full health.
+[05/10/2020 20:52]  Hobo Jim: Heal Pet 2: False
+[05/10/2020 20:52]  System: Script <PetHealToggle.py> started.
+[05/10/2020 20:52]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 20:52]  System: They are already at full health.
+[05/10/2020 20:53]  System: Healing Pet 2
+[05/10/2020 20:53]  System: They are already at full health.
+[05/10/2020 20:53]  System: They are already at full health.
+[05/10/2020 20:53]  System: Healing Pet 2
+[05/10/2020 20:53]  System: They are already at full health.
+[05/10/2020 20:53]  System: They are already at full health.
+[05/10/2020 20:53]  Hobo Jim: Heal Pet 2: True
+[05/10/2020 20:53]  System: Script <PetHealToggle.py> started.
+[05/10/2020 20:53]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 20:53]  Hobo Jim: Heal Pet 2: False
+[05/10/2020 20:53]  System: Script <PetHealToggle.py> started.
+[05/10/2020 20:53]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 20:53]  System: Script <PetHealer.py> stopped.
+[05/10/2020 20:53]  System: They are already at full health.
+[05/10/2020 20:53]  System: Script <PetHealer.py> started.
+[05/10/2020 20:53]  System: They are already at full health.
+[05/10/2020 20:53]  System: They are already at full health.
+[05/10/2020 20:53]  System: Healing Pet 2
+[05/10/2020 20:53]  System: They are already at full health.
+[05/10/2020 20:53]  System: They are already at full health.
+[05/10/2020 20:53]  System: Script <PetHealer.py> stopped.
+[05/10/2020 20:54]  System: Healing Pet 2j
+[05/10/2020 20:54]  System: They are already at full health.
+[05/10/2020 20:54]  System: Healing Pet 2j
+[05/10/2020 20:54]  System: They are already at full health.
+[05/10/2020 20:54]  Hobo Jim: Heal Pet 2: True
+[05/10/2020 20:54]  System: Script <PetHealToggle.py> started.
+[05/10/2020 20:54]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 20:54]  System: A champion has awoken at (948, 434, 14) in Tokuno.
+[05/10/2020 20:54]  System: Healing Pet 2h
+[05/10/2020 20:54]  System: They are already at full health.
+[05/10/2020 20:55]  System: True
+[05/10/2020 20:55]  System: Healing Pet 2h
+[05/10/2020 20:55]  System: They are already at full health.
+[05/10/2020 20:55]  You see: sandstone floor
+[05/10/2020 20:55]  Hobo Jim: Heal Pet 2: False
+[05/10/2020 20:55]  System: Script <PetHealToggle.py> started.
+[05/10/2020 20:55]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 20:55]  System: True
+[05/10/2020 20:55]  System: Healing Pet 2h
+[05/10/2020 20:55]  System: They are already at full health.
+[05/10/2020 20:55]  System: Healing Pet 2
+[05/10/2020 20:55]  System: Script <PetHealer.py> started.
+[05/10/2020 20:55]  System: They are already at full health.
+[05/10/2020 20:55]  System: True
+[05/10/2020 20:55]  System: Healing Pet 2h
+[05/10/2020 20:55]  System: They are already at full health.
+[05/10/2020 20:55]  System: Script <PetHealer.py> stopped.
+[05/10/2020 20:55]  System: True
+[05/10/2020 20:55]  System: Healing Pet 2h
+[05/10/2020 20:55]  System: They are already at full health.
+[05/10/2020 20:56]  Hobo Jim: Heal Pet 2: True
+[05/10/2020 20:56]  Hobo Jim: Heal Pet 2: False
+[05/10/2020 20:56]  System: True
+[05/10/2020 20:56]  System: Healing Pet 2h
+[05/10/2020 20:56]  System: They are already at full health.
+[05/10/2020 20:57]  System: True
+[05/10/2020 20:57]  System: Healing Pet 2h
+[05/10/2020 20:57]  System: They are already at full health.
+[05/10/2020 20:57]  System: True
+[05/10/2020 20:57]  System: Healing Pet 2h
+[05/10/2020 20:57]  System: They are already at full health.
+[05/10/2020 20:57]  System: True
+[05/10/2020 20:57]  System: Healing Pet 2h
+[05/10/2020 20:57]  System: They are already at full health.
+[05/10/2020 20:57]  System: True
+[05/10/2020 20:57]  System: Healing Pet 2h
+[05/10/2020 20:57]  System: They are already at full health.
+[05/10/2020 20:57]  You see:   the hairstylist
+[05/10/2020 20:57]  Hobo Jim: Heal Pet 2: True
+[05/10/2020 20:57]  System: Script <PetHealToggle.py> started.
+[05/10/2020 20:57]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 20:58]  System: True
+[05/10/2020 20:58]  System: Healing Pet 2h
+[05/10/2020 20:58]  System: They are already at full health.
+[05/10/2020 20:58]  Hobo Jim: Heal Pet 2: False
+[05/10/2020 20:58]  System: Script <PetHealToggle.py> started.
+[05/10/2020 20:58]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 20:58]  System: True
+[05/10/2020 20:58]  System: Healing Pet 2h
+[05/10/2020 20:58]  System: They are already at full health.
+[05/10/2020 20:58]  System: True
+[05/10/2020 20:58]  System: Healing Pet 2h
+[05/10/2020 20:58]  System: They are already at full health.
+[05/10/2020 20:58]  System: True
+[05/10/2020 20:58]  System: Healing Pet 2h
+[05/10/2020 20:58]  System: They are already at full health.
+[05/10/2020 20:58]  System: True
+[05/10/2020 20:58]  System: Healing Pet 2h
+[05/10/2020 20:58]  System: They are already at full health.
+[05/10/2020 20:58]  You see: sandstone paver
+[05/10/2020 20:58]  Hobo Jim: Heal Pet 2: True
+[05/10/2020 20:58]  System: Script <PetHealToggle.py> started.
+[05/10/2020 20:58]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 20:58]  Hobo Jim: Heal Pet 2: False
+[05/10/2020 20:58]  System: Script <PetHealToggle.py> started.
+[05/10/2020 20:58]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 20:58]  System: True
+[05/10/2020 20:58]  System: Healing Pet 2h
+[05/10/2020 20:58]  System: They are already at full health.
+[05/10/2020 20:59]  System: True
+[05/10/2020 20:59]  System: Healing Pet 2h
+[05/10/2020 20:59]  System: They are already at full health.
+[05/10/2020 20:59]  System: True
+[05/10/2020 20:59]  System: Healing Pet 2h
+[05/10/2020 20:59]  System: They are already at full health.
+[05/10/2020 20:59]  System: True
+[05/10/2020 20:59]  System: Healing Pet 2h
+[05/10/2020 20:59]  System: They are already at full health.
+[05/10/2020 20:59]  System: Healing Pet 1
+[05/10/2020 20:59]  System: That is too far away.
+[05/10/2020 20:59]  System: Healing Pet 1
+[05/10/2020 20:59]  System: That is too far away.
+[05/10/2020 20:59]  Hobo Jim: Heal Pet 2: True
+[05/10/2020 20:59]  System: Script <PetHealToggle.py> started.
+[05/10/2020 20:59]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 20:59]  System: True
+[05/10/2020 20:59]  System: Healing Pet 2h
+[05/10/2020 20:59]  System: They are already at full health.
+[05/10/2020 21:01]  System: Heal Pet 2: False
+[05/10/2020 21:01]  System: Script <PetHealToggle.py> started.
+[05/10/2020 21:01]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 21:01]  You see:   the battle trafficker
+[05/10/2020 21:03]  System: Healing Pet 1
+[05/10/2020 21:03]  System: They are already at full health.
+[05/10/2020 21:03]  You see: sandstone floor
+[05/10/2020 21:03]  System: Heal Pet 2: True
+[05/10/2020 21:03]  System: Script <PetHealToggle.py> started.
+[05/10/2020 21:03]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 21:03]  System: True
+[05/10/2020 21:03]  System: Healing Pet 2h
+[05/10/2020 21:03]  System: They are already at full health.
+[05/10/2020 21:03]  System: True
+[05/10/2020 21:03]  System: Healing Pet 2h
+[05/10/2020 21:03]  System: They are already at full health.
+[05/10/2020 21:04]  System: True
+[05/10/2020 21:04]  System: Healing Pet 2h
+[05/10/2020 21:04]  System: They are already at full health.
+[05/10/2020 21:04]  System: True
+[05/10/2020 21:04]  System: Healing Pet 2h
+[05/10/2020 21:04]  System: They are already at full health.
+[05/10/2020 21:04]  System: True
+[05/10/2020 21:04]  System: Healing Pet 2h
+[05/10/2020 21:04]  System: Script <PetHealer.py> started.
+[05/10/2020 21:04]  System: They are already at full health.
+[05/10/2020 21:04]  System: Script <PetHealer.py> stopped.
+[05/10/2020 21:04]  System: True
+[05/10/2020 21:04]  System: Healing Pet 2h
+[05/10/2020 21:04]  System: They are already at full health.
+[05/10/2020 21:04]  System: Script <ShrinkPets.py> started.
+[05/10/2020 21:04]  System: Shrinking...
+[05/10/2020 21:04]  System: You place the PigletForDinner Idol into your pack.
+[05/10/2020 21:04]  System: Shrinking...
+[05/10/2020 21:04]  System: You place the iAteKanga Idol into your pack.
+[05/10/2020 21:04]  System: Script <ShrinkPets.py> stopped.
+[05/10/2020 21:04]  You see:   the innkeeper
+[05/10/2020 21:04]  System: True
+[05/10/2020 21:04]  System: Healing Pet 2h
+[05/10/2020 21:04]  System: That is too far away.
+[05/10/2020 21:04]  System: You have entered Luna Bank
+[05/10/2020 21:04]  You see:  Seti [AoV]
+[05/10/2020 21:04]  System: You have left Luna Bank
+[05/10/2020 21:04]  System: You have entered Valley of Eodon
+[05/10/2020 21:04]  System: You have been teleported to: The Valley of Eodon
+[05/10/2020 21:04]  You see:  a dolphin 
+[05/10/2020 21:04]  System: WorldMap loaded!
+[05/10/2020 21:04]  You see:  a magical tornado 
+[05/10/2020 21:04]  You see:  Olaufee [Sakkhra Warrior]
+[05/10/2020 21:04]  You see:  Masena [Sakkhra Warrior]
+[05/10/2020 21:04]  You see:  Sargaza [Sakkhra Warrior]
+[05/10/2020 21:04]  You see:  Chaca [Sakkhra Warrior]
+[05/10/2020 21:04]  You see:  ShoJo [Sakkhra Warrior]
+[05/10/2020 21:04]  You see:  Usile [Sakkhra Warrior]
+[05/10/2020 21:04]  You see:  Lar [Sakkhra Warrior]
+[05/10/2020 21:05]  You see:  a tiger cub 
+[05/10/2020 21:05]  You see:   
+[05/10/2020 21:05]  System: Script <GetPets.py> started.
+[05/10/2020 21:05]  You see:  PigletForDinner 
+[05/10/2020 21:05]  You see:  iAteKanga 
+[05/10/2020 21:05]  Hobo Jim: All Guard Me
+[05/10/2020 21:05]  System: iAteKanga is now guarding you.
+[05/10/2020 21:05]  System: PigletForDinner is now guarding you.
+[05/10/2020 21:05]  System: Script <GetPets.py> stopped.
+[05/10/2020 21:05]  System: Your strength has changed by 5.  It is now 323
+[05/10/2020 21:05]  You see:  a najasaurus 
+[05/10/2020 21:05]  Hobo Jim: All Guard Me
+[05/10/2020 21:05]  System: iAteKanga is now guarding you.
+[05/10/2020 21:05]  System: PigletForDinner is now guarding you.
+[05/10/2020 21:05]  Hobo Jim: Forul Solum [Enemy of One]
+[05/10/2020 21:05]  System: True
+[05/10/2020 21:05]  System: Healing Pet 2h
+[05/10/2020 21:05]  System: Script <PetHealer.py> started.
+[05/10/2020 21:05]  Hobo Jim: Divinum Furis [Divine Fury]
+[05/10/2020 21:05]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/10/2020 21:05]  System: True
+[05/10/2020 21:05]  System: Healing Pet 2h
+[05/10/2020 21:05]  System: You must wait before using another everlasting pet greater heal potion.
+[05/10/2020 21:06]  You see: a pandorian tiger corpse
+[05/10/2020 21:06]  You see:  PigletForDinner 
+[05/10/2020 21:06]  System: Heal Pet 2: False
+[05/10/2020 21:06]  System: Script <PetHealToggle.py> started.
+[05/10/2020 21:06]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 21:06]  System: Script <PetHealer.py> stopped.
+[05/10/2020 21:06]  System: Healing Pet 1
+[05/10/2020 21:06]  System: Script <PetHealer.py> started.
+[05/10/2020 21:06]  System: That is too far away.
+[05/10/2020 21:06]  System: Script <PetHealer.py> stopped.
+[05/10/2020 21:06]  System: Healing Pet 1
+[05/10/2020 21:06]  System: Script <PetHealer.py> started.
+[05/10/2020 21:06]  System: That is too far away.
+[05/10/2020 21:06]  System: Heal Pet 2: True
+[05/10/2020 21:06]  System: Script <PetHealToggle.py> started.
+[05/10/2020 21:06]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 21:06]  System: Script <PetHealer.py> stopped.
+[05/10/2020 21:06]  System: True
+[05/10/2020 21:06]  System: Healing Pet 2h
+[05/10/2020 21:06]  System: Script <PetHealer.py> started.
+[05/10/2020 21:06]  System: You cannot perform beneficial acts on your target.
+[05/10/2020 21:06]  System: Script <PetHealer.py> stopped.
+[05/10/2020 21:06]  System: True
+[05/10/2020 21:06]  System: Healing Pet 2h
+[05/10/2020 21:06]  System: Script <PetHealer.py> started.
+[05/10/2020 21:06]  System: You cannot perform beneficial acts on your target.
+[05/10/2020 21:06]  System: True
+[05/10/2020 21:06]  System: Healing Pet 2h
+[05/10/2020 21:06]  System: You cannot perform beneficial acts on your target.
+[05/10/2020 21:06]  Hobo Jim: All Follow Me
+[05/10/2020 21:06]  Hobo Jim: All Follow Me
+[05/10/2020 21:06]  Hobo Jim: All Follow Me
+[05/10/2020 21:06]  You see: a pandorian tiger corpse
+[05/10/2020 21:06]  You see:  iAteKanga 
+[05/10/2020 21:06]  System: True
+[05/10/2020 21:06]  System: Healing Pet 2h
+[05/10/2020 21:06]  System: You cannot perform beneficial acts on your target.
+[05/10/2020 21:06]  Hobo Jim: You have hidden yourself well.
+[05/10/2020 21:06]  You see:  a tiger cub 
+[05/10/2020 21:06]  You see:  a silverback gorilla 
+[05/10/2020 21:07]  System: True
+[05/10/2020 21:07]  System: Healing Pet 2h
+[05/10/2020 21:07]  System: You cannot perform beneficial acts on your target.
+[05/10/2020 21:07]  System: Who will you use the bandages on?
+[05/10/2020 21:07]  System: You begin applying the bandages.
+[05/10/2020 21:07]  System: You are able to resurrect your patient.
+[05/10/2020 21:07]  System: True
+[05/10/2020 21:07]  System: Healing Pet 2h
+[05/10/2020 21:07]  System: Who will you use the bandages on?
+[05/10/2020 21:07]  System: You begin applying the bandages.
+[05/10/2020 21:07]  System: Script <PetHealer.py> stopped.
+[05/10/2020 21:07]  System: You are able to resurrect your patient.
+[05/10/2020 21:07]  System: Heal Pet 2: False
+[05/10/2020 21:07]  System: Script <PetHealToggle.py> started.
+[05/10/2020 21:07]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 21:07]  System: Healing Pet 1
+[05/10/2020 21:07]  System: Script <PetHealer.py> started.
+[05/10/2020 21:07]  System: That is too far away.
+[05/10/2020 21:07]  System: Script <PetHealer.py> stopped.
+[05/10/2020 21:07]  System: Healing Pet 1
+[05/10/2020 21:07]  System: That is too far away.
+[05/10/2020 21:07]  System: Script <PetHealer.py> started.
+[05/10/2020 21:07]  System: Healing Pet 1
+[05/10/2020 21:07]  System: That is too far away.
+[05/10/2020 21:07]  System: Healing Pet 1
+[05/10/2020 21:08]  System: Healing Pet 1
+[05/10/2020 21:08]  System: That is too far away.
+[05/10/2020 21:08]  System: Healing Pet 1
+[05/10/2020 21:08]  System: That is too far away.
+[05/10/2020 21:08]  System: Healing Pet 1
+[05/10/2020 21:08]  System: Script <PetHealer.py> started.
+[05/10/2020 21:08]  System: Healing Pet 1
+[05/10/2020 21:08]  System: You must wait before using another everlasting pet greater heal potion.
+[05/10/2020 21:08]  System: Script <PetHealer.py> stopped.
+[05/10/2020 21:08]  System: Healing Pet 1
+[05/10/2020 21:08]  System: Script <PetHealer.py> started.
+[05/10/2020 21:09]  System: Script <PetHealToggle.py> started.
+[05/10/2020 21:09]  System: Heal Pet 2: True
+[05/10/2020 21:09]  System: You must wait before using another everlasting pet greater heal potion.
+[05/10/2020 21:09]  System: True
+[05/10/2020 21:09]  System: Healing Pet 2h
+[05/10/2020 21:09]  System: You must wait before using another everlasting pet greater heal potion.
+[05/10/2020 21:09]  System: Script <PetHealer.py> stopped.
+[05/10/2020 21:09]  System: True
+[05/10/2020 21:09]  System: Healing Pet 2h
+[05/10/2020 21:09]  System: Script <PetHealer.py> started.
+[05/10/2020 21:09]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 21:09]  System: True
+[05/10/2020 21:09]  System: Healing Pet 2h
+[05/10/2020 21:09]  System: True
+[05/10/2020 21:09]  System: Healing Pet 2h
+[05/10/2020 21:09]  System: You must wait before using another everlasting pet greater heal potion.
+[05/10/2020 21:10]  System: True
+[05/10/2020 21:10]  System: Healing Pet 2h
+[05/10/2020 21:10]  System: True
+[05/10/2020 21:10]  System: Healing Pet 2h
+[05/10/2020 21:10]  System: You must wait before using another everlasting pet greater heal potion.
+[05/10/2020 21:10]  System: Heal Pet 2: False
+[05/10/2020 21:10]  System: Script <PetHealToggle.py> started.
+[05/10/2020 21:10]  System: Healing Pet 1
+[05/10/2020 21:10]  System: They are already at full health.
+[05/10/2020 21:10]  System: You must wait before using another everlasting pet greater heal potion.
+[05/10/2020 21:10]  System: Healing Pet 1
+[05/10/2020 21:10]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 21:10]  System: Healing Pet 1
+[05/10/2020 21:10]  System: You must wait to perform another action.
+[05/10/2020 21:10]  System: Script <PetHealer.py> stopped.
+[05/10/2020 21:10]  System: Healing Pet 1
+[05/10/2020 21:10]  System: Healing Pet 1
+[05/10/2020 21:10]  System: You must wait to perform another action.
+[05/10/2020 21:10]  System: Script <PetHealer.py> started.
+[05/10/2020 21:11]  System: Healing Pet 1
+[05/10/2020 21:11]  System: You must wait before using another everlasting pet greater heal potion.
+[05/10/2020 21:11]  System: A virtuebane peerless is about to break loose into this dimension (30 min headsup)
+[05/10/2020 21:11]  System: Healing Pet 1
+[05/10/2020 21:11]  System: They are already at full health.
+[05/10/2020 21:11]  System: Script <PetHealer.py> stopped.
+[05/10/2020 21:11]  Hobo Jim: All Guard Me
+[05/10/2020 21:11]  System: iAteKanga is now guarding you.
+[05/10/2020 21:11]  System: PigletForDinner is now guarding you.
+[05/10/2020 21:11]  You see:  a tiger cub 
+[05/10/2020 21:11]  You see:  a najasaurus 
+[05/10/2020 21:11]  You see:  an allosaurus 
+[05/10/2020 21:11]  You see:  a tiger cub 
+[05/10/2020 21:11]  You see:  Tyrannosaurus Rex 
+[05/10/2020 21:11]  You see:   
+[05/10/2020 21:12]  Hobo Jim: Forul Solum [Enemy of One]
+[05/10/2020 21:12]  System: Healing Pet 1
+[05/10/2020 21:12]  System: Script <PetHealer.py> started.
+[05/10/2020 21:12]  System: They are already at full health.
+[05/10/2020 21:12]  System: Heal Pet 2: True
+[05/10/2020 21:12]  System: Script <PetHealToggle.py> started.
+[05/10/2020 21:12]  System: Script <PetHealer.py> stopped.
+[05/10/2020 21:12]  System: True
+[05/10/2020 21:12]  System: Healing Pet 2h
+[05/10/2020 21:12]  System: Script <PetHealer.py> started.
+[05/10/2020 21:12]  System: Script <PetHealer.py> stopped.
+[05/10/2020 21:12]  System: True
+[05/10/2020 21:12]  System: Healing Pet 2h
+[05/10/2020 21:12]  System: They are already at full health.
+[05/10/2020 21:12]  System: Script <PetHealer.py> started.
+[05/10/2020 21:12]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 21:12]  System: Heal Pet 2: False
+[05/10/2020 21:12]  System: Script <PetHealToggle.py> started.
+[05/10/2020 21:12]  System: Script <PetHealer.py> stopped.
+[05/10/2020 21:12]  System: Healing Pet 1
+[05/10/2020 21:12]  System: Script <PetHealer.py> started.
+[05/10/2020 21:12]  System: Script <PetHealer.py> stopped.
+[05/10/2020 21:12]  System: Healing Pet 1
+[05/10/2020 21:12]  System: Script <PetHealer.py> started.
+[05/10/2020 21:12]  System: They are already at full health.
+[05/10/2020 21:12]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 21:12]  System: Heal Pet 2: True
+[05/10/2020 21:12]  System: Script <PetHealToggle.py> started.
+[05/10/2020 21:12]  System: Script <PetHealer.py> stopped.
+[05/10/2020 21:12]  System: True
+[05/10/2020 21:12]  System: Healing Pet 2h
+[05/10/2020 21:12]  System: Script <PetHealer.py> started.
+[05/10/2020 21:12]  System: Script <PetHealer.py> stopped.
+[05/10/2020 21:12]  System: True
+[05/10/2020 21:12]  System: Healing Pet 2h
+[05/10/2020 21:12]  System: Script <PetHealer.py> started.
+[05/10/2020 21:12]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 21:12]  System: You must wait before using another everlasting pet greater heal potion.
+[05/10/2020 21:12]  You see: a pandorian tiger corpse
+[05/10/2020 21:12]  You see:  PigletForDinner 
+[05/10/2020 21:12]  System: You must wait before using another everlasting pet greater heal potion.
+[05/10/2020 21:12]  System: You gasp for air as you are pulled out of the underworld!  You suffer no loss of fame or karma this time.
+[05/10/2020 21:12]  System: Some of the damage you received has been converted to heal you.
+[05/10/2020 21:12]  System: Your attacker delivers a talon strike!
+[05/10/2020 21:12]  You see: the remains of Hobo Jim
+[05/10/2020 21:12]  System: True
+[05/10/2020 21:12]  System: Healing Pet 2h
+[05/10/2020 21:12]  Hobo Jim: I am dead and cannot do that.
+[05/10/2020 21:12]  System: You will be automatically resurrected in 15 minutes.  You can explore the underworld or find another way to live again.
+[05/10/2020 21:12]  System: You are frozen and cannot move.
+[05/10/2020 21:12]  System: You have lost a lot of fame.
+[05/10/2020 21:12]  System: 5,000 gold has been withdrawn from your bank box.
+[05/10/2020 21:12]  System: You have 334,429,266 gold in cash remaining in your bank box.
+[05/10/2020 21:12]  You see: the remains of Hobo Jim
+[05/10/2020 21:12]  System: You must wait to perform another action.
+[05/10/2020 21:13]  System: True
+[05/10/2020 21:13]  System: Healing Pet 2h
+[05/10/2020 21:13]  System: You must wait to perform another action.
+[05/10/2020 21:13]  System: True
+[05/10/2020 21:13]  System: Healing Pet 2h
+[05/10/2020 21:13]  System: You cannot perform beneficial acts on your target.
+[05/10/2020 21:13]  System: Who will you use the bandages on?
+[05/10/2020 21:13]  System: You begin applying the bandages.
+[05/10/2020 21:13]  System: You are able to resurrect your patient.
+[05/10/2020 21:13]  System: True
+[05/10/2020 21:13]  System: Healing Pet 2h
+[05/10/2020 21:13]  System: True
+[05/10/2020 21:13]  System: Healing Pet 2h
+[05/10/2020 21:14]  System: True
+[05/10/2020 21:14]  System: Healing Piglet
+[05/10/2020 21:14]  System: You must wait before using another everlasting pet greater heal potion.
+[05/10/2020 21:14]  System: Script <PetHealer.py> started.
+[05/10/2020 21:14]  System: Script <PetHealer.py> stopped.
+[05/10/2020 21:14]  System: True
+[05/10/2020 21:14]  System: Healing Piglet
+[05/10/2020 21:14]  System: Script <PetHealer.py> started.
+[05/10/2020 21:14]  System: True
+[05/10/2020 21:14]  System: Healing Piglet
+[05/10/2020 21:14]  You see: Lord handikap [HB]
+[05/10/2020 21:14]  handikap: Rel Sanct [Bless]
+[05/10/2020 21:14]  System: True
+[05/10/2020 21:14]  System: Healing Piglet
+[05/10/2020 21:14]  System: They are already at full health.
+[05/10/2020 21:14]  handikap: c"chh""ü55c5ücü5r65ü5czh5ü55555cü55chzh5ü5cüü555ccü55c5üc5c5ü5hcücücc"
+[05/10/2020 21:14]  handikap: :))
+[05/10/2020 21:14]  Hobo Jim: hes here my scirpt still sucks
+[05/10/2020 21:14]  Hobo Jim: lol
+[05/10/2020 21:14]  System: True
+[05/10/2020 21:14]  System: Healing Piglet
+[05/10/2020 21:14]  You see:  iAteKanga 
+[05/10/2020 21:14]  System: They are already at full health.
+[05/10/2020 21:14]  You see:  Tyrannosaurus Rex 
+[05/10/2020 21:14]  You see:   
+[05/10/2020 21:14]  System: Who will you use the bandages on?
+[05/10/2020 21:14]  System: You begin applying the bandages.
+[05/10/2020 21:14]  System: You are able to resurrect your patient.
+[05/10/2020 21:14]  System: True
+[05/10/2020 21:14]  System: Healing Piglet
+[05/10/2020 21:14]  System: They are already at full health.
+[05/10/2020 21:14]  Hobo Jim: You have hidden yourself well.
+[05/10/2020 21:15]  System: Here you go...
+[05/10/2020 21:15]  System: Here you go...
+[05/10/2020 21:15]  System: Here you go...
+[05/10/2020 21:15]  System: Heal Pet 2: False
+[05/10/2020 21:15]  System: Script <PetHealToggle.py> started.
+[05/10/2020 21:15]  System: Healing Kanga
+[05/10/2020 21:15]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 21:15]  handikap: Forul Solum [Enemy of One]
+[05/10/2020 21:15]  handikap: In Nox [Poison]
+[05/10/2020 21:15]  Tyrannosaurus Rex: * The poison seems to have no effect. *
+[05/10/2020 21:15]  System: Healing Kanga
+[05/10/2020 21:15]  You see: Lord handikap [HB]
+[05/10/2020 21:15]  You see:  Pkone 
+[05/10/2020 21:15]  You see:  Pktwo 
+[05/10/2020 21:15]  You see:   
+[05/10/2020 21:15]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/10/2020 21:15]  System: Healing Kanga
+[05/10/2020 21:15]  Hobo Jim: Forul Solum [Enemy of One]
+[05/10/2020 21:15]  Hobo Jim: All Kill
+[05/10/2020 21:15]  System: Healing Kanga
+[05/10/2020 21:15]  System: Healing Kanga
+[05/10/2020 21:15]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/10/2020 21:15]  Hobo Jim: Divinum Furis [Divine Fury]
+[05/10/2020 21:15]  System: Setting ability ArmorIgnore
+[05/10/2020 21:15]  System: Your attack penetrates their armor!
+[05/10/2020 21:15]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  handikap: all attack
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Your attack penetrates their armor! [5]
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Healing Kanga
+[05/10/2020 21:16]  System: They are already at full health.
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Your attack penetrates their armor! [6]
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Your attack penetrates their armor! [6]
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Your attack penetrates their armor! [6]
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Healing Kanga
+[05/10/2020 21:16]  System: They are already at full health.
+[05/10/2020 21:16]  System: Your attack penetrates their armor! [4]
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Your attack penetrates their armor! [8]
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Your attack penetrates their armor! [6]
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Treasures of Tokuno have faded!
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Healing Kanga
+[05/10/2020 21:16]  System: Your attack penetrates their armor! [6]
+[05/10/2020 21:16]  System: They are already at full health.
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  Tyrannosaurus Rex: * The poison seems to have no effect. *
+[05/10/2020 21:16]  handikap: all attack
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Your attack penetrates their armor! [6]
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Your attack penetrates their armor! [6]
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Your attack penetrates their armor! [6]
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Healing Kanga
+[05/10/2020 21:16]  System: They are already at full health.
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Your attack penetrates their armor! [6]
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Your attack penetrates their armor! [6]
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: You need 52 mana to perform that attack
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Your attack penetrates their armor! [4]
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Healing Kanga
+[05/10/2020 21:16]  System: They are already at full health.
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: You need 52 mana to perform that attack
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Your attack penetrates their armor! [6]
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Your attack penetrates their armor! [6]
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: You need 52 mana to perform that attack
+[05/10/2020 21:16]  System: Your attack penetrates their armor! [6]
+[05/10/2020 21:16]  System: Setting ability ArmorIgnore
+[05/10/2020 21:16]  System: Healing Kanga
+[05/10/2020 21:16]  System: They are already at full health.
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: You need 52 mana to perform that attack [3]
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Your attack penetrates their armor!
+[05/10/2020 21:17]  Tyrannosaurus Rex: Just in time, a meteor shower! RAW!!!
+[05/10/2020 21:17]  System: Some of the damage you received has been converted to heal you.
+[05/10/2020 21:17]  System: some damage has been healed : 3
+[05/10/2020 21:17]  Tyrannosaurus Rex: Run back to the Sakkhra TribeHobo Jim, or your flesh and bone is mine! 
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Your attack penetrates their armor! [5]
+[05/10/2020 21:17]  System: BANDAGE HEAL: Engine Start...
+[05/10/2020 21:17]  System: Your attack penetrates their armor! [2]
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Healing Kanga
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/10/2020 21:17]  System: Your attack penetrates their armor! [6]
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Your attack penetrates their armor! [4]
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Your attack penetrates their armor! [4]
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Healing Kanga
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Your attack penetrates their armor! [6]
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Your attack penetrates their armor! [6]
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  Tyrannosaurus Rex: Run back to the Sakkhra Tribehandikap, or your flesh and bone is mine! 
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  handikap: Divinum Furis [Divine Fury]
+[05/10/2020 21:17]  System: Your attack penetrates their armor! [2]
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  Tyrannosaurus Rex: Just in time, a meteor shower! RAW!!!
+[05/10/2020 21:17]  System: Some of the damage you received has been converted to heal you.
+[05/10/2020 21:17]  System: some damage has been healed : 3
+[05/10/2020 21:17]  System: Who will you use the bandages on?
+[05/10/2020 21:17]  System: You begin applying the bandages.
+[05/10/2020 21:17]  System: Healing Kanga
+[05/10/2020 21:17]  System: You must wait to perform another action.
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Your attack penetrates their armor! [4]
+[05/10/2020 21:17]  System: You heal what little damage your patient had.
+[05/10/2020 21:17]  handikap: Divinum Furis [Divine Fury]
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Your attack penetrates their armor! [4]
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Your attack penetrates their armor! [8]
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  handikap: Divinum Furis [Divine Fury]
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Your attack penetrates their armor! [6]
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Some of the damage you received has been converted to heal you.
+[05/10/2020 21:17]  System: Who will you use the bandages on?
+[05/10/2020 21:17]  System: That is too far away.
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Your attack penetrates their armor! [4]
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Who will you use the bandages on?
+[05/10/2020 21:17]  System: You begin applying the bandages.
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Your attack penetrates their armor! [6]
+[05/10/2020 21:17]  Tyrannosaurus Rex: Run back to the Sakkhra TribeHobo Jim, or your flesh and bone is mine! 
+[05/10/2020 21:17]  System: You finish applying the bandages.
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  Tyrannosaurus Rex: * The poison seems to have no effect. *
+[05/10/2020 21:17]  System: Some of the damage you received has been converted to heal you.
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Your attack penetrates their armor! [6]
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Healing Kanga
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:17]  System: Your attack penetrates their armor! [6]
+[05/10/2020 21:17]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Heal Pet 2: True
+[05/10/2020 21:18]  System: You must wait before using another everlasting pet greater heal potion.
+[05/10/2020 21:18]  System: Script <PetHealToggle.py> started.
+[05/10/2020 21:18]  Tyrannosaurus Rex: Just in time, a meteor shower! RAW!!!
+[05/10/2020 21:18]  System: Some of the damage you received has been converted to heal you.
+[05/10/2020 21:18]  System: some damage has been healed : 2
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: You must wait to perform another action.
+[05/10/2020 21:18]  System: Your attack penetrates their armor! [8]
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Your attack penetrates their armor! [6]
+[05/10/2020 21:18]  System: Who will you use the bandages on?
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  handikap: Divinum Furis [Divine Fury]
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: True
+[05/10/2020 21:18]  System: Healing Piglet
+[05/10/2020 21:18]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 21:18]  System: Your attack penetrates their armor! [4]
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Your attack penetrates their armor! [4]
+[05/10/2020 21:18]  System: Heal Pet 2: False
+[05/10/2020 21:18]  System: You must wait before using another everlasting pet greater heal potion.
+[05/10/2020 21:18]  System: Script <PetHealToggle.py> started.
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: You need 52 mana to perform that attack
+[05/10/2020 21:18]  handikap: Divinum Furis [Divine Fury]
+[05/10/2020 21:18]  System: Your attack penetrates their armor! [6]
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  Tyrannosaurus Rex: Run back to the Sakkhra TribeHobo Jim, or your flesh and bone is mine! 
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Healing Kanga
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Your attack penetrates their armor! [4]
+[05/10/2020 21:18]  Tyrannosaurus Rex: * The poison seems to have no effect. *
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  handikap: all stay
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  handikap: all follow me
+[05/10/2020 21:18]  System: Your attack penetrates their armor! [6]
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Your attack penetrates their armor! [6]
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  handikap: stable
+[05/10/2020 21:18]  handikap: stable
+[05/10/2020 21:18]  handikap: stable
+[05/10/2020 21:18]  System: Healing Kanga
+[05/10/2020 21:18]  System: Your attack penetrates their armor! [4]
+[05/10/2020 21:18]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 21:18]  Hobo Jim: All Kill
+[05/10/2020 21:18]  Tyrannosaurus Rex: Just in time, a meteor shower! RAW!!!
+[05/10/2020 21:18]  System: Some of the damage you received has been converted to heal you.
+[05/10/2020 21:18]  System: some damage has been healed : 3
+[05/10/2020 21:18]  System: Who will you use the bandages on?
+[05/10/2020 21:18]  Hobo Jim: All Follow Me
+[05/10/2020 21:18]  handikap: Divinum Furis [Divine Fury]
+[05/10/2020 21:18]  Hobo Jim: All Guard Me
+[05/10/2020 21:18]  System: PigletForDinner is now guarding you.
+[05/10/2020 21:18]  System: iAteKanga is now guarding you.
+[05/10/2020 21:18]  System: Who will you use the bandages on?
+[05/10/2020 21:18]  Hobo Jim: All Guard Me
+[05/10/2020 21:18]  System: Script <ShrinkPets.py> started.
+[05/10/2020 21:18]  System: Shrinking...
+[05/10/2020 21:18]  System: You can't shrink an aggressed creature.
+[05/10/2020 21:18]  System: iAteKanga is now guarding you.
+[05/10/2020 21:18]  System: PigletForDinner is now guarding you.
+[05/10/2020 21:18]  System: Shrinking...
+[05/10/2020 21:18]  System: You place the iAteKanga Idol into your pack.
+[05/10/2020 21:18]  System: Who will you use the bandages on?
+[05/10/2020 21:18]  System: You must wait to perform another action.
+[05/10/2020 21:18]  System: Shrinking...
+[05/10/2020 21:18]  System: You place the PigletForDinner Idol into your pack.
+[05/10/2020 21:18]  Hobo Jim: All Guard Me
+[05/10/2020 21:18]  handikap: Forul Solum [Enemy of One]
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Healing Kanga
+[05/10/2020 21:18]  System: Your attack penetrates their armor!
+[05/10/2020 21:18]  System: Script <ShrinkPets.py> stopped.
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  Tyrannosaurus Rex: Run back to the Sakkhra TribeHobo Jim, or your flesh and bone is mine! 
+[05/10/2020 21:18]  Hobo Jim: All Guard Me
+[05/10/2020 21:18]  Hobo Jim: All Guard Me
+[05/10/2020 21:18]  Hobo Jim: All Guard Me
+[05/10/2020 21:18]  Hobo Jim: All Guard Me
+[05/10/2020 21:18]  System: Your attack penetrates their armor!
+[05/10/2020 21:18]  Hobo Jim: All Guard Me
+[05/10/2020 21:18]  Hobo Jim: All Guard Me
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Your attack penetrates their armor! [4]
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  handikap: Divinum Furis [Divine Fury]
+[05/10/2020 21:18]  System: Healing Kanga
+[05/10/2020 21:18]  System: That is too far away.
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Your attack penetrates their armor!
+[05/10/2020 21:18]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Your attack penetrates their armor! [5]
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:18]  System: Setting ability ArmorIgnore
+[05/10/2020 21:19]  System: Setting ability ArmorIgnore
+[05/10/2020 21:19]  System: Your attack penetrates their armor! [6]
+[05/10/2020 21:19]  Hobo Jim: Forul Solum [Enemy of One]
+[05/10/2020 21:19]  Tyrannosaurus Rex: Just in time, a meteor shower! RAW!!!
+[05/10/2020 21:19]  System: Some of the damage you received has been converted to heal you.
+[05/10/2020 21:19]  System: some damage has been healed : 3
+[05/10/2020 21:19]  System: Who will you use the bandages on?
+[05/10/2020 21:19]  System: You begin applying the bandages.
+[05/10/2020 21:19]  System: Setting ability ArmorIgnore
+[05/10/2020 21:19]  Hobo Jim: Divinum Furis [Divine Fury]
+[05/10/2020 21:19]  handikap: Divinum Furis [Divine Fury]
+[05/10/2020 21:19]  System: Healing Kanga
+[05/10/2020 21:19]  System: That is too far away.
+[05/10/2020 21:19]  System: Setting ability ArmorIgnore
+[05/10/2020 21:19]  System: Your attack penetrates their armor! [2]
+[05/10/2020 21:19]  System: You heal what little damage your patient had.
+[05/10/2020 21:19]  You see: a tyrannosaurus rex corpse
+[05/10/2020 21:19]  System: Your attack penetrates their armor! [2]
+[05/10/2020 21:19]  System: That is too far away.
+[05/10/2020 21:19]  System: Healing Kanga
+[05/10/2020 21:19]  System: That is too far away.
+[05/10/2020 21:19]  handikap: "5e11111111111111b11111111b1n11111111111b11b11111111111b111111n1111111bn111111111111111n11
+[05/10/2020 21:19]  handikap: :D
+[05/10/2020 21:19]  System: Healing Kanga
+[05/10/2020 21:19]  System: That is too far away.
+[05/10/2020 21:19]  System: You must wait for others to leave before you can do that.
+[05/10/2020 21:19]  System: Script <Grab.py> started.
+[05/10/2020 21:19]  System: Script <Grab.py> stopped.
+[05/10/2020 21:19]  System: Script <Grab.py> started.
+[05/10/2020 21:19]  System: Script <Grab.py> stopped.
+[05/10/2020 21:19]  System: Script <Grab.py> started.
+[05/10/2020 21:19]  System: Script <Grab.py> stopped.
+[05/10/2020 21:19]  handikap: Consecrus Arma [Consecrate Weapon]
+[05/10/2020 21:19]  System: You must wait for others to leave before you can do that. [4]
+[05/10/2020 21:19]  System: Healing Kanga
+[05/10/2020 21:19]  System: That is too far away.
+[05/10/2020 21:19]  handikap: Consecrus Arma [Consecrate Weapon]
+[05/10/2020 21:19]  System: You can't do that while you have a trade pending.
+[05/10/2020 21:19]  handikap: ""
+[05/10/2020 21:19]  System: Healing Kanga
+[05/10/2020 21:19]  System: You must wait to perform another action.
+[05/10/2020 21:19]  Hobo Jim: whats the key
+[05/10/2020 21:19]  handikap: ohh
+[05/10/2020 21:19]  You see: Lord handikap [HB]
+[05/10/2020 21:20]  handikap: its for box
+[05/10/2020 21:20]  handikap: i have alot box
+[05/10/2020 21:20]  You see: Lord handikap [HB]
+[05/10/2020 21:20]  System: Healing Kanga
+[05/10/2020 21:20]  System: That is too far away.
+[05/10/2020 21:20]  handikap: but dont have key
+[05/10/2020 21:20]  System: Healing Kanga
+[05/10/2020 21:20]  System: That is too far away.
+[05/10/2020 21:20]  handikap: ""
+[05/10/2020 21:20]  handikap: thy
+[05/10/2020 21:20]  You see: Lord handikap [HB]
+[05/10/2020 21:20]  Hobo Jim: whats in the boxes
+[05/10/2020 21:20]  System: Healing Kanga
+[05/10/2020 21:20]  System: That is too far away.
+[05/10/2020 21:20]  handikap: key for this
+[05/10/2020 21:20]  You see: Lord handikap [HB]
+[05/10/2020 21:20]  System: Healing Kanga
+[05/10/2020 21:20]  System: That is too far away.
+[05/10/2020 21:20]  handikap: i have many
+[05/10/2020 21:20]  You see: Lord handikap [HB]
+[05/10/2020 21:20]  System: Healing Kanga
+[05/10/2020 21:20]  System: That is too far away.
+[05/10/2020 21:21]  System: <BASEFONT COLOR=#00FF00>This chest is sealed and must be unlocked using an Ancient key from the Donation House.</font>
+[05/10/2020 21:21]  System: Heal Pet 2: True
+[05/10/2020 21:21]  System: Script <PetHealToggle.py> started.
+[05/10/2020 21:21]  System: True
+[05/10/2020 21:21]  System: Healing Piglet
+[05/10/2020 21:21]  System: That is too far away.
+[05/10/2020 21:21]  Hobo Jim: hmm
+[05/10/2020 21:21]  System: Script <PetHealToggle.py> stopped.
+[05/10/2020 21:21]  Hobo Jim: never got one o
+[05/10/2020 21:21]  handikap: its mostly giving deco
+[05/10/2020 21:21]  System: True
+[05/10/2020 21:21]  System: Healing Piglet
+[05/10/2020 21:21]  System: That is too far away.
+[05/10/2020 21:21]  handikap: and dye
+[05/10/2020 21:21]  Hobo Jim: i see
+[05/10/2020 21:21]  handikap: universal dye
+[05/10/2020 21:21]  System: True
+[05/10/2020 21:21]  System: Healing Piglet
+[05/10/2020 21:21]  System: That is too far away.
+[05/10/2020 21:21]  Hobo Jim: think i got the macro working by the end
+[05/10/2020 21:21]  Hobo Jim: easier when your tanking most of it
+[05/10/2020 21:21]  Hobo Jim: lol
+[05/10/2020 21:21]  System: True
+[05/10/2020 21:21]  System: Healing Piglet
+[05/10/2020 21:21]  System: That is too far away.
+[05/10/2020 21:21]  handikap: :D
+[05/10/2020 21:21]  Hobo Jim: 10 second cooldown giving me a fit
+[05/10/2020 21:21]  System: True
+[05/10/2020 21:21]  System: Healing Piglet
+[05/10/2020 21:21]  System: That is too far away.
+[05/10/2020 21:21]  Hobo Jim: wants to be more like 11 seconds
+[05/10/2020 21:22]  Hobo Jim: before it lets me cast it again
+[05/10/2020 21:22]  handikap: its too long
+[05/10/2020 21:22]  System: True
+[05/10/2020 21:22]  System: Healing Piglet
+[05/10/2020 21:22]  System: That is too far away.
+[05/10/2020 21:22]  System: True
+[05/10/2020 21:22]  System: Healing Piglet
+[05/10/2020 21:22]  System: That is too far away.
+[05/10/2020 21:22]  System: Script <PetHealer.py> stopped.
+[05/10/2020 21:22]  handikap: its hard to control two pet
+[05/10/2020 21:22]  You see: Lord handikap [HB]
+[05/10/2020 21:22]  Hobo Jim: i just press H
+[05/10/2020 21:22]  handikap: i have three :D
+[05/10/2020 21:22]  You see: Lord handikap [HB]
+[05/10/2020 21:22]  Hobo Jim: and it switches targets
+[05/10/2020 21:22]  Hobo Jim: lol
+[05/10/2020 21:22]  handikap: nice
+[05/10/2020 21:22]  Hobo Jim: little harder to setup, but works
+[05/10/2020 21:22]  handikap: lets do ape?
+[05/10/2020 21:23]  Hobo Jim: theres a 10 second delay between the switch though
+[05/10/2020 21:23]  Hobo Jim: sure
+[05/10/2020 21:23]  You see:  ShoJo [Sakkhra Warrior]
+[05/10/2020 21:23]  You see:  Gruwulf [Sakkhra Warrior]
+[05/10/2020 21:23]  You see:  Usile [Sakkhra Warrior]
+[05/10/2020 21:23]  You see:  Bishor [Sakkhra Warrior]
+[05/10/2020 21:23]  You see:  Bishor [Sakkhra Warrior]
+[05/10/2020 21:23]  You see:  Olaufee [Sakkhra Warrior]
+[05/10/2020 21:23]  You see:  Lar [Sakkhra Warrior]
+[05/10/2020 21:23]  You see:  Masena [Sakkhra Warrior]
+[05/10/2020 21:23]  Bishor: We worship the Dinosaurs!
+[05/10/2020 21:23]  You see:  Bhora [Sakkhra Warrior]
+[05/10/2020 21:23]  You see:  Bhora [Sakkhra Warrior]
+[05/10/2020 21:23]  You see:  a ruddy boura 
+[05/10/2020 21:23]  You see:  a baby dragon turtle 
+[05/10/2020 21:23]  You see:  a baby dragon turtle 
+[05/10/2020 21:23]  You see:  a high plains boura 
+[05/10/2020 21:23]  You see:  a anchisaur 
+[05/10/2020 21:23]  You see:  an archaeosaurus 
+[05/10/2020 21:23]  You see:  a anchisaur 
+[05/10/2020 21:23]  System: Who will you use the bandages on?
+[05/10/2020 21:23]  System: You begin applying the bandages.
+[05/10/2020 21:23]  handikap: Rel Por [Teleport]
+[05/10/2020 21:23]  System: You did not stay close enough to heal your patient!
+[05/10/2020 21:23]  Hobo Jim: Rel Por [Teleport]
+[05/10/2020 21:23]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/10/2020 21:24]  You see:  a anchisaur 
+[05/10/2020 21:24]  You see:  an archaeosaurus 
+[05/10/2020 21:24]  You see:  a silverback gorilla 
+[05/10/2020 21:24]  You see:  a silverback gorilla 
+[05/10/2020 21:24]  You see:  a silverback gorilla 
+[05/10/2020 21:24]  You see: Lord handikap [HB]
+[05/10/2020 21:24]  You see:  a gorilla 
+[05/10/2020 21:24]  You see:  a pandorian tiger 
+[05/10/2020 21:24]  You see: Lord handikap [HB]
+[05/10/2020 21:24]  Hobo Jim: got lost
+[05/10/2020 21:24]  System: Script <GetPets.py> started.
+[05/10/2020 21:24]  You see:  iAteKanga 
+[05/10/2020 21:24]  You see:  PigletForDinner 
+[05/10/2020 21:24]  System: You must wait to perform another action.
+[05/10/2020 21:24]  System: Script <GetPets.py> stopped.
+[05/10/2020 21:24]  System: Who will you use the bandages on?
+[05/10/2020 21:24]  System: True
+[05/10/2020 21:24]  System: Healing Piglet
+[05/10/2020 21:24]  System: You begin applying the bandages.
+[05/10/2020 21:24]  System: Script <PetHealer.py> started.
+[05/10/2020 21:24]  System: You must wait to perform another action.
+[05/10/2020 21:24]  System: You finish applying the bandages.
+[05/10/2020 21:24]  System: Script <PetHealer.py> stopped.
+[05/10/2020 21:25]  Hobo Jim: Bank container has 351 items, 1292 stones
+[05/10/2020 21:25]  System: That must be in your pack for you to use it.
+[05/10/2020 21:25]  System: Which Ancient Pandora Treasure Chest would you like to unseal?
+[05/10/2020 21:25]  System: You use the key on the Ancient Pandora Treasure Chest and unseal it!
+[05/10/2020 21:25]  System: You open the Ancient Pandora Treasure Chest and receive a Tier 1 Loot item from the donation house!
+[05/10/2020 21:25]  System: That container cannot hold more items.
+[05/10/2020 21:25]  System: That container cannot hold more items.
+[05/10/2020 21:25]  You see: Lord handikap [HB]
+[05/10/2020 21:25]  handikap: Divinum Furis [Divine Fury]
+[05/10/2020 21:25]  System: That container cannot hold more items.
+[05/10/2020 21:25]  handikap: all attack
+[05/10/2020 21:26]  Hobo Jim: er
+[05/10/2020 21:26]  Hobo Jim: hes invisible
+[05/10/2020 21:26]  handikap: claim list
+[05/10/2020 21:26]  System: Here you go...
+[05/10/2020 21:26]  handikap: claim list
+[05/10/2020 21:26]  You see:  Pktwo 
+[05/10/2020 21:26]  System: Here you go...
+[05/10/2020 21:26]  handikap: claim list
+[05/10/2020 21:26]  You see:  Pkone 
+[05/10/2020 21:26]  Hobo Jim: All Kill
+[05/10/2020 21:26]  handikap: all attack
+[05/10/2020 21:26]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/10/2020 21:26]  The Great Ape: * The poison seems to have no effect. *
+[05/10/2020 21:26]  The Great Ape: * The poison seems to have no effect. *
+[05/10/2020 21:26]  Hobo Jim: Forul Solum [Enemy of One]
+[05/10/2020 21:26]  Hobo Jim: Divinum Furis [Divine Fury]
+[05/10/2020 21:26]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/10/2020 21:26]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/10/2020 21:26]  Hobo Jim: i cant see him at all
+[05/10/2020 21:26]  The Great Ape: * The poison seems to have no effect. *
+[05/10/2020 21:26]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/10/2020 21:26]  System: Setting ability ArmorIgnore
+[05/10/2020 21:26]  System: Your attack penetrates their armor!
+[05/10/2020 21:26]  System: Setting ability ArmorIgnore
+[05/10/2020 21:26]  System: Setting ability ArmorIgnore
+[05/10/2020 21:26]  System: Your attack penetrates their armor! [3]
+[05/10/2020 21:26]  System: Setting ability ArmorIgnore
+[05/10/2020 21:27]  System: Setting ability ArmorIgnore
+[05/10/2020 21:27]  The Great Ape: * The poison seems to have no effect. *
+[05/10/2020 21:27]  System: Setting ability ArmorIgnore
+[05/10/2020 21:27]  System: Your attack penetrates their armor! [8]
+[05/10/2020 21:28]  System: Setting ability ArmorIgnore
+[05/10/2020 21:28]  System: Setting ability ArmorIgnore
+[05/10/2020 21:28]  System: Your attack penetrates their armor!
+[05/10/2020 21:28]  System: Your attack penetrates their armor!
+[05/10/2020 21:28]  handikap: all attack
+[05/10/2020 21:28]  handikap: all stay
+[05/10/2020 21:28]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/10/2020 21:28]  handikap: claim list
+[05/10/2020 21:28]  handikap: stable
+[05/10/2020 21:28]  handikap: stable
+[05/10/2020 21:28]  System: Your pet is too distracted!
+[05/10/2020 21:28]  handikap: stable
+[05/10/2020 21:28]  handikap: stable
+[05/10/2020 21:28]  handikap: stable
+[05/10/2020 21:28]  System: Your pet is too distracted!
+[05/10/2020 21:28]  handikap: stable
+[05/10/2020 21:28]  Hobo Jim: Divinum Furis [Divine Fury]
+[05/10/2020 21:28]  handikap: all stay
+[05/10/2020 21:28]  System: Setting ability ArmorIgnore
+[05/10/2020 21:28]  System: Your attack penetrates their armor!
+[05/10/2020 21:28]  handikap: all follow me
+[05/10/2020 21:28]  System: Setting ability ArmorIgnore
+[05/10/2020 21:28]  handikap: stable
+[05/10/2020 21:28]  System: Setting ability ArmorIgnore
+[05/10/2020 21:28]  handikap: stable
+[05/10/2020 21:28]  handikap: stable
+[05/10/2020 21:28]  System: Setting ability ArmorIgnore
+[05/10/2020 21:28]  System: Your attack penetrates their armor! [5]
+[05/10/2020 21:28]  System: Setting ability ArmorIgnore
+[05/10/2020 21:28]  System: Setting ability ArmorIgnore
+[05/10/2020 21:28]  System: Setting ability ArmorIgnore
+[05/10/2020 21:28]  System: Your attack penetrates their armor! [8]
+[05/10/2020 21:28]  Hobo Jim: All Follow Me
+[05/10/2020 21:28]  System: Setting ability ArmorIgnore
+[05/10/2020 21:28]  System: Who will you use the bandages on?
+[05/10/2020 21:28]  System: You begin applying the bandages.
+[05/10/2020 21:28]  System: Setting ability ArmorIgnore
+[05/10/2020 21:28]  System: Setting ability ArmorIgnore
+[05/10/2020 21:28]  System: You need 52 mana to perform that attack
+[05/10/2020 21:28]  System: Your attack penetrates their armor! [4]
+[05/10/2020 21:28]  System: You finish applying the bandages.
+[05/10/2020 21:28]  System: Setting ability ArmorIgnore
+[05/10/2020 21:28]  handikap: claim list
+[05/10/2020 21:28]  System: Script <ShrinkPets.py> started.
+[05/10/2020 21:28]  System: Shrinking...
+[05/10/2020 21:28]  System: You must wait to perform another action.
+[05/10/2020 21:28]  System: You place the PigletForDinner Idol into your pack.
+[05/10/2020 21:28]  System: Here you go...
+[05/10/2020 21:28]  You see:  a pandorian tiger 
+[05/10/2020 21:28]  System: You need 52 mana to perform that attack
+[05/10/2020 21:28]  handikap: all attack
+[05/10/2020 21:28]  Hobo Jim: All Kill
+[05/10/2020 21:28]  System: That is too far away.
+[05/10/2020 21:28]  System: Shrinking...
+[05/10/2020 21:28]  System: You place the iAteKanga Idol into your pack.
+[05/10/2020 21:28]  System: Shrinking...
+[05/10/2020 21:28]  handikap: Forul Solum [Enemy of One]
+[05/10/2020 21:28]  System: Script <ShrinkPets.py> stopped.
+[05/10/2020 21:28]  Hobo Jim: All Kill
+[05/10/2020 21:28]  System: Script <GetPets.py> started.
+[05/10/2020 21:28]  You see:  PigletForDinner 
+[05/10/2020 21:28]  System: You must wait to perform another action.
+[05/10/2020 21:28]  You see:  iAteKanga 
+[05/10/2020 21:28]  System: Script <GetPets.py> stopped.
+[05/10/2020 21:28]  Hobo Jim: All Kill
+[05/10/2020 21:28]  System: Who will you use the bandages on?
+[05/10/2020 21:28]  System: You begin applying the bandages.
+[05/10/2020 21:28]  System: You did not stay close enough to heal your patient!
+[05/10/2020 21:28]  System: Setting ability ArmorIgnore
+[05/10/2020 21:28]  System: Your attack penetrates their armor!
+[05/10/2020 21:28]  System: Setting ability ArmorIgnore
+[05/10/2020 21:28]  System: Setting ability ArmorIgnore
+[05/10/2020 21:28]  System: Setting ability ArmorIgnore
+[05/10/2020 21:28]  System: Setting ability ArmorIgnore
+[05/10/2020 21:28]  System: Your attack penetrates their armor! [7]
+[05/10/2020 21:28]  System: Setting ability ArmorIgnore
+[05/10/2020 21:29]  System: Setting ability ArmorIgnore
+[05/10/2020 21:29]  System: Setting ability ArmorIgnore
+[05/10/2020 21:29]  System: Your attack penetrates their armor! [8]
+[05/10/2020 21:29]  System: Setting ability ArmorIgnore
+[05/10/2020 21:29]  System: You need 52 mana to perform that attack
+[05/10/2020 21:29]  System: Setting ability ArmorIgnore
+[05/10/2020 21:29]  System: Setting ability ArmorIgnore
+[05/10/2020 21:29]  System: Setting ability ArmorIgnore
+[05/10/2020 21:29]  System: Your attack penetrates their armor! [4]
+[05/10/2020 21:29]  System: Setting ability ArmorIgnore
+[05/10/2020 21:29]  System: Setting ability ArmorIgnore
+[05/10/2020 21:29]  handikap: Divinum Furis [Divine Fury]
+[05/10/2020 21:29]  System: Setting ability ArmorIgnore
+[05/10/2020 21:29]  System: Setting ability ArmorIgnore
+[05/10/2020 21:29]  System: Your attack penetrates their armor! [6]
+[05/10/2020 21:29]  handikap: Augus Luminos [Holy Light]
+[05/10/2020 21:29]  System: Setting ability ArmorIgnore
+[05/10/2020 21:29]  System: Setting ability ArmorIgnore
+[05/10/2020 21:29]  System: Setting ability ArmorIgnore
+[05/10/2020 21:29]  System: Your attack penetrates their armor! [6]
+[05/10/2020 21:29]  System: Setting ability ArmorIgnore
+[05/10/2020 21:29]  System: You need 52 mana to perform that attack
+[05/10/2020 21:29]  You see: a evil silverback corpse
+[05/10/2020 21:29]  System: Setting ability ArmorIgnore
+[05/10/2020 21:29]  handikap: Divinum Furis [Divine Fury]
+[05/10/2020 21:29]  System: Setting ability ArmorIgnore
+[05/10/2020 21:29]  System: Setting ability ArmorIgnore
+[05/10/2020 21:29]  System: Your attack penetrates their armor! [4]
+[05/10/2020 21:29]  System: You have gained a lot of fame.
+[05/10/2020 21:29]  System: You have gained a lot of karma.
+[05/10/2020 21:29]  You see: a great ape corpse
+[05/10/2020 21:29]  System: Setting ability ArmorIgnore
+[05/10/2020 21:29]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/10/2020 21:29]  System: Who will you use the bandages on?
+[05/10/2020 21:29]  System: You begin applying the bandages.
+[05/10/2020 21:29]  System: Your attack penetrates their armor! [2]
+[05/10/2020 21:29]  System: True
+[05/10/2020 21:29]  System: Healing Piglet
+[05/10/2020 21:29]  System: Script <PetHealer.py> started.
+[05/10/2020 21:29]  System: You finish applying the bandages.
+[05/10/2020 21:29]  System: Script <PetHealer.py> stopped.
+[05/10/2020 21:29]  System: Who will you use the bandages on?
+[05/10/2020 21:29]  System: You begin applying the bandages.
+[05/10/2020 21:29]  System: You finish applying the bandages.
+[05/10/2020 21:29]  System: You must wait to perform another action.
+[05/10/2020 21:29]  You see:  a loyal silverback 
+[05/10/2020 21:29]  handikap: stable
+[05/10/2020 21:29]  handikap: stable
+[05/10/2020 21:29]  handikap: stable
+[05/10/2020 21:29]  System: Who will you use the bandages on?
+[05/10/2020 21:29]  System: You begin applying the bandages.
+[05/10/2020 21:29]  System: You finish applying the bandages.
+[05/10/2020 21:29]  You see:  a loyal silverback 
+[05/10/2020 21:29]  handikap: "1151111111111111111136b3"""
+[05/10/2020 21:30]  Hobo Jim: he was invisible
+[05/10/2020 21:30]  Hobo Jim: not sure why
+[05/10/2020 21:30]  handikap: thy
+[05/10/2020 21:30]  You see: Lord handikap [HB]
+[05/10/2020 21:30]  handikap: "who?
+[05/10/2020 21:30]  Hobo Jim: Bank container has 351 items, 1292 stones
+[05/10/2020 21:30]  Hobo Jim: the ape
+[05/10/2020 21:30]  System: Script <ShrinkPets.py> started.
+[05/10/2020 21:30]  System: Shrinking...
+[05/10/2020 21:30]  System: You place the PigletForDinner Idol into your pack.
+[05/10/2020 21:30]  System: Shrinking...
+[05/10/2020 21:30]  System: You place the iAteKanga Idol into your pack.
+[05/10/2020 21:30]  System: Shrinking...
+[05/10/2020 21:30]  System: Script <ShrinkPets.py> stopped.
+[05/10/2020 21:30]  handikap: not here
+[05/10/2020 21:30]  You see: Lord handikap [HB]
+[05/10/2020 21:30]  Hobo Jim: was for me had to ctrl shift to target him
+[05/10/2020 21:31]  handikap: maybe its about your patch?
+[05/10/2020 21:31]  You see: Lord handikap [HB]
+[05/10/2020 21:31]  handikap: client patch
+[05/10/2020 21:31]  Hobo Jim: was there a patch today?
+[05/10/2020 21:31]  handikap: idk
+[05/10/2020 21:31]  handikap: i didnt made patch
+[05/10/2020 21:31]  You see: Lord handikap [HB]
+[05/10/2020 21:31]  handikap: like 1 months
+[05/10/2020 21:31]  Hobo Jim: lol same
+[05/10/2020 21:31]  System: Setting ability ArmorIgnore
+[05/10/2020 21:31]  System: Setting ability ArmorIgnore
+[05/10/2020 21:31]  System: Setting ability ArmorIgnore
+[05/10/2020 21:31]  handikap: ok bro thy
+[05/10/2020 21:31]  You see: Lord handikap [HB]
+[05/10/2020 21:31]  Hobo Jim: np ty
+[05/10/2020 21:31]  handikap: i need sleep
+[05/10/2020 21:31]  Hobo Jim: void"?>
+[05/10/2020 21:31]  handikap: see you later )
+[05/10/2020 21:31]  Hobo Jim: ok o
+[05/10/2020 21:31]  handikap: take care
+[05/10/2020 21:32]  Hobo Jim: will do night man
+[05/10/2020 21:32]  handikap: thx
+[05/10/2020 21:32]  You see: Lord handikap [HB]
+[05/10/2020 21:32]  Hobo Jim: ty
+[05/10/2020 21:32]  handikap: Sanctum Viatas [Sacred Journey]
+[05/10/2020 21:32]  Hobo Jim: gona go void
+[05/10/2020 21:32]  You see:  a gorilla 
+[05/10/2020 21:32]  You see:  a silverback gorilla 
+[05/10/2020 21:32]  System: 97° 59'N, 29° 2'W
+[05/10/2020 21:32]  Hobo Jim: Kal Ort Por [Recall]
+[05/10/2020 21:32]  System: You have left Valley of Eodon
+[05/10/2020 21:32]  You see:  CityBooks the parrot
+[05/10/2020 21:32]  You see:  Akilah the waiter
+[05/10/2020 21:32]  You see:  Dungeons the parrot
+[05/10/2020 21:32]  You see:  TMapsFelANDTram the parrot
+[05/10/2020 21:32]  System: WorldMap loaded!
+[05/10/2020 21:32]  You see:  GOLD SKULLS 
+[05/10/2020 21:32]  You see:  BULK BOARDS 
+[05/10/2020 21:32]  You see:  Crystals and Frags 
+[05/10/2020 21:32]  You see:  Imbue Mats 
+[05/10/2020 21:32]  You see:  Newbie 
+[05/10/2020 21:32]  You see:   
+[05/10/2020 21:32]  You see:   
+[05/10/2020 21:32]  You see:   
+[05/10/2020 21:32]  You see:  Sukatai the Keeper of Chivalry
+[05/10/2020 21:32]  : If you have an empty vendor, remove them or they will be auto deleted!
+[05/10/2020 21:32]  You see: Lord Jags [Nu-B]
+[05/10/2020 21:32]  You see:   the tailor
+[05/10/2020 21:32]  You see:   the blacksmith
+[05/10/2020 21:32]  You see:   the weaver
+[05/10/2020 21:32]  You see:   the trash collector
+[05/10/2020 21:32]  You see:   the vote registrar
+[05/10/2020 21:32]  You see:  Mesmerize [WSF]
+[05/10/2020 21:32]  You see: Lord blackmyst [WSF]
+[05/10/2020 21:32]  You see:   the town crier
+[05/10/2020 21:32]  You see:   
+[05/10/2020 21:32]  System: You have entered Luna Bank
+[05/10/2020 21:32]  You see:  Seti [AoV]
+[05/10/2020 21:32]  You see: Lord dnc 
+[05/10/2020 21:32]  You see:   the innkeeper
+[05/10/2020 21:32]  You see:   the hairstylist
+[05/10/2020 21:32]  You see: Lord The Animal [CoF]
+[05/10/2020 21:32]  You see:  Deacon the brewer
+[05/10/2020 21:32]  You see:   the tinker
+[05/10/2020 21:32]  You see:   the alchemist
+[05/10/2020 21:32]  You see:   the Holy Mage
+[05/10/2020 21:32]  You see:   The Prov
+[05/10/2020 21:32]  You see:  Lord Blackthorne 
+[05/10/2020 21:32]  You see:  Erol the vet
+[05/10/2020 21:32]  You see:  Coldsteel the hallowed
+[05/10/2020 21:32]  System: You have left Luna Bank
+[05/10/2020 21:32]  You see:  Sherman the bounty officer
+[05/10/2020 21:32]  You see:  a rabbit 
+[05/10/2020 21:32]  You see:   the Keeper of Chivalry
+[05/10/2020 21:32]  You see:   the Keeper of Chivalry
+[05/10/2020 21:32]  System: You choose not to go anywhere.
+[05/10/2020 21:32]  System: You have entered Luna Bank
+[05/10/2020 21:32]  You see: Lord dnc 
+[05/10/2020 21:32]  You see:  Seti [AoV]
+[05/10/2020 21:32]  You see:   the town crier
+[05/10/2020 21:32]  You see:   
+[05/10/2020 21:32]  You see: Lord blackmyst [WSF]
+[05/10/2020 21:32]  You see:  Mesmerize [WSF]
+[05/10/2020 21:32]  You see:   the vote registrar
+[05/10/2020 21:32]  You see:   the weaver
+[05/10/2020 21:32]  You see:   the trash collector
+[05/10/2020 21:32]  You see:   the blacksmith
+[05/10/2020 21:32]  You see:   the tailor
+[05/10/2020 21:32]  You see: Lord Jags [Nu-B]
+[05/10/2020 21:32]  You see:  Sukatai the Keeper of Chivalry
+[05/10/2020 21:32]  You see:   
+[05/10/2020 21:32]  You see:   
+[05/10/2020 21:32]  System: You have left Luna Bank
+[05/10/2020 21:32]  You see:  Newbie 
+[05/10/2020 21:32]  You see:  Imbue Mats 
+[05/10/2020 21:32]  You see:  Crystals and Frags 
+[05/10/2020 21:32]  You see:  BULK BOARDS 
+[05/10/2020 21:32]  : If you have an empty vendor, remove them or they will be auto deleted!
+[05/10/2020 21:32]  You see:  GOLD SKULLS 
+[05/10/2020 21:32]  You see:  POWERSCROLLS 
+[05/10/2020 21:32]  You see:  Tailor Rewards 
+[05/10/2020 21:32]  You see:  MISC ITEMS 
+[05/10/2020 21:32]  You see:  STEALABLES / DECO 
+[05/10/2020 21:32]  You see:  Smith Rewards 
+[05/10/2020 21:32]  You see:  Ele Deeds + PS's 
+[05/10/2020 21:32]  You see:  MARKED RUNE BOOKS 
+[05/10/2020 21:32]  You see:  Misc Stuff 
+[05/10/2020 21:32]  You see:  TMapsFelANDTram the parrot
+[05/10/2020 21:32]  You see:  CityBooks the parrot
+[05/10/2020 21:32]  You see:  Dungeons the parrot
+[05/10/2020 21:32]  You see:  Akilah the waiter
+[05/10/2020 21:32]  System: Your skill in Alchemy has increased by 5.0.  It is now 130.0.
+[05/10/2020 21:32]  System: Your skill in Blacksmithy has increased by 5.0.  It is now 130.0.
+[05/10/2020 21:32]  System: Your skill in Carpentry has increased by 5.0.  It is now 130.0.
+[05/10/2020 21:32]  System: Your skill in Cartography has increased by 5.0.  It is now 130.0.
+[05/10/2020 21:32]  System: Your skill in Cooking has increased by 5.0.  It is now 130.0.
+[05/10/2020 21:32]  System: Your skill in Bowcraft/Fletching has increased by 5.0.  It is now 130.0.
+[05/10/2020 21:32]  System: Your skill in Imbuing has increased by 5.0.  It is now 130.0.
+[05/10/2020 21:32]  System: Your skill in Inscription has increased by 5.0.  It is now 130.0.
+[05/10/2020 21:32]  System: Your skill in Tailoring has increased by 5.0.  It is now 130.0.
+[05/10/2020 21:32]  System: Your skill in Tinkering has increased by 5.0.  It is now 130.0.
+[05/10/2020 21:32]  You see:  Rune- and Spellbooks 
+[05/10/2020 21:33]  You see:  Lesser Arties 
+[05/10/2020 21:33]  You see:  Nigel Horns 
+[05/10/2020 21:33]  You see:  Deco & Misc 
+[05/10/2020 21:33]  You see:  SOP 
+[05/10/2020 21:33]  You see:  Misc & Newbies 
+[05/10/2020 21:33]  You see:  SOP 
+[05/10/2020 21:34]  System: 61° 47'N, 82° 45'E
+[05/10/2020 21:34]  Hobo Jim: Kal Ort Por [Recall]
+[05/10/2020 21:34]  System: Your skill in Alchemy has decreased by 5.0.  It is now 125.0.
+[05/10/2020 21:34]  System: Your skill in Blacksmithy has decreased by 5.0.  It is now 125.0.
+[05/10/2020 21:34]  System: Your skill in Carpentry has decreased by 5.0.  It is now 125.0.
+[05/10/2020 21:34]  System: Your skill in Cartography has decreased by 5.0.  It is now 125.0.
+[05/10/2020 21:34]  System: Your skill in Cooking has decreased by 5.0.  It is now 125.0.
+[05/10/2020 21:34]  System: Your skill in Bowcraft/Fletching has decreased by 5.0.  It is now 125.0.
+[05/10/2020 21:34]  System: Your skill in Imbuing has decreased by 5.0.  It is now 125.0.
+[05/10/2020 21:34]  System: Your skill in Inscription has decreased by 5.0.  It is now 125.0.
+[05/10/2020 21:34]  System: Your skill in Tailoring has decreased by 5.0.  It is now 125.0.
+[05/10/2020 21:34]  System: Your skill in Tinkering has decreased by 5.0.  It is now 125.0.
+[05/10/2020 21:34]  System: It begins to rain.
+[05/10/2020 21:34]  System: WorldMap loaded!
+[05/10/2020 21:34]  You see:  a dazzled harpy 
+[05/10/2020 21:34]  You see:  a dazzled harpy 
+[05/10/2020 21:34]  You see:  a dazzled harpy 
+[05/10/2020 21:34]  System: Some of the damage you received has been converted to heal you.
+[05/10/2020 21:34]  System: Who will you use the bandages on?
+[05/10/2020 21:34]  You see:  a dazzled harpy 
+[05/10/2020 21:34]  System: You begin applying the bandages.
+[05/10/2020 21:34]  System: You heal what little damage your patient had.
+[05/10/2020 21:34]  You see:  a dazzled harpy 
+[05/10/2020 21:34]  You see:  a dazzled harpy 
+[05/10/2020 21:34]  You see:  a harpy 
+[05/10/2020 21:34]  You see:  a harpy 
+[05/10/2020 21:34]  You see:  a harpy 
+[05/10/2020 21:34]  You see:  a dazzled harpy 
+[05/10/2020 21:34]  You see:  a dazzled harpy 
+[05/10/2020 21:34]  You see: a harpy corpse
+[05/10/2020 21:34]  You see:  a harpy 
+[05/10/2020 21:34]  You see:  a harpy 
+[05/10/2020 21:34]  You see:  a dazzled harpy 
+[05/10/2020 21:34]  You see:  a harpy 
+[05/10/2020 21:34]  Hobo Jim: You stepped onto a spike trap!
+[05/10/2020 21:34]  You see:  a dazzled harpy 
+[05/10/2020 21:34]  You see:  a harpy 
+[05/10/2020 21:34]  You see:  a harpy 
+[05/10/2020 21:34]  You see:  a harpy 
+[05/10/2020 21:34]  You see:  a harpy 
+[05/10/2020 21:34]  You see:  a headless one 
+[05/10/2020 21:34]  You see:  a stone harpy 
+[05/10/2020 21:34]  You see:  a headless one 
+[05/10/2020 21:34]  You see:  a headless one 
+[05/10/2020 21:34]  You see:  a harpy 
+[05/10/2020 21:34]  You see:  a stone harpy 
+[05/10/2020 21:34]  System: Some of the damage you received has been converted to heal you.
+[05/10/2020 21:34]  System: some damage has been healed : 1
+[05/10/2020 21:34]  System: Who will you use the bandages on?
+[05/10/2020 21:34]  System: You begin applying the bandages.
+[05/10/2020 21:34]  System: You finish applying the bandages.
+[05/10/2020 21:34]  You see: some damage has been healed : 1
+[05/10/2020 21:34]  You see:  a gazer 
+[05/10/2020 21:34]  System: Some of the damage you received has been converted to heal you.
+[05/10/2020 21:34]  Hobo Jim: You stepped onto a spike trap!
+[05/10/2020 21:34]  You see:  a gazer larva 
+[05/10/2020 21:34]  You see:  a gazer 
+[05/10/2020 21:34]  You see:  a corpser 
+[05/10/2020 21:34]  You see:  a corpser 
+[05/10/2020 21:34]  You see:  a gazer larva 
+[05/10/2020 21:34]  You see:  a corpser 
+[05/10/2020 21:34]  You see:  a gazer 
+[05/10/2020 21:34]  You see:  a corpser 
+[05/10/2020 21:34]  You see:  a gazer larva 
+[05/10/2020 21:34]  You see:  a gazer 
+[05/10/2020 21:34]  You see:  a corpser 
+[05/10/2020 21:34]  You see:  a corpser 
+[05/10/2020 21:34]  You see:  a corpser 
+[05/10/2020 21:34]  You see:  a corpser 
+[05/10/2020 21:34]  You see:  a corpser 
+[05/10/2020 21:34]  You see:  a corpser 
+[05/10/2020 21:34]  You see:  a corpser 
+[05/10/2020 21:34]  You see:  a corpser 
+[05/10/2020 21:34]  You see:  The Ghost of Frederic Smithson 
+[05/10/2020 21:35]  You see:  a lich 
+[05/10/2020 21:35]  : Do note that hit effects animation are turned off vs wave creatures (they still do damage)
+[05/10/2020 21:35]  You see:  a lich 
+[05/10/2020 21:35]  You see:  a headless one 
+[05/10/2020 21:35]  You see:  a lich 
+[05/10/2020 21:35]  System: What should I use these scissors on?
+[05/10/2020 21:35]  System: Didn't your parents ever tell you not to run with scissors in your hand?!
+[05/10/2020 21:35]  You see:  a lich 
+[05/10/2020 21:35]  System: What should I use these scissors on?
+[05/10/2020 21:35]  System: Didn't your parents ever tell you not to run with scissors in your hand?!
+[05/10/2020 21:35]  Hobo Jim: An Corp [Resurrection]
+[05/10/2020 21:35]  Hobo Jim: Kal Por Ylem [Mark]
+[05/10/2020 21:35]  System: You are already casting a spell.
+[05/10/2020 21:35]  System: Please enter a description for this marked object:
+[05/10/2020 21:35]  System: The etching on the rune has been changed.
+[05/10/2020 21:35]  System: Your strength has changed by -5.  It is now 318
+[05/10/2020 21:35]  System: Your strength has changed by 10.  It is now 328
+[05/10/2020 21:35]  System: Who will you use the bandages on?
+[05/10/2020 21:35]  System: You begin applying the bandages.
+[05/10/2020 21:35]  Hobo Jim: Forul Solum [Enemy of One]
+[05/10/2020 21:35]  System: You heal what little damage your patient had.
+[05/10/2020 21:35]  You see:  a headless one 
+[05/10/2020 21:35]  You see:  a lich 
+[05/10/2020 21:35]  You see:  a lich 
+[05/10/2020 21:35]  : Do note that hit effects animation are turned off vs wave creatures (they still do damage)
+[05/10/2020 21:35]  You see:  a lich 
+[05/10/2020 21:35]  System: What should I use these scissors on?
+[05/10/2020 21:35]  System: Didn't your parents ever tell you not to run with scissors in your hand?!
+[05/10/2020 21:35]  You see:  a headless one 
+[05/10/2020 21:35]  You see:  a headless one 
+[05/10/2020 21:35]  You see:  a headless one 
+[05/10/2020 21:35]  You see:  a headless one 
+[05/10/2020 21:36]  You see:  a headless one 
+[05/10/2020 21:36]  You see:  a headless one 
+[05/10/2020 21:36]  You see: a headless corpse
+[05/10/2020 21:36]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/10/2020 21:36]  Hobo Jim: Forul Solum [Enemy of One]
+[05/10/2020 21:36]  You see:  a headless one 
+[05/10/2020 21:36]  You see:  a lich 
+[05/10/2020 21:36]  You see:  a lich 
+[05/10/2020 21:36]  You see:  a lich 
+[05/10/2020 21:36]  You see:  a lich 
+[05/10/2020 21:36]  You see:  a headless one 
+[05/10/2020 21:36]  You see:  a lich 
+[05/10/2020 21:36]  System: Some of the damage you received has been converted to heal you.
+[05/10/2020 21:36]  System: some damage has been healed : 2
+[05/10/2020 21:36]  System: Setting ability WhirlwindAttack
+[05/10/2020 21:36]  You see: a headless corpse
+[05/10/2020 21:36]  System: Who will you use the bandages on?
+[05/10/2020 21:36]  System: You begin applying the bandages.
+[05/10/2020 21:36]  System: some damage has been healed : 1
+[05/10/2020 21:36]  System: The whirling attack strikes multiple targets!
+[05/10/2020 21:36]  System: Setting ability WhirlwindAttack
+[05/10/2020 21:36]  System: Your strength has changed by -10.  It is now 318
+[05/10/2020 21:36]  System: Your dexterity has changed by -6.  It is now 223
+[05/10/2020 21:36]  System: You heal what little damage your patient had.
+[05/10/2020 21:36]  System: That being is not damaged!
+[05/10/2020 21:36]  You see: a lich corpse
+[05/10/2020 21:36]  You see: a lich corpse
+[05/10/2020 21:36]  You see: some damage has been healed : 2
+[05/10/2020 21:36]  System: Who will you use the bandages on?
+[05/10/2020 21:36]  You see: a lich corpse
+[05/10/2020 21:36]  System: The whirling attack strikes multiple targets!
+[05/10/2020 21:36]  System: Setting ability WhirlwindAttack
+[05/10/2020 21:36]  System: The whirling attack strikes a target!
+[05/10/2020 21:36]  You see: a headless corpse
+[05/10/2020 21:36]  System: You begin applying the bandages.
+[05/10/2020 21:36]  System: Some of the damage you received has been converted to heal you. [3]
+[05/10/2020 21:36]  System: Who will you use the bandages on?
+[05/10/2020 21:36]  System: Your fingers slip!
+[05/10/2020 21:36]  System: some damage has been healed : 12
+[05/10/2020 21:36]  System: Setting ability WhirlwindAttack
+[05/10/2020 21:36]  System: You finish applying the bandages.
+[05/10/2020 21:36]  System: some damage has been healed : 5
+[05/10/2020 21:36]  System: The whirling attack strikes multiple targets!
+[05/10/2020 21:36]  You see: a lich corpse
+[05/10/2020 21:36]  System: Setting ability WhirlwindAttack
+[05/10/2020 21:36]  System: You begin applying the bandages.
+[05/10/2020 21:36]  System: The whirling attack strikes a target!
+[05/10/2020 21:36]  You see: a headless corpse
+[05/10/2020 21:36]  You see: a headless corpse
+[05/10/2020 21:36]  System: Who will you use the bandages on?
+[05/10/2020 21:36]  System: some damage has been healed : 4
+[05/10/2020 21:36]  System: Setting ability WhirlwindAttack
+[05/10/2020 21:36]  System: You finish applying the bandages.
+[05/10/2020 21:36]  You see: a lich corpse
+[05/10/2020 21:36]  System: Setting ability WhirlwindAttack
+[05/10/2020 21:36]  System: Some of the damage you received has been converted to heal you. [3]
+[05/10/2020 21:36]  You see:  a headless one 
+[05/10/2020 21:36]  You see:  a headless one 
+[05/10/2020 21:37]  System: Setting ability WhirlwindAttack
+[05/10/2020 21:37]  You see: a headless corpse
+[05/10/2020 21:37]  System: Your strength has changed by -10.  It is now 308
+[05/10/2020 21:37]  System: Your strength has changed by 5.  It is now 313
+[05/10/2020 21:37]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/10/2020 21:37]  You see: a headless corpse
+[05/10/2020 21:37]  System: Your strength has changed by -5.  It is now 308
+[05/10/2020 21:37]  System: Your strength has changed by 10.  It is now 318
+[05/10/2020 21:37]  System: Who will you use the bandages on?
+[05/10/2020 21:37]  System: You begin applying the bandages.
+[05/10/2020 21:37]  System: You heal what little damage your patient had.
+[05/10/2020 21:37]  System: Some of the damage you received has been converted to heal you.
+[05/10/2020 21:37]  System: Who will you use the bandages on?
+[05/10/2020 21:37]  System: You begin applying the bandages.
+[05/10/2020 21:37]  System: You heal what little damage your patient had.
+[05/10/2020 21:37]  : Do note that hit effects animation are turned off vs wave creatures (they still do damage)
+[05/10/2020 21:37]  System: What should I use these scissors on?
+[05/10/2020 21:37]  System: Didn't your parents ever tell you not to run with scissors in your hand?!
+[05/10/2020 21:37]  System: What should I use these scissors on?
+[05/10/2020 21:37]  System: Didn't your parents ever tell you not to run with scissors in your hand?!
+[05/10/2020 21:37]  System: You must wait to perform another action.
+[05/10/2020 21:37]  System: What should I use these scissors on?
+[05/10/2020 21:37]  System: Didn't your parents ever tell you not to run with scissors in your hand?!
+[05/10/2020 21:38]  System: Target a Recall Rune to add a destination.
+[05/10/2020 21:38]  System: Cove Lvl 2 
+[05/10/2020 21:38]  System: 97° 59'N, 29° 2'W
+[05/10/2020 21:38]  Hobo Jim: Kal Ort Por [Recall]
+[05/10/2020 21:38]  You see:  CityBooks the parrot
+[05/10/2020 21:38]  You see:  Akilah the waiter
+[05/10/2020 21:38]  You see:  Dungeons the parrot
+[05/10/2020 21:38]  You see:  TMapsFelANDTram the parrot
+[05/10/2020 21:38]  System: WorldMap loaded!
+[05/10/2020 21:38]  System: Your strength has changed by 10.  It is now 328
+[05/10/2020 21:38]  System: Your dexterity has changed by 6.  It is now 229
+[05/10/2020 21:38]  System: Who will you use the bandages on?
+[05/10/2020 21:38]  System: You begin applying the bandages.
+[05/10/2020 21:38]  System: You heal what little damage your patient had.

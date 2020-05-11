@@ -1,0 +1,13 @@
+[
+  {
+    "Description": "pets",
+    "IncludeParty": false,
+    "PreventAttack": true,
+    "AutoacceptParty": false,
+    "SLFrinedCheckBox": false,
+    "TBFrinedCheckBox": false,
+    "COMFrinedCheckBox": false,
+    "MINFrinedCheckBox": false,
+    "Selected": true
+  }
+]

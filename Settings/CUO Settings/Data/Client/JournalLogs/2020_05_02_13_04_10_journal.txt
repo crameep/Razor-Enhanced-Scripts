@@ -1,0 +1,291 @@
+[05/02/2020 13:04]  System: WorldMap loading...
+[05/02/2020 13:04]  System: Some of your Royal City Loyalty has decayed.
+[05/02/2020 13:04]  System: You have 0 of max 50 in your mailbox.
+[05/02/2020 13:04]  You see: Lord Hobo Jim [SOUL]
+[05/02/2020 13:04]  You see:  CityBooks the parrot
+[05/02/2020 13:04]  You see:  Akilah the waiter
+[05/02/2020 13:04]  You see:  Dungeons the parrot
+[05/02/2020 13:04]  You see:  TMapsFelANDTram the parrot
+[05/02/2020 13:04]  System: 
+[05/02/2020 13:04]  You see:  CityBooks the parrot
+[05/02/2020 13:04]  You see:  Akilah the waiter
+[05/02/2020 13:04]  You see:  Dungeons the parrot
+[05/02/2020 13:04]  You see:  TMapsFelANDTram the parrot
+[05/02/2020 13:04]  System: Loading WorldMap markers..
+[05/02/2020 13:04]  System: WorldMap loaded!
+[05/02/2020 13:04]  System: WorldMap markers loaded (0)
+[05/02/2020 13:04]  System: AUTOLOOT: Engine Start...
+[05/02/2020 13:04]  You see:  GOLD SKULLS 
+[05/02/2020 13:04]  You see:  BULK BOARDS 
+[05/02/2020 13:04]  You see:  Crystals and Frags 
+[05/02/2020 13:04]  You see:  Imbue Mats 
+[05/02/2020 13:04]  You see:  Newbie 
+[05/02/2020 13:04]  You see:   
+[05/02/2020 13:04]  You see:   
+[05/02/2020 13:04]  You see:   
+[05/02/2020 13:04]  : If you have an empty vendor, remove them or they will be auto deleted!
+[05/02/2020 13:04]  You see:  Sukatai the Keeper of Chivalry
+[05/02/2020 13:04]  You see:   the tailor
+[05/02/2020 13:04]  You see:   the blacksmith
+[05/02/2020 13:04]  You see:   the weaver
+[05/02/2020 13:04]  You see:   the trash collector
+[05/02/2020 13:04]  You see:  Seti [AoV]
+[05/02/2020 13:04]  You see:   the vote registrar
+[05/02/2020 13:04]  You see:   the town crier
+[05/02/2020 13:04]  You see:   
+[05/02/2020 13:04]  System: You have entered Luna Bank
+[05/02/2020 13:04]  You see:   the hairstylist
+[05/02/2020 13:04]  You see:   the innkeeper
+[05/02/2020 13:04]  You see:   the tinker
+[05/02/2020 13:04]  You see:   the alchemist
+[05/02/2020 13:04]  You see:   the Holy Mage
+[05/02/2020 13:04]  You see:   The Prov
+[05/02/2020 13:04]  You see:  Deacon the brewer
+[05/02/2020 13:04]  You see:  Lord Blackthorne 
+[05/02/2020 13:04]  You see:  Erol the vet
+[05/02/2020 13:04]  You see:  Gorrow the mayor
+[05/02/2020 13:04]  You see:  Coldsteel the hallowed
+[05/02/2020 13:04]  System: You have left Luna Bank
+[05/02/2020 13:04]  You see:  Sherman the bounty officer
+[05/02/2020 13:04]  You see:  a rabbit 
+[05/02/2020 13:04]  You see:   the Keeper of Chivalry
+[05/02/2020 13:04]  You see:   the Keeper of Chivalry
+[05/02/2020 13:04]  System: You have entered the Pandora Casino & Pandora Coin store area.
+[05/02/2020 13:04]  System: You have been teleported to: P-Coin Store
+[05/02/2020 13:04]  You see:  Spenser the banker
+[05/02/2020 13:04]  System: WorldMap loaded!
+[05/02/2020 13:05]  Hobo Jim: Bank container has 191 items, 893 stones
+[05/02/2020 13:05]  System: 36 Pandora Bucks have been placed in your pack.
+[05/02/2020 13:07]  System: You have left the Pandora Casino & Pandora Coin store area.
+[05/02/2020 13:07]  System: You are now under the protection of the town guards.
+[05/02/2020 13:07]  You see:  Treva the banker
+[05/02/2020 13:07]  You see:  Laird the minter
+[05/02/2020 13:07]  You see:  Ace the general goods seller
+[05/02/2020 13:07]  You see:  Ivana the Gold Sink Banker
+[05/02/2020 13:07]  You see:  Nori the jeweler
+[05/02/2020 13:07]  You see:  Narmada the universal repairdeed seller
+[05/02/2020 13:07]  System: WorldMap loaded!
+[05/02/2020 13:07]  System: It begins to rain.
+[05/02/2020 13:08]  System: You have entered Donation House
+[05/02/2020 13:08]  System: You have left the protection of the town guards.
+[05/02/2020 13:08]  System: You have been teleported to: Donation Store
+[05/02/2020 13:08]  You see:  Trinket Vendor [Donation]
+[05/02/2020 13:08]  You see:  a pandorian tiger (7
+[05/02/2020 13:08]  You see:  a Sphinx 
+[05/02/2020 13:08]  You see:  a shimmering hiryu 
+[05/02/2020 13:08]  You see:  a Tarantula weak but can disarm, poison and throw webs
+[05/02/2020 13:08]  You see:  Abyssal Merchant [Donation]
+[05/02/2020 13:08]  You see:  House Painter [Donation]
+[05/02/2020 13:08]  You see:  Color Specialist [Donation]
+[05/02/2020 13:08]  You see:  Skillball Vendor [Donation]
+[05/02/2020 13:08]  You see:  Animal Trainer [Donation]
+[05/02/2020 13:08]  You see:  a Dinosaur 
+[05/02/2020 13:08]  You see:  a magical tornado 
+[05/02/2020 13:08]  You see:  Ethy Vendor [Donation]
+[05/02/2020 13:08]  You see:  Ahmik Go-Cart Vendor
+[05/02/2020 13:08]  You see:  Decorator Vendor [Donation]
+[05/02/2020 13:08]  You see:  Equips And Stats [Donation]
+[05/02/2020 13:08]  You see:  Rainbow 
+[05/02/2020 13:08]  You see:  Tropical 
+[05/02/2020 13:08]  You see:  Faded 
+[05/02/2020 13:08]  You see:  Vintage 
+[05/02/2020 13:08]  You see:  Charger of the Fallen 
+[05/02/2020 13:08]  You see:  Ancient Vendor [Donation]
+[05/02/2020 13:08]  You see:  Dr. Spector -The Mad Scientist Collection
+[05/02/2020 13:08]  Trinket Vendor: Greetings.  Have a look around.
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: You couldn't find anything to grab
+[05/02/2020 13:08]  System: You must wait for 4.11 seconds.
+[05/02/2020 13:08]  System: You must wait for 4.09 seconds.
+[05/02/2020 13:08]  System: You must wait for 4.08 seconds.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: You must wait for 3.92 seconds.
+[05/02/2020 13:08]  System: You must wait for 3.89 seconds.
+[05/02/2020 13:08]  System: You must wait for 3.75 seconds.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  System: You must wait for 3.52 seconds.
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  System: You must wait for 3.11 seconds.
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  System: You must wait for 2.69 seconds.
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: You must wait for 2.39 seconds.
+[05/02/2020 13:08]  System: You must wait for 2.34 seconds.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: You must wait for 2.05 seconds.
+[05/02/2020 13:08]  System: You must wait for 2.02 seconds.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: You must wait for 1.77 seconds.
+[05/02/2020 13:08]  System: You must wait for 1.67 seconds.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  System: You must wait for 1.45 seconds.
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  System: You must wait for 1.13 seconds.
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  System: You must wait for 0.81 seconds.
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  System: You must wait for 4.09 seconds.
+[05/02/2020 13:08]  System: You must wait for 4.11 seconds.
+[05/02/2020 13:08]  System: You must wait for 0.47 seconds.
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  You see:  Equips And Stats [Donation]
+[05/02/2020 13:08]  You see:  Ancient Vendor [Donation]
+[05/02/2020 13:08]  You see:  Vintage 
+[05/02/2020 13:08]  Ancient Vendor: Greetings.  Have a look around.
+[05/02/2020 13:08]  System: You couldn't find anything to grab
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: You must wait for 4.64 seconds.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  System: You must wait for 4.36 seconds.
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  System: You must wait for 4.05 seconds.
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  You see:  Trinket Vendor [Donation]
+[05/02/2020 13:08]  You see:  Color Specialist [Donation]
+[05/02/2020 13:08]  You see:  Skillball Vendor [Donation]
+[05/02/2020 13:08]  You see:  a Sphinx 
+[05/02/2020 13:08]  You see:  Abyssal Merchant [Donation]
+[05/02/2020 13:08]  You see:  House Painter [Donation]
+[05/02/2020 13:08]  Skillball Vendor: Greetings.  Have a look around.
+[05/02/2020 13:08]  System: You couldn't find anything to grab
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  System: You must wait for 4.77 seconds.
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: You must wait for 4.7 seconds.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  System: You must wait for 4.48 seconds.
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  System: You must wait for 4.14 seconds.
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: You must wait for 4.06 seconds.
+[05/02/2020 13:08]  System: You must wait for 3.84 seconds.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  System: You must wait for 3.58 seconds.
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: You must wait for 3.31 seconds.
+[05/02/2020 13:08]  System: You must wait for 3.28 seconds.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  System: You must wait for 3.04 seconds.
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:08]  System: Script <Grab.py> started.
+[05/02/2020 13:08]  System: You must wait for 2.67 seconds.
+[05/02/2020 13:08]  System: You must wait for 2.62 seconds.
+[05/02/2020 13:08]  System: Script <Grab.py> stopped.
+[05/02/2020 13:09]  You see:  Animal Trainer [Donation]
+[05/02/2020 13:09]  You see:  a magical tornado 
+[05/02/2020 13:09]  You see:  Ethy Vendor [Donation]
+[05/02/2020 13:09]  You see:   the animal trainer
+[05/02/2020 13:10]  You see: wooden planks
+[05/02/2020 13:10]  You see:  Charger of the Fallen 
+[05/02/2020 13:10]  You see:  Ancient Vendor [Donation]
+[05/02/2020 13:10]  You see:  Dr. Spector -The Mad Scientist Collection
+[05/02/2020 13:10]  You see:  a shimmering hiryu 
+[05/02/2020 13:10]  You see:  Swamps 
+[05/02/2020 13:10]  You see:  Animal Trainer [Donation]
+[05/02/2020 13:10]  You see:  a Dinosaur 
+[05/02/2020 13:10]  You see:  Ethy Vendor [Donation]
+[05/02/2020 13:10]  You see:  Vintage 
+[05/02/2020 13:10]  You see:  a Tarantula weak but can disarm, poison and throw webs
+[05/02/2020 13:10]  You see:  Faded 
+[05/02/2020 13:10]  You see:   the animal trainer
+[05/02/2020 13:10]  You see:  Abyssal Merchant [Donation]
+[05/02/2020 13:10]  You see:  House Painter [Donation]
+[05/02/2020 13:10]  System: Thank you for your donation, Hobo Jim!
+[05/02/2020 13:10]  System: A Donation Reward Bag has been placed in your pack.
+[05/02/2020 13:10]  System: You claimed the transaction!
+[05/02/2020 13:11]  You see:  a Sphinx 
+[05/02/2020 13:11]  You see:  a shimmering hiryu 
+[05/02/2020 13:11]  You see:  Equips And Stats [Donation]
+[05/02/2020 13:11]  You see:  Vintage 
+[05/02/2020 13:11]  You see:  Tropical 
+[05/02/2020 13:11]  You see:  Faded 
+[05/02/2020 13:11]  You see:  Rainbow 
+[05/02/2020 13:11]  You see:  Ancient Vendor [Donation]
+[05/02/2020 13:11]  System: You have left Donation House
+[05/02/2020 13:11]  System: You're now in the town of Insula
+[05/02/2020 13:11]  You see:  Gavrie the banker
+[05/02/2020 13:11]  You see:  Cyrus the town crier
+[05/02/2020 13:11]  You see:  Angelica the animal trainer
+[05/02/2020 13:11]  You see: Lord Brady [NPA]
+[05/02/2020 13:11]  You see:  Candide the guardian
+[05/02/2020 13:11]  You see:  Arsenio the banker
+[05/02/2020 13:11]  You see:  The Voting Merchant::: type [vote to support shard everyday!
+[05/02/2020 13:11]  You see:  Hassan the guardian
+[05/02/2020 13:11]  You see:  Abra the guardian
+[05/02/2020 13:11]  You see:  Xenia the provisioner
+[05/02/2020 13:11]  You see:  Vrinda the bard
+[05/02/2020 13:11]  You see:  Kliftin the tailor
+[05/02/2020 13:11]  You see:  Vevila the scribe
+[05/02/2020 13:11]  You see:  Cassia the tinker
+[05/02/2020 13:11]  You see:  Ishimura the Gargoyle Mystic
+[05/02/2020 13:11]  You see:  Anemone the carpet weaver
+[05/02/2020 13:11]  You see:  a cow 
+[05/02/2020 13:11]  You see:  a giant beetle 
+[05/02/2020 13:11]  You see:  a bull 
+[05/02/2020 13:11]  You see:  a polar bear 
+[05/02/2020 13:11]  You see:  a polar bear 
+[05/02/2020 13:11]  You see:  a bull 
+[05/02/2020 13:11]  You see:  a giant beetle 
+[05/02/2020 13:11]  You see:  a cow 
+[05/02/2020 13:11]  You see:  a bull 
+[05/02/2020 13:11]  You see:  a cow 
+[05/02/2020 13:11]  You see:  a polar bear 
+[05/02/2020 13:11]  System: You have left the town of Insula
+[05/02/2020 13:11]  System: You have been teleported to: Luna - Bank
+[05/02/2020 13:11]  You see:   The Prov
+[05/02/2020 13:11]  You see:   the tinker
+[05/02/2020 13:11]  You see:   the alchemist
+[05/02/2020 13:11]  You see:   the Holy Mage
+[05/02/2020 13:11]  You see:  Deacon the brewer
+[05/02/2020 13:11]  You see:  Coldsteel the hallowed
+[05/02/2020 13:11]  You see:  Lord Blackthorne 
+[05/02/2020 13:11]  You see:  Witch- [DIK]
+[05/02/2020 13:11]  You see:   the Keeper of Chivalry
+[05/02/2020 13:11]  You see:   the Keeper of Chivalry
+[05/02/2020 13:11]  You see:  Sherman the bounty officer
+[05/02/2020 13:11]  You see:  a rabbit 
+[05/02/2020 13:11]  System: WorldMap loaded!
+[05/02/2020 13:11]  You see: sandstone
+[05/02/2020 13:11]  System: You have entered Luna Bank
+[05/02/2020 13:11]  You see:   the innkeeper
+[05/02/2020 13:11]  You see:   the hairstylist
+[05/02/2020 13:11]  You see:   the real estate broker
+[05/02/2020 13:11]  You see:  Gorrow the mayor
+[05/02/2020 13:11]  You see:   the town crier
+[05/02/2020 13:11]  You see:   
+[05/02/2020 13:11]  You see:   the vote registrar
+[05/02/2020 13:11]  You see:   the weaver
+[05/02/2020 13:11]  You see:   the trash collector
+[05/02/2020 13:11]  You see:  Seti [AoV]
+[05/02/2020 13:11]  You see:   the blacksmith
+[05/02/2020 13:11]  You see: Lady Camilla [WSF]

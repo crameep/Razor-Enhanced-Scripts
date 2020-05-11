@@ -1,0 +1,229 @@
+[05/08/2020 20:21]  System: WorldMap loading...
+[05/08/2020 20:21]  System: Some of your Royal City Loyalty has decayed.
+[05/08/2020 20:21]  System: You have 6 of max 50 in your mailbox.
+[05/08/2020 20:21]  You see:  Hobo Jim [SOUL]
+[05/08/2020 20:21]  You see:   the blacksmith
+[05/08/2020 20:21]  You see:   the weaver
+[05/08/2020 20:21]  You see:   the trash collector
+[05/08/2020 20:21]  You see: Lady BlueTail [D.F.F.]
+[05/08/2020 20:21]  You see:   the tailor
+[05/08/2020 20:21]  You see:   the town crier
+[05/08/2020 20:21]  You see:   
+[05/08/2020 20:21]  You see:   the innkeeper
+[05/08/2020 20:21]  You see: Lord blackmyst [WSF]
+[05/08/2020 20:21]  You see:  Seti [AoV]
+[05/08/2020 20:21]  You see: Lord dnc 
+[05/08/2020 20:21]  You see:   the hairstylist
+[05/08/2020 20:21]  You see:   the vote registrar
+[05/08/2020 20:21]  You see:   The Prov
+[05/08/2020 20:21]  You see:   the tinker
+[05/08/2020 20:21]  You see:   the alchemist
+[05/08/2020 20:21]  You see: Lord Evolution [WSF]
+[05/08/2020 20:21]  You see: Lord The Animal [CoF]
+[05/08/2020 20:21]  You see:  Deacon the brewer
+[05/08/2020 20:21]  You see:   the Holy Mage
+[05/08/2020 20:21]  System: 
+[05/08/2020 20:21]  You see:   the blacksmith
+[05/08/2020 20:21]  You see:   the weaver
+[05/08/2020 20:21]  You see:   the trash collector
+[05/08/2020 20:21]  You see: Lady BlueTail [D.F.F.]
+[05/08/2020 20:21]  You see:   the tailor
+[05/08/2020 20:21]  You see:   the town crier
+[05/08/2020 20:21]  You see:   
+[05/08/2020 20:21]  You see:   the innkeeper
+[05/08/2020 20:21]  You see: Lord blackmyst [WSF]
+[05/08/2020 20:21]  You see:  Seti [AoV]
+[05/08/2020 20:21]  You see: Lord dnc 
+[05/08/2020 20:21]  You see:   the hairstylist
+[05/08/2020 20:21]  You see:   the vote registrar
+[05/08/2020 20:21]  You see:   The Prov
+[05/08/2020 20:21]  You see:   the tinker
+[05/08/2020 20:21]  You see:   the alchemist
+[05/08/2020 20:21]  You see: Lord Evolution [WSF]
+[05/08/2020 20:21]  You see: Lord The Animal [CoF]
+[05/08/2020 20:21]  You see:  Deacon the brewer
+[05/08/2020 20:21]  You see:   the Holy Mage
+[05/08/2020 20:21]  System: Loading WorldMap markers..
+[05/08/2020 20:21]  System: WorldMap loaded!
+[05/08/2020 20:21]  System: WorldMap markers loaded (0)
+[05/08/2020 20:21]  System: AUTOLOOT: Engine Start...
+[05/08/2020 20:25]  You see:  Sukatai the Keeper of Chivalry
+[05/08/2020 20:25]  You see:   
+[05/08/2020 20:25]  Hobo Jim: bank
+[05/08/2020 20:25]  Hobo Jim: Bank container has 345 items, 1267 stones
+[05/08/2020 20:26]  System: Target a Recall Rune to add a destination.
+[05/08/2020 20:26]  System: Yomitsu Mines
+[05/08/2020 20:26]  System: Target a Recall Rune to add a destination.
+[05/08/2020 20:26]  System: ToT Stone to Check
+[05/08/2020 20:27]  System: 73° 12'N, 75° 18'W
+[05/08/2020 20:27]  Hobo Jim: Kal Ort Por [Recall]
+[05/08/2020 20:27]  System: You have left Luna Bank
+[05/08/2020 20:27]  You see:  Iroha the taxed healer
+[05/08/2020 20:27]  System: WorldMap loaded!
+[05/08/2020 20:27]  You see:  a yomotsu warrior 
+[05/08/2020 20:27]  System: WorldMap loaded!
+[05/08/2020 20:27]  You see:  an earth elemental 
+[05/08/2020 20:27]  You see:  a dull copper elemental 
+[05/08/2020 20:27]  You see:  an earth elemental 
+[05/08/2020 20:27]  You see:  a dull copper elemental 
+[05/08/2020 20:27]  You see:  a dull copper elemental 
+[05/08/2020 20:27]  You see:  a yomotsu priest 
+[05/08/2020 20:27]  You see:  an earth elemental 
+[05/08/2020 20:27]  You see:  a yomotsu warrior 
+[05/08/2020 20:27]  You see:  a dull copper elemental 
+[05/08/2020 20:27]  You see:  a dull copper elemental 
+[05/08/2020 20:27]  You see:  a yomotsu warrior 
+[05/08/2020 20:27]  You see:  a dull copper elemental 
+[05/08/2020 20:27]  You see:  a yomotsu priest 
+[05/08/2020 20:27]  You see:  a yomotsu priest 
+[05/08/2020 20:27]  You see:  a yomotsu warrior 
+[05/08/2020 20:27]  You see:  an earth elemental 
+[05/08/2020 20:27]  You see:  a yomotsu warrior 
+[05/08/2020 20:27]  You see:  a yomotsu warrior 
+[05/08/2020 20:27]  You see:  a dull copper elemental 
+[05/08/2020 20:27]  You see:  an earth elemental 
+[05/08/2020 20:27]  You see:  a yomotsu warrior 
+[05/08/2020 20:27]  You see:  a yomotsu warrior 
+[05/08/2020 20:27]  You see:  a yomotsu warrior 
+[05/08/2020 20:27]  You see:  a yomotsu priest 
+[05/08/2020 20:27]  You see:  a dull copper elemental 
+[05/08/2020 20:27]  You see:  a yomotsu warrior 
+[05/08/2020 20:27]  You see:  a yomotsu warrior 
+[05/08/2020 20:27]  You see:  a dull copper elemental 
+[05/08/2020 20:27]  You see:  a dull copper elemental 
+[05/08/2020 20:27]  You see:  a yomotsu priest 
+[05/08/2020 20:28]  You see:  an earth elemental 
+[05/08/2020 20:28]  You see:  an earth elemental 
+[05/08/2020 20:28]  You see:  an earth elemental 
+[05/08/2020 20:28]  You see:  a dull copper elemental 
+[05/08/2020 20:28]  You see:  a yomotsu warrior 
+[05/08/2020 20:28]  You see:  a yomotsu warrior 
+[05/08/2020 20:28]  You see:  an earth elemental 
+[05/08/2020 20:28]  You see:  a dull copper elemental 
+[05/08/2020 20:28]  You see:  a dull copper elemental 
+[05/08/2020 20:28]  You see:  a dull copper elemental 
+[05/08/2020 20:28]  You see:  a yomotsu warrior 
+[05/08/2020 20:28]  You see:  a dull copper elemental 
+[05/08/2020 20:28]  You see:  a dull copper elemental 
+[05/08/2020 20:28]  You see:  a yomotsu priest 
+[05/08/2020 20:28]  You see:  an earth elemental 
+[05/08/2020 20:28]  You see:  a dull copper elemental 
+[05/08/2020 20:28]  You see:  a dull copper elemental 
+[05/08/2020 20:28]  You see:  a yomotsu warrior 
+[05/08/2020 20:28]  You see:  a dull copper elemental 
+[05/08/2020 20:28]  You see:  a dull copper elemental 
+[05/08/2020 20:28]  You see:  a yomotsu priest 
+[05/08/2020 20:28]  You see:  a yomotsu warrior 
+[05/08/2020 20:28]  You see:  a dull copper elemental 
+[05/08/2020 20:28]  You see:  a yomotsu warrior 
+[05/08/2020 20:28]  You see:  a yomotsu warrior 
+[05/08/2020 20:28]  You see:  an earth elemental 
+[05/08/2020 20:28]  You see:  an earth elemental 
+[05/08/2020 20:28]  You see:  a yomotsu priest 
+[05/08/2020 20:28]  You see:  a yomotsu warrior 
+[05/08/2020 20:28]  You see:  a dull copper elemental 
+[05/08/2020 20:28]  You see:  an earth elemental 
+[05/08/2020 20:28]  You see:  a yomotsu priest 
+[05/08/2020 20:28]  You see:  a dull copper elemental 
+[05/08/2020 20:28]  You see:  a yomotsu priest 
+[05/08/2020 20:28]  You see:  a yomotsu elder 
+[05/08/2020 20:28]  You see:  an earth elemental 
+[05/08/2020 20:28]  You see:  a yomotsu warrior 
+[05/08/2020 20:28]  You see:  a yomotsu priest 
+[05/08/2020 20:28]  You see:  a yomotsu elder 
+[05/08/2020 20:28]  You see:  a fire beetle 
+[05/08/2020 20:28]  System: Script <GetPets.py> started.
+[05/08/2020 20:28]  You see:  PigletForDinner 
+[05/08/2020 20:28]  You see:  iAteKanga 
+[05/08/2020 20:28]  System: Some of the damage you received has been converted to heal you.
+[05/08/2020 20:28]  Hobo Jim: All Guard Me
+[05/08/2020 20:28]  System: iAteKanga is now guarding you.
+[05/08/2020 20:28]  System: PigletForDinner is now guarding you.
+[05/08/2020 20:28]  System: Script <GetPets.py> stopped.
+[05/08/2020 20:28]  System: You feel yourself resisting magical energy.
+[05/08/2020 20:28]  System: some damage has been healed : 2
+[05/08/2020 20:28]  You see: a glowing yomotsu corpse
+[05/08/2020 20:28]  You see: a yomotsu corpse
+[05/08/2020 20:28]  You see:  an earth elemental 
+[05/08/2020 20:28]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 20:28]  You see: a glowing yomotsu corpse
+[05/08/2020 20:28]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 20:28]  You see: some damage has been healed : 2
+[05/08/2020 20:28]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 20:28]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 20:28]  System: Some of the damage you received has been converted to heal you. [4]
+[05/08/2020 20:28]  System: Each piece of your equipment gained 72 Tier XP!
+[05/08/2020 20:28]  You see: a glowing yomotsu corpse
+[05/08/2020 20:28]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 20:28]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 20:28]  You see: an earth elemental corpse
+[05/08/2020 20:28]  You see: a glowing yomotsu corpse
+[05/08/2020 20:28]  System: Each piece of your equipment gained 17 Tier XP!
+[05/08/2020 20:28]  You see: an earth elemental corpse
+[05/08/2020 20:28]  iAteKanga: * The poison seems to have no effect. *
+[05/08/2020 20:28]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 20:28]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 20:28]  System: Each piece of your equipment gained 70 Tier XP!
+[05/08/2020 20:28]  You see: a glowing yomotsu corpse
+[05/08/2020 20:28]  You see:  a yomotsu warrior 
+[05/08/2020 20:28]  System: Script <Grab.py> started.
+[05/08/2020 20:28]  System: 986 gold coins have been placed in your pack.
+[05/08/2020 20:28]  System: You grabbed 7 Items, 986 Gold, 22 Trash Tokens
+[05/08/2020 20:28]  System: Your share of the Gold is 986
+[05/08/2020 20:28]  System: Script <Grab.py> stopped.
+[05/08/2020 20:28]  System: You must wait for 0.67 seconds.
+[05/08/2020 20:28]  System: Script <Grab.py> started.
+[05/08/2020 20:28]  System: Script <Grab.py> stopped.
+[05/08/2020 20:28]  System: Script <Grab.py> started.
+[05/08/2020 20:28]  System: You must wait for 0.19 seconds.
+[05/08/2020 20:28]  System: You must wait for 0.16 seconds.
+[05/08/2020 20:28]  System: Script <Grab.py> stopped.
+[05/08/2020 20:28]  Hobo Jim: All Follow Me
+[05/08/2020 20:29]  System: Your strength has changed by -5.  It is now 317
+[05/08/2020 20:29]  System: Script <ShrinkPets.py> started.
+[05/08/2020 20:29]  System: Shrinking...
+[05/08/2020 20:29]  System: You place the PigletForDinner Idol into your pack.
+[05/08/2020 20:29]  System: Shrinking...
+[05/08/2020 20:29]  System: You place the iAteKanga Idol into your pack.
+[05/08/2020 20:29]  System: Script <ShrinkPets.py> stopped.
+[05/08/2020 20:29]  System: What instrument shall you play?
+[05/08/2020 20:29]  System: That is not a musical instrument.
+[05/08/2020 20:29]  System: What instrument shall you play?
+[05/08/2020 20:29]  System: Whom do you wish to calm?
+[05/08/2020 20:29]  System: Target cannot be seen.
+[05/08/2020 20:29]  System: Opening door...
+[05/08/2020 20:29]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 20:29]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 20:29]  System: You must wait to perform another action.
+[05/08/2020 20:29]  System: Whom do you wish to calm?
+[05/08/2020 20:29]  System: You play hypnotic music, calming your target.
+[05/08/2020 20:29]  System: Please dismount first.
+[05/08/2020 20:29]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 20:29]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 20:29]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 20:29]  System: Please dismount first. [2]
+[05/08/2020 20:29]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 20:29]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 20:29]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 20:29]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 20:29]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 20:29]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 20:29]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 20:29]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/08/2020 20:29]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/08/2020 20:29]  You see: barred metal door
+[05/08/2020 20:29]  Hobo Jim: *You start to tame the creature.*
+[05/08/2020 20:29]  Hobo Jim: I can protect you from the dangers of this world.
+[05/08/2020 20:29]  Hobo Jim: Will you travel with me, noble creature?
+[05/08/2020 20:30]  a fire beetle: It seems to accept you as master.
+[05/08/2020 20:30]  System: You can't shrink a creature with less than half health.
+[05/08/2020 20:30]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/08/2020 20:30]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/08/2020 20:30]  System: You place the a fire beetle Idol into your pack.
+[05/08/2020 20:30]  System: There are no charges left on that item.
+[05/08/2020 20:31]  System: 97° 59'N, 29° 2'W
+[05/08/2020 20:31]  Hobo Jim: Kal Ort Por [Recall]
+[05/08/2020 20:31]  You see:  CityBooks the parrot
+[05/08/2020 20:31]  You see:  Akilah the waiter
+[05/08/2020 20:31]  You see:  Dungeons the parrot
+[05/08/2020 20:31]  You see:  TMapsFelANDTram the parrot

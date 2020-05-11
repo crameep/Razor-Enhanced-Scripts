@@ -1,0 +1,52 @@
+[05/02/2020 13:59]  System: WorldMap loading...
+[05/02/2020 13:59]  System: You have 0 of max 50 in your mailbox.
+[05/02/2020 13:59]  You see: Lord Hobo Jim [SOUL]
+[05/02/2020 13:59]  System: 
+[05/02/2020 13:59]  System: Loading WorldMap markers..
+[05/02/2020 13:59]  System: WorldMap markers loaded (0)
+[05/02/2020 13:59]  System: WorldMap loaded!
+[05/02/2020 13:59]  System: AUTOLOOT: Engine Start...
+[05/02/2020 14:00]  You see:  a horse 
+[05/02/2020 14:00]  You see:  an ettin 
+[05/02/2020 14:00]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/02/2020 14:00]  System: You attack with lightning speed!
+[05/02/2020 14:00]  You see: an ettins corpse
+[05/02/2020 14:00]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/02/2020 14:00]  You see:  a horse 
+[05/02/2020 14:01]  System: 64° 14'N, 46° 28'W
+[05/02/2020 14:01]  Hobo Jim: Kal Ort Por [Recall]
+[05/02/2020 14:01]  System: Script <Grab.py> started.
+[05/02/2020 14:01]  System: You couldn't find anything to grab
+[05/02/2020 14:01]  System: Script <Grab.py> stopped.
+[05/02/2020 14:01]  System: Treasures of Tokuno have charged!
+[05/02/2020 14:01]  System: That is too far away.
+[05/02/2020 14:01]  System: A house cannot be created here. Either something is blocking the house or part of the house would not be on valid terrain.
+[05/02/2020 14:01]  System: A house cannot be created here. Either something is blocking the house or part of the house would not be on valid terrain.
+[05/02/2020 14:02]  You see:  Sini 
+[05/02/2020 14:02]  You see:  Shendri 
+[05/02/2020 14:02]  You see:  Hali 
+[05/02/2020 14:03]  System: A house cannot be created here. Either something is blocking the house or part of the house would not be on valid terrain.
+[05/02/2020 14:03]  System: A house cannot be created here. Either something is blocking the house or part of the house would not be on valid terrain.
+[05/02/2020 14:03]  System: A house cannot be created here. Either something is blocking the house or part of the house would not be on valid terrain.
+[05/02/2020 14:03]  System: A house cannot be created here. Either something is blocking the house or part of the house would not be on valid terrain.
+[05/02/2020 14:03]  System: A house cannot be created here. Either something is blocking the house or part of the house would not be on valid terrain.
+[05/02/2020 14:04]  You see:  an ettin 
+[05/02/2020 14:04]  You see:  an ettin 
+[05/02/2020 14:04]  System: A house cannot be created here. Either something is blocking the house or part of the house would not be on valid terrain.
+[05/02/2020 14:04]  System: A house cannot be created here. Either something is blocking the house or part of the house would not be on valid terrain. [2]
+[05/02/2020 14:04]  System: That is too far away.
+[05/02/2020 14:04]  System: That is too far away.
+[05/02/2020 14:04]  System: That is too far away.
+[05/02/2020 14:05]  System: That is too far away.
+[05/02/2020 14:05]  Hobo Jim: Rel Por [Teleport]
+[05/02/2020 14:05]  System: That is too far away.
+[05/02/2020 14:06]  System: A house cannot be created here. Either something is blocking the house or part of the house would not be on valid terrain.
+[05/02/2020 14:06]  System: A house cannot be created here. Either something is blocking the house or part of the house would not be on valid terrain.
+[05/02/2020 14:06]  System: A house cannot be created here. Either something is blocking the house or part of the house would not be on valid terrain.
+[05/02/2020 14:06]  System: A house cannot be created here. Either something is blocking the house or part of the house would not be on valid terrain.
+[05/02/2020 14:07]  System: The next available Game Master will respond as soon as possible. Please check your Journal for messages every few minutes.
+[05/02/2020 14:07]  System: Sorry to hear you got a problem! The Staff on Pandora hope to help you as fast as possible, but incase no-one is online helping you, try reaching out to us on our discord channel!You can easily connect to our discord channel via our forums!
+[05/02/2020 14:07]  System: Thank you for paging. Queue status : 1
+[05/02/2020 14:07]  System: While waiting for our staff to answer, please visit UOGuide.com for your answer or ask another player. It's impossible to answer every page right away, we apologize for any wait. If you log out, your page will be cancelled. Or try reach out to us on our Discord channel! (Access it via the forums on our website!)
+[05/02/2020 14:09]  System: Thank you for paging. Queue status : 1
+[05/02/2020 14:09]  System: While waiting for our staff to answer, please visit UOGuide.com for your answer or ask another player. It's impossible to answer every page right away, we apologize for any wait. If you log out, your page will be cancelled. Or try reach out to us on our Discord channel! (Access it via the forums on our website!)

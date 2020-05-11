@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gumps>
+	<gump type="3" x="985" y="871" serial="0" rows="1" columns="3" rectsize="40">
+		<controls>
+			<control graphic="3821" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+		</controls>
+	</gump>
+	<gump type="5" x="533" y="921" serial="0" />
+	<gump type="18" x="1504" y="61" serial="0" />
+	<gump type="6" x="1565" y="522" serial="4294967265" height="278" isminimized="False" />
+	<gump type="9" x="1315" y="490" serial="637273" isminimized="False" />
+	<gump type="16" x="990" y="602" serial="0" id="21" />
+	<gump type="16" x="990" y="646" serial="0" id="35" />
+	<gump type="16" x="990" y="690" serial="0" id="9" />
+	<gump type="16" x="990" y="734" serial="0" id="14" />
+	<gump type="16" x="990" y="778" serial="0" id="38" />
+	<gump type="16" x="990" y="822" serial="0" id="2" />
+	<gump type="4" x="991" y="527" serial="56960" name="iAteKanga" />
+	<gump type="4" x="991" y="563" serial="1069475" name="PigletForDinner" />
+	<gump type="15" x="986" y="343" serial="0" id="206" />
+	<gump type="15" x="986" y="387" serial="0" id="205" />
+	<gump type="15" x="986" y="431" serial="0" id="22" />
+	<gump type="15" x="986" y="475" serial="0" id="7" />
+	<gump type="15" x="1030" y="387" serial="0" id="15" />
+	<gump type="15" x="1030" y="431" serial="0" id="30" />
+	<gump type="15" x="1030" y="475" serial="0" id="17" />
+	<gump type="15" x="1074" y="343" serial="0" id="203" />
+	<gump type="15" x="1074" y="387" serial="0" id="113" />
+	<gump type="15" x="1074" y="431" serial="0" id="684" />
+	<gump type="15" x="1074" y="475" serial="0" id="2" />
+	<gump type="12" x="1241" y="784" serial="0" />
+	<gump type="2" x="941" y="-23" serial="1104392313" graphic="60" isminimized="False" />
+</gumps>

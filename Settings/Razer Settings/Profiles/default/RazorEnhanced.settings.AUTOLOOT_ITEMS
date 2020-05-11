@@ -1,0 +1,234 @@
+[
+  {
+    "Name": "gold coin (0EED)",
+    "Graphics": 3821,
+    "Color": 0,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": "gold coin (0EED)",
+    "Graphics": 3821,
+    "Color": 1152,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": "diamond%s% (0F26)",
+    "Graphics": 3878,
+    "Color": 0,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": "seed of renewal (5736)",
+    "Graphics": 22326,
+    "Color": 0,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": "crushed glass (573B)",
+    "Graphics": 22331,
+    "Color": 0,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": "elven fletching (5737)",
+    "Graphics": 22327,
+    "Color": 0,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": "slith tongue (5746)",
+    "Graphics": 22342,
+    "Color": 0,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": "powdered iron (573D)",
+    "Graphics": 22333,
+    "Color": 0,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": " (3188)",
+    "Graphics": 12680,
+    "Color": 57,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": "star sapphire%s% (0F21)",
+    "Graphics": 3873,
+    "Color": 0,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": "rub%ies/y% (0F13)",
+    "Graphics": 3859,
+    "Color": 0,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": "citrine%s% (0F15)",
+    "Graphics": 3861,
+    "Color": 0,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": "amethyst%s% (0F16)",
+    "Graphics": 3862,
+    "Color": 0,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": "piece%s% of amber (0F25)",
+    "Graphics": 3877,
+    "Color": 0,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": "sapphire%s% (0F19)",
+    "Graphics": 3865,
+    "Color": 0,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": "pil%es/e% of hides (1079)",
+    "Graphics": 4217,
+    "Color": 2117,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": "scale%s (26B4)",
+    "Graphics": 9908,
+    "Color": 1645,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": "scale%s (26B4)",
+    "Graphics": 9908,
+    "Color": 2216,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": "Daemon Bone%s% (0F80)",
+    "Graphics": 3968,
+    "Color": 0,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": "Nox Crystal (0F8E)",
+    "Graphics": 3982,
+    "Color": 1283,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": "Nox Crystal (0F8E)",
+    "Graphics": 3982,
+    "Color": 89,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": "deed (14F0)",
+    "Graphics": 5360,
+    "Color": 1922,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": "arcanic rune stone (573C)",
+    "Graphics": 22332,
+    "Color": 177,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": "faery dust (5745)",
+    "Graphics": 22341,
+    "Color": 0,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": "coconut%s% (1726)",
+    "Graphics": 5926,
+    "Color": 1000,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": "boura pelt (5742)",
+    "Graphics": 22338,
+    "Color": 0,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": "essence of virtue (571C)",
+    "Graphics": 22300,
+    "Color": 0,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": "Nox Crystal (0F8E)",
+    "Graphics": 3982,
+    "Color": 49,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  },
+  {
+    "Name": "clock frame%s% (104E)",
+    "Graphics": 4174,
+    "Color": 2106,
+    "Selected": true,
+    "Properties": [],
+    "List": "currency"
+  }
+]

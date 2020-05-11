@@ -1,0 +1,1441 @@
+[05/06/2020 22:17]  System: WorldMap loading...
+[05/06/2020 22:17]  System: Some of your Royal City Loyalty has decayed.
+[05/06/2020 22:17]  System: You have 6 of max 50 in your mailbox.
+[05/06/2020 22:17]  You see: Lord Hobo Jim [SOUL]
+[05/06/2020 22:17]  System: 
+[05/06/2020 22:17]  System: Loading WorldMap markers..
+[05/06/2020 22:17]  System: WorldMap loaded!
+[05/06/2020 22:17]  System: WorldMap markers loaded (0)
+[05/06/2020 22:17]  System: AUTOLOOT: Engine Start...
+[05/06/2020 22:18]  System: You cannot build that there.
+[05/06/2020 22:18]  System: What do you want to use this item on?
+[05/06/2020 22:18]  System: You destroy the item.
+[05/06/2020 22:19]  System: Script <Grab.py> started.
+[05/06/2020 22:19]  System: Script <Grab.py> stopped.
+[05/06/2020 22:19]  System: You can't do that in or near houses.
+[05/06/2020 22:19]  Hobo Jim: Kal Ort Por [Recall]
+[05/06/2020 22:19]  System: Your strength has changed by -10.  It is now 302
+[05/06/2020 22:19]  System: Your dexterity has changed by -10.  It is now 217
+[05/06/2020 22:19]  System: Your intelligence has changed by -10.  It is now 104
+[05/06/2020 22:19]  You see:  a snake 
+[05/06/2020 22:19]  You see:  a snake 
+[05/06/2020 22:19]  System: WorldMap loaded!
+[05/06/2020 22:19]  You see: a snake corpse
+[05/06/2020 22:19]  You see:  Airlia the healer
+[05/06/2020 22:19]  You see:  Bound Soul 
+[05/06/2020 22:19]  You see:  Bound Soul 
+[05/06/2020 22:20]  You see:  Alton 
+[05/06/2020 22:20]  You see:  Zeke the Outcast
+[05/06/2020 22:20]  Hobo Jim: You have hidden yourself well.
+[05/06/2020 22:20]  System: 65° 2'N, 16° 52'W
+[05/06/2020 22:20]  Hobo Jim: Kal Ort Por [Recall]
+[05/06/2020 22:20]  System: WorldMap loaded!
+[05/06/2020 22:20]  System: Script <GetPets.py> started.
+[05/06/2020 22:20]  You see:  PigletForDinner 
+[05/06/2020 22:20]  You see:  iAteKanga 
+[05/06/2020 22:20]  Hobo Jim: All Guard Me
+[05/06/2020 22:20]  System: iAteKanga is now guarding you.
+[05/06/2020 22:20]  System: PigletForDinner is now guarding you.
+[05/06/2020 22:20]  System: Script <GetPets.py> stopped.
+[05/06/2020 22:20]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/06/2020 22:20]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/06/2020 22:20]  You see:  a trapdoor spider 
+[05/06/2020 22:20]  You see:  Korpre 
+[05/06/2020 22:20]  You see:  Korpre 
+[05/06/2020 22:20]  You see:  a dread spider 
+[05/06/2020 22:20]  You see: a dread spider corpse
+[05/06/2020 22:20]  You see:  a dread spider 
+[05/06/2020 22:20]  System: 97° 59'N, 29° 2'W
+[05/06/2020 22:20]  Hobo Jim: Kal Ort Por [Recall]
+[05/06/2020 22:20]  You see:  CityBooks the parrot
+[05/06/2020 22:20]  You see:  PigletForDinner 
+[05/06/2020 22:20]  You see:  iAteKanga 
+[05/06/2020 22:20]  You see:  Akilah the waiter
+[05/06/2020 22:20]  You see:  Dungeons the parrot
+[05/06/2020 22:20]  You see:  TMapsFelANDTram the parrot
+[05/06/2020 22:20]  System: WorldMap loaded!
+[05/06/2020 22:20]  You see:  GOLD SKULLS 
+[05/06/2020 22:20]  You see:  BULK BOARDS 
+[05/06/2020 22:20]  You see:  Crystals and Frags 
+[05/06/2020 22:20]  You see:  Imbue Mats 
+[05/06/2020 22:20]  You see:  Newbie 
+[05/06/2020 22:20]  You see:   
+[05/06/2020 22:20]  You see:   
+[05/06/2020 22:20]  : If you have an empty vendor, remove them or they will be auto deleted!
+[05/06/2020 22:21]  You see:   
+[05/06/2020 22:21]  You see:  Sukatai the Keeper of Chivalry
+[05/06/2020 22:21]  System: Script <ShrinkPets.py> started.
+[05/06/2020 22:21]  System: Shrinking...
+[05/06/2020 22:21]  System: You place the PigletForDinner Idol into your pack.
+[05/06/2020 22:21]  System: Shrinking...
+[05/06/2020 22:21]  System: You place the iAteKanga Idol into your pack.
+[05/06/2020 22:21]  System: Script <ShrinkPets.py> stopped.
+[05/06/2020 22:21]  You see:   the tailor
+[05/06/2020 22:21]  You see:   the blacksmith
+[05/06/2020 22:21]  You see:   the weaver
+[05/06/2020 22:21]  You see:   the trash collector
+[05/06/2020 22:21]  You see:   the vote registrar
+[05/06/2020 22:21]  You see: Lord blackmyst [WSF]
+[05/06/2020 22:21]  You see:   the town crier
+[05/06/2020 22:21]  You see:   
+[05/06/2020 22:21]  System: You have entered Luna Bank
+[05/06/2020 22:21]  You see: Lord Evolution [WSF]
+[05/06/2020 22:21]  You see:   the hairstylist
+[05/06/2020 22:21]  You see:   the innkeeper
+[05/06/2020 22:21]  You see:  Seti [AoV]
+[05/06/2020 22:21]  You see:   the tinker
+[05/06/2020 22:21]  You see:  Deacon the brewer
+[05/06/2020 22:21]  You see:   the alchemist
+[05/06/2020 22:21]  You see:   the Holy Mage
+[05/06/2020 22:21]  You see:   The Prov
+[05/06/2020 22:21]  You see:  Lord Blackthorne 
+[05/06/2020 22:21]  You see:  Erol the vet
+[05/06/2020 22:21]  You see:  Gorrow the mayor
+[05/06/2020 22:21]  You see:  Coldsteel the hallowed
+[05/06/2020 22:21]  System: You have left Luna Bank
+[05/06/2020 22:21]  You see:  Sherman the bounty officer
+[05/06/2020 22:21]  You see:  a rabbit 
+[05/06/2020 22:21]  You see:   the Keeper of Chivalry
+[05/06/2020 22:21]  You see:   the Keeper of Chivalry
+[05/06/2020 22:21]  System: You have entered Valley of Eodon
+[05/06/2020 22:21]  System: You have been teleported to: The Valley of Eodon
+[05/06/2020 22:21]  You see:  a dolphin 
+[05/06/2020 22:21]  System: WorldMap loaded!
+[05/06/2020 22:21]  You see:  a dimetrosaur 
+[05/06/2020 22:21]  You see:  Nasha [Sakkhra Warrior]
+[05/06/2020 22:21]  You see:  Gruwulf [Sakkhra Warrior]
+[05/06/2020 22:21]  You see:  Olaufee [Sakkhra Warrior]
+[05/06/2020 22:21]  You see:  Adrok [Sakkhra Warrior]
+[05/06/2020 22:21]  You see:  La'Loh [Sakkhra Warrior]
+[05/06/2020 22:21]  You see:  Masena [Sakkhra Warrior]
+[05/06/2020 22:21]  You see:  Chaca [Sakkhra Warrior]
+[05/06/2020 22:21]  You see:  ShoJo [Sakkhra Warrior]
+[05/06/2020 22:21]  You see:  Gruwulf [Sakkhra Warrior]
+[05/06/2020 22:21]  You see:  Prie [Sakkhra Warrior]
+[05/06/2020 22:21]  You see:  Lar [Sakkhra Warrior]
+[05/06/2020 22:21]  You see:  Usile [Sakkhra Warrior]
+[05/06/2020 22:21]  Prie: Hear us roar!
+[05/06/2020 22:21]  You see:  Olaufee [Sakkhra Warrior]
+[05/06/2020 22:21]  You see:   
+[05/06/2020 22:21]  System: Script <GetPets.py> started.
+[05/06/2020 22:21]  You see:  PigletForDinner 
+[05/06/2020 22:21]  You see:  iAteKanga 
+[05/06/2020 22:21]  System: Script <GetPets.py> stopped.
+[05/06/2020 22:21]  Hobo Jim: All Guard Me
+[05/06/2020 22:21]  System: iAteKanga is now guarding you.
+[05/06/2020 22:21]  System: PigletForDinner is now guarding you.
+[05/06/2020 22:22]  System: BANDAGE HEAL: Engine Start...
+[05/06/2020 22:22]  System: iAteKanga is already in friend list
+[05/06/2020 22:22]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:22]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/06/2020 22:22]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:22]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/06/2020 22:23]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/06/2020 22:23]  System: You must wait before using another everlasting pet greater heal potion. [3]
+[05/06/2020 22:23]  You see: a pandorian tiger corpse
+[05/06/2020 22:23]  You see:  iAteKanga 
+[05/06/2020 22:23]  System: Who will you use the bandages on?
+[05/06/2020 22:23]  System: You begin applying the bandages.
+[05/06/2020 22:23]  System: You are able to resurrect your patient.
+[05/06/2020 22:23]  System: You begin applying the bandages.
+[05/06/2020 22:23]  System: Who will you use the bandages on?
+[05/06/2020 22:23]  System: You finish applying the bandages.
+[05/06/2020 22:23]  System: You begin applying the bandages.
+[05/06/2020 22:23]  System: Who will you use the bandages on?
+[05/06/2020 22:23]  System: Setting ability ArmorIgnore
+[05/06/2020 22:23]  System: You finish applying the bandages.
+[05/06/2020 22:23]  Hobo Jim: All Kill
+[05/06/2020 22:23]  System: Your attack penetrates their armor!
+[05/06/2020 22:23]  System: You begin applying the bandages. [2]
+[05/06/2020 22:23]  System: Who will you use the bandages on? [2]
+[05/06/2020 22:23]  Hobo Jim: All Kill
+[05/06/2020 22:23]  System: You finish applying the bandages.
+[05/06/2020 22:23]  System: Your attack penetrates their armor!
+[05/06/2020 22:23]  System: You finish applying the bandages.
+[05/06/2020 22:23]  System: Setting ability ArmorIgnore
+[05/06/2020 22:23]  System: Your attack penetrates their armor!
+[05/06/2020 22:23]  System: Setting ability ArmorIgnore
+[05/06/2020 22:23]  System: Setting ability ArmorIgnore
+[05/06/2020 22:23]  System: Setting ability ArmorIgnore
+[05/06/2020 22:23]  System: Your attack penetrates their armor! [3]
+[05/06/2020 22:23]  System: Setting ability ArmorIgnore
+[05/06/2020 22:23]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:23]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:23]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:24]  System: You must wait before using another everlasting pet greater heal potion. [3]
+[05/06/2020 22:24]  System: Setting ability ArmorIgnore
+[05/06/2020 22:24]  System: Your attack penetrates their armor!
+[05/06/2020 22:24]  System: Setting ability ArmorIgnore
+[05/06/2020 22:24]  System: Setting ability ArmorIgnore
+[05/06/2020 22:24]  System: Your attack penetrates their armor! [3]
+[05/06/2020 22:24]  System: Setting ability ArmorIgnore
+[05/06/2020 22:24]  System: Setting ability ArmorIgnore
+[05/06/2020 22:24]  System: Setting ability ArmorIgnore
+[05/06/2020 22:24]  System: Your attack penetrates their armor! [6]
+[05/06/2020 22:24]  System: Setting ability ArmorIgnore
+[05/06/2020 22:24]  Hobo Jim: Forul Solum [Enemy of One]
+[05/06/2020 22:24]  System: Setting ability ArmorIgnore
+[05/06/2020 22:24]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:24]  System: You must wait to perform another action.
+[05/06/2020 22:24]  You see: a pandorian tiger corpse
+[05/06/2020 22:24]  You see:  PigletForDinner 
+[05/06/2020 22:24]  System: You cannot perform beneficial acts on your target.
+[05/06/2020 22:24]  System: You must wait to perform another action. [2]
+[05/06/2020 22:24]  System: Who will you use the bandages on?
+[05/06/2020 22:24]  System: You begin applying the bandages.
+[05/06/2020 22:24]  System: You are able to resurrect your patient.
+[05/06/2020 22:24]  System: You begin applying the bandages.
+[05/06/2020 22:24]  System: Who will you use the bandages on?
+[05/06/2020 22:24]  System: You finish applying the bandages.
+[05/06/2020 22:24]  System: You begin applying the bandages.
+[05/06/2020 22:24]  System: Who will you use the bandages on?
+[05/06/2020 22:24]  System: You finish applying the bandages.
+[05/06/2020 22:24]  System: You begin applying the bandages. [2]
+[05/06/2020 22:24]  System: Who will you use the bandages on? [2]
+[05/06/2020 22:24]  Hobo Jim: All Kill
+[05/06/2020 22:24]  System: You finish applying the bandages.
+[05/06/2020 22:24]  System: You finish applying the bandages.
+[05/06/2020 22:24]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/06/2020 22:24]  System: Setting ability ArmorIgnore
+[05/06/2020 22:24]  System: Your attack penetrates their armor!
+[05/06/2020 22:24]  System: Setting ability ArmorIgnore
+[05/06/2020 22:24]  System: Your attack penetrates their armor! [3]
+[05/06/2020 22:24]  System: BANDAGE HEAL: Engine Stop...
+[05/06/2020 22:24]  System: BANDAGE HEAL: Engine Start...
+[05/06/2020 22:24]  You see: a pandorian tiger corpse
+[05/06/2020 22:24]  You see:  iAteKanga 
+[05/06/2020 22:24]  System: Who will you use the bandages on?
+[05/06/2020 22:24]  System: You begin applying the bandages.
+[05/06/2020 22:24]  System: You are able to resurrect your patient.
+[05/06/2020 22:24]  System: You begin applying the bandages.
+[05/06/2020 22:24]  System: Who will you use the bandages on?
+[05/06/2020 22:24]  System: You finish applying the bandages.
+[05/06/2020 22:24]  System: Setting ability ArmorIgnore
+[05/06/2020 22:25]  System: Your attack penetrates their armor!
+[05/06/2020 22:25]  System: Setting ability ArmorIgnore
+[05/06/2020 22:25]  System: You begin applying the bandages.
+[05/06/2020 22:25]  System: Who will you use the bandages on?
+[05/06/2020 22:25]  System: Setting ability ArmorIgnore
+[05/06/2020 22:25]  System: You finish applying the bandages.
+[05/06/2020 22:25]  System: Setting ability ArmorIgnore
+[05/06/2020 22:25]  System: Your attack penetrates their armor! [5]
+[05/06/2020 22:25]  System: You begin applying the bandages. [2]
+[05/06/2020 22:25]  System: Who will you use the bandages on? [2]
+[05/06/2020 22:25]  System: You finish applying the bandages.
+[05/06/2020 22:25]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:25]  System: You finish applying the bandages.
+[05/06/2020 22:25]  You see: a pandorian tiger corpse
+[05/06/2020 22:25]  You see:  PigletForDinner 
+[05/06/2020 22:25]  System: Who will you use the bandages on?
+[05/06/2020 22:25]  System: You begin applying the bandages.
+[05/06/2020 22:25]  System: Your fingers slip!
+[05/06/2020 22:25]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:25]  System: some damage has been healed : 35
+[05/06/2020 22:25]  System: You are able to resurrect your patient.
+[05/06/2020 22:25]  System: You begin applying the bandages.
+[05/06/2020 22:25]  System: Who will you use the bandages on?
+[05/06/2020 22:25]  System: Your strength has changed by -5.  It is now 297
+[05/06/2020 22:25]  System: You gasp for air as you are pulled out of the underworld!  You suffer no loss of fame or karma this time.
+[05/06/2020 22:25]  You see: the remains of Hobo Jim
+[05/06/2020 22:25]  System: You were unable to finish your work before you died.
+[05/06/2020 22:25]  System: Your fingers slip!
+[05/06/2020 22:25]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:25]  System: You will be automatically resurrected in 15 minutes.  You can explore the underworld or find another way to live again.
+[05/06/2020 22:25]  System: A 1 vs 1 PvP Tournament is starting up in 5 minutes. Type [dailypvp To Join.
+[05/06/2020 22:25]  System: You have lost a lot of fame.
+[05/06/2020 22:25]  System: Who will you use the bandages on?
+[05/06/2020 22:25]  System: You begin applying the bandages.
+[05/06/2020 22:25]  System: You finish applying the bandages.
+[05/06/2020 22:25]  You see: A Corpse Stone
+[05/06/2020 22:25]  System: Who will you use the bandages on?
+[05/06/2020 22:25]  System: You begin applying the bandages.
+[05/06/2020 22:25]  System: 5,000 gold has been withdrawn from your bank box.
+[05/06/2020 22:25]  System: You have 335,509,641 gold in cash remaining in your bank box.
+[05/06/2020 22:25]  You see: the remains of Hobo Jim
+[05/06/2020 22:25]  System: You quickly gather all of your belongings.
+[05/06/2020 22:25]  System: Your strength has changed by 5.  It is now 302
+[05/06/2020 22:25]  System: You must wait to perform another action.
+[05/06/2020 22:25]  System: You finish applying the bandages.
+[05/06/2020 22:25]  System: You must wait to perform another action.
+[05/06/2020 22:26]  System: Who will you use the bandages on?
+[05/06/2020 22:26]  System: You begin applying the bandages.
+[05/06/2020 22:26]  System: You finish applying the bandages.
+[05/06/2020 22:26]  System: Who will you use the bandages on?
+[05/06/2020 22:26]  System: You begin applying the bandages.
+[05/06/2020 22:26]  System: You finish applying the bandages.
+[05/06/2020 22:26]  System: They are already at full health.
+[05/06/2020 22:26]  System: A 1 vs 1 PvP Tournament Style Elimination is starting up in 4 minutes.  Type [DailyPvp To Join. - It's completely safe.
+[05/06/2020 22:26]  System: They are already at full health.
+[05/06/2020 22:26]  You see:  PigletForDinner 
+[05/06/2020 22:26]  You see:   
+[05/06/2020 22:26]  System: Who will you use the bandages on?
+[05/06/2020 22:26]  System: You begin applying the bandages.
+[05/06/2020 22:26]  System: You finish applying the bandages.
+[05/06/2020 22:26]  System: Who will you use the bandages on?
+[05/06/2020 22:26]  System: You begin applying the bandages.
+[05/06/2020 22:26]  System: You finish applying the bandages.
+[05/06/2020 22:27]  System: Who will you use the bandages on?
+[05/06/2020 22:27]  System: You begin applying the bandages.
+[05/06/2020 22:27]  System: You finish applying the bandages.
+[05/06/2020 22:27]  System: Who will you use the bandages on? [2]
+[05/06/2020 22:27]  System: You begin applying the bandages. [2]
+[05/06/2020 22:27]  System: You finish applying the bandages. [2]
+[05/06/2020 22:27]  Hobo Jim: All Kill
+[05/06/2020 22:27]  System: Setting ability ArmorIgnore
+[05/06/2020 22:27]  System: Your attack penetrates their armor!
+[05/06/2020 22:27]  System: Setting ability ArmorIgnore
+[05/06/2020 22:27]  System: Your attack penetrates their armor!
+[05/06/2020 22:27]  System: Setting ability ArmorIgnore
+[05/06/2020 22:27]  System: Setting ability ArmorIgnore
+[05/06/2020 22:27]  System: Setting ability ArmorIgnore
+[05/06/2020 22:27]  System: Your attack penetrates their armor! [6]
+[05/06/2020 22:27]  System: Setting ability ArmorIgnore
+[05/06/2020 22:27]  System: Setting ability ArmorIgnore
+[05/06/2020 22:27]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/06/2020 22:27]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:27]  System: Setting ability ArmorIgnore
+[05/06/2020 22:27]  System: Setting ability ArmorIgnore
+[05/06/2020 22:27]  System: Setting ability ArmorIgnore
+[05/06/2020 22:27]  System: Your attack penetrates their armor! [6]
+[05/06/2020 22:27]  System: Setting ability ArmorIgnore
+[05/06/2020 22:27]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:27]  System: Setting ability ArmorIgnore
+[05/06/2020 22:27]  System: Setting ability ArmorIgnore
+[05/06/2020 22:27]  System: Setting ability ArmorIgnore
+[05/06/2020 22:27]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:27]  System: Your attack penetrates their armor! [4]
+[05/06/2020 22:27]  System: A 1 vs 1 PvP Tournament Style Elimination is starting up in 3 minutes.  Type [DailyPvp To Join. - It's completely safe.
+[05/06/2020 22:27]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:27]  System: You must wait before using another everlasting pet greater heal potion. [5]
+[05/06/2020 22:27]  System: Who will you use the bandages on?
+[05/06/2020 22:27]  System: You begin applying the bandages.
+[05/06/2020 22:27]  System: You finish applying the bandages.
+[05/06/2020 22:27]  System: Who will you use the bandages on?
+[05/06/2020 22:27]  System: You begin applying the bandages.
+[05/06/2020 22:28]  System: You must wait to perform another action.
+[05/06/2020 22:28]  System: You finish applying the bandages.
+[05/06/2020 22:28]  System: Who will you use the bandages on?
+[05/06/2020 22:28]  System: You begin applying the bandages.
+[05/06/2020 22:28]  System: You finish applying the bandages.
+[05/06/2020 22:28]  System: Who will you use the bandages on?
+[05/06/2020 22:28]  System: You begin applying the bandages.
+[05/06/2020 22:28]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:28]  System: You finish applying the bandages.
+[05/06/2020 22:28]  System: Who will you use the bandages on?
+[05/06/2020 22:28]  System: You begin applying the bandages.
+[05/06/2020 22:28]  System: You must wait to perform another action.
+[05/06/2020 22:28]  System: You finish applying the bandages.
+[05/06/2020 22:28]  System: Who will you use the bandages on?
+[05/06/2020 22:28]  System: You begin applying the bandages.
+[05/06/2020 22:28]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:28]  Hobo Jim: Forul Solum [Enemy of One]
+[05/06/2020 22:28]  System: You finish applying the bandages.
+[05/06/2020 22:28]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: Your attack penetrates their armor!
+[05/06/2020 22:28]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: Your attack penetrates their armor! [5]
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: Your attack penetrates their armor! [8]
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: Your attack penetrates their armor! [4]
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: Your attack penetrates their armor! [8]
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: Your attack penetrates their armor! [4]
+[05/06/2020 22:28]  System: A 1 vs 1 PvP Tournament Style Elimination is starting up in 2 minutes.  Type [DailyPvp To Join. - It's completely safe.
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: Your attack penetrates their armor! [4]
+[05/06/2020 22:28]  System: Who will you use the bandages on?
+[05/06/2020 22:28]  System: You begin applying the bandages.
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: You finish applying the bandages.
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: You need 52 mana to perform that attack
+[05/06/2020 22:28]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: Who will you use the bandages on?
+[05/06/2020 22:28]  System: You begin applying the bandages.
+[05/06/2020 22:28]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:28]  System: You must wait to perform another action.
+[05/06/2020 22:28]  System: You finish applying the bandages.
+[05/06/2020 22:28]  System: You need 52 mana to perform that attack
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: Your attack penetrates their armor!
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: Your attack penetrates their armor! [7]
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: You need 52 mana to perform that attack
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:28]  System: You need 52 mana to perform that attack [2]
+[05/06/2020 22:28]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Your attack penetrates their armor! [4]
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Your attack penetrates their armor! [6]
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: You need 52 mana to perform that attack
+[05/06/2020 22:29]  System: Your attack penetrates their armor! [4]
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: You need 52 mana to perform that attack [2]
+[05/06/2020 22:29]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:29]  System: Who will you use the bandages on?
+[05/06/2020 22:29]  System: You begin applying the bandages.
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: You finish applying the bandages.
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Who will you use the bandages on?
+[05/06/2020 22:29]  System: You begin applying the bandages.
+[05/06/2020 22:29]  System: Your attack penetrates their armor!
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: You finish applying the bandages.
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Who will you use the bandages on?
+[05/06/2020 22:29]  System: You begin applying the bandages.
+[05/06/2020 22:29]  System: Your attack penetrates their armor! [5]
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: You finish applying the bandages.
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: You need 52 mana to perform that attack
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Who will you use the bandages on? [2]
+[05/06/2020 22:29]  System: You begin applying the bandages. [2]
+[05/06/2020 22:29]  System: Your attack penetrates their armor! [4]
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: You need 26 mana to perform that attack
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: You finish applying the bandages. [2]
+[05/06/2020 22:29]  System: You need 52 mana to perform that attack
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Who will you use the bandages on?
+[05/06/2020 22:29]  System: You begin applying the bandages.
+[05/06/2020 22:29]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: You finish applying the bandages.
+[05/06/2020 22:29]  System: You need 52 mana to perform that attack [3]
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Who will you use the bandages on?
+[05/06/2020 22:29]  System: You begin applying the bandages.
+[05/06/2020 22:29]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: You finish applying the bandages.
+[05/06/2020 22:29]  System: You need 52 mana to perform that attack [3]
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Who will you use the bandages on? [2]
+[05/06/2020 22:29]  System: You begin applying the bandages. [2]
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Your attack penetrates their armor!
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: You finish applying the bandages. [2]
+[05/06/2020 22:29]  System: You need 52 mana to perform that attack
+[05/06/2020 22:29]  Hobo Jim: Divinum Furis [Divine Fury]
+[05/06/2020 22:29]  System: Who will you use the bandages on?
+[05/06/2020 22:29]  System: You begin applying the bandages.
+[05/06/2020 22:29]  System: Your attack penetrates their armor!
+[05/06/2020 22:29]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/06/2020 22:29]  System: A 1 vs 1 PvP Tournament Style Elimination is starting up in 1 minutes.  Type [DailyPvp To Join. - It's completely safe.
+[05/06/2020 22:29]  System: You finish applying the bandages.
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Who will you use the bandages on?
+[05/06/2020 22:29]  System: You begin applying the bandages.
+[05/06/2020 22:29]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: You finish applying the bandages.
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: You did not stay close enough to heal your patient!
+[05/06/2020 22:29]  System: Who will you use the bandages on?
+[05/06/2020 22:29]  System: You begin applying the bandages.
+[05/06/2020 22:29]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Your attack penetrates their armor! [4]
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: You need 52 mana to perform that attack
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: Your attack penetrates their armor! [6]
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: You need 52 mana to perform that attack
+[05/06/2020 22:29]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:29]  System: Who will you use the bandages on?
+[05/06/2020 22:29]  System: You begin applying the bandages.
+[05/06/2020 22:29]  System: Setting ability ArmorIgnore
+[05/06/2020 22:29]  System: You finish applying the bandages.
+[05/06/2020 22:29]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:29]  System: Who will you use the bandages on?
+[05/06/2020 22:29]  System: You begin applying the bandages.
+[05/06/2020 22:30]  System: Setting ability ArmorIgnore
+[05/06/2020 22:30]  System: Setting ability ArmorIgnore
+[05/06/2020 22:30]  System: You finish applying the bandages.
+[05/06/2020 22:30]  System: Setting ability ArmorIgnore
+[05/06/2020 22:30]  System: Your attack penetrates their armor! [4]
+[05/06/2020 22:30]  System: Who will you use the bandages on?
+[05/06/2020 22:30]  System: You begin applying the bandages.
+[05/06/2020 22:30]  System: Setting ability ArmorIgnore
+[05/06/2020 22:30]  System: Setting ability ArmorIgnore
+[05/06/2020 22:30]  System: Setting ability ArmorIgnore
+[05/06/2020 22:30]  System: You finish applying the bandages.
+[05/06/2020 22:30]  System: Your attack penetrates their armor! [4]
+[05/06/2020 22:30]  System: Setting ability ArmorIgnore
+[05/06/2020 22:30]  Tyrannosaurus Rex: Just in time, a meteor shower! RAW!!!
+[05/06/2020 22:30]  System: Your fingers slip!
+[05/06/2020 22:30]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:30]  System: some damage has been healed : 2
+[05/06/2020 22:30]  Tyrannosaurus Rex: Run back to the Sakkhra TribeHobo Jim, or your flesh and bone is mine! 
+[05/06/2020 22:30]  System: Who will you use the bandages on?
+[05/06/2020 22:30]  System: You begin applying the bandages.
+[05/06/2020 22:30]  System: You finish applying the bandages.
+[05/06/2020 22:30]  System: Who will you use the bandages on?
+[05/06/2020 22:30]  System: You begin applying the bandages.
+[05/06/2020 22:30]  System: Your attack penetrates their armor!
+[05/06/2020 22:30]  System: You finish applying the bandages.
+[05/06/2020 22:30]  System: Setting ability ArmorIgnore
+[05/06/2020 22:30]  System: Your attack penetrates their armor! [3]
+[05/06/2020 22:30]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:30]  System: Who will you use the bandages on?
+[05/06/2020 22:30]  System: You begin applying the bandages.
+[05/06/2020 22:30]  System: Your fingers slip!
+[05/06/2020 22:30]  System: Your strength has changed by -5.  It is now 297
+[05/06/2020 22:30]  System: You gasp for air as you are pulled out of the underworld!  You suffer no loss of fame or karma this time.
+[05/06/2020 22:30]  System: Your attacker delivers a talon strike!
+[05/06/2020 22:30]  You see: the remains of Hobo Jim
+[05/06/2020 22:30]  System: You were unable to finish your work before you died.
+[05/06/2020 22:30]  You see:  a wild tiger 
+[05/06/2020 22:30]  System: You will be automatically resurrected in 15 minutes.  You can explore the underworld or find another way to live again.
+[05/06/2020 22:30]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:30]  System: You have lost a lot of fame.
+[05/06/2020 22:30]  System: Who will you use the bandages on?
+[05/06/2020 22:30]  System: You begin applying the bandages.
+[05/06/2020 22:30]  System: You finish applying the bandages.
+[05/06/2020 22:30]  System: 10,000 gold has been withdrawn from your bank box.
+[05/06/2020 22:30]  System: You have 335,499,641 gold in cash remaining in your bank box.
+[05/06/2020 22:30]  You see: the remains of Hobo Jim
+[05/06/2020 22:30]  System: Who will you use the bandages on?
+[05/06/2020 22:30]  System: You begin applying the bandages.
+[05/06/2020 22:30]  System: You quickly gather all of your belongings.
+[05/06/2020 22:30]  System: Your strength has changed by 5.  It is now 302
+[05/06/2020 22:30]  System: You finish applying the bandages.
+[05/06/2020 22:30]  System: Remember everyone gets PvP Coin(s) that participates! New & old players! You never die, no insurance lost, nothing to lose.
+[05/06/2020 22:30]  System: Who will you use the bandages on?
+[05/06/2020 22:30]  System: You begin applying the bandages.
+[05/06/2020 22:30]  System: You finish applying the bandages.
+[05/06/2020 22:30]  You see:   
+[05/06/2020 22:30]  You see:  PigletForDinner 
+[05/06/2020 22:30]  You see:  iAteKanga 
+[05/06/2020 22:30]  System: Who will you use the bandages on? [2]
+[05/06/2020 22:30]  System: You begin applying the bandages. [2]
+[05/06/2020 22:30]  System: You heal what little damage your patient had.
+[05/06/2020 22:30]  System: You finish applying the bandages.
+[05/06/2020 22:30]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/06/2020 22:30]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/06/2020 22:30]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:30]  System: Who will you use the bandages on?
+[05/06/2020 22:30]  System: You begin applying the bandages.
+[05/06/2020 22:30]  System: Your fingers slip!
+[05/06/2020 22:30]  System: Your strength has changed by -5.  It is now 297
+[05/06/2020 22:30]  System: You gasp for air as you are pulled out of the underworld!  You suffer no loss of fame or karma this time.
+[05/06/2020 22:30]  You see: the remains of Hobo Jim
+[05/06/2020 22:30]  Hobo Jim: I am dead and cannot do that.
+[05/06/2020 22:30]  System: You were unable to finish your work before you died.
+[05/06/2020 22:30]  You see:  a wild tiger 
+[05/06/2020 22:30]  System: You will be automatically resurrected in 15 minutes.  You can explore the underworld or find another way to live again.
+[05/06/2020 22:30]  System: Some of the damage you received has been converted to heal you. [2]
+[05/06/2020 22:31]  System: You have lost a lot of fame.
+[05/06/2020 22:31]  System: Who will you use the bandages on?
+[05/06/2020 22:31]  System: You begin applying the bandages.
+[05/06/2020 22:31]  System: You finish applying the bandages.
+[05/06/2020 22:31]  System: 10,000 gold has been withdrawn from your bank box.
+[05/06/2020 22:31]  System: You have 335,489,641 gold in cash remaining in your bank box.
+[05/06/2020 22:31]  You see: the remains of Hobo Jim
+[05/06/2020 22:31]  System: Who will you use the bandages on?
+[05/06/2020 22:31]  System: You begin applying the bandages.
+[05/06/2020 22:31]  System: You must wait to perform another action.
+[05/06/2020 22:31]  System: You finish applying the bandages.
+[05/06/2020 22:31]  System: You quickly gather all of your belongings.
+[05/06/2020 22:31]  System: Your strength has changed by 5.  It is now 302
+[05/06/2020 22:31]  System: Who will you use the bandages on?
+[05/06/2020 22:31]  System: You begin applying the bandages.
+[05/06/2020 22:31]  System: You finish applying the bandages.
+[05/06/2020 22:31]  System: Who will you use the bandages on? [2]
+[05/06/2020 22:31]  System: You begin applying the bandages. [2]
+[05/06/2020 22:31]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/06/2020 22:31]  System: You finish applying the bandages. [2]
+[05/06/2020 22:31]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/06/2020 22:31]  System: You are already casting a spell.
+[05/06/2020 22:31]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/06/2020 22:31]  Hobo Jim: You have hidden yourself well.
+[05/06/2020 22:31]  System: You begin to move quietly.
+[05/06/2020 22:31]  You see:  PigletForDinner 
+[05/06/2020 22:31]  You see:  iAteKanga 
+[05/06/2020 22:31]  You see:   
+[05/06/2020 22:31]  You see:  Tyrannosaurus Rex 
+[05/06/2020 22:31]  System: Who will you use the bandages on?
+[05/06/2020 22:31]  System: You begin applying the bandages.
+[05/06/2020 22:31]  System: You are able to resurrect your patient.
+[05/06/2020 22:31]  System: Who will you use the bandages on?
+[05/06/2020 22:31]  System: You begin applying the bandages.
+[05/06/2020 22:31]  System: A champion has awoken at (5557, 824, 50) in Felucca.
+[05/06/2020 22:31]  System: You are able to resurrect your patient.
+[05/06/2020 22:31]  System: You finish applying the bandages.
+[05/06/2020 22:31]  System: Who will you use the bandages on?
+[05/06/2020 22:31]  System: You begin applying the bandages.
+[05/06/2020 22:31]  System: You finish applying the bandages.
+[05/06/2020 22:31]  System: Who will you use the bandages on? [2]
+[05/06/2020 22:31]  System: You begin applying the bandages. [2]
+[05/06/2020 22:31]  System: You finish applying the bandages.
+[05/06/2020 22:31]  Tyrannosaurus Rex: Just in time, a meteor shower! RAW!!!
+[05/06/2020 22:31]  System: Who will you use the bandages on?
+[05/06/2020 22:31]  System: You begin applying the bandages.
+[05/06/2020 22:31]  System: You must wait to perform another action.
+[05/06/2020 22:31]  System: You finish applying the bandages.
+[05/06/2020 22:31]  System: Who will you use the bandages on?
+[05/06/2020 22:31]  System: You begin applying the bandages.
+[05/06/2020 22:31]  You see:  a wild tiger 
+[05/06/2020 22:31]  System: You finish applying the bandages.
+[05/06/2020 22:31]  System: Who will you use the bandages on?
+[05/06/2020 22:31]  System: You begin applying the bandages.
+[05/06/2020 22:31]  System: Who will you use the bandages on? [2]
+[05/06/2020 22:31]  System: You begin applying the bandages. [2]
+[05/06/2020 22:31]  System: You finish applying the bandages. [2]
+[05/06/2020 22:31]  System: You finish applying the bandages.
+[05/06/2020 22:32]  You see:  a wild tiger 
+[05/06/2020 22:32]  Hobo Jim: You have hidden yourself well.
+[05/06/2020 22:32]  System: You begin to move quietly.
+[05/06/2020 22:34]  You see:  a wild tiger 
+[05/06/2020 22:34]  You see:  a wild tiger 
+[05/06/2020 22:34]  Hobo Jim: You have hidden yourself well.
+[05/06/2020 22:34]  System: You begin to move quietly.
+[05/06/2020 22:34]  Hobo Jim: fda
+[05/06/2020 22:37]  Hobo Jim: You have hidden yourself well.
+[05/06/2020 22:37]  System: You begin to move quietly.
+[05/06/2020 22:38]  System: Healing Pet....
+[05/06/2020 22:38]  System: Healing Pet....
+[05/06/2020 22:38]  System: They are already at full health.
+[05/06/2020 22:39]  You see:  a wild tiger 
+[05/06/2020 22:39]  System: Healing Pet....
+[05/06/2020 22:39]  System: They are already at full health.
+[05/06/2020 22:40]  System: Healing Pet....
+[05/06/2020 22:40]  System: They are already at full health.
+[05/06/2020 22:40]  System: You must wait to perform another action.
+[05/06/2020 22:41]  You see:   
+[05/06/2020 22:41]  Hobo Jim: All Kill
+[05/06/2020 22:41]  System: They are already at full health.
+[05/06/2020 22:41]  Tyrannosaurus Rex: Run back to the Sakkhra TribeHobo Jim, or your flesh and bone is mine! 
+[05/06/2020 22:41]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:42]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/06/2020 22:42]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/06/2020 22:42]  Tyrannosaurus Rex: Just in time, a meteor shower! RAW!!!
+[05/06/2020 22:42]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:42]  System: some damage has been healed : 3
+[05/06/2020 22:42]  System: Who will you use the bandages on?
+[05/06/2020 22:42]  System: You begin applying the bandages.
+[05/06/2020 22:42]  Hobo Jim: Divinum Furis [Divine Fury]
+[05/06/2020 22:42]  System: You finish applying the bandages.
+[05/06/2020 22:42]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/06/2020 22:42]  Tyrannosaurus Rex: Run back to the Sakkhra TribeHobo Jim, or your flesh and bone is mine! 
+[05/06/2020 22:42]  Hobo Jim: Divinum Furis [Divine Fury]
+[05/06/2020 22:42]  Tyrannosaurus Rex: Just in time, a meteor shower! RAW!!!
+[05/06/2020 22:42]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:42]  System: some damage has been healed : 2
+[05/06/2020 22:42]  System: Who will you use the bandages on?
+[05/06/2020 22:42]  System: You begin applying the bandages.
+[05/06/2020 22:42]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:42]  System: You finish applying the bandages.
+[05/06/2020 22:42]  You see: a pandorian tiger corpse
+[05/06/2020 22:42]  You see:  PigletForDinner 
+[05/06/2020 22:42]  System: Who will you use the bandages on?
+[05/06/2020 22:42]  System: You begin applying the bandages.
+[05/06/2020 22:42]  System: You are able to resurrect your patient.
+[05/06/2020 22:42]  System: Who will you use the bandages on?
+[05/06/2020 22:42]  System: You begin applying the bandages.
+[05/06/2020 22:42]  System: You finish applying the bandages.
+[05/06/2020 22:42]  System: Who will you use the bandages on?
+[05/06/2020 22:42]  System: You begin applying the bandages.
+[05/06/2020 22:42]  System: You must wait to perform another action.
+[05/06/2020 22:42]  System: You finish applying the bandages.
+[05/06/2020 22:42]  Tyrannosaurus Rex: Run back to the Sakkhra TribeHobo Jim, or your flesh and bone is mine! 
+[05/06/2020 22:42]  System: Who will you use the bandages on?
+[05/06/2020 22:42]  System: You begin applying the bandages.
+[05/06/2020 22:42]  System: You finish applying the bandages.
+[05/06/2020 22:42]  System: Who will you use the bandages on?
+[05/06/2020 22:42]  System: You begin applying the bandages.
+[05/06/2020 22:42]  Hobo Jim: All Guard Me
+[05/06/2020 22:42]  System: PigletForDinner is now guarding you.
+[05/06/2020 22:42]  System: iAteKanga is now guarding you.
+[05/06/2020 22:42]  System: You finish applying the bandages.
+[05/06/2020 22:42]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:42]  System: You did not stay close enough to heal your patient!
+[05/06/2020 22:42]  System: Who will you use the bandages on?
+[05/06/2020 22:42]  System: You begin applying the bandages.
+[05/06/2020 22:43]  You see: a wild tiger corpse
+[05/06/2020 22:43]  Tyrannosaurus Rex: Just in time, a meteor shower! RAW!!!
+[05/06/2020 22:43]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:43]  System: some damage has been healed : 2
+[05/06/2020 22:43]  You see: a pandorian tiger corpse
+[05/06/2020 22:43]  You see:  iAteKanga 
+[05/06/2020 22:43]  System: Who will you use the bandages on?
+[05/06/2020 22:43]  System: That is too far away.
+[05/06/2020 22:43]  Hobo Jim: All Kill
+[05/06/2020 22:43]  System: Who will you use the bandages on?
+[05/06/2020 22:43]  System: You begin applying the bandages.
+[05/06/2020 22:43]  System: You heal what little damage your patient had.
+[05/06/2020 22:43]  System: Who will you use the bandages on?
+[05/06/2020 22:43]  System: You begin applying the bandages.
+[05/06/2020 22:43]  System: You are able to resurrect your patient.
+[05/06/2020 22:43]  Tyrannosaurus Rex: Run back to the Sakkhra TribeHobo Jim, or your flesh and bone is mine! 
+[05/06/2020 22:43]  System: Who will you use the bandages on?
+[05/06/2020 22:43]  System: You begin applying the bandages.
+[05/06/2020 22:43]  System: You did not stay close enough to heal your patient!
+[05/06/2020 22:43]  System: Setting ability ArmorIgnore
+[05/06/2020 22:43]  System: Your attack penetrates their armor!
+[05/06/2020 22:43]  System: Setting ability ArmorIgnore
+[05/06/2020 22:43]  System: Setting ability ArmorIgnore
+[05/06/2020 22:43]  Hobo Jim: Divinum Furis [Divine Fury]
+[05/06/2020 22:43]  System: Your attack penetrates their armor! [3]
+[05/06/2020 22:43]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:43]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/06/2020 22:43]  You see: a pandorian tiger corpse
+[05/06/2020 22:43]  You see:  PigletForDinner 
+[05/06/2020 22:43]  Tyrannosaurus Rex: Just in time, a meteor shower! RAW!!!
+[05/06/2020 22:43]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:43]  System: some damage has been healed : 2
+[05/06/2020 22:43]  System: Who will you use the bandages on?
+[05/06/2020 22:43]  System: That is too far away.
+[05/06/2020 22:43]  System: Who will you use the bandages on?
+[05/06/2020 22:43]  System: You begin applying the bandages.
+[05/06/2020 22:43]  Tyrannosaurus Rex: Run back to the Sakkhra TribeHobo Jim, or your flesh and bone is mine! 
+[05/06/2020 22:43]  System: You are able to resurrect your patient.
+[05/06/2020 22:43]  System: Who will you use the bandages on?
+[05/06/2020 22:43]  System: You begin applying the bandages.
+[05/06/2020 22:43]  System: You finish applying the bandages.
+[05/06/2020 22:43]  System: Who will you use the bandages on?
+[05/06/2020 22:43]  System: You begin applying the bandages.
+[05/06/2020 22:43]  System: You finish applying the bandages.
+[05/06/2020 22:43]  System: Who will you use the bandages on? [2]
+[05/06/2020 22:43]  System: You begin applying the bandages. [2]
+[05/06/2020 22:43]  System: You finish applying the bandages.
+[05/06/2020 22:43]  Hobo Jim: All Kill
+[05/06/2020 22:43]  System: Who will you use the bandages on?
+[05/06/2020 22:43]  System: You begin applying the bandages.
+[05/06/2020 22:43]  System: You finish applying the bandages. [2]
+[05/06/2020 22:43]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:43]  You see: a pandorian tiger corpse
+[05/06/2020 22:43]  You see:  iAteKanga 
+[05/06/2020 22:44]  System: Who will you use the bandages on?
+[05/06/2020 22:44]  System: You begin applying the bandages.
+[05/06/2020 22:44]  System: You are able to resurrect your patient.
+[05/06/2020 22:44]  Tyrannosaurus Rex: Just in time, a meteor shower! RAW!!!
+[05/06/2020 22:44]  System: Your fingers slip!
+[05/06/2020 22:44]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:44]  System: some damage has been healed : 3
+[05/06/2020 22:44]  Tyrannosaurus Rex: Run back to the Sakkhra TribeHobo Jim, or your flesh and bone is mine! 
+[05/06/2020 22:44]  System: Who will you use the bandages on?
+[05/06/2020 22:44]  System: You begin applying the bandages.
+[05/06/2020 22:44]  System: You did not stay close enough to heal your patient!
+[05/06/2020 22:44]  System: Setting ability ArmorIgnore
+[05/06/2020 22:44]  System: You finish applying the bandages.
+[05/06/2020 22:44]  System: Your attack penetrates their armor!
+[05/06/2020 22:44]  System: Who will you use the bandages on?
+[05/06/2020 22:44]  System: You begin applying the bandages.
+[05/06/2020 22:44]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:44]  Hobo Jim: Forul Solum [Enemy of One]
+[05/06/2020 22:44]  System: You finish applying the bandages.
+[05/06/2020 22:44]  System: Your attack penetrates their armor!
+[05/06/2020 22:44]  System: Who will you use the bandages on? [2]
+[05/06/2020 22:44]  System: You begin applying the bandages. [2]
+[05/06/2020 22:44]  Hobo Jim: All Kill
+[05/06/2020 22:44]  System: That is too far away.
+[05/06/2020 22:44]  System: You must wait to perform another action.
+[05/06/2020 22:44]  System: You finish applying the bandages.
+[05/06/2020 22:44]  System: Who will you use the bandages on?
+[05/06/2020 22:44]  System: You begin applying the bandages.
+[05/06/2020 22:44]  Hobo Jim: All Kill
+[05/06/2020 22:44]  System: The soul charge effect converts some of the damage you received into mana.
+[05/06/2020 22:44]  Hobo Jim: All Guard Me
+[05/06/2020 22:44]  System: iAteKanga is now guarding you.
+[05/06/2020 22:44]  System: PigletForDinner is now guarding you.
+[05/06/2020 22:44]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:44]  System: You finish applying the bandages.
+[05/06/2020 22:44]  System: Who will you use the bandages on? [2]
+[05/06/2020 22:44]  System: You begin applying the bandages.
+[05/06/2020 22:44]  Hobo Jim: All Kill
+[05/06/2020 22:44]  System: You finish applying the bandages.
+[05/06/2020 22:44]  System: Who will you use the bandages on?
+[05/06/2020 22:44]  System: You did not stay close enough to heal your patient!
+[05/06/2020 22:44]  System: You begin applying the bandages.
+[05/06/2020 22:44]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/06/2020 22:44]  Tyrannosaurus Rex: Run back to the Sakkhra TribeHobo Jim, or your flesh and bone is mine! 
+[05/06/2020 22:44]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/06/2020 22:44]  System: Setting ability ArmorIgnore
+[05/06/2020 22:44]  System: Your attack penetrates their armor!
+[05/06/2020 22:44]  System: Setting ability ArmorIgnore
+[05/06/2020 22:44]  System: Setting ability ArmorIgnore
+[05/06/2020 22:44]  Tyrannosaurus Rex: Just in time, a meteor shower! RAW!!!
+[05/06/2020 22:44]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:44]  System: some damage has been healed : 2
+[05/06/2020 22:44]  System: Who will you use the bandages on?
+[05/06/2020 22:44]  System: You begin applying the bandages.
+[05/06/2020 22:44]  System: Setting ability ArmorIgnore
+[05/06/2020 22:44]  System: Your attack penetrates their armor! [5]
+[05/06/2020 22:44]  System: Setting ability ArmorIgnore
+[05/06/2020 22:44]  System: You finish applying the bandages.
+[05/06/2020 22:44]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:44]  System: Setting ability ArmorIgnore
+[05/06/2020 22:44]  System: Setting ability ArmorIgnore
+[05/06/2020 22:44]  System: Setting ability ArmorIgnore
+[05/06/2020 22:44]  System: Your attack penetrates their armor! [4]
+[05/06/2020 22:44]  System: Setting ability ArmorIgnore
+[05/06/2020 22:44]  System: Setting ability ArmorIgnore
+[05/06/2020 22:44]  System: Setting ability ArmorIgnore
+[05/06/2020 22:44]  System: Setting ability ArmorIgnore
+[05/06/2020 22:44]  System: Your attack penetrates their armor! [8]
+[05/06/2020 22:44]  System: Setting ability ArmorIgnore
+[05/06/2020 22:44]  System: A champion has awoken at (6038, 2400, 31) in Felucca.
+[05/06/2020 22:44]  System: Setting ability ArmorIgnore
+[05/06/2020 22:44]  System: Your attack penetrates their armor! [4]
+[05/06/2020 22:44]  You see: a pandorian tiger corpse
+[05/06/2020 22:44]  You see:  iAteKanga 
+[05/06/2020 22:44]  System: Who will you use the bandages on?
+[05/06/2020 22:44]  System: You begin applying the bandages.
+[05/06/2020 22:44]  System: You are able to resurrect your patient.
+[05/06/2020 22:44]  System: Who will you use the bandages on?
+[05/06/2020 22:44]  System: You begin applying the bandages.
+[05/06/2020 22:44]  Hobo Jim: All Kill
+[05/06/2020 22:44]  System: You finish applying the bandages.
+[05/06/2020 22:44]  Tyrannosaurus Rex: Run back to the Sakkhra TribeHobo Jim, or your flesh and bone is mine! 
+[05/06/2020 22:44]  System: Who will you use the bandages on?
+[05/06/2020 22:44]  System: You begin applying the bandages.
+[05/06/2020 22:44]  System: You did not stay close enough to heal your patient!
+[05/06/2020 22:45]  System: Who will you use the bandages on?
+[05/06/2020 22:45]  System: You begin applying the bandages.
+[05/06/2020 22:45]  System: You finish applying the bandages.
+[05/06/2020 22:45]  Tyrannosaurus Rex: Just in time, a meteor shower! RAW!!!
+[05/06/2020 22:45]  System: Your fingers slip!
+[05/06/2020 22:45]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:45]  System: some damage has been healed : 3
+[05/06/2020 22:45]  System: Who will you use the bandages on?
+[05/06/2020 22:45]  System: You begin applying the bandages.
+[05/06/2020 22:45]  System: You did not stay close enough to heal your patient!
+[05/06/2020 22:45]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:45]  System: You finish applying the bandages.
+[05/06/2020 22:45]  System: Who will you use the bandages on?
+[05/06/2020 22:45]  System: You begin applying the bandages.
+[05/06/2020 22:45]  System: You finish applying the bandages.
+[05/06/2020 22:45]  System: Who will you use the bandages on?
+[05/06/2020 22:45]  System: You begin applying the bandages.
+[05/06/2020 22:45]  Hobo Jim: You have hidden yourself well.
+[05/06/2020 22:45]  System: You begin to move quietly.
+[05/06/2020 22:45]  Tyrannosaurus Rex: Run back to the Sakkhra TribeHobo Jim, or your flesh and bone is mine! 
+[05/06/2020 22:45]  You see: a pandorian tiger corpse
+[05/06/2020 22:45]  You see:  iAteKanga 
+[05/06/2020 22:45]  You see: a pandorian tiger corpse
+[05/06/2020 22:45]  You see:  PigletForDinner 
+[05/06/2020 22:45]  Hobo Jim: You have hidden yourself well.
+[05/06/2020 22:45]  System: You begin to move quietly.
+[05/06/2020 22:45]  System: Who will you use the bandages on?
+[05/06/2020 22:45]  System: You begin applying the bandages.
+[05/06/2020 22:45]  System: You are able to resurrect your patient.
+[05/06/2020 22:45]  System: Who will you use the bandages on?
+[05/06/2020 22:45]  System: You begin applying the bandages.
+[05/06/2020 22:45]  Tyrannosaurus Rex: Just in time, a meteor shower! RAW!!!
+[05/06/2020 22:45]  System: You are able to resurrect your patient.
+[05/06/2020 22:45]  System: You finish applying the bandages.
+[05/06/2020 22:45]  System: Who will you use the bandages on?
+[05/06/2020 22:45]  System: You begin applying the bandages.
+[05/06/2020 22:45]  System: You finish applying the bandages.
+[05/06/2020 22:45]  System: Who will you use the bandages on? [2]
+[05/06/2020 22:45]  System: You begin applying the bandages. [2]
+[05/06/2020 22:45]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:45]  System: You finish applying the bandages.
+[05/06/2020 22:45]  System: Who will you use the bandages on?
+[05/06/2020 22:45]  System: You begin applying the bandages.
+[05/06/2020 22:45]  System: They are already at full health.
+[05/06/2020 22:45]  System: You finish applying the bandages. [2]
+[05/06/2020 22:45]  System: Who will you use the bandages on?
+[05/06/2020 22:45]  System: You begin applying the bandages.
+[05/06/2020 22:45]  System: You must wait to perform another action.
+[05/06/2020 22:45]  System: You finish applying the bandages.
+[05/06/2020 22:45]  System: Who will you use the bandages on? [2]
+[05/06/2020 22:45]  System: You begin applying the bandages. [2]
+[05/06/2020 22:45]  System: They are already at full health.
+[05/06/2020 22:45]  System: You finish applying the bandages.
+[05/06/2020 22:45]  System: They are already at full health.
+[05/06/2020 22:46]  System: They are already at full health.
+[05/06/2020 22:46]  You see:  a tiger cub 
+[05/06/2020 22:46]  System: Just in time, a meteor shower! RAW!!!
+[05/06/2020 22:46]  System: They are already at full health.
+[05/06/2020 22:46]  You see:  Tyrannosaurus Rex 
+[05/06/2020 22:46]  You see:   
+[05/06/2020 22:46]  Hobo Jim: All Kill
+[05/06/2020 22:46]  System: They are already at full health. [2]
+[05/06/2020 22:46]  Tyrannosaurus Rex: Run back to the Sakkhra TribeHobo Jim, or your flesh and bone is mine! 
+[05/06/2020 22:46]  System: Treasures of Tokuno have charged!
+[05/06/2020 22:46]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/06/2020 22:46]  System: They are already at full health.
+[05/06/2020 22:46]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/06/2020 22:46]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:46]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/06/2020 22:46]  System: Setting ability ArmorIgnore
+[05/06/2020 22:46]  System: Your attack penetrates their armor!
+[05/06/2020 22:46]  System: Setting ability ArmorIgnore
+[05/06/2020 22:46]  System: Setting ability ArmorIgnore
+[05/06/2020 22:46]  System: Setting ability ArmorIgnore
+[05/06/2020 22:46]  System: Your attack penetrates their armor! [3]
+[05/06/2020 22:46]  System: Setting ability ArmorIgnore
+[05/06/2020 22:46]  System: Your attack penetrates their armor! [4]
+[05/06/2020 22:46]  System: Who will you use the bandages on?
+[05/06/2020 22:46]  System: That being is not damaged!
+[05/06/2020 22:46]  System: Setting ability ArmorIgnore
+[05/06/2020 22:46]  System: They are already at full health.
+[05/06/2020 22:46]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:46]  Hobo Jim: You have hidden yourself well.
+[05/06/2020 22:46]  System: You begin to move quietly.
+[05/06/2020 22:46]  System: Who will you use the bandages on?
+[05/06/2020 22:46]  System: You begin applying the bandages.
+[05/06/2020 22:46]  System: You must wait to perform another action.
+[05/06/2020 22:46]  System: Setting ability ArmorIgnore
+[05/06/2020 22:46]  System: You finish applying the bandages.
+[05/06/2020 22:46]  System: Who will you use the bandages on?
+[05/06/2020 22:46]  System: You begin applying the bandages.
+[05/06/2020 22:46]  System: You did not stay close enough to heal your patient!
+[05/06/2020 22:46]  System: They are already at full health.
+[05/06/2020 22:46]  Tyrannosaurus Rex: Just in time, a meteor shower! RAW!!!
+[05/06/2020 22:46]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:46]  System: some damage has been healed : 2
+[05/06/2020 22:46]  Tyrannosaurus Rex: Run back to the Sakkhra TribeHobo Jim, or your flesh and bone is mine! 
+[05/06/2020 22:46]  System: Your fingers slip!
+[05/06/2020 22:46]  System: Your strength has changed by -5.  It is now 297
+[05/06/2020 22:46]  System: You gasp for air as you are pulled out of the underworld!  You suffer no loss of fame or karma this time.
+[05/06/2020 22:46]  You see: the remains of Hobo Jim
+[05/06/2020 22:46]  Hobo Jim: I am dead and cannot do that.
+[05/06/2020 22:46]  System: Who will you use the bandages on?
+[05/06/2020 22:46]  System: You begin applying the bandages.
+[05/06/2020 22:46]  System: You were unable to finish your work before you died.
+[05/06/2020 22:46]  System: You will be automatically resurrected in 15 minutes.  You can explore the underworld or find another way to live again.
+[05/06/2020 22:46]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:46]  System: You have lost a lot of fame.
+[05/06/2020 22:46]  System: Who will you use the bandages on?
+[05/06/2020 22:46]  System: You begin applying the bandages.
+[05/06/2020 22:46]  System: That is too far away.
+[05/06/2020 22:46]  System: You must wait to perform another action.
+[05/06/2020 22:46]  System: You finish applying the bandages.
+[05/06/2020 22:46]  System: 5,000 gold has been withdrawn from your bank box.
+[05/06/2020 22:46]  System: You have 335,484,641 gold in cash remaining in your bank box.
+[05/06/2020 22:46]  You see: the remains of Hobo Jim
+[05/06/2020 22:46]  System: Who will you use the bandages on?
+[05/06/2020 22:46]  System: You begin applying the bandages.
+[05/06/2020 22:46]  System: You quickly gather all of your belongings.
+[05/06/2020 22:46]  System: Your strength has changed by 5.  It is now 302
+[05/06/2020 22:46]  System: You must wait to perform another action.
+[05/06/2020 22:46]  System: You finish applying the bandages.
+[05/06/2020 22:46]  System: That is too far away.
+[05/06/2020 22:46]  System: Who will you use the bandages on?
+[05/06/2020 22:46]  System: You begin applying the bandages.
+[05/06/2020 22:46]  System: You must wait to perform another action.
+[05/06/2020 22:46]  System: You finish applying the bandages.
+[05/06/2020 22:47]  System: That is too far away.
+[05/06/2020 22:47]  System: You must wait to perform another action.
+[05/06/2020 22:47]  System: That is too far away. [2]
+[05/06/2020 22:47]  System: Who will you use the bandages on?
+[05/06/2020 22:47]  System: You begin applying the bandages.
+[05/06/2020 22:47]  System: You must wait to perform another action.
+[05/06/2020 22:47]  You see:  iAteKanga 
+[05/06/2020 22:47]  You see:  Tyrannosaurus Rex 
+[05/06/2020 22:47]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:47]  You see:   
+[05/06/2020 22:47]  System: You finish applying the bandages.
+[05/06/2020 22:47]  System: Who will you use the bandages on?
+[05/06/2020 22:47]  System: You begin applying the bandages.
+[05/06/2020 22:47]  System: You are able to resurrect your patient.
+[05/06/2020 22:47]  System: You must wait to perform another action.
+[05/06/2020 22:47]  System: Who will you use the bandages on?
+[05/06/2020 22:47]  System: You begin applying the bandages.
+[05/06/2020 22:47]  System: You finish applying the bandages.
+[05/06/2020 22:47]  System: Who will you use the bandages on?
+[05/06/2020 22:47]  System: You begin applying the bandages.
+[05/06/2020 22:47]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:47]  System: You must wait to perform another action.
+[05/06/2020 22:47]  System: You finish applying the bandages.
+[05/06/2020 22:47]  System: Who will you use the bandages on?
+[05/06/2020 22:47]  System: You begin applying the bandages.
+[05/06/2020 22:47]  System: You heal what little damage your patient had.
+[05/06/2020 22:47]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:47]  System: Who will you use the bandages on?
+[05/06/2020 22:47]  System: That being is not damaged!
+[05/06/2020 22:47]  Tyrannosaurus Rex: Run back to the Sakkhra TribeHobo Jim, or your flesh and bone is mine! 
+[05/06/2020 22:47]  System: Who will you use the bandages on?
+[05/06/2020 22:47]  System: That being is not damaged!
+[05/06/2020 22:47]  System: You must wait before using another everlasting pet greater heal potion. [2]
+[05/06/2020 22:47]  System: Who will you use the bandages on?
+[05/06/2020 22:47]  System: You begin applying the bandages.
+[05/06/2020 22:47]  Tyrannosaurus Rex: Just in time, a meteor shower! RAW!!!
+[05/06/2020 22:47]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:47]  System: some damage has been healed : 2
+[05/06/2020 22:47]  System: You are able to resurrect your patient.
+[05/06/2020 22:47]  System: You must wait to perform another action.
+[05/06/2020 22:47]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:47]  System: Who will you use the bandages on?
+[05/06/2020 22:47]  System: That being is not damaged!
+[05/06/2020 22:47]  Hobo Jim: You have hidden yourself well.
+[05/06/2020 22:47]  System: Who will you use the bandages on?
+[05/06/2020 22:47]  System: You begin applying the bandages.
+[05/06/2020 22:47]  System: You must wait before using another everlasting pet greater heal potion. [2]
+[05/06/2020 22:47]  System: You finish applying the bandages.
+[05/06/2020 22:47]  System: You must wait to perform another action.
+[05/06/2020 22:47]  System: Who will you use the bandages on?
+[05/06/2020 22:47]  System: You begin applying the bandages.
+[05/06/2020 22:47]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:47]  System: You finish applying the bandages.
+[05/06/2020 22:47]  System: Who will you use the bandages on?
+[05/06/2020 22:47]  System: You begin applying the bandages.
+[05/06/2020 22:47]  System: You must wait to perform another action.
+[05/06/2020 22:47]  System: You finish applying the bandages.
+[05/06/2020 22:47]  System: Who will you use the bandages on?
+[05/06/2020 22:47]  System: You begin applying the bandages.
+[05/06/2020 22:47]  System: You finish applying the bandages.
+[05/06/2020 22:47]  System: They are already at full health.
+[05/06/2020 22:48]  System: They are already at full health.
+[05/06/2020 22:48]  Tyrannosaurus Rex: Just in time, a meteor shower! RAW!!!
+[05/06/2020 22:48]  System: They are already at full health.
+[05/06/2020 22:49]  System: They are already at full health.
+[05/06/2020 22:49]  System: They are already at full health. [3]
+[05/06/2020 22:50]  System: They are already at full health. [3]
+[05/06/2020 22:50]  System: They are already at full health. [4]
+[05/06/2020 22:50]  System: You must wait to perform another action.
+[05/06/2020 22:50]  Hobo Jim: All Kill
+[05/06/2020 22:50]  Tyrannosaurus Rex: Just in time, a meteor shower! RAW!!!
+[05/06/2020 22:50]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:50]  System: some damage has been healed : 2
+[05/06/2020 22:50]  System: Who will you use the bandages on?
+[05/06/2020 22:50]  System: You begin applying the bandages.
+[05/06/2020 22:50]  Hobo Jim: All Kill
+[05/06/2020 22:50]  System: You finish applying the bandages.
+[05/06/2020 22:50]  System: You must wait to perform another action.
+[05/06/2020 22:50]  Hobo Jim: All Kill
+[05/06/2020 22:50]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:50]  System: Who will you use the bandages on?
+[05/06/2020 22:50]  System: You begin applying the bandages.
+[05/06/2020 22:50]  System: You finish applying the bandages.
+[05/06/2020 22:50]  Hobo Jim: All Follow Me
+[05/06/2020 22:50]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:50]  System: Who will you use the bandages on?
+[05/06/2020 22:50]  System: You begin applying the bandages.
+[05/06/2020 22:50]  System: You finish applying the bandages.
+[05/06/2020 22:50]  System: Who will you use the bandages on?
+[05/06/2020 22:50]  System: You begin applying the bandages.
+[05/06/2020 22:50]  System: You finish applying the bandages.
+[05/06/2020 22:50]  Hobo Jim: All Kill
+[05/06/2020 22:50]  Tyrannosaurus Rex: Run back to the Sakkhra TribeHobo Jim, or your flesh and bone is mine! 
+[05/06/2020 22:50]  You see:  an allosaurus 
+[05/06/2020 22:50]  Tyrannosaurus Rex: Just in time, a meteor shower! RAW!!!
+[05/06/2020 22:50]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:50]  System: some damage has been healed : 3
+[05/06/2020 22:50]  System: Who will you use the bandages on?
+[05/06/2020 22:50]  System: You begin applying the bandages.
+[05/06/2020 22:50]  Hobo Jim: Divinum Furis [Divine Fury]
+[05/06/2020 22:50]  System: You finish applying the bandages.
+[05/06/2020 22:50]  You see:  a wild tiger 
+[05/06/2020 22:50]  System: Who will you use the bandages on?
+[05/06/2020 22:50]  System: You begin applying the bandages.
+[05/06/2020 22:50]  System: some damage has been healed : 4
+[05/06/2020 22:50]  You see:  a greater phoenix 
+[05/06/2020 22:50]  You see:  a greater phoenix 
+[05/06/2020 22:50]  You see:  a greater phoenix 
+[05/06/2020 22:50]  You see:  a najasaurus 
+[05/06/2020 22:50]  System: You finish applying the bandages.
+[05/06/2020 22:50]  System: Some of the damage you received has been converted to heal you. [2]
+[05/06/2020 22:50]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/06/2020 22:50]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/06/2020 22:50]  System: Setting ability ArmorIgnore
+[05/06/2020 22:50]  System: Your attack penetrates their armor!
+[05/06/2020 22:50]  System: Setting ability ArmorIgnore
+[05/06/2020 22:50]  System: Who will you use the bandages on?
+[05/06/2020 22:50]  System: You begin applying the bandages.
+[05/06/2020 22:50]  System: Your attack penetrates their armor! [3]
+[05/06/2020 22:50]  System: You finish applying the bandages.
+[05/06/2020 22:50]  System: Some of the damage you received has been converted to heal you. [5]
+[05/06/2020 22:50]  Tyrannosaurus Rex: Run back to the Sakkhra TribeHobo Jim, or your flesh and bone is mine! 
+[05/06/2020 22:50]  System: some damage has been healed : 4
+[05/06/2020 22:50]  System: Who will you use the bandages on?
+[05/06/2020 22:50]  System: You begin applying the bandages.
+[05/06/2020 22:50]  System: You finish applying the bandages.
+[05/06/2020 22:50]  You see:  an allosaurus 
+[05/06/2020 22:50]  System: Who will you use the bandages on?
+[05/06/2020 22:50]  System: You begin applying the bandages.
+[05/06/2020 22:50]  System: Setting ability ArmorIgnore
+[05/06/2020 22:50]  System: Some of the damage you received has been converted to heal you. [2]
+[05/06/2020 22:50]  System: Your attack penetrates their armor!
+[05/06/2020 22:50]  System: You finish applying the bandages.
+[05/06/2020 22:50]  System: some damage has been healed : 22
+[05/06/2020 22:50]  You see:  a greater phoenix 
+[05/06/2020 22:51]  System: Who will you use the bandages on?
+[05/06/2020 22:51]  System: You begin applying the bandages.
+[05/06/2020 22:51]  System: Your attack penetrates their armor!
+[05/06/2020 22:51]  System: You finish applying the bandages.
+[05/06/2020 22:51]  System: Setting ability ArmorIgnore
+[05/06/2020 22:51]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:51]  System: Setting ability ArmorIgnore
+[05/06/2020 22:51]  System: Setting ability ArmorIgnore
+[05/06/2020 22:51]  System: some damage has been healed : 4
+[05/06/2020 22:51]  System: Who will you use the bandages on?
+[05/06/2020 22:51]  System: You begin applying the bandages.
+[05/06/2020 22:51]  Tyrannosaurus Rex: Just in time, a meteor shower! RAW!!!
+[05/06/2020 22:51]  System: Your fingers slip!
+[05/06/2020 22:51]  System: some damage has been healed : 3
+[05/06/2020 22:51]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/06/2020 22:51]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/06/2020 22:51]  System: Your attack penetrates their armor!
+[05/06/2020 22:51]  System: You finish applying the bandages.
+[05/06/2020 22:51]  Hobo Jim: All Kill
+[05/06/2020 22:51]  Hobo Jim: All Guard Me
+[05/06/2020 22:51]  System: iAteKanga is now guarding you.
+[05/06/2020 22:51]  System: PigletForDinner is now guarding you.
+[05/06/2020 22:51]  You see: some damage has been healed : 3
+[05/06/2020 22:51]  System: Who will you use the bandages on?
+[05/06/2020 22:51]  System: You begin applying the bandages.
+[05/06/2020 22:51]  System: Your attack penetrates their armor!
+[05/06/2020 22:51]  System: Some of the damage you received has been converted to heal you. [4]
+[05/06/2020 22:51]  System: You finish applying the bandages.
+[05/06/2020 22:51]  Hobo Jim: You have hidden yourself well.
+[05/06/2020 22:51]  You see:   
+[05/06/2020 22:51]  System: some damage has been healed : 4
+[05/06/2020 22:51]  System: Who will you use the bandages on?
+[05/06/2020 22:51]  System: You begin applying the bandages.
+[05/06/2020 22:51]  System: Each piece of your equipment gained 33 Tier XP!
+[05/06/2020 22:51]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:51]  System: You finish applying the bandages.
+[05/06/2020 22:51]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/06/2020 22:51]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/06/2020 22:51]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:51]  System: some damage has been healed : 27
+[05/06/2020 22:51]  System: Who will you use the bandages on?
+[05/06/2020 22:51]  System: You begin applying the bandages.
+[05/06/2020 22:51]  You see: a wild tiger corpse
+[05/06/2020 22:51]  System: You finish applying the bandages.
+[05/06/2020 22:51]  System: Setting ability ArmorIgnore
+[05/06/2020 22:51]  System: Who will you use the bandages on?
+[05/06/2020 22:51]  System: You begin applying the bandages.
+[05/06/2020 22:51]  System: Your attack penetrates their armor!
+[05/06/2020 22:51]  System: You did not stay close enough to heal your patient!
+[05/06/2020 22:51]  You see: a dinosaur corpse
+[05/06/2020 22:51]  System: Setting ability ArmorIgnore
+[05/06/2020 22:51]  System: Who will you use the bandages on?
+[05/06/2020 22:51]  System: You begin applying the bandages.
+[05/06/2020 22:51]  System: Your attack penetrates their armor!
+[05/06/2020 22:51]  System: You finish applying the bandages.
+[05/06/2020 22:51]  System: Who will you use the bandages on? [2]
+[05/06/2020 22:51]  System: You begin applying the bandages. [2]
+[05/06/2020 22:51]  System: You finish applying the bandages.
+[05/06/2020 22:51]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:51]  System: Who will you use the bandages on?
+[05/06/2020 22:51]  System: You begin applying the bandages.
+[05/06/2020 22:51]  System: You finish applying the bandages.
+[05/06/2020 22:51]  System: Who will you use the bandages on? [2]
+[05/06/2020 22:51]  System: You begin applying the bandages. [2]
+[05/06/2020 22:51]  System: You finish applying the bandages. [2]
+[05/06/2020 22:51]  You see:  Tyrannosaurus Rex 
+[05/06/2020 22:51]  System: Who will you use the bandages on?
+[05/06/2020 22:51]  System: You begin applying the bandages.
+[05/06/2020 22:51]  System: You finish applying the bandages.
+[05/06/2020 22:51]  System: You did not stay close enough to heal your patient!
+[05/06/2020 22:51]  You see:  a greater phoenix 
+[05/06/2020 22:51]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:51]  System: Who will you use the bandages on?
+[05/06/2020 22:51]  System: You begin applying the bandages.
+[05/06/2020 22:51]  System: You finish applying the bandages.
+[05/06/2020 22:51]  System: Setting ability ArmorIgnore
+[05/06/2020 22:51]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/06/2020 22:51]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/06/2020 22:51]  System: Your attack penetrates their armor!
+[05/06/2020 22:51]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:51]  System: Your attack penetrates their armor!
+[05/06/2020 22:52]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/06/2020 22:52]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/06/2020 22:52]  System: Who will you use the bandages on?
+[05/06/2020 22:52]  System: You begin applying the bandages.
+[05/06/2020 22:52]  System: You finish applying the bandages.
+[05/06/2020 22:52]  Hobo Jim: Forul Solum [Enemy of One]
+[05/06/2020 22:52]  Tyrannosaurus Rex: Just in time, a meteor shower! RAW!!!
+[05/06/2020 22:52]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:52]  System: some damage has been healed : 2
+[05/06/2020 22:52]  Tyrannosaurus Rex: Run back to the Sakkhra TribeHobo Jim, or your flesh and bone is mine! 
+[05/06/2020 22:52]  System: Who will you use the bandages on?
+[05/06/2020 22:52]  System: You begin applying the bandages.
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Your attack penetrates their armor!
+[05/06/2020 22:52]  System: You heal what little damage your patient had.
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Who will you use the bandages on?
+[05/06/2020 22:52]  System: That being is not damaged!
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Your attack penetrates their armor! [3]
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Your attack penetrates their armor! [4]
+[05/06/2020 22:52]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  You see:  a tiger cub 
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  You see:  an archaeosaurus 
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  Tyrannosaurus Rex: Run back to the Sakkhra TribeHobo Jim, or your flesh and bone is mine! 
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Your attack penetrates their armor! [6]
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  Tyrannosaurus Rex: Just in time, a meteor shower! RAW!!!
+[05/06/2020 22:52]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:52]  System: some damage has been healed : 3
+[05/06/2020 22:52]  System: Who will you use the bandages on?
+[05/06/2020 22:52]  System: You begin applying the bandages.
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Your attack penetrates their armor! [4]
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: You finish applying the bandages.
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Your attack penetrates their armor! [6]
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Your attack penetrates their armor! [6]
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Your attack penetrates their armor! [4]
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:52]  System: some damage has been healed : 2
+[05/06/2020 22:52]  System: Who will you use the bandages on?
+[05/06/2020 22:52]  System: That is too far away.
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  You see: a dinosaur corpse
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Your attack penetrates their armor! [6]
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  Tyrannosaurus Rex: Run back to the Sakkhra TribeHobo Jim, or your flesh and bone is mine! 
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: You must wait to perform another action.
+[05/06/2020 22:52]  System: Your attack penetrates their armor! [8]
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:52]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  Tyrannosaurus Rex: Just in time, a meteor shower! RAW!!!
+[05/06/2020 22:53]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:53]  System: some damage has been healed : 2
+[05/06/2020 22:53]  System: Who will you use the bandages on?
+[05/06/2020 22:53]  System: You begin applying the bandages.
+[05/06/2020 22:53]  System: You must wait to perform another action.
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: You need 52 mana to perform that attack
+[05/06/2020 22:53]  System: You finish applying the bandages.
+[05/06/2020 22:53]  System: Your attack penetrates their armor! [6]
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: You need 52 mana to perform that attack
+[05/06/2020 22:53]  System: Who will you use the bandages on?
+[05/06/2020 22:53]  System: You begin applying the bandages.
+[05/06/2020 22:53]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Some of the damage you received has been converted to heal you. [2]
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: You finish applying the bandages.
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: You need 26 mana to perform that attack
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: You need 52 mana to perform that attack
+[05/06/2020 22:53]  System: Your attack penetrates their armor! [4]
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Your attack penetrates their armor!
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  Tyrannosaurus Rex: Run back to the Sakkhra TribeHobo Jim, or your flesh and bone is mine! 
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Your attack penetrates their armor! [7]
+[05/06/2020 22:53]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Your attack penetrates their armor! [4]
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: You need 52 mana to perform that attack
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: You need 52 mana to perform that attack
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Your attack penetrates their armor! [4]
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: You need 52 mana to perform that attack
+[05/06/2020 22:53]  Tyrannosaurus Rex: Just in time, a meteor shower! RAW!!!
+[05/06/2020 22:53]  System: Some of the damage you received has been converted to heal you.
+[05/06/2020 22:53]  System: some damage has been healed : 3
+[05/06/2020 22:53]  System: Who will you use the bandages on?
+[05/06/2020 22:53]  System: That is too far away.
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: You need 26 mana to perform that attack
+[05/06/2020 22:53]  System: You need 52 mana to perform that attack
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: You need 26 mana to perform that attack [2]
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  Tyrannosaurus Rex: Run back to the Sakkhra TribeHobo Jim, or your flesh and bone is mine! 
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Your attack penetrates their armor!
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: You need 52 mana to perform that attack
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Your attack penetrates their armor! [3]
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: You need 52 mana to perform that attack
+[05/06/2020 22:53]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:53]  System: Your attack penetrates their armor! [4]
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: You need 52 mana to perform that attack
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:53]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:53]  You see: a tyrannosaurus rex corpse
+[05/06/2020 22:53]  System: Setting ability ArmorIgnore
+[05/06/2020 22:54]  System: Who will you use the bandages on?
+[05/06/2020 22:54]  System: You begin applying the bandages.
+[05/06/2020 22:54]  System: Your attack penetrates their armor! [2]
+[05/06/2020 22:54]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:54]  System: You did not stay close enough to heal your patient!
+[05/06/2020 22:54]  System: Who will you use the bandages on?
+[05/06/2020 22:54]  System: You begin applying the bandages.
+[05/06/2020 22:54]  System: You must wait to perform another action.
+[05/06/2020 22:54]  System: You finish applying the bandages.
+[05/06/2020 22:54]  System: You must wait to perform another action.
+[05/06/2020 22:54]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:54]  System: Who will you use the bandages on?
+[05/06/2020 22:54]  System: You begin applying the bandages.
+[05/06/2020 22:54]  System: You finish applying the bandages.
+[05/06/2020 22:54]  System: You must wait to perform another action.
+[05/06/2020 22:54]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:54]  System: Who will you use the bandages on?
+[05/06/2020 22:54]  System: You begin applying the bandages.
+[05/06/2020 22:54]  System: You finish applying the bandages.
+[05/06/2020 22:54]  System: Who will you use the bandages on?
+[05/06/2020 22:54]  System: You begin applying the bandages.
+[05/06/2020 22:54]  System: You must wait before using another everlasting pet greater heal potion.
+[05/06/2020 22:54]  System: You finish applying the bandages.
+[05/06/2020 22:54]  System: Who will you use the bandages on?
+[05/06/2020 22:54]  System: You begin applying the bandages.
+[05/06/2020 22:54]  System: You finish applying the bandages.
+[05/06/2020 22:54]  System: You must wait to perform another action.
+[05/06/2020 22:54]  System: Who will you use the bandages on?
+[05/06/2020 22:54]  System: You begin applying the bandages.
+[05/06/2020 22:54]  System: You must wait before using another everlasting pet greater heal potion. [2]
+[05/06/2020 22:54]  System: You finish applying the bandages.
+[05/06/2020 22:54]  System: Script <ShrinkPets.py> started.
+[05/06/2020 22:54]  System: Shrinking...
+[05/06/2020 22:54]  System: You place the PigletForDinner Idol into your pack.
+[05/06/2020 22:54]  System: Shrinking...
+[05/06/2020 22:54]  System: You place the iAteKanga Idol into your pack.
+[05/06/2020 22:54]  System: Script <ShrinkPets.py> stopped.
+[05/06/2020 22:54]  System: 49° 39'N, 14° 3'W
+[05/06/2020 22:54]  Hobo Jim: Kal Ort Por [Recall]
+[05/06/2020 22:54]  System: You have left Valley of Eodon
+[05/06/2020 22:54]  System: WorldMap loaded!
+[05/06/2020 22:54]  System: Your strength has changed by 10.  It is now 312
+[05/06/2020 22:54]  System: Your dexterity has changed by 10.  It is now 227
+[05/06/2020 22:54]  System: Your intelligence has changed by 10.  It is now 114
+[05/06/2020 22:54]  System: Who will you use the bandages on?
+[05/06/2020 22:54]  System: You begin applying the bandages.
+[05/06/2020 22:55]  System: You heal what little damage your patient had.
+[05/06/2020 22:55]  System: Which Ancient Pandora Treasure Chest would you like to unseal?
+[05/06/2020 22:55]  System: You use the key on the Ancient Pandora Treasure Chest and unseal it!
+[05/06/2020 22:55]  System: You open the Ancient Pandora Treasure Chest and receive a Tier 2 Loot item from the donation house!
+[05/06/2020 22:55]  Hobo Jim: Bank container has 340 items, 1260 stones

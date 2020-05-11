@@ -1,0 +1,20 @@
+[
+  {
+    "Description": "bow",
+    "Bag": 1094285834,
+    "Delay": 750,
+    "Conflict": true,
+    "Selected": true,
+    "HotKey": 0,
+    "HotKeyPass": true
+  },
+  {
+    "Description": "sword",
+    "Bag": 0,
+    "Delay": 750,
+    "Conflict": true,
+    "Selected": false,
+    "HotKey": 0,
+    "HotKeyPass": true
+  }
+]

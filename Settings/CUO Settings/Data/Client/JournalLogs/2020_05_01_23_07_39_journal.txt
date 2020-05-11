@@ -1,0 +1,1369 @@
+[05/01/2020 23:07]  System: You have left the Pandora Casino & Pandora Coin store area.
+[05/01/2020 23:07]  System: You are now under the protection of the town guards.
+[05/01/2020 23:07]  You see:  Amadis the minter
+[05/01/2020 23:07]  You see:  Treva the banker
+[05/01/2020 23:07]  You see:  Laird the minter
+[05/01/2020 23:07]  You see:  Afrika the general goods seller
+[05/01/2020 23:07]  You see:  Ivana the Gold Sink Banker
+[05/01/2020 23:07]  You see:  Narmada the universal repairdeed seller
+[05/01/2020 23:07]  You see:  Nori the jeweler
+[05/01/2020 23:07]  System: WorldMap loaded!
+[05/01/2020 23:07]  System: You choose not to go anywhere.
+[05/01/2020 23:08]  Ivana: Greetings.  Have a look around.
+[05/01/2020 23:08]  System: You can't do that in towns.
+[05/01/2020 23:08]  System: Script <Grab.py> started.
+[05/01/2020 23:08]  System: Script <Grab.py> stopped.
+[05/01/2020 23:08]  System: Script <Grab.py> started.
+[05/01/2020 23:08]  System: Script <Grab.py> stopped.
+[05/01/2020 23:08]  System: You can't do that in towns. [2]
+[05/01/2020 23:08]  System: You have been teleported to: Tomb Of Kings
+[05/01/2020 23:08]  You see:  Desdemona [a Guardian of Ter-Mur]
+[05/01/2020 23:08]  System: WorldMap loaded!
+[05/01/2020 23:08]  System: You have left the protection of the town guards.
+[05/01/2020 23:08]  You see:  Klian 
+[05/01/2020 23:08]  You see:  Xian 
+[05/01/2020 23:08]  You see:  Klistra 
+[05/01/2020 23:08]  System: The Lighting Arrow strikes a target
+[05/01/2020 23:08]  You see:  PigletForDinner 
+[05/01/2020 23:08]  System: You have lost a lot of karma.
+[05/01/2020 23:08]  You see: a pixie corpse
+[05/01/2020 23:08]  Hobo Jim: All Guard Me
+[05/01/2020 23:08]  System: PigletForDinner is now guarding you.
+[05/01/2020 23:08]  You see:  Avalon [a Guardian of Ter-Mur]
+[05/01/2020 23:08]  You see:  Katana [a Guardian of Ter-Mur]
+[05/01/2020 23:08]  System: You have lost a lot of karma.
+[05/01/2020 23:08]  You see: a pixie corpse
+[05/01/2020 23:08]  You see:  a gargoyle shade 
+[05/01/2020 23:08]  You see:  a shade 
+[05/01/2020 23:08]  Hobo Jim: All Kill
+[05/01/2020 23:08]  System: Each piece of your equipment gained 5 Tier XP!
+[05/01/2020 23:08]  You see: a ghostly corpse
+[05/01/2020 23:08]  You see:  an putrid undead guardian 
+[05/01/2020 23:08]  You see:  a gargoyle shade 
+[05/01/2020 23:08]  You see:  an putrid undead guardian 
+[05/01/2020 23:08]  Hobo Jim: All Guard Me
+[05/01/2020 23:08]  System: PigletForDinner is now guarding you.
+[05/01/2020 23:08]  You see:  Korpre 
+[05/01/2020 23:08]  You see:  a silver serpent 
+[05/01/2020 23:09]  System: Setting ability LightningArrow
+[05/01/2020 23:09]  System: The Lighting Arrow strikes a target
+[05/01/2020 23:09]  PigletForDinner: * The poison seems to have no effect. *
+[05/01/2020 23:09]  System: Setting ability LightningArrow
+[05/01/2020 23:09]  You see: a silver serpent corpse
+[05/01/2020 23:09]  You see: a silver serpent corpse
+[05/01/2020 23:09]  System: Setting ability LightningArrow
+[05/01/2020 23:09]  System: Setting ability LightningArrow
+[05/01/2020 23:09]  System: Setting ability LightningArrow
+[05/01/2020 23:09]  System: The Lighting Arrow strikes a target
+[05/01/2020 23:09]  System: Each piece of your equipment gained 5 Tier XP!
+[05/01/2020 23:09]  You see: a slimey corpse
+[05/01/2020 23:09]  System: Setting ability LightningArrow
+[05/01/2020 23:09]  System: Setting ability LightningArrow
+[05/01/2020 23:09]  System: Each piece of your equipment gained 9 Tier XP!
+[05/01/2020 23:09]  You see: an putrid undead guardian corpse
+[05/01/2020 23:09]  System: Setting ability LightningArrow
+[05/01/2020 23:09]  You see: an putrid undead guardian corpse
+[05/01/2020 23:09]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:09]  System: Setting ability LightningArrow
+[05/01/2020 23:09]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:09]  System: The Lighting Arrow strikes a target
+[05/01/2020 23:09]  System: Each piece of your equipment gained 9 Tier XP!
+[05/01/2020 23:09]  You see: an putrid undead guardian corpse
+[05/01/2020 23:09]  System: 91 gold coins have been placed in your pack.
+[05/01/2020 23:09]  System: You grabbed 1 Items, 91 Gold
+[05/01/2020 23:09]  System: Your share of the Gold is 91
+[05/01/2020 23:09]  System: Script <Grab.py> started.
+[05/01/2020 23:09]  System: Script <Grab.py> stopped.
+[05/01/2020 23:09]  You see:  Niporailem the thief
+[05/01/2020 23:09]  You see:  Niporailem the thief
+[05/01/2020 23:09]  Hobo Jim: All Guard Me
+[05/01/2020 23:09]  System: PigletForDinner is now guarding you.
+[05/01/2020 23:09]  Hobo Jim: All Kill
+[05/01/2020 23:09]  Hobo Jim: All Guard Me
+[05/01/2020 23:09]  System: PigletForDinner is now guarding you.
+[05/01/2020 23:09]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:09]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:09]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:09]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:09]  System: To steal my gold? To give it freely!
+[05/01/2020 23:09]  You see:  spectral armour 
+[05/01/2020 23:09]  System: You have gained some fame.
+[05/01/2020 23:09]  System: You have gained a lot of karma.
+[05/01/2020 23:09]  You see: the corpse of Niporailem
+[05/01/2020 23:09]  System: Script <DropSandAndTreasure.py> started.
+[05/01/2020 23:09]  System: Script <DropSandAndTreasure.py> stopped.
+[05/01/2020 23:09]  System: Script <DropSandAndTreasure.py> started.
+[05/01/2020 23:09]  System: Script <DropSandAndTreasure.py> stopped.
+[05/01/2020 23:09]  System: Script <DropSandAndTreasure.py> started.
+[05/01/2020 23:09]  System: Script <DropSandAndTreasure.py> stopped.
+[05/01/2020 23:09]  System: Script <DropSandAndTreasure.py> started.
+[05/01/2020 23:09]  System: Script <DropSandAndTreasure.py> stopped.
+[05/01/2020 23:09]  System: Script <DropSandAndTreasure.py> started.
+[05/01/2020 23:09]  System: Script <DropSandAndTreasure.py> stopped.
+[05/01/2020 23:10]  You see:  Niporailem the thief
+[05/01/2020 23:10]  System: Script <DropSandAndTreasure.py> started.
+[05/01/2020 23:10]  System: Script <DropSandAndTreasure.py> stopped.
+[05/01/2020 23:10]  You see:  spectral armour 
+[05/01/2020 23:10]  System: To steal my gold? To give it freely!
+[05/01/2020 23:10]  You see:  spectral armour 
+[05/01/2020 23:10]  You see:  spectral armour 
+[05/01/2020 23:10]  You see:  spectral armour 
+[05/01/2020 23:10]  System: You have gained some fame.
+[05/01/2020 23:10]  System: You have gained a lot of karma.
+[05/01/2020 23:10]  You see: the corpse of Niporailem
+[05/01/2020 23:10]  System: Each piece of your equipment gained 8 Tier XP!
+[05/01/2020 23:10]  System: Script <DropSandAndTreasure.py> started.
+[05/01/2020 23:10]  System: Script <DropSandAndTreasure.py> stopped.
+[05/01/2020 23:11]  System: Moving Gold
+[05/01/2020 23:11]  System: To carry the burden of greed!
+[05/01/2020 23:11]  System: Moving Gold
+[05/01/2020 23:11]  System: Moving Sand
+[05/01/2020 23:11]  System: Moving Sand
+[05/01/2020 23:11]  System: To carry the burden of greed!
+[05/01/2020 23:11]  System: Script <Grab.py> started.
+[05/01/2020 23:11]  System: 3,367 gold coins have been placed in your pack.
+[05/01/2020 23:11]  System: You grabbed 4 Items, 3,367 Gold, 18 Trash Tokens
+[05/01/2020 23:11]  System: Your share of the Gold is 3,367
+[05/01/2020 23:11]  System: Script <Grab.py> stopped.
+[05/01/2020 23:11]  You see:  Othello [a Guardian of Ter-Mur]
+[05/01/2020 23:11]  You see:  Goliath [a Guardian of Ter-Mur]
+[05/01/2020 23:11]  You see:  Broadway [a Guardian of Ter-Mur]
+[05/01/2020 23:11]  You see:  Eternal Phoenix [lesser coin mob]
+[05/01/2020 23:11]  You see:  PigletForDinner 
+[05/01/2020 23:11]  You see:  Othello [a Guardian of Ter-Mur]
+[05/01/2020 23:11]  Hobo Jim: All Guard Me
+[05/01/2020 23:11]  System: PigletForDinner is now guarding you.
+[05/01/2020 23:11]  Hobo Jim: All Kill
+[05/01/2020 23:11]  Hobo Jim: Forul Solum [Enemy of One]
+[05/01/2020 23:11]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/01/2020 23:11]  System: You have gained some fame.
+[05/01/2020 23:11]  You see: a phoenix corpse
+[05/01/2020 23:11]  Hobo Jim: Kal Por Ylem [Mark]
+[05/01/2020 23:11]  System: You are already casting a spell.
+[05/01/2020 23:12]  System: Please enter a description for this marked object:
+[05/01/2020 23:12]  System: The etching on the rune has been changed.
+[05/01/2020 23:12]  System: PCoinPhoenix
+[05/01/2020 23:13]  Hobo Jim: Rel Por [Teleport]
+[05/01/2020 23:13]  System: That is too far away.
+[05/01/2020 23:13]  Hobo Jim: Rel Por [Teleport]
+[05/01/2020 23:13]  System: That is too far away.
+[05/01/2020 23:13]  Hobo Jim: Rel Por [Teleport]
+[05/01/2020 23:13]  You see:  a lava serpent 
+[05/01/2020 23:13]  You see: a lava serpent corpse
+[05/01/2020 23:13]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:13]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:13]  Hobo Jim: Forul Solum [Enemy of One]
+[05/01/2020 23:13]  You see: a lava serpent corpse
+[05/01/2020 23:13]  System: 42 gold coins have been placed in your pack.
+[05/01/2020 23:13]  System: You grabbed 1 Items, 42 Gold
+[05/01/2020 23:13]  System: Your share of the Gold is 42
+[05/01/2020 23:13]  System: Script <Grab.py> started.
+[05/01/2020 23:13]  System: Script <Grab.py> stopped.
+[05/01/2020 23:13]  Hobo Jim: Rel Por [Teleport]
+[05/01/2020 23:13]  System: That location is blocked.
+[05/01/2020 23:13]  Hobo Jim: Rel Por [Teleport]
+[05/01/2020 23:13]  Hobo Jim: All Kill
+[05/01/2020 23:13]  Hobo Jim: all go
+[05/01/2020 23:13]  System: That is too far away.
+[05/01/2020 23:13]  Hobo Jim: In Mani [Heal]
+[05/01/2020 23:13]  Hobo Jim: all go
+[05/01/2020 23:13]  System: That is too far away.
+[05/01/2020 23:13]  Hobo Jim: all go
+[05/01/2020 23:14]  Hobo Jim: all go
+[05/01/2020 23:14]  Hobo Jim: In Mani [Heal]
+[05/01/2020 23:14]  Hobo Jim: all go
+[05/01/2020 23:14]  System: 135° 0'N, 27° 16'W
+[05/01/2020 23:14]  Hobo Jim: Kal Ort Por [Recall]
+[05/01/2020 23:14]  You see:  Broadway [a Guardian of Ter-Mur]
+[05/01/2020 23:14]  You see:  Othello [a Guardian of Ter-Mur]
+[05/01/2020 23:14]  System: You place the PigletForDinner Idol into your pack.
+[05/01/2020 23:14]  Hobo Jim: Rel Por [Teleport]
+[05/01/2020 23:14]  You see:  PigletForDinner 
+[05/01/2020 23:14]  System: 40 gold coins have been placed in your pack.
+[05/01/2020 23:14]  System: You grabbed 1 Items, 40 Gold
+[05/01/2020 23:14]  System: Your share of the Gold is 40
+[05/01/2020 23:14]  System: Script <Grab.py> started.
+[05/01/2020 23:14]  System: Script <Grab.py> stopped.
+[05/01/2020 23:14]  You see:  a lava elemental 
+[05/01/2020 23:15]  You see:  a fire ant 
+[05/01/2020 23:15]  You see:  a lava serpent 
+[05/01/2020 23:15]  You see:  a fire ant 
+[05/01/2020 23:15]  You see:  a fire ant 
+[05/01/2020 23:15]  You see:  a lava lizard 
+[05/01/2020 23:15]  You see:  a fire ant 
+[05/01/2020 23:15]  You see:  a lava elemental 
+[05/01/2020 23:15]  You see:  a fire ant 
+[05/01/2020 23:15]  You see:  a fire ant 
+[05/01/2020 23:15]  You see:  a fire ant 
+[05/01/2020 23:15]  You see:  a fire ant 
+[05/01/2020 23:15]  You see:  a fire ant 
+[05/01/2020 23:15]  You see:  a fire ant 
+[05/01/2020 23:15]  You see:  a fire ant 
+[05/01/2020 23:15]  You see:  a fire ant 
+[05/01/2020 23:15]  Hobo Jim: All Kill
+[05/01/2020 23:15]  Hobo Jim: All Guard Me
+[05/01/2020 23:15]  System: PigletForDinner is now guarding you.
+[05/01/2020 23:15]  You see: a fire elemental corpse
+[05/01/2020 23:15]  You see: a fire ant corpse
+[05/01/2020 23:15]  You see: a fire ant corpse
+[05/01/2020 23:15]  Hobo Jim: Kal Por Ylem [Mark]
+[05/01/2020 23:15]  System: You are already casting a spell.
+[05/01/2020 23:15]  You see: a lava serpent corpse
+[05/01/2020 23:15]  System: Please enter a description for this marked object:
+[05/01/2020 23:15]  System: The etching on the rune has been changed.
+[05/01/2020 23:15]  System: FireElementalMini
+[05/01/2020 23:16]  You see: a lava lizard corpse
+[05/01/2020 23:16]  You see:  a fire ant 
+[05/01/2020 23:16]  You see:  a fire ant 
+[05/01/2020 23:16]  You see:  a fire ant 
+[05/01/2020 23:16]  You see:  a fire ant 
+[05/01/2020 23:16]  You see:  a fire ant 
+[05/01/2020 23:16]  System: You couldn't find anything to grab
+[05/01/2020 23:16]  System: Script <Grab.py> started.
+[05/01/2020 23:16]  System: Script <Grab.py> stopped.
+[05/01/2020 23:16]  You see:  a lava elemental 
+[05/01/2020 23:16]  You see:  a lava elemental 
+[05/01/2020 23:16]  You see: a fire ant corpse
+[05/01/2020 23:16]  You see:  a fire ant 
+[05/01/2020 23:16]  You see:  a fire ant 
+[05/01/2020 23:16]  You see:  a fire ant 
+[05/01/2020 23:16]  You see:  a lava elemental 
+[05/01/2020 23:16]  Hobo Jim: All Kill
+[05/01/2020 23:16]  Hobo Jim: All Guard Me
+[05/01/2020 23:16]  System: PigletForDinner is now guarding you.
+[05/01/2020 23:16]  Hobo Jim: All Follow Me
+[05/01/2020 23:16]  You see:  a fire ant 
+[05/01/2020 23:16]  You see:  a fire ant 
+[05/01/2020 23:16]  You see:  a lava serpent 
+[05/01/2020 23:16]  You see:  a lava serpent 
+[05/01/2020 23:17]  You see:  a fire ant 
+[05/01/2020 23:17]  Hobo Jim: All Kill
+[05/01/2020 23:17]  Hobo Jim: All Guard Me
+[05/01/2020 23:17]  System: PigletForDinner is now guarding you.
+[05/01/2020 23:17]  You see: a fire ant corpse
+[05/01/2020 23:17]  You see: a lava serpent corpse
+[05/01/2020 23:17]  You see:  a fire ant 
+[05/01/2020 23:17]  System: You must wait to perform another action.
+[05/01/2020 23:17]  You see:  a fire ant 
+[05/01/2020 23:17]  You see:  a fire ant 
+[05/01/2020 23:17]  You see:  Ishimura [a Guardian of Ter-Mur]
+[05/01/2020 23:17]  You see:  a fire ant 
+[05/01/2020 23:17]  You see:  a fire ant 
+[05/01/2020 23:17]  You see:  a fire ant 
+[05/01/2020 23:17]  You see:  Korpre 
+[05/01/2020 23:17]  You see:  Korpre 
+[05/01/2020 23:17]  You see:  Korpre 
+[05/01/2020 23:17]  You see: a slimey corpse
+[05/01/2020 23:17]  You see:  Korpre 
+[05/01/2020 23:17]  You see: a slimey corpse
+[05/01/2020 23:17]  You see: a slimey corpse
+[05/01/2020 23:17]  You see:  Korpre 
+[05/01/2020 23:17]  You see:  Brooklyn [a Guardian of Ter-Mur]
+[05/01/2020 23:17]  You see:  Sarpling [a Guardian of Ter-Mur]
+[05/01/2020 23:17]  You see: a slimey corpse
+[05/01/2020 23:18]  You see: moongate
+[05/01/2020 23:18]  You see:  PigletForDinner 
+[05/01/2020 23:18]  You see:  Korpre 
+[05/01/2020 23:18]  You see: a slimey corpse
+[05/01/2020 23:18]  You see:  a lava elemental 
+[05/01/2020 23:18]  You see:  a lava serpent 
+[05/01/2020 23:18]  You see:  an fire daemon 
+[05/01/2020 23:18]  You see: a lava serpent corpse
+[05/01/2020 23:18]  You see:  a lava serpent 
+[05/01/2020 23:18]  You see:  a lava elemental 
+[05/01/2020 23:18]  You see: a lava snake corpse
+[05/01/2020 23:18]  Hobo Jim: Rel Por [Teleport]
+[05/01/2020 23:18]  System: Target cannot be seen.
+[05/01/2020 23:18]  You see:  Ishimura [a Guardian of Ter-Mur]
+[05/01/2020 23:18]  You see: a bloodworm corpse
+[05/01/2020 23:18]  You see:  an fire daemon 
+[05/01/2020 23:18]  You see: a bloodworm corpse
+[05/01/2020 23:18]  You see:  a skree 
+[05/01/2020 23:18]  You see:  a raptor 
+[05/01/2020 23:18]  You see:  Draxsom [a Guardian of Ter-Mur]
+[05/01/2020 23:19]  You see:  a raptor 
+[05/01/2020 23:19]  You see:  a skree 
+[05/01/2020 23:19]  You see: a skree corpse
+[05/01/2020 23:19]  You see: a raptor corpse
+[05/01/2020 23:19]  You see: a skree corpse
+[05/01/2020 23:19]  You see: a raptor corpse
+[05/01/2020 23:19]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:19]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:19]  You see:  a raptor 
+[05/01/2020 23:19]  You see: a skree corpse
+[05/01/2020 23:19]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:19]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:19]  System: Each piece of your equipment gained 19 Tier XP!
+[05/01/2020 23:19]  You see: a raptor corpse
+[05/01/2020 23:19]  System: 641 gold coins have been placed in your pack.
+[05/01/2020 23:19]  System: You grabbed 4 Items, 641 Gold
+[05/01/2020 23:19]  System: Your share of the Gold is 641
+[05/01/2020 23:19]  System: Script <Grab.py> started.
+[05/01/2020 23:19]  System: Script <Grab.py> stopped.
+[05/01/2020 23:19]  You see:  Draxsom [a Guardian of Ter-Mur]
+[05/01/2020 23:19]  You see:  a raptor 
+[05/01/2020 23:19]  You see:  a raptor 
+[05/01/2020 23:19]  You see:  a raptor 
+[05/01/2020 23:19]  You see:  a raptor 
+[05/01/2020 23:19]  You see:  Draxsom [a Guardian of Ter-Mur]
+[05/01/2020 23:19]  You see:  a slith 
+[05/01/2020 23:19]  You see:  a raptor 
+[05/01/2020 23:19]  You see:  a raptor 
+[05/01/2020 23:19]  You see:  a bloodworm 
+[05/01/2020 23:19]  You see:  Ishimura [a Guardian of Ter-Mur]
+[05/01/2020 23:19]  You see:  a greater dragon 
+[05/01/2020 23:19]  You see:  an fire daemon 
+[05/01/2020 23:19]  You see:  Quaeven [a Guardian of Ter-Mur]
+[05/01/2020 23:19]  You see:  a raptor 
+[05/01/2020 23:20]  You see:  a lava serpent 
+[05/01/2020 23:20]  You see: a raptor corpse
+[05/01/2020 23:20]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:20]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:20]  You see: a lava serpent corpse
+[05/01/2020 23:20]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:20]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:20]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:20]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:20]  You see: a skree corpse
+[05/01/2020 23:20]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:20]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:20]  System: Each piece of your equipment gained 27 Tier XP!
+[05/01/2020 23:20]  You see: a lava elemental corpse
+[05/01/2020 23:20]  System: Setting ability LightningArrow
+[05/01/2020 23:20]  System: The Lighting Arrow strikes a target
+[05/01/2020 23:20]  You see: a skree corpse
+[05/01/2020 23:20]  System: Script <Grab.py> started.
+[05/01/2020 23:20]  System: 504 gold coins have been placed in your pack.
+[05/01/2020 23:20]  System: You grabbed 3 Items, 504 Gold, 1 Trash Tokens
+[05/01/2020 23:20]  System: Your share of the Gold is 504
+[05/01/2020 23:20]  System: You must wait for 4.97 seconds.
+[05/01/2020 23:20]  System: Script <Grab.py> stopped.
+[05/01/2020 23:20]  You see:  Quaeven [a Guardian of Ter-Mur]
+[05/01/2020 23:20]  You see: a lava serpent corpse
+[05/01/2020 23:20]  You see:  a skree 
+[05/01/2020 23:20]  You see: a skree corpse
+[05/01/2020 23:20]  System: 44 gold coins have been placed in your pack.
+[05/01/2020 23:20]  System: You grabbed 44 Gold
+[05/01/2020 23:20]  System: Your share of the Gold is 44
+[05/01/2020 23:20]  System: Script <Grab.py> started.
+[05/01/2020 23:20]  System: Script <Grab.py> stopped.
+[05/01/2020 23:20]  System: You must wait for 2.26 seconds.
+[05/01/2020 23:20]  System: Script <Grab.py> started.
+[05/01/2020 23:20]  System: Script <Grab.py> stopped.
+[05/01/2020 23:20]  System: Script <Grab.py> started.
+[05/01/2020 23:20]  System: 44 gold coins have been placed in your pack.
+[05/01/2020 23:20]  System: You grabbed 44 Gold
+[05/01/2020 23:20]  System: Your share of the Gold is 44
+[05/01/2020 23:20]  System: Script <Grab.py> stopped.
+[05/01/2020 23:20]  System: You must wait for 4.73 seconds.
+[05/01/2020 23:20]  System: Script <Grab.py> started.
+[05/01/2020 23:20]  System: Script <Grab.py> stopped.
+[05/01/2020 23:21]  You see:  a lava serpent 
+[05/01/2020 23:21]  Hobo Jim: You have hidden yourself well.
+[05/01/2020 23:21]  You see:  a raptor 
+[05/01/2020 23:22]  You see:  a skree 
+[05/01/2020 23:22]  You see:  a skree 
+[05/01/2020 23:23]  You see:  a lava serpent 
+[05/01/2020 23:23]  You see: a skree corpse
+[05/01/2020 23:23]  System: Each piece of your equipment gained 16 Tier XP!
+[05/01/2020 23:23]  You see: a skree corpse
+[05/01/2020 23:23]  You see:  a lava serpent 
+[05/01/2020 23:23]  System: You couldn't find anything to grab
+[05/01/2020 23:23]  System: Script <Grab.py> started.
+[05/01/2020 23:23]  System: Script <Grab.py> stopped.
+[05/01/2020 23:23]  You see:  a lava serpent 
+[05/01/2020 23:23]  You see: a raptor corpse
+[05/01/2020 23:23]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:23]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:23]  Hobo Jim: Forul Solum [Enemy of One]
+[05/01/2020 23:23]  You see:  a lava serpent 
+[05/01/2020 23:23]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/01/2020 23:23]  You see:  a raptor 
+[05/01/2020 23:23]  System: Setting ability LightningArrow
+[05/01/2020 23:23]  System: The Lighting Arrow strikes a target
+[05/01/2020 23:23]  You see: a lava elemental corpse
+[05/01/2020 23:23]  You see:  a lava elemental 
+[05/01/2020 23:23]  You see: a lava serpent corpse
+[05/01/2020 23:23]  You see: a lava serpent corpse
+[05/01/2020 23:23]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:23]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:23]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/01/2020 23:24]  You see: a raptor corpse
+[05/01/2020 23:24]  System: You couldn't find anything to grab
+[05/01/2020 23:24]  System: Script <Grab.py> started.
+[05/01/2020 23:24]  System: Script <Grab.py> stopped.
+[05/01/2020 23:24]  You see:  an imp 
+[05/01/2020 23:24]  You see:  a stone slith 
+[05/01/2020 23:24]  You see:  a stone slith 
+[05/01/2020 23:24]  You see:  a stone slith 
+[05/01/2020 23:24]  You see:  a stone slith 
+[05/01/2020 23:24]  You see: a slith corpse
+[05/01/2020 23:24]  You see: a slith corpse
+[05/01/2020 23:24]  System: Script <Grab.py> started.
+[05/01/2020 23:24]  System: You couldn't find anything to grab
+[05/01/2020 23:24]  System: Script <Grab.py> stopped.
+[05/01/2020 23:24]  You see:  a stone slith 
+[05/01/2020 23:24]  You see: a slith corpse
+[05/01/2020 23:24]  You see:  a wyvern 
+[05/01/2020 23:24]  You see:  a stone slith 
+[05/01/2020 23:24]  You see:  an fire daemon 
+[05/01/2020 23:24]  You see: a slith corpse
+[05/01/2020 23:24]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:24]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:24]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:24]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:24]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:24]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:24]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:24]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:24]  System: You are already casting a spell.
+[05/01/2020 23:24]  Hobo Jim: Forul Solum [Enemy of One]
+[05/01/2020 23:24]  You see: a slith corpse
+[05/01/2020 23:25]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:25]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:25]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:25]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:25]  You see: a fire daemon corpse
+[05/01/2020 23:25]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/01/2020 23:25]  System: You couldn't find anything to grab
+[05/01/2020 23:25]  System: Script <Grab.py> started.
+[05/01/2020 23:25]  System: Script <Grab.py> stopped.
+[05/01/2020 23:25]  System: You must wait for 4.38 seconds.
+[05/01/2020 23:25]  System: Script <Grab.py> started.
+[05/01/2020 23:25]  System: You must wait for 4.23 seconds.
+[05/01/2020 23:25]  System: Script <Grab.py> stopped.
+[05/01/2020 23:25]  System: You must wait for 3.69 seconds.
+[05/01/2020 23:25]  System: Script <Grab.py> started.
+[05/01/2020 23:25]  System: Script <Grab.py> stopped.
+[05/01/2020 23:25]  System: You must wait for 3.14 seconds.
+[05/01/2020 23:25]  System: Script <Grab.py> started.
+[05/01/2020 23:25]  System: Script <Grab.py> stopped.
+[05/01/2020 23:25]  System: Script <Grab.py> started.
+[05/01/2020 23:25]  System: You must wait for 2.3 seconds.
+[05/01/2020 23:25]  System: Script <Grab.py> stopped.
+[05/01/2020 23:25]  System: You must wait for 1.64 seconds.
+[05/01/2020 23:25]  System: Script <Grab.py> started.
+[05/01/2020 23:25]  System: Script <Grab.py> stopped.
+[05/01/2020 23:25]  System: You must wait for 1.03 seconds.
+[05/01/2020 23:25]  System: Script <Grab.py> started.
+[05/01/2020 23:25]  System: You must wait for 0.95 seconds.
+[05/01/2020 23:25]  System: Script <Grab.py> stopped.
+[05/01/2020 23:25]  System: Script <Grab.py> started.
+[05/01/2020 23:25]  System: You must wait for 0.58 seconds.
+[05/01/2020 23:25]  System: You must wait for 0.52 seconds.
+[05/01/2020 23:25]  System: Script <Grab.py> stopped.
+[05/01/2020 23:25]  System: Script <Grab.py> started.
+[05/01/2020 23:25]  System: You must wait for 0.13 seconds.
+[05/01/2020 23:25]  System: Script <Grab.py> stopped.
+[05/01/2020 23:25]  System: 1,114 gold coins have been placed in your pack.
+[05/01/2020 23:25]  System: You grabbed 6 Items, 1,114 Gold, 3 Trash Tokens
+[05/01/2020 23:25]  System: Your share of the Gold is 1,114
+[05/01/2020 23:25]  System: Script <Grab.py> started.
+[05/01/2020 23:25]  System: Script <Grab.py> stopped.
+[05/01/2020 23:25]  You see:  PigletForDinner 
+[05/01/2020 23:25]  : Beware - Abyssal Cove is Felucca rules
+[05/01/2020 23:25]  System: WorldMap loaded!
+[05/01/2020 23:25]  You see:  a lost soul 
+[05/01/2020 23:25]  You see:  a water elemental 
+[05/01/2020 23:25]  You see:  a fire elemental 
+[05/01/2020 23:25]  You see: sparkle
+[05/01/2020 23:25]  You see:  a hell hound 
+[05/01/2020 23:25]  You see:  an imp 
+[05/01/2020 23:25]  You see:  an imp 
+[05/01/2020 23:25]  You see:  an imp 
+[05/01/2020 23:25]  You see:  an imp 
+[05/01/2020 23:25]  You see:  a hell hound 
+[05/01/2020 23:25]  You see:  PigletForDinner 
+[05/01/2020 23:25]  You see:  a hell hound 
+[05/01/2020 23:25]  You see:  a gargoyle 
+[05/01/2020 23:26]  You see:  a gargoyle 
+[05/01/2020 23:26]  You see:  a hell hound 
+[05/01/2020 23:26]  You see:  an imp 
+[05/01/2020 23:26]  You see:  an imp 
+[05/01/2020 23:26]  You see: an imp corpse
+[05/01/2020 23:26]  System: Each piece of your equipment gained 12 Tier XP!
+[05/01/2020 23:26]  You see: a hell hound corpse
+[05/01/2020 23:26]  You see:  an imp 
+[05/01/2020 23:26]  System: Opening door...
+[05/01/2020 23:26]  You see: a hell hound corpse
+[05/01/2020 23:26]  You see: a hell hound corpse
+[05/01/2020 23:26]  You see:  an imp 
+[05/01/2020 23:26]  You see:  an imp 
+[05/01/2020 23:26]  You see:  a hell hound 
+[05/01/2020 23:26]  You see:  a hell hound 
+[05/01/2020 23:26]  You see:  an imp 
+[05/01/2020 23:26]  You see:  an imp 
+[05/01/2020 23:26]  You see: a hell hound corpse
+[05/01/2020 23:26]  Hobo Jim: You have hidden yourself well.
+[05/01/2020 23:26]  System: Opening door...
+[05/01/2020 23:26]  You see:  an imp 
+[05/01/2020 23:26]  You see:  an imp 
+[05/01/2020 23:26]  You see:  a hell hound 
+[05/01/2020 23:26]  You see:  a searing gargoyle 
+[05/01/2020 23:26]  You see:  an imp 
+[05/01/2020 23:26]  You see:  a hell hound 
+[05/01/2020 23:26]  You see:  an imp 
+[05/01/2020 23:26]  You see: an imp corpse
+[05/01/2020 23:27]  Hobo Jim: * You feel disoriented and nauseous! *
+[05/01/2020 23:27]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:27]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:27]  You see: an imp corpse
+[05/01/2020 23:27]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/01/2020 23:27]  You see: a charred corpse
+[05/01/2020 23:27]  Hobo Jim: * You feel disoriented and nauseous! *
+[05/01/2020 23:27]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:27]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:27]  Hobo Jim: Forul Solum [Enemy of One]
+[05/01/2020 23:27]  Hobo Jim: * You feel disoriented and nauseous! *
+[05/01/2020 23:27]  You see: a charred corpse
+[05/01/2020 23:27]  You see:  a gargoyle 
+[05/01/2020 23:27]  Hobo Jim: An Nox [Cure]
+[05/01/2020 23:27]  System: You have been cured of all poisons!
+[05/01/2020 23:27]  Hobo Jim: In Mani [Heal]
+[05/01/2020 23:27]  System: some damage has been healed : 6
+[05/01/2020 23:27]  System: 120 gold coins have been placed in your pack.
+[05/01/2020 23:27]  System: You grabbed 120 Gold
+[05/01/2020 23:27]  System: Your share of the Gold is 120
+[05/01/2020 23:27]  System: Script <Grab.py> started.
+[05/01/2020 23:27]  System: Script <Grab.py> stopped.
+[05/01/2020 23:27]  Hobo Jim: Bank container has 191 items, 893 stones
+[05/01/2020 23:28]  System: 135° 0'N, 27° 16'W
+[05/01/2020 23:28]  Hobo Jim: Kal Ort Por [Recall]
+[05/01/2020 23:28]  You see:  Broadway [a Guardian of Ter-Mur]
+[05/01/2020 23:28]  You see:  PigletForDinner 
+[05/01/2020 23:28]  You see:  Othello [a Guardian of Ter-Mur]
+[05/01/2020 23:28]  System: WorldMap loaded!
+[05/01/2020 23:28]  You see:  a lava serpent 
+[05/01/2020 23:28]  You see:  a lava serpent 
+[05/01/2020 23:28]  You see: a lava snake corpse
+[05/01/2020 23:28]  You see:  a lava serpent 
+[05/01/2020 23:28]  You see: a lava serpent corpse
+[05/01/2020 23:28]  You see:  a lava elemental 
+[05/01/2020 23:28]  You see:  a fire ant 
+[05/01/2020 23:28]  You see: a fire ant corpse
+[05/01/2020 23:28]  System: 97° 59'N, 29° 2'W
+[05/01/2020 23:28]  Hobo Jim: Kal Ort Por [Recall]
+[05/01/2020 23:28]  You see:  CityBooks the parrot
+[05/01/2020 23:28]  You see:  PigletForDinner 
+[05/01/2020 23:28]  You see:  Akilah the waiter
+[05/01/2020 23:28]  You see:  Dungeons the parrot
+[05/01/2020 23:28]  You see:  TMapsFelANDTram the parrot
+[05/01/2020 23:28]  System: WorldMap loaded!
+[05/01/2020 23:28]  You see:  GOLD SKULLS 
+[05/01/2020 23:28]  You see:  BULK BOARDS 
+[05/01/2020 23:28]  You see:  Vala the innkeeper
+[05/01/2020 23:28]  You see:  Crystals and Frags 
+[05/01/2020 23:28]  You see:  Imbue Mats 
+[05/01/2020 23:28]  You see:  Newbie 
+[05/01/2020 23:28]  You see:  New Stuff 
+[05/01/2020 23:28]  System: You are now under the protection of the town guards.
+[05/01/2020 23:28]  You see:  Amadis the minter
+[05/01/2020 23:28]  You see:  Treva the banker
+[05/01/2020 23:28]  You see:  Laird the minter
+[05/01/2020 23:28]  You see:  Barrett the general goods seller
+[05/01/2020 23:28]  You see:  Ivana the Gold Sink Banker
+[05/01/2020 23:28]  You see:  Narmada the universal repairdeed seller
+[05/01/2020 23:28]  You see:  PigletForDinner 
+[05/01/2020 23:28]  You see:  Nori the jeweler
+[05/01/2020 23:28]  System: WorldMap loaded!
+[05/01/2020 23:29]  System: You have left the protection of the town guards.
+[05/01/2020 23:29]  System: You have been teleported to: Yomotsu Mines (ToT)
+[05/01/2020 23:29]  You see:  PigletForDinner 
+[05/01/2020 23:29]  System: WorldMap loaded!
+[05/01/2020 23:29]  You see:  PigletForDinner 
+[05/01/2020 23:29]  You see:  a yomotsu warrior 
+[05/01/2020 23:29]  System: WorldMap loaded!
+[05/01/2020 23:29]  You see:  an earth elemental 
+[05/01/2020 23:29]  You see: an earth elemental corpse
+[05/01/2020 23:29]  You see:  an earth elemental 
+[05/01/2020 23:29]  You see:  an earth elemental 
+[05/01/2020 23:29]  You see:  an earth elemental 
+[05/01/2020 23:29]  You see: an ore elemental corpse
+[05/01/2020 23:29]  System: Each piece of your equipment gained 7 Tier XP!
+[05/01/2020 23:29]  You see: an earth elemental corpse
+[05/01/2020 23:29]  You see: an earth elemental corpse
+[05/01/2020 23:29]  System: Each piece of your equipment gained 7 Tier XP!
+[05/01/2020 23:29]  System: Script <Grab.py> started.
+[05/01/2020 23:29]  System: 92 gold coins have been placed in your pack.
+[05/01/2020 23:29]  System: You grabbed 3 Items, 92 Gold
+[05/01/2020 23:29]  System: Your share of the Gold is 92
+[05/01/2020 23:29]  System: Script <Grab.py> stopped.
+[05/01/2020 23:32]  You see: an ore elemental corpse
+[05/01/2020 23:34]  You see:  an earth elemental 
+[05/01/2020 23:34]  System: Treasures of Tokuno have charged!
+[05/01/2020 23:35]  You see: an earth elemental corpse
+[05/01/2020 23:37]  You see:  an earth elemental 
+[05/01/2020 23:37]  You see: an earth elemental corpse
+[05/01/2020 23:37]  System: You couldn't find anything to grab
+[05/01/2020 23:37]  System: Script <Grab.py> started.
+[05/01/2020 23:37]  System: Script <Grab.py> stopped.
+[05/01/2020 23:37]  System: You must wait for 3.34 seconds.
+[05/01/2020 23:37]  System: Script <Grab.py> started.
+[05/01/2020 23:37]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: You must wait for 2.77 seconds.
+[05/01/2020 23:38]  System: You must wait for 2.72 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: You must wait for 2.22 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: You must wait for 1.05 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: You must wait for 0.55 seconds.
+[05/01/2020 23:38]  System: You must wait for 0.52 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: You must wait for 0.03 seconds.
+[05/01/2020 23:38]  System: 58 gold coins have been placed in your pack.
+[05/01/2020 23:38]  System: You grabbed 2 Items, 58 Gold
+[05/01/2020 23:38]  System: Your share of the Gold is 58
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: You couldn't find anything to grab
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: You must wait for 4.34 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: You must wait for 3.67 seconds.
+[05/01/2020 23:38]  System: You must wait for 3.64 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: You must wait for 3.03 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: You must wait for 2.44 seconds.
+[05/01/2020 23:38]  System: You must wait for 2.42 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: You couldn't find anything to grab
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: You must wait for 3.97 seconds.
+[05/01/2020 23:38]  System: You must wait for 3.94 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  You see:  an earth elemental 
+[05/01/2020 23:38]  You see:  an earth elemental 
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: You must wait for 0.17 seconds.
+[05/01/2020 23:38]  System: You must wait for 0.12 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  You see:  an earth elemental 
+[05/01/2020 23:38]  System: You couldn't find anything to grab
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: You must wait to perform another action.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: You must wait for 4.36 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: You must wait for 3.78 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: You must wait for 3.27 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: You must wait for 2.84 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: You must wait for 2.75 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: You must wait for 2.36 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: You must wait for 2.19 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: You must wait for 1.87 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: You must wait for 1.73 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: You must wait for 1.42 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: You must wait for 0.95 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: You must wait for 0.88 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: You must wait for 0.5 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: You must wait for 0.16 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: You couldn't find anything to grab
+[05/01/2020 23:38]  System: You must wait for 4.98 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: You must wait for 4.62 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: You must wait for 4.28 seconds.
+[05/01/2020 23:38]  System: You must wait for 4.27 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: You must wait for 3.92 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: You must wait for 3.77 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: You must wait for 3.58 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: You must wait for 3.45 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: You must wait for 3.3 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: You must wait for 3 seconds.
+[05/01/2020 23:38]  System: You must wait for 2.97 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: You must wait for 2.73 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: You couldn't find anything to grab
+[05/01/2020 23:38]  System: You must wait for 4.62 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: You couldn't find anything to grab
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  System: You must wait for 3.91 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  You see:  an earth elemental 
+[05/01/2020 23:38]  You see:  a yomotsu warrior 
+[05/01/2020 23:38]  You see:  an earth elemental 
+[05/01/2020 23:38]  Hobo Jim: * You feel disoriented and nauseous! *
+[05/01/2020 23:38]  You see: a glowing yomotsu corpse
+[05/01/2020 23:38]  You see: an ore elemental corpse
+[05/01/2020 23:38]  You see: an earth elemental corpse
+[05/01/2020 23:38]  System: For your valor in combating the fallen beast, a special reward has been bestowed on you.
+[05/01/2020 23:38]  System: Each piece of your equipment gained 16 Tier XP!
+[05/01/2020 23:38]  You see: a yomotsu corpse
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: 291 gold coins have been placed in your pack.
+[05/01/2020 23:38]  System: You grabbed 3 Items, 291 Gold, 4 Trash Tokens
+[05/01/2020 23:38]  System: Your share of the Gold is 291
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  Hobo Jim: * You feel disoriented and nauseous! *
+[05/01/2020 23:38]  System: You must wait for 2.41 seconds.
+[05/01/2020 23:38]  System: Script <Grab.py> started.
+[05/01/2020 23:38]  System: Script <Grab.py> stopped.
+[05/01/2020 23:38]  You see: an ore elemental corpse
+[05/01/2020 23:38]  Hobo Jim: * You feel disoriented and nauseous! *
+[05/01/2020 23:39]  Hobo Jim: * You feel disoriented and nauseous! *
+[05/01/2020 23:39]  System: The poison seems to have worn off.
+[05/01/2020 23:40]  You see:  an earth elemental 
+[05/01/2020 23:40]  System: Script <Grab.py> started.
+[05/01/2020 23:40]  System: 261 gold coins have been placed in your pack.
+[05/01/2020 23:40]  System: You grabbed 4 Items, 261 Gold, 3 Trash Tokens
+[05/01/2020 23:40]  System: Your share of the Gold is 261
+[05/01/2020 23:40]  System: Script <Grab.py> stopped.
+[05/01/2020 23:41]  You see:  an earth elemental 
+[05/01/2020 23:42]  You see:  an earth elemental 
+[05/01/2020 23:42]  You see:  an earth elemental 
+[05/01/2020 23:43]  You see:  a yomotsu priest 
+[05/01/2020 23:43]  You see:  a yomotsu warrior 
+[05/01/2020 23:43]  You see:  a yomotsu warrior 
+[05/01/2020 23:43]  You see:  an earth elemental 
+[05/01/2020 23:43]  You see:  a yomotsu priest 
+[05/01/2020 23:43]  You see:  an earth elemental 
+[05/01/2020 23:43]  You see: an earth elemental corpse
+[05/01/2020 23:43]  You see: an ore elemental corpse
+[05/01/2020 23:43]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:43]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:43]  You see: a yomotsu corpse
+[05/01/2020 23:43]  System: Setting ability DoubleStrike
+[05/01/2020 23:43]  Hobo Jim: * You feel disoriented and nauseous! *
+[05/01/2020 23:43]  System: You must wait to perform another action.
+[05/01/2020 23:43]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:43]  System: You attack with lightning speed!
+[05/01/2020 23:43]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:43]  System: Each piece of your equipment gained 11 Tier XP!
+[05/01/2020 23:43]  You see: an ore elemental corpse
+[05/01/2020 23:43]  System: Setting ability DoubleStrike
+[05/01/2020 23:43]  You see:  a dull copper elemental 
+[05/01/2020 23:43]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:43]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:43]  System: Setting ability DoubleStrike
+[05/01/2020 23:43]  You see: a glowing yomotsu corpse
+[05/01/2020 23:43]  System: You attack with lightning speed!
+[05/01/2020 23:43]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:43]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:43]  System: Setting ability DoubleStrike
+[05/01/2020 23:43]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:43]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:43]  You see:  an earth elemental 
+[05/01/2020 23:43]  System: Setting ability DoubleStrike
+[05/01/2020 23:43]  You see: a yomotsu corpse
+[05/01/2020 23:43]  Hobo Jim: * You feel disoriented and nauseous! *
+[05/01/2020 23:43]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:43]  You see: a glowing yomotsu corpse
+[05/01/2020 23:43]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:43]  System: Setting ability DoubleStrike
+[05/01/2020 23:43]  You see: an ore elemental corpse
+[05/01/2020 23:43]  System: Script <Grab.py> started.
+[05/01/2020 23:43]  System: 380 gold coins have been placed in your pack.
+[05/01/2020 23:43]  System: You grabbed 7 Items, 380 Gold, 12 Trash Tokens
+[05/01/2020 23:43]  System: Your share of the Gold is 380
+[05/01/2020 23:43]  System: You must wait for 5 seconds.
+[05/01/2020 23:43]  System: Script <Grab.py> stopped.
+[05/01/2020 23:44]  You see: an earth elemental corpse
+[05/01/2020 23:44]  System: Script <Grab.py> started.
+[05/01/2020 23:44]  System: You must wait for 1.41 seconds.
+[05/01/2020 23:44]  System: You must wait for 1.36 seconds.
+[05/01/2020 23:44]  System: Script <Grab.py> stopped.
+[05/01/2020 23:44]  System: Script <Grab.py> started.
+[05/01/2020 23:44]  System: You are overloaded.  Carrying stones / Max stones : 749 / 747
+[05/01/2020 23:44]  System: You are overloaded.  Carrying stones / Max stones : 750 / 747
+[05/01/2020 23:44]  System: 334 gold coins have been placed in your pack.
+[05/01/2020 23:44]  System: You grabbed 2 Items, 334 Gold, 2 Trash Tokens
+[05/01/2020 23:44]  System: Your share of the Gold is 334
+[05/01/2020 23:44]  System: You must wait for 4.94 seconds.
+[05/01/2020 23:44]  System: Script <Grab.py> stopped.
+[05/01/2020 23:44]  System: Each piece of your equipment gained 7 Tier XP!
+[05/01/2020 23:44]  You see: an earth elemental corpse
+[05/01/2020 23:44]  Hobo Jim: * You feel disoriented and nauseous! *
+[05/01/2020 23:44]  Hobo Jim: An Nox [Cure]
+[05/01/2020 23:44]  System: Each piece of your equipment gained 11 Tier XP!
+[05/01/2020 23:44]  You see: an ore elemental corpse
+[05/01/2020 23:44]  System: You have been cured of all poisons!
+[05/01/2020 23:44]  Hobo Jim: In Mani [Heal]
+[05/01/2020 23:44]  System: You are overloaded.  Carrying stones / Max stones : 750 / 747
+[05/01/2020 23:44]  You see:  an earth elemental 
+[05/01/2020 23:44]  You see: an earth elemental corpse
+[05/01/2020 23:44]  You see:  a yomotsu warrior 
+[05/01/2020 23:44]  You see:  a yomotsu priest 
+[05/01/2020 23:44]  You see:  a dull copper elemental 
+[05/01/2020 23:44]  You see:  a yomotsu warrior 
+[05/01/2020 23:44]  You see:  a yomotsu warrior 
+[05/01/2020 23:44]  You see:  an earth elemental 
+[05/01/2020 23:44]  You see:  an earth elemental 
+[05/01/2020 23:44]  You see: a yomotsu corpse
+[05/01/2020 23:44]  You see:  a yomotsu priest 
+[05/01/2020 23:44]  System: Each piece of your equipment gained 16 Tier XP!
+[05/01/2020 23:44]  You see: a yomotsu corpse
+[05/01/2020 23:44]  You see: an ore elemental corpse
+[05/01/2020 23:44]  System: You can't use this bank stone while in combat.
+[05/01/2020 23:44]  System: You can't use this bank stone while in combat.
+[05/01/2020 23:44]  System: You can't use this bank stone while in combat.
+[05/01/2020 23:44]  System: You can't use this bank stone while in combat. [2]
+[05/01/2020 23:44]  System: You are overloaded.  Carrying stones / Max stones : 752 / 747
+[05/01/2020 23:44]  System: You are overloaded.  Carrying stones / Max stones : 753 / 747
+[05/01/2020 23:44]  System: You are overloaded.  Carrying stones / Max stones : 758 / 747
+[05/01/2020 23:44]  System: You are overloaded.  Carrying stones / Max stones : 782 / 747
+[05/01/2020 23:44]  System: 451 gold coins have been placed in your pack.
+[05/01/2020 23:44]  System: You grabbed 4 Items, 451 Gold, 5 Trash Tokens
+[05/01/2020 23:44]  System: Your share of the Gold is 451
+[05/01/2020 23:44]  System: Script <Grab.py> started.
+[05/01/2020 23:44]  System: Script <Grab.py> stopped.
+[05/01/2020 23:44]  System: You can't use this bank stone while in combat.
+[05/01/2020 23:44]  System: You are overloaded.  Carrying stones / Max stones : 782 / 747
+[05/01/2020 23:45]  System: You can't use this bank stone while in combat.
+[05/01/2020 23:45]  You see: a yomotsu corpse
+[05/01/2020 23:45]  You see:  an earth elemental 
+[05/01/2020 23:45]  You see:  a yomotsu warrior 
+[05/01/2020 23:45]  You see:  a yomotsu priest 
+[05/01/2020 23:45]  You see:  an earth elemental 
+[05/01/2020 23:45]  You see:  an earth elemental 
+[05/01/2020 23:45]  Hobo Jim: All Kill
+[05/01/2020 23:45]  Hobo Jim: All Follow Me
+[05/01/2020 23:45]  You see:  a yomotsu warrior 
+[05/01/2020 23:45]  You see:  a yomotsu priest 
+[05/01/2020 23:45]  You see:  an earth elemental 
+[05/01/2020 23:45]  You see:  an earth elemental 
+[05/01/2020 23:45]  You see:  a yomotsu warrior 
+[05/01/2020 23:45]  You see:  a yomotsu warrior 
+[05/01/2020 23:45]  You see:  a yomotsu warrior 
+[05/01/2020 23:45]  You see:  a yomotsu warrior 
+[05/01/2020 23:45]  You see:  a dull copper elemental 
+[05/01/2020 23:45]  You see:  a yomotsu warrior 
+[05/01/2020 23:45]  You see:  a dull copper elemental 
+[05/01/2020 23:45]  You see:  a yomotsu warrior 
+[05/01/2020 23:45]  You see:  a yomotsu warrior 
+[05/01/2020 23:45]  You see:  an earth elemental 
+[05/01/2020 23:45]  You see:  a yomotsu warrior 
+[05/01/2020 23:45]  You see:  a yomotsu warrior 
+[05/01/2020 23:45]  You see:  PigletForDinner 
+[05/01/2020 23:45]  You see:  an earth elemental 
+[05/01/2020 23:45]  You see:  a yomotsu warrior 
+[05/01/2020 23:45]  Hobo Jim: All Kill
+[05/01/2020 23:45]  Hobo Jim: All Guard Me
+[05/01/2020 23:45]  System: PigletForDinner is now guarding you.
+[05/01/2020 23:45]  You see: an earth elemental corpse
+[05/01/2020 23:45]  Hobo Jim: All Follow Me
+[05/01/2020 23:45]  You see:  a yomotsu priest 
+[05/01/2020 23:45]  You see:  a yomotsu warrior 
+[05/01/2020 23:45]  You see:  a yomotsu warrior 
+[05/01/2020 23:45]  You see:  an earth elemental 
+[05/01/2020 23:45]  System: You feel yourself resisting magical energy.
+[05/01/2020 23:45]  You see:  an earth elemental 
+[05/01/2020 23:46]  You see:  a yomotsu warrior 
+[05/01/2020 23:46]  You see:  an earth elemental 
+[05/01/2020 23:46]  You see:  a yomotsu warrior 
+[05/01/2020 23:46]  You see:  a yomotsu warrior 
+[05/01/2020 23:46]  You see:  an earth elemental 
+[05/01/2020 23:46]  You see:  a dull copper elemental 
+[05/01/2020 23:46]  You see:  a dull copper elemental 
+[05/01/2020 23:46]  You see:  a yomotsu warrior 
+[05/01/2020 23:46]  You see:  a dull copper elemental 
+[05/01/2020 23:46]  You see:  a dull copper elemental 
+[05/01/2020 23:46]  You see:  a yomotsu warrior 
+[05/01/2020 23:46]  You see:  a dull copper elemental 
+[05/01/2020 23:46]  You see:  a yomotsu priest (Infested)
+[05/01/2020 23:46]  You see:  a yomotsu warrior (Infested)
+[05/01/2020 23:46]  You see:  an earth elemental 
+[05/01/2020 23:46]  You see:  a dull copper elemental 
+[05/01/2020 23:46]  You see:  a yomotsu warrior 
+[05/01/2020 23:46]  You see:  an earth elemental 
+[05/01/2020 23:46]  You see:  a dull copper elemental 
+[05/01/2020 23:46]  You see:  a yomotsu warrior 
+[05/01/2020 23:46]  You see:  a yomotsu warrior 
+[05/01/2020 23:46]  Hobo Jim: All Guard Me
+[05/01/2020 23:46]  System: PigletForDinner is now guarding you.
+[05/01/2020 23:46]  You see: a yomotsu corpse
+[05/01/2020 23:46]  System: You couldn't find anything to grab
+[05/01/2020 23:46]  System: Script <Grab.py> started.
+[05/01/2020 23:46]  System: Script <Grab.py> stopped.
+[05/01/2020 23:46]  You see: an ore elemental corpse
+[05/01/2020 23:46]  You see: an earth elemental corpse
+[05/01/2020 23:46]  You see:  a yomotsu warrior 
+[05/01/2020 23:46]  You see:  a yomotsu warrior (Infested)
+[05/01/2020 23:47]  Hobo Jim: All Follow Me
+[05/01/2020 23:47]  You see:  an earth elemental (Infested)
+[05/01/2020 23:47]  You see:  an earth elemental (Infested)
+[05/01/2020 23:47]  You see:  a dull copper elemental (Infested)
+[05/01/2020 23:47]  You see:  a yomotsu warrior 
+[05/01/2020 23:47]  You see:  an earth elemental (Infested)
+[05/01/2020 23:47]  System: Your attacker strikes with lightning speed! 
+[05/01/2020 23:47]  You see:  an earth elemental (Infested)
+[05/01/2020 23:47]  You see:  an earth elemental (Infested)
+[05/01/2020 23:47]  You see:  an earth elemental (Infested)
+[05/01/2020 23:47]  You see:  a yomotsu warrior 
+[05/01/2020 23:47]  You see:  a yomotsu warrior 
+[05/01/2020 23:47]  Hobo Jim: All Guard Me
+[05/01/2020 23:47]  System: PigletForDinner is now guarding you.
+[05/01/2020 23:47]  You see:  a dull copper elemental 
+[05/01/2020 23:47]  You see:  a dull copper elemental 
+[05/01/2020 23:47]  You see: an earth elemental corpse
+[05/01/2020 23:47]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:47]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:47]  System: You must wait to perform another action.
+[05/01/2020 23:47]  Hobo Jim: Forul Solum [Enemy of One]
+[05/01/2020 23:47]  System: Setting ability DoubleStrike
+[05/01/2020 23:47]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:47]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:47]  System: Setting ability DoubleStrike
+[05/01/2020 23:47]  System: Setting ability DoubleStrike
+[05/01/2020 23:47]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:47]  System: Setting ability DoubleStrike
+[05/01/2020 23:47]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:47]  You see: a yomotsu corpse
+[05/01/2020 23:47]  System: Setting ability DoubleStrike
+[05/01/2020 23:47]  System: Setting ability DoubleStrike
+[05/01/2020 23:47]  System: Each piece of your equipment gained 17 Tier XP!
+[05/01/2020 23:47]  You see: a yomotsu corpse
+[05/01/2020 23:47]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:47]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:47]  System: Setting ability DoubleStrike
+[05/01/2020 23:47]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:47]  System: You attack with lightning speed!
+[05/01/2020 23:47]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:47]  You see: a yomotsu corpse
+[05/01/2020 23:47]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:47]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:47]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:47]  You see: an earth elemental corpse
+[05/01/2020 23:47]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:47]  System: Setting ability DoubleStrike
+[05/01/2020 23:47]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:47]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:47]  System: Setting ability WhirlwindAttack
+[05/01/2020 23:47]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/01/2020 23:47]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/01/2020 23:47]  System: Script <Grab.py> started.
+[05/01/2020 23:47]  System: 707 gold coins have been placed in your pack.
+[05/01/2020 23:47]  System: You grabbed 8 Items, 707 Gold, 7 Trash Tokens
+[05/01/2020 23:47]  System: Your share of the Gold is 707
+[05/01/2020 23:47]  System: Script <Grab.py> stopped.
+[05/01/2020 23:47]  You see:  a yomotsu priest (Infested)
+[05/01/2020 23:47]  You see:  a yomotsu warrior (Infested)
+[05/01/2020 23:47]  You see:  a dull copper elemental (Infested)
+[05/01/2020 23:47]  System: You must wait for 2.48 seconds.
+[05/01/2020 23:47]  System: Script <Grab.py> started.
+[05/01/2020 23:47]  You see:  a yomotsu priest (Infested)
+[05/01/2020 23:47]  System: Script <Grab.py> stopped.
+[05/01/2020 23:47]  System: You must wait for 1.31 seconds.
+[05/01/2020 23:47]  System: Script <Grab.py> started.
+[05/01/2020 23:47]  System: Script <Grab.py> stopped.
+[05/01/2020 23:47]  You see:  a dull copper elemental (Infested)
+[05/01/2020 23:47]  You see:  an earth elemental (Infested)
+[05/01/2020 23:48]  Hobo Jim: All Guard Me
+[05/01/2020 23:48]  System: PigletForDinner is now guarding you.
+[05/01/2020 23:48]  System: For your valor in combating the fallen beast, a special reward has been bestowed on you.
+[05/01/2020 23:48]  You see: an ore elemental corpse
+[05/01/2020 23:48]  You see:  a dull copper elemental 
+[05/01/2020 23:48]  You see: an earth elemental corpse
+[05/01/2020 23:48]  You see:  a dull copper elemental 
+[05/01/2020 23:48]  You see:  a dull copper elemental 
+[05/01/2020 23:48]  You see: an earth elemental corpse
+[05/01/2020 23:48]  System: You cannot move!
+[05/01/2020 23:48]  You see:  a dull copper elemental 
+[05/01/2020 23:48]  System: You can move!
+[05/01/2020 23:48]  You see: an ore elemental corpse
+[05/01/2020 23:48]  You see: an earth elemental corpse
+[05/01/2020 23:48]  System: 94 gold coins have been placed in your pack.
+[05/01/2020 23:48]  System: You grabbed 3 Items, 94 Gold
+[05/01/2020 23:48]  System: Your share of the Gold is 94
+[05/01/2020 23:48]  System: Script <Grab.py> started.
+[05/01/2020 23:48]  System: Script <Grab.py> stopped.
+[05/01/2020 23:48]  System: Script <Grab.py> started.
+[05/01/2020 23:48]  System: You must wait for 4.73 seconds.
+[05/01/2020 23:48]  System: Script <Grab.py> stopped.
+[05/01/2020 23:48]  You see:  a dull copper elemental 
+[05/01/2020 23:48]  You see:  a dull copper elemental 
+[05/01/2020 23:48]  You see: a yomotsu corpse
+[05/01/2020 23:48]  You see: an earth elemental corpse
+[05/01/2020 23:48]  System: [4:48 AM]: The world is saving, please wait.
+[05/01/2020 23:48]  System: You have lost some Valor.
+[05/01/2020 23:48]  System: [4:48 AM]: World save complete. The entire process took 8.0 seconds.
+[05/01/2020 23:48]  System: [4:48 AM]: The world is optimizing, please wait.
+[05/01/2020 23:48]  System: [4:48 AM]: World optimization complete.  The entire process took 0.9 seconds.
+[05/01/2020 23:48]  You see:  a dull copper elemental 
+[05/01/2020 23:48]  You see: an ore elemental corpse
+[05/01/2020 23:48]  System: Each piece of your equipment gained 22 Tier XP!
+[05/01/2020 23:48]  You see: a yomotsu corpse
+[05/01/2020 23:48]  System: You have gained a good amount of karma.
+[05/01/2020 23:48]  You see: a glowing yomotsu corpse
+[05/01/2020 23:49]  System: You have gained a good amount of karma.
+[05/01/2020 23:49]  You see: a glowing yomotsu corpse
+[05/01/2020 23:49]  System: Script <Grab.py> started.
+[05/01/2020 23:49]  System: You are overloaded.  Carrying stones / Max stones : 767 / 747
+[05/01/2020 23:49]  System: You are overloaded.  Carrying stones / Max stones : 768 / 747
+[05/01/2020 23:49]  System: You are overloaded.  Carrying stones / Max stones : 769 / 747
+[05/01/2020 23:49]  System: 821 gold coins have been placed in your pack.
+[05/01/2020 23:49]  System: You grabbed 11 Items, 821 Gold, 14 Trash Tokens
+[05/01/2020 23:49]  System: Your share of the Gold is 821
+[05/01/2020 23:49]  System: You must wait for 4.97 seconds.
+[05/01/2020 23:49]  You see:  an earth elemental 
+[05/01/2020 23:49]  System: Script <Grab.py> stopped.
+[05/01/2020 23:49]  Hobo Jim: You have hidden yourself well.
+[05/01/2020 23:49]  You see:  an earth elemental (Infested)
+[05/01/2020 23:49]  System: You are overloaded.  Carrying stones / Max stones : 769 / 747
+[05/01/2020 23:49]  You see:  a dull copper elemental 
+[05/01/2020 23:49]  System: Each piece of your equipment gained 10 Tier XP!
+[05/01/2020 23:49]  You see: an earth elemental corpse
+[05/01/2020 23:49]  System: You have gained a good amount of karma.
+[05/01/2020 23:49]  You see: a glowing yomotsu corpse
+[05/01/2020 23:50]  You see: an ore elemental corpse
+[05/01/2020 23:50]  You see:  an earth elemental 
+[05/01/2020 23:50]  You see:  a dull copper elemental 
+[05/01/2020 23:50]  You see: an earth elemental corpse
+[05/01/2020 23:50]  System: Each piece of your equipment gained 11 Tier XP!
+[05/01/2020 23:50]  You see: an ore elemental corpse
+[05/01/2020 23:51]  You see:  a dull copper elemental 
+[05/01/2020 23:51]  Hobo Jim: You have hidden yourself well.
+[05/01/2020 23:51]  System: You have gained a good amount of karma.
+[05/01/2020 23:51]  You see: a glowing yomotsu corpse
+[05/01/2020 23:52]  You see:  an earth elemental 
+[05/01/2020 23:52]  You see: a yomotsu corpse
+[05/01/2020 23:52]  You see: an earth elemental corpse
+[05/01/2020 23:52]  You see:  a dull copper elemental 
+[05/01/2020 23:54]  You see:  an earth elemental 
+[05/01/2020 23:54]  System: You couldn't find anything to grab
+[05/01/2020 23:54]  System: Script <Grab.py> started.
+[05/01/2020 23:54]  System: Script <Grab.py> stopped.
+[05/01/2020 23:54]  System: You must wait for 1.92 seconds.
+[05/01/2020 23:54]  System: Script <Grab.py> started.
+[05/01/2020 23:54]  System: You must wait for 1.78 seconds.
+[05/01/2020 23:54]  System: Script <Grab.py> stopped.
+[05/01/2020 23:54]  You see: an earth elemental corpse
+[05/01/2020 23:54]  System: You couldn't find anything to grab
+[05/01/2020 23:54]  System: Script <Grab.py> started.
+[05/01/2020 23:54]  System: Script <Grab.py> stopped.
+[05/01/2020 23:54]  System: Script <Grab.py> started.
+[05/01/2020 23:54]  System: You must wait for 3.11 seconds.
+[05/01/2020 23:54]  System: You must wait for 3.09 seconds.
+[05/01/2020 23:54]  System: Script <Grab.py> stopped.
+[05/01/2020 23:54]  You see:  a dull copper elemental 
+[05/01/2020 23:54]  You see:  an earth elemental 
+[05/01/2020 23:54]  You see:  a yomotsu warrior (Infested)
+[05/01/2020 23:54]  System: Script <Grab.py> started.
+[05/01/2020 23:54]  System: You couldn't find anything to grab
+[05/01/2020 23:54]  System: Script <Grab.py> stopped.
+[05/01/2020 23:54]  You see:  an earth elemental 
+[05/01/2020 23:55]  You see:  a dull copper elemental 
+[05/01/2020 23:55]  You see:  a yomotsu warrior (Infested)
+[05/01/2020 23:55]  System: Script <Grab.py> started.
+[05/01/2020 23:55]  System: AUTOLOOT: Max weight reached, Wait untill free some space
+[05/01/2020 23:55]  System: You are overloaded.  Carrying stones / Max stones : 773 / 747
+[05/01/2020 23:55]  System: You are overloaded.  Carrying stones / Max stones : 783 / 747
+[05/01/2020 23:55]  System: 64 gold coins have been placed in your pack.
+[05/01/2020 23:55]  System: You grabbed 2 Items, 64 Gold
+[05/01/2020 23:55]  System: Your share of the Gold is 64
+[05/01/2020 23:55]  System: Script <Grab.py> stopped.
+[05/01/2020 23:55]  System: Script <Grab.py> started.
+[05/01/2020 23:55]  System: You must wait for 4.22 seconds.
+[05/01/2020 23:55]  System: Script <Grab.py> stopped.
+[05/01/2020 23:55]  System: Script <Grab.py> started.
+[05/01/2020 23:55]  System: You have gained a good amount of karma.
+[05/01/2020 23:55]  System: You must wait for 3.91 seconds.
+[05/01/2020 23:55]  You see: a glowing yomotsu corpse
+[05/01/2020 23:55]  System: Script <Grab.py> stopped.
+[05/01/2020 23:55]  System: AUTOLOOT: Max weight reached, Wait untill free some space
+[05/01/2020 23:55]  System: Script <Grab.py> started.
+[05/01/2020 23:55]  System: You must wait for 1.7 seconds.
+[05/01/2020 23:55]  System: You must wait for 1.67 seconds.
+[05/01/2020 23:55]  System: You must wait for 1.56 seconds.
+[05/01/2020 23:55]  System: Script <Grab.py> stopped.
+[05/01/2020 23:55]  System: Script <Grab.py> started.
+[05/01/2020 23:55]  System: You must wait for 0.7 seconds.
+[05/01/2020 23:55]  System: Script <Grab.py> stopped.
+[05/01/2020 23:55]  System: AUTOLOOT: Max weight reached, Wait untill free some space
+[05/01/2020 23:55]  System: AUTOLOOT: Max weight reached, Wait untill free some space
+[05/01/2020 23:55]  System: You are overloaded.  Carrying stones / Max stones : 783 / 747
+[05/01/2020 23:55]  a yomotsu warrior: *rummages through a corpse and takes an item*
+[05/01/2020 23:55]  System: AUTOLOOT: Max weight reached, Wait untill free some space
+[05/01/2020 23:55]  System: Each piece of your equipment gained 21 Tier XP!
+[05/01/2020 23:55]  You see: a yomotsu corpse
+[05/01/2020 23:55]  System: AUTOLOOT: Max weight reached, Wait untill free some space
+[05/01/2020 23:55]  System: Script <Grab.py> started.
+[05/01/2020 23:55]  System: You couldn't find anything to grab
+[05/01/2020 23:55]  System: You must wait for 4.98 seconds.
+[05/01/2020 23:55]  System: Script <Grab.py> stopped.
+[05/01/2020 23:55]  System: Script <Grab.py> started.
+[05/01/2020 23:55]  System: You must wait for 3.05 seconds.
+[05/01/2020 23:55]  System: You must wait for 3 seconds.
+[05/01/2020 23:55]  System: Script <Grab.py> stopped.
+[05/01/2020 23:55]  Hobo Jim: You have hidden yourself well.
+[05/01/2020 23:55]  You see:  a yomotsu warrior 
+[05/01/2020 23:56]  You see:  a dull copper elemental 
+[05/01/2020 23:56]  You see:  a yomotsu warrior 
+[05/01/2020 23:56]  System: Whatever was inside it, died. It is now useless. *You threw it away!*
+[05/01/2020 23:56]  a yomotsu warrior: *rummages through a corpse and takes an item*
+[05/01/2020 23:56]  System: Whatever was inside it, died. It is now useless. *You threw it away!*
+[05/01/2020 23:57]  You see:  an earth elemental 
+[05/01/2020 23:57]  You see:  an earth elemental 
+[05/01/2020 23:57]  You see:  an earth elemental 
+[05/01/2020 23:58]  You see:  a dull copper elemental 
+[05/01/2020 23:59]  You see:  a yomotsu warrior 
+[05/01/2020 23:59]  You see:  an earth elemental 
+[05/02/2020 00:00]  You see:  an earth elemental 
+[05/02/2020 00:01]  You see:  a dull copper elemental 
+[05/02/2020 00:01]  You see:  a yomotsu warrior 
+[05/02/2020 00:01]  You see:  a yomotsu priest 
+[05/02/2020 00:01]  You see:  a dull copper elemental 
+[05/02/2020 00:01]  You see:  an earth elemental (Infested)
+[05/02/2020 00:02]  You see: an earth elemental corpse
+[05/02/2020 00:02]  System: Each piece of your equipment gained 10 Tier XP!
+[05/02/2020 00:02]  You see: an earth elemental corpse
+[05/02/2020 00:02]  System: You are frozen as the creature laughs maniacally.
+[05/02/2020 00:02]  System: You cannot move!
+[05/02/2020 00:02]  System: You can move!
+[05/02/2020 00:02]  You see: a yomotsu corpse
+[05/02/2020 00:02]  You see: a yomotsu corpse
+[05/02/2020 00:02]  You see: a glowing yomotsu corpse
+[05/02/2020 00:02]  You see:  an earth elemental 
+[05/02/2020 00:02]  You see: an earth elemental corpse
+[05/02/2020 00:04]  You see:  a yomotsu warrior 
+[05/02/2020 00:04]  You see:  a dull copper elemental 
+[05/02/2020 00:04]  a yomotsu warrior: * a yomotsu warrior looks extremely ill. *
+[05/02/2020 00:04]  a yomotsu warrior: * a yomotsu warrior looks extremely ill. *
+[05/02/2020 00:04]  System: * a yomotsu warrior looks extremely ill. *
+[05/02/2020 00:04]  System: * a yomotsu warrior looks extremely ill. *
+[05/02/2020 00:05]  You see:  a dull copper elemental 
+[05/02/2020 00:05]  You see:  an earth elemental 
+[05/02/2020 00:05]  You see: a yomotsu corpse
+[05/02/2020 00:05]  You see:  an earth elemental 
+[05/02/2020 00:05]  You see: an earth elemental corpse
+[05/02/2020 00:06]  You see:  a dull copper elemental 
+[05/02/2020 00:07]  You see:  a dull copper elemental 
+[05/02/2020 00:07]  You see:  an earth elemental 
+[05/02/2020 00:08]  You see: an earth elemental corpse
+[05/02/2020 00:08]  You see:  a yomotsu warrior 
+[05/02/2020 00:08]  You see:  a yomotsu warrior (Infested)
+[05/02/2020 00:08]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/02/2020 00:08]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/02/2020 00:08]  Hobo Jim: * You feel disoriented and nauseous! *
+[05/02/2020 00:08]  Hobo Jim: Forul Solum [Enemy of One]
+[05/02/2020 00:08]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/02/2020 00:08]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/02/2020 00:08]  System: Setting ability WhirlwindAttack
+[05/02/2020 00:08]  System: The whirling attack strikes multiple targets!
+[05/02/2020 00:08]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/02/2020 00:08]  You see: an ore elemental corpse
+[05/02/2020 00:08]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/02/2020 00:08]  System: Setting ability WhirlwindAttack
+[05/02/2020 00:08]  System: You are frozen as the creature laughs maniacally.
+[05/02/2020 00:08]  System: You cannot move!
+[05/02/2020 00:08]  System: You have gained a good amount of karma.
+[05/02/2020 00:08]  You see: a glowing yomotsu corpse
+[05/02/2020 00:08]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/02/2020 00:08]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/02/2020 00:08]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/02/2020 00:08]  System: Setting ability WhirlwindAttack
+[05/02/2020 00:08]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/02/2020 00:08]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/02/2020 00:08]  Hobo Jim: * You feel disoriented and nauseous! *
+[05/02/2020 00:08]  System: You can move!
+[05/02/2020 00:08]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/02/2020 00:08]  System: Setting ability WhirlwindAttack
+[05/02/2020 00:08]  System: Each piece of your equipment gained 21 Tier XP!
+[05/02/2020 00:08]  You see: a yomotsu corpse
+[05/02/2020 00:08]  System: The whirling attack strikes multiple targets!
+[05/02/2020 00:08]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/02/2020 00:08]  You see: an earth elemental corpse
+[05/02/2020 00:08]  System: Setting ability WhirlwindAttack
+[05/02/2020 00:08]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/02/2020 00:08]  System: You are overloaded.  Carrying stones / Max stones : 778 / 747
+[05/02/2020 00:08]  System: For your valor in combating the fallen beast, a special reward has been bestowed on you.
+[05/02/2020 00:08]  You see: a yomotsu corpse
+[05/02/2020 00:08]  Hobo Jim: An Nox [Cure]
+[05/02/2020 00:08]  System: You have been cured of all poisons!
+[05/02/2020 00:08]  System: Script <Grab.py> started.
+[05/02/2020 00:08]  System: You are overloaded.  Carrying stones / Max stones : 802 / 747
+[05/02/2020 00:08]  System: You are overloaded.  Carrying stones / Max stones : 803 / 747
+[05/02/2020 00:08]  System: You are overloaded.  Carrying stones / Max stones : 807 / 747
+[05/02/2020 00:08]  System: You are overloaded.  Carrying stones / Max stones : 809 / 747
+[05/02/2020 00:08]  System: You are overloaded.  Carrying stones / Max stones : 812 / 747
+[05/02/2020 00:08]  System: You are overloaded.  Carrying stones / Max stones : 822 / 747
+[05/02/2020 00:08]  System: You are overloaded.  Carrying stones / Max stones : 824 / 747
+[05/02/2020 00:08]  System: You are overloaded.  Carrying stones / Max stones : 830 / 747
+[05/02/2020 00:08]  System: 735 gold coins have been placed in your pack.
+[05/02/2020 00:08]  System: You grabbed 8 Items, 735 Gold, 6 Trash Tokens
+[05/02/2020 00:08]  System: Your share of the Gold is 735
+[05/02/2020 00:08]  System: You must wait for 4.97 seconds.
+[05/02/2020 00:08]  System: Script <Grab.py> stopped.
+[05/02/2020 00:09]  You see:  a yomotsu elder 
+[05/02/2020 00:09]  You see:  a yomotsu priest (Infested)
+[05/02/2020 00:09]  You see:  a dull copper elemental (Infested)
+[05/02/2020 00:09]  You see:  an earth elemental (Infested)
+[05/02/2020 00:09]  You see:  a yomotsu priest (Infested)
+[05/02/2020 00:09]  You see:  a dull copper elemental (Infested)
+[05/02/2020 00:09]  You see:  a dull copper elemental (Infested)
+[05/02/2020 00:09]  You see:  a yomotsu elder 
+[05/02/2020 00:09]  You see:  a fire beetle 
+[05/02/2020 00:09]  System: You are overloaded.  Carrying stones / Max stones : 830 / 747
+[05/02/2020 00:09]  You see:  a yomotsu elder (Infested)
+[05/02/2020 00:09]  You see:  an earth elemental (Infested)
+[05/02/2020 00:09]  System: You feel yourself resisting magical energy.
+[05/02/2020 00:09]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/02/2020 00:09]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/02/2020 00:09]  System: Setting ability WhirlwindAttack
+[05/02/2020 00:09]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/02/2020 00:09]  System: Each piece of your equipment gained 21 Tier XP!
+[05/02/2020 00:09]  You see: a yomotsu corpse
+[05/02/2020 00:09]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/02/2020 00:09]  System: Setting ability WhirlwindAttack
+[05/02/2020 00:09]  System: AUTOLOOT: Max weight reached, Wait untill free some space
+[05/02/2020 00:09]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/02/2020 00:09]  System: The whirling attack strikes multiple targets!
+[05/02/2020 00:09]  You see: an ore elemental corpse
+[05/02/2020 00:09]  System: Setting ability WhirlwindAttack
+[05/02/2020 00:09]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/02/2020 00:09]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/02/2020 00:09]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/02/2020 00:09]  System: AUTOLOOT: Max weight reached, Wait untill free some space
+[05/02/2020 00:09]  You see: an ore elemental corpse
+[05/02/2020 00:09]  You see:  an earth elemental (Infested)
+[05/02/2020 00:09]  System: The whirling attack strikes multiple targets!
+[05/02/2020 00:09]  System: You have gained a good amount of karma.
+[05/02/2020 00:09]  You see: a glowing yomotsu corpse
+[05/02/2020 00:09]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/02/2020 00:09]  System: Setting ability WhirlwindAttack
+[05/02/2020 00:09]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/02/2020 00:09]  System: You have gained a good amount of fame.
+[05/02/2020 00:09]  System: You have gained a lot of karma.
+[05/02/2020 00:09]  System: Each piece of your equipment gained 30 Tier XP!
+[05/02/2020 00:09]  You see: a wrinkly yomotsu corpse
+[05/02/2020 00:09]  System: AUTOLOOT: Max weight reached, Wait untill free some space
+[05/02/2020 00:09]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/02/2020 00:09]  You see: an ore elemental corpse
+[05/02/2020 00:09]  You see: an earth elemental corpse
+[05/02/2020 00:09]  You see: a glowing yomotsu corpse
+[05/02/2020 00:09]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/02/2020 00:09]  System: Setting ability WhirlwindAttack
+[05/02/2020 00:09]  System: The whirling attack strikes multiple targets!
+[05/02/2020 00:09]  System: You have gained a good amount of karma.
+[05/02/2020 00:09]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/02/2020 00:09]  System: Each piece of your equipment gained 38 Tier XP!
+[05/02/2020 00:09]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/02/2020 00:09]  You see: a glowing yomotsu corpse
+[05/02/2020 00:09]  System: Setting ability WhirlwindAttack
+[05/02/2020 00:09]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/02/2020 00:09]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/02/2020 00:09]  System: Setting ability WhirlwindAttack
+[05/02/2020 00:09]  System: You have gained a good amount of karma.
+[05/02/2020 00:09]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/02/2020 00:09]  You see:  a yomotsu priest (Infested)
+[05/02/2020 00:09]  System: Setting ability WhirlwindAttack
+[05/02/2020 00:09]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/02/2020 00:09]  System: The whirling attack strikes a target!
+[05/02/2020 00:09]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/02/2020 00:09]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/02/2020 00:09]  System: Setting ability WhirlwindAttack
+[05/02/2020 00:09]  You see: a yomotsu corpse
+[05/02/2020 00:09]  System: Setting ability WhirlwindAttack
+[05/02/2020 00:09]  System: You are overloaded.  Carrying stones / Max stones : 833 / 747
+[05/02/2020 00:09]  System: You are overloaded.  Carrying stones / Max stones : 843 / 747
+[05/02/2020 00:09]  System: You are overloaded.  Carrying stones / Max stones : 844 / 747
+[05/02/2020 00:09]  System: You are overloaded.  Carrying stones / Max stones : 845 / 747
+[05/02/2020 00:09]  System: You are overloaded.  Carrying stones / Max stones : 869 / 747
+[05/02/2020 00:09]  System: You are overloaded.  Carrying stones / Max stones : 893 / 747
+[05/02/2020 00:09]  System: You are overloaded.  Carrying stones / Max stones : 894 / 747
+[05/02/2020 00:09]  System: Script <Grab.py> started.
+[05/02/2020 00:09]  System: You are overloaded.  Carrying stones / Max stones : 899 / 747
+[05/02/2020 00:09]  System: You are overloaded.  Carrying stones / Max stones : 900 / 747
+[05/02/2020 00:09]  System: You are overloaded.  Carrying stones / Max stones : 905 / 747
+[05/02/2020 00:09]  System: You are overloaded.  Carrying stones / Max stones : 929 / 747
+[05/02/2020 00:09]  System: You are overloaded.  Carrying stones / Max stones : 930 / 747
+[05/02/2020 00:09]  System: You are overloaded.  Carrying stones / Max stones : 931 / 747
+[05/02/2020 00:09]  System: 1,609 gold coins have been placed in your pack.
+[05/02/2020 00:09]  System: You grabbed 13 Items, 1,609 Gold, 29 Trash Tokens
+[05/02/2020 00:09]  System: Your share of the Gold is 1,609
+[05/02/2020 00:09]  System: Script <Grab.py> stopped.
+[05/02/2020 00:09]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/02/2020 00:09]  System: Setting ability WhirlwindAttack
+[05/02/2020 00:09]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/02/2020 00:09]  System: Setting ability WhirlwindAttack
+[05/02/2020 00:09]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/02/2020 00:09]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/02/2020 00:09]  System: You are overloaded.  Carrying stones / Max stones : 931 / 747
+[05/02/2020 00:09]  System: The whirling attack strikes a target!
+[05/02/2020 00:09]  System: Setting ability WhirlwindAttack
+[05/02/2020 00:09]  System: Setting ability DoubleStrike
+[05/02/2020 00:09]  System: You attack with lightning speed!
+[05/02/2020 00:09]  System: Setting ability DoubleStrike
+[05/02/2020 00:09]  System: You attack with lightning speed!
+[05/02/2020 00:09]  System: Setting ability DoubleStrike
+[05/02/2020 00:09]  System: You are overloaded.  Carrying stones / Max stones : 932 / 747
+[05/02/2020 00:09]  System: 201 gold coins have been placed in your pack.
+[05/02/2020 00:09]  System: You grabbed 1 Items, 201 Gold, 3 Trash Tokens
+[05/02/2020 00:09]  System: Your share of the Gold is 201
+[05/02/2020 00:09]  System: Script <Grab.py> started.
+[05/02/2020 00:09]  System: Script <Grab.py> stopped.
+[05/02/2020 00:09]  System: You attack with lightning speed!
+[05/02/2020 00:09]  System: You have gained some karma.
+[05/02/2020 00:09]  You see: a wrinkly yomotsu corpse
+[05/02/2020 00:09]  System: You are overloaded.  Carrying stones / Max stones : 932 / 747
+[05/02/2020 00:10]  System: You place the PigletForDinner Idol into your pack.
+[05/02/2020 00:10]  System: Opening door...
+[05/02/2020 00:10]  You see: barred metal door
+[05/02/2020 00:10]  You see: a fire beetle corpse
+[05/02/2020 00:11]  System: Opening door...
+[05/02/2020 00:11]  You see:  a yomotsu priest 
+[05/02/2020 00:11]  Hobo Jim: An Lor Xen [Invisibility]
+[05/02/2020 00:11]  You see:  a yomotsu priest (Infested)
+[05/02/2020 00:11]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/02/2020 00:11]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/02/2020 00:11]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/02/2020 00:11]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/02/2020 00:11]  System: Setting ability DoubleStrike
+[05/02/2020 00:11]  System: You attack with lightning speed!
+[05/02/2020 00:11]  You see: a glowing yomotsu corpse
+[05/02/2020 00:12]  System: 97° 59'N, 29° 2'W
+[05/02/2020 00:12]  Hobo Jim: Kal Ort Por [Recall]
+[05/02/2020 00:12]  You see:  CityBooks the parrot
+[05/02/2020 00:12]  You see:  Akilah the waiter
+[05/02/2020 00:12]  You see:  Dungeons the parrot
+[05/02/2020 00:12]  You see:  TMapsFelANDTram the parrot

@@ -1,0 +1,219 @@
+[
+  {
+    "Layer": 3,
+    "Name": "fur boots (2307)",
+    "Serial": 1091256728,
+    "Selected": true,
+    "List": "bow"
+  },
+  {
+    "Layer": 4,
+    "Name": "Lt_Armor_Pants (2FC9)",
+    "Serial": 1147550325,
+    "Selected": true,
+    "List": "bow"
+  },
+  {
+    "Layer": 6,
+    "Name": "bone helmet (1451)",
+    "Serial": 1133029247,
+    "Selected": true,
+    "List": "bow"
+  },
+  {
+    "Layer": 7,
+    "Name": "Leather Gloves (13C6)",
+    "Serial": 1085269037,
+    "Selected": true,
+    "List": "bow"
+  },
+  {
+    "Layer": 8,
+    "Name": "ring (108A)",
+    "Serial": 1108205154,
+    "Selected": true,
+    "List": "bow"
+  },
+  {
+    "Layer": 10,
+    "Name": " (3BB5)",
+    "Serial": 1111505807,
+    "Selected": true,
+    "List": "bow"
+  },
+  {
+    "Layer": 12,
+    "Name": "half apron (153B)",
+    "Serial": 1106147249,
+    "Selected": true,
+    "List": "bow"
+  },
+  {
+    "Layer": 13,
+    "Name": "platemail (1415)",
+    "Serial": 1079655201,
+    "Selected": true,
+    "List": "bow"
+  },
+  {
+    "Layer": 14,
+    "Name": "bracelet (1086)",
+    "Serial": 1107984215,
+    "Selected": true,
+    "List": "bow"
+  },
+  {
+    "Layer": 17,
+    "Name": "body sash (1541)",
+    "Serial": 1093463400,
+    "Selected": true,
+    "List": "bow"
+  },
+  {
+    "Layer": 18,
+    "Name": "earrings (1087)",
+    "Serial": 1101437690,
+    "Selected": true,
+    "List": "bow"
+  },
+  {
+    "Layer": 19,
+    "Name": "Samurai Armor Arms (277E)",
+    "Serial": 1085835714,
+    "Selected": true,
+    "List": "bow"
+  },
+  {
+    "Layer": 20,
+    "Name": "elven quiver (2FB7)",
+    "Serial": 1120687620,
+    "Selected": true,
+    "List": "bow"
+  },
+  {
+    "Layer": 22,
+    "Name": "hooded shroud (2684)",
+    "Serial": 1076115653,
+    "Selected": true,
+    "List": "bow"
+  },
+  {
+    "Layer": 9,
+    "Name": "Talisman (2F5B)",
+    "Serial": 1155392307,
+    "Selected": true,
+    "List": "bow"
+  },
+  {
+    "Layer": 2,
+    "Name": "paladin sword (26CE)",
+    "Serial": 1102488266,
+    "Selected": true,
+    "List": "sword"
+  },
+  {
+    "Layer": 3,
+    "Name": "fur boots (2307)",
+    "Serial": 1091256728,
+    "Selected": true,
+    "List": "sword"
+  },
+  {
+    "Layer": 4,
+    "Name": "Lt_Armor_Pants (2FC9)",
+    "Serial": 1147550325,
+    "Selected": true,
+    "List": "sword"
+  },
+  {
+    "Layer": 6,
+    "Name": "bone helmet (1451)",
+    "Serial": 1133029247,
+    "Selected": true,
+    "List": "sword"
+  },
+  {
+    "Layer": 7,
+    "Name": "Leather Gloves (13C6)",
+    "Serial": 1085269037,
+    "Selected": true,
+    "List": "sword"
+  },
+  {
+    "Layer": 8,
+    "Name": "ring (108A)",
+    "Serial": 1108205154,
+    "Selected": true,
+    "List": "sword"
+  },
+  {
+    "Layer": 10,
+    "Name": " (3BB5)",
+    "Serial": 1111505807,
+    "Selected": true,
+    "List": "sword"
+  },
+  {
+    "Layer": 12,
+    "Name": "half apron (153B)",
+    "Serial": 1106147249,
+    "Selected": true,
+    "List": "sword"
+  },
+  {
+    "Layer": 13,
+    "Name": "platemail (1415)",
+    "Serial": 1079655201,
+    "Selected": true,
+    "List": "sword"
+  },
+  {
+    "Layer": 14,
+    "Name": "bracelet (1086)",
+    "Serial": 1107984215,
+    "Selected": true,
+    "List": "sword"
+  },
+  {
+    "Layer": 17,
+    "Name": "body sash (1541)",
+    "Serial": 1093463400,
+    "Selected": true,
+    "List": "sword"
+  },
+  {
+    "Layer": 18,
+    "Name": "earrings (1087)",
+    "Serial": 1101437690,
+    "Selected": true,
+    "List": "sword"
+  },
+  {
+    "Layer": 19,
+    "Name": "Samurai Armor Arms (277E)",
+    "Serial": 1085835714,
+    "Selected": true,
+    "List": "sword"
+  },
+  {
+    "Layer": 20,
+    "Name": "elven quiver (2FB7)",
+    "Serial": 1120687620,
+    "Selected": true,
+    "List": "sword"
+  },
+  {
+    "Layer": 22,
+    "Name": "hooded shroud (2684)",
+    "Serial": 1076115653,
+    "Selected": true,
+    "List": "sword"
+  },
+  {
+    "Layer": 9,
+    "Name": "Talisman (2F5B)",
+    "Serial": 1155392307,
+    "Selected": true,
+    "List": "sword"
+  }
+]

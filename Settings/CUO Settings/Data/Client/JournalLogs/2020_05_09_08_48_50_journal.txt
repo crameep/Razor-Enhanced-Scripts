@@ -1,0 +1,8 @@
+[05/09/2020 08:48]  System: WorldMap loading...
+[05/09/2020 08:48]  System: You have 6 of max 50 in your mailbox.
+[05/09/2020 08:48]  You see: Lord Hobo Jim [SOUL]
+[05/09/2020 08:48]  System: 
+[05/09/2020 08:48]  System: Loading WorldMap markers..
+[05/09/2020 08:48]  System: WorldMap loaded!
+[05/09/2020 08:48]  System: WorldMap markers loaded (0)
+[05/09/2020 08:48]  System: AUTOLOOT: Engine Start...

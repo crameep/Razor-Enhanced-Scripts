@@ -1,0 +1,234 @@
+[05/03/2020 02:16]  System: WorldMap loading...
+[05/03/2020 02:16]  System: You have 5 of max 50 in your mailbox.
+[05/03/2020 02:16]  System: Autoloot: Invalid Bag, Switch to backpack
+[05/03/2020 02:16]  You see: Lord Hobo Jim [SOUL]
+[05/03/2020 02:16]  System: 
+[05/03/2020 02:16]  System: Loading WorldMap markers..
+[05/03/2020 02:16]  System: WorldMap loaded!
+[05/03/2020 02:16]  System: WorldMap markers loaded (0)
+[05/03/2020 02:16]  System: AUTOLOOT: Engine Start...
+[05/03/2020 02:16]  System: Where do you wish to build the vehicle?
+[05/03/2020 02:16]  System: a vehicle key for Go-Cart is now in your backpack.
+[05/03/2020 02:16]  System: a vehicle key for Go-Cart is now in your bank box.
+[05/03/2020 02:16]  System: You take control of the vehicle.
+[05/03/2020 02:17]  System: a vehicle key for Go-Cart is now in your backpack.
+[05/03/2020 02:17]  System: a vehicle key for Go-Cart is now in your bank box.
+[05/03/2020 02:17]  System: You release control of the vehicle.
+[05/03/2020 02:17]  System: Go-Cart Deed has been placed in your pack.
+[05/03/2020 02:17]  System: Your strength has changed by 10.  It is now 212
+[05/03/2020 02:17]  System: Your dexterity has changed by 10.  It is now 218
+[05/03/2020 02:17]  System: Your intelligence has changed by 10.  It is now 76
+[05/03/2020 02:22]  System: Where do you wish to build the vehicle?
+[05/03/2020 02:22]  System: A vehicle may not be built in this area.
+[05/03/2020 02:23]  System: 49° 7'N, 14° 12'W
+[05/03/2020 02:23]  Hobo Jim: Kal Ort Por [Recall]
+[05/03/2020 02:23]  System: Your strength has changed by -10.  It is now 202
+[05/03/2020 02:23]  System: Your dexterity has changed by -10.  It is now 208
+[05/03/2020 02:23]  System: Your intelligence has changed by -10.  It is now 66
+[05/03/2020 02:23]  System: 97° 59'N, 29° 2'W
+[05/03/2020 02:23]  Hobo Jim: Kal Ort Por [Recall]
+[05/03/2020 02:23]  You see:  CityBooks the parrot
+[05/03/2020 02:23]  You see:  Akilah the waiter
+[05/03/2020 02:23]  You see:  Dungeons the parrot
+[05/03/2020 02:23]  You see:  TMapsFelANDTram the parrot
+[05/03/2020 02:23]  System: You must wait to perform another action.
+[05/03/2020 02:23]  You see:  Misc Stuff 
+[05/03/2020 02:23]  You see:  Ele Deeds + PS's 
+[05/03/2020 02:23]  You see:  MARKED RUNE BOOKS 
+[05/03/2020 02:23]  You see:  MISC ITEMS 
+[05/03/2020 02:23]  You see:  STEALABLES / DECO 
+[05/03/2020 02:23]  You see:  Smith Rewards 
+[05/03/2020 02:23]  You see:  Tailor Rewards 
+[05/03/2020 02:23]  You see:  POWERSCROLLS 
+[05/03/2020 02:23]  You see:  GOLD SKULLS 
+[05/03/2020 02:23]  You see:  BULK BOARDS 
+[05/03/2020 02:23]  You see:  Crystals and Frags 
+[05/03/2020 02:23]  You see:  Imbue Mats 
+[05/03/2020 02:23]  You see:  Newbie 
+[05/03/2020 02:23]  You see:   
+[05/03/2020 02:23]  You see:   
+[05/03/2020 02:23]  You see:  Sukatai the Keeper of Chivalry
+[05/03/2020 02:23]  : If you have an empty vendor, remove them or they will be auto deleted!
+[05/03/2020 02:23]  You see:   
+[05/03/2020 02:23]  You see:   the tailor
+[05/03/2020 02:23]  You see:   the blacksmith
+[05/03/2020 02:23]  You see:   the weaver
+[05/03/2020 02:23]  You see:   the trash collector
+[05/03/2020 02:23]  You see:   the vote registrar
+[05/03/2020 02:23]  You see: Lord blackmyst [WSF]
+[05/03/2020 02:23]  You see:   the town crier
+[05/03/2020 02:23]  You see:   
+[05/03/2020 02:23]  System: You have entered Luna Bank
+[05/03/2020 02:23]  You see:  Seti [AoV]
+[05/03/2020 02:23]  You see:   the hairstylist
+[05/03/2020 02:23]  You see:   the innkeeper
+[05/03/2020 02:23]  You see: Lord The Animal [CoF]
+[05/03/2020 02:23]  You see:  a glass city kitsune 
+[05/03/2020 02:23]  You see:  Deacon the brewer
+[05/03/2020 02:23]  You see:   the tinker
+[05/03/2020 02:23]  You see:   the alchemist
+[05/03/2020 02:23]  You see:   the Holy Mage
+[05/03/2020 02:23]  You see:   The Prov
+[05/03/2020 02:23]  You see:  Lord Blackthorne 
+[05/03/2020 02:23]  You see:  Erol the vet
+[05/03/2020 02:23]  You see:  Gorrow the mayor
+[05/03/2020 02:23]  You see:  Coldsteel the hallowed
+[05/03/2020 02:23]  System: You have left Luna Bank
+[05/03/2020 02:23]  You see:  Sherman the bounty officer
+[05/03/2020 02:23]  You see:  a rabbit 
+[05/03/2020 02:23]  You see:   the Keeper of Chivalry
+[05/03/2020 02:23]  You see:   the Keeper of Chivalry
+[05/03/2020 02:24]  System: You are now under the protection of the town guards.
+[05/03/2020 02:24]  System: You have been teleported to: Royal City
+[05/03/2020 02:24]  You see:  a high plains boura 
+[05/03/2020 02:24]  You see:  a kepetch 
+[05/03/2020 02:24]  You see:  a leather wolf 
+[05/03/2020 02:24]  You see:  a ruddy boura 
+[05/03/2020 02:24]  System: WorldMap loaded!
+[05/03/2020 02:24]  You see:  Aricia the Baker
+[05/03/2020 02:24]  You see:  Avalon [a Guardian of Ter-Mur]
+[05/03/2020 02:24]  You see:  Angela the Butcher
+[05/03/2020 02:24]  You see:  Hye the Farmer
+[05/03/2020 02:24]  You see:  Joelle the Farmer
+[05/03/2020 02:24]  You see:  Berton the Farmer
+[05/03/2020 02:24]  You see:  Warner the Farmer
+[05/03/2020 02:24]  You see:  Isaiah the Rune Imbuing Crafter
+[05/03/2020 02:24]  You see:  Lulu the Real Estate Broker
+[05/03/2020 02:24]  You see:  Ormand the Scribe
+[05/03/2020 02:24]  You see:  Spalding the Apprentice
+[05/03/2020 02:24]  You see:  Kiele the Scribe
+[05/03/2020 02:24]  You see:  Lók-de [a Guardian of Ter-Mur]
+[05/03/2020 02:24]  You see:  Ben-fin [a Guardian of Ter-Mur]
+[05/03/2020 02:24]  You see:  Jane the Innkeeper
+[05/03/2020 02:24]  You see:  Adeben the Innkeeper
+[05/03/2020 02:24]  You see:  Pauline the Innkeeper
+[05/03/2020 02:24]  You see:  Roderick the Carpenter
+[05/03/2020 02:24]  You see:  Koren the Weaver
+[05/03/2020 02:24]  You see:  Magena the Tailor
+[05/03/2020 02:24]  Axem: You look like your doing nothing, come talk to me.
+[05/03/2020 02:24]  System: Target the item you wish to toggle Quest Item status on <ESC> to cancel
+[05/03/2020 02:24]  System: You set the item to Quest Item status
+[05/03/2020 02:24]  System: You've completed a quest!  Don't forget to collect your reward.
+[05/03/2020 02:24]  System: You have left the protection of the town guards.
+[05/03/2020 02:24]  System: You receive a reward: Bulging Museum Bag
+[05/03/2020 02:25]  System: Your strength has changed by -15.  It is now 187
+[05/03/2020 02:25]  System: Your dexterity has changed by -15.  It is now 193
+[05/03/2020 02:25]  System: Your intelligence has changed by -15.  It is now 51
+[05/03/2020 02:25]  You see:  Refugee 
+[05/03/2020 02:25]  System: That is not a valid target.
+[05/03/2020 02:25]  System: Your strength has changed by 15.  It is now 202
+[05/03/2020 02:25]  System: Your dexterity has changed by 15.  It is now 208
+[05/03/2020 02:25]  System: Your intelligence has changed by 15.  It is now 66
+[05/03/2020 02:25]  System: Target the item you wish to toggle Quest Item status on <ESC> to cancel
+[05/03/2020 02:25]  System: That item does not match any of your quest criteria
+[05/03/2020 02:25]  System: You have accepted the Quest.
+[05/03/2020 02:26]  System: Target the item you wish to toggle Quest Item status on <ESC> to cancel
+[05/03/2020 02:26]  System: You set the item to Quest Item status
+[05/03/2020 02:26]  System: You've completed a quest!  Don't forget to collect your reward.
+[05/03/2020 02:26]  System: You receive a reward: Bulging Museum Bag
+[05/03/2020 02:26]  System: You have accepted the Quest.
+[05/03/2020 02:26]  System: Target the item you wish to toggle Quest Item status on <ESC> to cancel
+[05/03/2020 02:26]  System: You set the item to Quest Item status
+[05/03/2020 02:26]  System: You've completed a quest!  Don't forget to collect your reward.
+[05/03/2020 02:26]  System: You receive a reward: Bulging Museum Bag
+[05/03/2020 02:27]  Hobo Jim: Bank container has 206 items, 1063 stones
+[05/03/2020 02:27]  System: Select Source container
+[05/03/2020 02:27]  System: Source Container set to: backpack (0E75) (0x401993D3)
+[05/03/2020 02:27]  System: ORGANIZER: Engine Start...
+[05/03/2020 02:27]  System: Resource Box: I added 1 Tourmaline to my storage!
+[05/03/2020 02:27]  System: Resource Box: I added 1 Diamond to my storage!
+[05/03/2020 02:27]  System: Resource Box: I added 1 Amethyst to my storage!
+[05/03/2020 02:27]  System: Resource Box: I added 1 Ruby to my storage!
+[05/03/2020 02:27]  System: Resource Box: I added 1 Tourmaline to my storage!
+[05/03/2020 02:27]  System: Resource Box: I added 1 Citrine to my storage!
+[05/03/2020 02:27]  System: Resource Box: I added 1,204 Gold Coin to my storage!
+[05/03/2020 02:27]  System: Resource Box: I added 40 Magical Residue to my storage!
+[05/03/2020 02:27]  System: Resource Box: I added 1 Enchanted Essence to my storage!
+[05/03/2020 02:27]  System: Enhanced Organizer: Finish!
+[05/03/2020 02:27]  System: Select Source container
+[05/03/2020 02:27]  System: Source Container set to: backpack (0E75) (0x401993D3)
+[05/03/2020 02:27]  System: Select Source container
+[05/03/2020 02:27]  System: Source Container set to: backpack (0E75) (0x4019950A)
+[05/03/2020 02:27]  System: ORGANIZER: Engine Start...
+[05/03/2020 02:27]  System: Resource Box: I added 1 Citrine to my storage!
+[05/03/2020 02:27]  System: Resource Box: I added 1 Star Sapphire to my storage!
+[05/03/2020 02:27]  System: Resource Box: I added 1 Sapphire to my storage!
+[05/03/2020 02:27]  System: Resource Box: I added 1 Ruby to my storage!
+[05/03/2020 02:27]  System: Resource Box: I added 1 Citrine to my storage!
+[05/03/2020 02:27]  System: Resource Box: I added 1,127 Gold Coin to my storage!
+[05/03/2020 02:27]  System: Resource Box: I added 39 Magical Residue to my storage!
+[05/03/2020 02:27]  System: Resource Box: I added 1 Sapphire to my storage!
+[05/03/2020 02:27]  System: Resource Box: I added 1 Enchanted Essence to my storage!
+[05/03/2020 02:27]  System: Enhanced Organizer: Finish!
+[05/03/2020 02:27]  System: Select Source container
+[05/03/2020 02:27]  System: Source Container set to: backpack (0E75) (0x4019909C)
+[05/03/2020 02:28]  System: ORGANIZER: Engine Start...
+[05/03/2020 02:28]  System: Resource Box: I added 1 Diamond to my storage!
+[05/03/2020 02:28]  System: Resource Box: I added 1 Amber to my storage!
+[05/03/2020 02:28]  System: Resource Box: I added 1 Sapphire to my storage!
+[05/03/2020 02:28]  System: Resource Box: I added 1 Star Sapphire to my storage!
+[05/03/2020 02:28]  System: Resource Box: I added 1 Amber to my storage!
+[05/03/2020 02:28]  System: Resource Box: I added 1,176 Gold Coin to my storage!
+[05/03/2020 02:28]  System: Resource Box: I added 1 Sapphire to my storage!
+[05/03/2020 02:28]  System: Resource Box: I added 40 Magical Residue to my storage!
+[05/03/2020 02:28]  System: Resource Box: I added 1 Enchanted Essence to my storage!
+[05/03/2020 02:28]  System: Enhanced Organizer: Finish!
+[05/03/2020 02:29]  System: You have accepted the Quest.
+[05/03/2020 02:29]  System: Target the item you wish to toggle Quest Item status on <ESC> to cancel
+[05/03/2020 02:29]  System: That item does not match any of your quest criteria
+[05/03/2020 02:29]  System: That item does not match any of your quest criteria
+[05/03/2020 02:29]  System: Target the item you wish to toggle Quest Item status on <ESC> to cancel
+[05/03/2020 02:29]  System: You set the item to Quest Item status
+[05/03/2020 02:29]  System: You set the item to Quest Item status
+[05/03/2020 02:29]  System: You set the item to Quest Item status [2]
+[05/03/2020 02:29]  System: You've completed a quest!  Don't forget to collect your reward.
+[05/03/2020 02:29]  System: You set the item to Quest Item status
+[05/03/2020 02:30]  System: You receive a reward: Dusty Museum Bag
+[05/03/2020 02:30]  System: Select Source container
+[05/03/2020 02:30]  System: Source Container set to: backpack (0E75) (0x4019A377)
+[05/03/2020 02:30]  System: ORGANIZER: Engine Start...
+[05/03/2020 02:30]  System: Resource Box: I added 1 Ruby to my storage!
+[05/03/2020 02:30]  System: Resource Box: I added 1 Citrine to my storage!
+[05/03/2020 02:30]  System: Resource Box: I added 1 Amethyst to my storage!
+[05/03/2020 02:30]  System: Resource Box: I added 1 Ruby to my storage!
+[05/03/2020 02:30]  System: Resource Box: I added 786 Gold Coin to my storage!
+[05/03/2020 02:30]  System: Resource Box: I added 24 Magical Residue to my storage!
+[05/03/2020 02:30]  System: Resource Box: I added 1 Citrine to my storage!
+[05/03/2020 02:30]  System: Enhanced Organizer: Finish!
+[05/03/2020 02:31]  System: You are now under the protection of the town guards.
+[05/03/2020 02:31]  System: You are already there.
+[05/03/2020 02:31]  System: You choose not to go anywhere.
+[05/03/2020 02:31]  You see:  Axem the Curator
+[05/03/2020 02:31]  Axem: You look like your doing nothing, come talk to me.
+[05/03/2020 02:31]  System: You have left the protection of the town guards.
+[05/03/2020 02:31]  System: You have accepted the Quest.
+[05/03/2020 02:31]  System: Target the item you wish to toggle Quest Item status on <ESC> to cancel
+[05/03/2020 02:31]  System: You set the item to Quest Item status
+[05/03/2020 02:31]  System: You've completed a quest!  Don't forget to collect your reward.
+[05/03/2020 02:31]  System: You receive a reward: Bulging Museum Bag
+[05/03/2020 02:31]  System: Select Source container
+[05/03/2020 02:31]  System: Source Container set to: backpack (0E75) (0x4019A8A8)
+[05/03/2020 02:31]  Hobo Jim: Bank container has 221 items, 1086 stones
+[05/03/2020 02:31]  System: ORGANIZER: Engine Start...
+[05/03/2020 02:31]  System: Resource Box: I added 1 Star Sapphire to my storage!
+[05/03/2020 02:31]  System: Resource Box: I added 1 Ruby to my storage!
+[05/03/2020 02:31]  System: Resource Box: I added 1 Citrine to my storage!
+[05/03/2020 02:32]  System: Resource Box: I added 1 Diamond to my storage!
+[05/03/2020 02:32]  System: Resource Box: I added 1 Ruby to my storage!
+[05/03/2020 02:32]  System: Resource Box: I added 1,357 Gold Coin to my storage!
+[05/03/2020 02:32]  System: Resource Box: I added 1 Citrine to my storage!
+[05/03/2020 02:32]  System: Resource Box: I added 38 Magical Residue to my storage!
+[05/03/2020 02:32]  System: Resource Box: I added 1 Enchanted Essence to my storage!
+[05/03/2020 02:32]  System: Enhanced Organizer: Finish!
+[05/03/2020 02:32]  System: You are now under the protection of the town guards.
+[05/03/2020 02:32]  System: You have left the protection of the town guards.
+[05/03/2020 02:32]  System: You have been teleported to: Abyssal Road
+[05/03/2020 02:32]  System: WorldMap loaded!
+[05/03/2020 02:33]  You see:  Kedar 
+[05/03/2020 02:33]  You see:  a water elemental 
+[05/03/2020 02:34]  System: 49° 7'N, 14° 12'W
+[05/03/2020 02:34]  Hobo Jim: Kal Ort Por [Recall]
+[05/03/2020 02:34]  System: WorldMap loaded!
+[05/03/2020 02:34]  System: Your strength has changed by 10.  It is now 212
+[05/03/2020 02:34]  System: Your dexterity has changed by 10.  It is now 218
+[05/03/2020 02:34]  System: Your intelligence has changed by 10.  It is now 76

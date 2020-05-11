@@ -1,0 +1,1488 @@
+[05/03/2020 00:53]  System: WorldMap loading...
+[05/03/2020 00:53]  System: You have 5 of max 50 in your mailbox.
+[05/03/2020 00:53]  You see: Lord Hobo Jim [SOUL]
+[05/03/2020 00:53]  You see: a drake corpse
+[05/03/2020 00:53]  You see: a wyvern corpse
+[05/03/2020 00:53]  You see: a drake corpse
+[05/03/2020 00:53]  System: 
+[05/03/2020 00:53]  You see:  PigletForDinner 
+[05/03/2020 00:53]  You see: a drake corpse
+[05/03/2020 00:53]  You see:  PigletForDinner 
+[05/03/2020 00:53]  You see: a wyvern corpse
+[05/03/2020 00:53]  You see: a drake corpse
+[05/03/2020 00:53]  System: Loading WorldMap markers..
+[05/03/2020 00:53]  System: WorldMap markers loaded (0)
+[05/03/2020 00:53]  System: WorldMap loaded!
+[05/03/2020 00:53]  System: AUTOLOOT: Engine Start...
+[05/03/2020 00:54]  You see:  a wyvern 
+[05/03/2020 00:55]  You see: a wyvern corpse
+[05/03/2020 00:56]  System: AutoCarver Engine Start...
+[05/03/2020 00:56]  System: Select Auto Carver Blade
+[05/03/2020 00:56]  System: AutoCarve Blade Set to: butcher knife (13F6) (0x40147524)
+[05/03/2020 00:56]  System: What do you want to use this item on?
+[05/03/2020 00:56]  corpse (2006): *Cutting*
+[05/03/2020 00:56]  System: You carve some meat, which remains on the corpse.
+[05/03/2020 00:56]  System: You skin it, and the hides are now in the corpse.
+[05/03/2020 00:56]  System: You must wait to perform another action.
+[05/03/2020 00:56]  System: What do you want to use this item on?
+[05/03/2020 00:56]  corpse (2006): *Cutting*
+[05/03/2020 00:56]  System: You carve some meat, which remains on the corpse.
+[05/03/2020 00:56]  System: You skin it, and the hides are now in the corpse.
+[05/03/2020 00:56]  System: You cut away some scales, but they remain on the corpse.
+[05/03/2020 00:57]  System: What do you want to use this item on?
+[05/03/2020 00:57]  corpse (2006): *Cutting*
+[05/03/2020 00:57]  System: You carve some meat, which remains on the corpse.
+[05/03/2020 00:57]  System: You skin it, and the hides are now in the corpse.
+[05/03/2020 00:57]  System: You cut away some scales, but they remain on the corpse.
+[05/03/2020 00:57]  System: Script <Grab.py> started.
+[05/03/2020 00:57]  System: You are overloaded.  Carrying stones / Max stones : 803 / 747
+[05/03/2020 00:57]  System: You grabbed 3 Items
+[05/03/2020 00:57]  System: Script <Grab.py> stopped.
+[05/03/2020 00:57]  System: Script <Grab.py> started.
+[05/03/2020 00:57]  System: You must wait for 0.78 seconds.
+[05/03/2020 00:57]  System: You must wait for 0.75 seconds.
+[05/03/2020 00:57]  System: Script <Grab.py> stopped.
+[05/03/2020 00:57]  System: Script <Grab.py> started.
+[05/03/2020 00:57]  System: You couldn't find anything to grab
+[05/03/2020 00:57]  System: Script <Grab.py> stopped.
+[05/03/2020 00:57]  System: BoneCutter Engine Start...
+[05/03/2020 00:57]  System: Select Bone Cutter Blade
+[05/03/2020 00:57]  System: BoneCutter Blade Set to: butcher knife (13F6) (0x40147524)
+[05/03/2020 00:57]  System: You are overloaded.  Carrying stones / Max stones : 1003 / 747
+[05/03/2020 00:57]  System: You are overloaded.  Carrying stones / Max stones : 1004 / 747
+[05/03/2020 00:57]  System: You couldn't find anything to grab
+[05/03/2020 00:57]  System: Script <Grab.py> started.
+[05/03/2020 00:57]  System: You must wait for 4.92 seconds.
+[05/03/2020 00:57]  System: Script <Grab.py> stopped.
+[05/03/2020 00:57]  System: Select item to add in Autoloot list
+[05/03/2020 00:57]  System: Autoloot item added: pil%es/e% of hides (1079) (0x40187E6D)
+[05/03/2020 00:57]  System: That container cannot hold more weight.
+[05/03/2020 00:57]  System: You are overloaded.  Carrying stones / Max stones : 1004 / 747
+[05/03/2020 00:57]  System: That container cannot hold more weight.
+[05/03/2020 00:58]  System: You are overloaded.  Carrying stones / Max stones : 1004 / 747
+[05/03/2020 00:58]  System: Select item to add in Autoloot list
+[05/03/2020 00:58]  System: You have gained a lot of fame.
+[05/03/2020 00:58]  System: You have gained a lot of karma.
+[05/03/2020 00:58]  You see: a dragon corpse
+[05/03/2020 00:58]  System: Autoloot item added: scale%s (26B4) (0x40184619)
+[05/03/2020 00:58]  System: Select item to add in Autoloot list
+[05/03/2020 00:58]  System: Autoloot item added: scale%s (26B4) (0x40187E6E)
+[05/03/2020 00:58]  You see:  a drake 
+[05/03/2020 00:58]  System: You have gained a lot of fame.
+[05/03/2020 00:58]  System: You have gained a lot of karma.
+[05/03/2020 00:58]  You see: a dragon corpse
+[05/03/2020 00:58]  System: Each piece of your equipment gained 18 Tier XP!
+[05/03/2020 00:58]  You see: a drake corpse
+[05/03/2020 00:58]  System: What do you want to use this item on?
+[05/03/2020 00:58]  corpse (2006): *Cutting*
+[05/03/2020 00:58]  System: You carve some meat, which remains on the corpse.
+[05/03/2020 00:58]  System: You skin it, and the hides are now in the corpse.
+[05/03/2020 00:58]  System: You cut away some scales, but they remain on the corpse.
+[05/03/2020 00:58]  System: You are overloaded.  Carrying stones / Max stones : 1023 / 747
+[05/03/2020 00:58]  System: You are overloaded.  Carrying stones / Max stones : 1123 / 747
+[05/03/2020 00:58]  System: You are overloaded.  Carrying stones / Max stones : 1124 / 747
+[05/03/2020 00:58]  System: 339 gold coins have been placed in your pack.
+[05/03/2020 00:58]  System: You grabbed 3 Items, 339 Gold, 4 Trash Tokens
+[05/03/2020 00:58]  System: Your share of the Gold is 339
+[05/03/2020 00:58]  System: Script <Grab.py> started.
+[05/03/2020 00:58]  System: Script <Grab.py> stopped.
+[05/03/2020 00:58]  System: What do you want to use this item on?
+[05/03/2020 00:58]  corpse (2006): *Cutting*
+[05/03/2020 00:58]  System: You carve some meat, which remains on the corpse.
+[05/03/2020 00:58]  System: You skin it, and the hides are now in the corpse.
+[05/03/2020 00:58]  System: You cut away some scales, but they remain on the corpse.
+[05/03/2020 00:58]  You see: a drake corpse
+[05/03/2020 00:58]  System: You are overloaded.  Carrying stones / Max stones : 1123 / 747
+[05/03/2020 00:58]  You see: a drake corpse
+[05/03/2020 00:58]  System: What do you want to use this item on?
+[05/03/2020 00:58]  corpse (2006): *Cutting*
+[05/03/2020 00:58]  System: You carve some meat, which remains on the corpse.
+[05/03/2020 00:58]  System: You skin it, and the hides are now in the corpse.
+[05/03/2020 00:58]  System: You cut away some scales, but they remain on the corpse.
+[05/03/2020 00:58]  corpse (2006): *Cutting*
+[05/03/2020 00:58]  System: What do you want to use this item on?
+[05/03/2020 00:58]  System: You skin it, and the hides are now in the corpse.
+[05/03/2020 00:58]  System: You carve some meat, which remains on the corpse.
+[05/03/2020 00:58]  System: AUTOLOOT: Max weight reached, Wait untill free some space
+[05/03/2020 00:58]  System: You are overloaded.  Carrying stones / Max stones : 1142 / 747
+[05/03/2020 00:58]  System: You are overloaded.  Carrying stones / Max stones : 1242 / 747
+[05/03/2020 00:58]  System: You are overloaded.  Carrying stones / Max stones : 1243 / 747
+[05/03/2020 00:58]  System: You are overloaded.  Carrying stones / Max stones : 1253 / 747
+[05/03/2020 00:58]  System: You are overloaded.  Carrying stones / Max stones : 1353 / 747
+[05/03/2020 00:58]  System: You are overloaded.  Carrying stones / Max stones : 1354 / 747
+[05/03/2020 00:58]  System: You are overloaded.  Carrying stones / Max stones : 1363 / 747
+[05/03/2020 00:58]  System: You are overloaded.  Carrying stones / Max stones : 1463 / 747
+[05/03/2020 00:58]  System: You are overloaded.  Carrying stones / Max stones : 1464 / 747
+[05/03/2020 00:58]  System: 483 gold coins have been placed in your pack.
+[05/03/2020 00:58]  System: You grabbed 9 Items, 483 Gold, 5 Trash Tokens
+[05/03/2020 00:58]  System: Your share of the Gold is 483
+[05/03/2020 00:58]  System: Script <Grab.py> started.
+[05/03/2020 00:58]  System: You must wait for 4.92 seconds.
+[05/03/2020 00:58]  System: Script <Grab.py> stopped.
+[05/03/2020 00:58]  System: You cut away some scales, but they remain on the corpse.
+[05/03/2020 00:58]  System: What do you want to use this item on?
+[05/03/2020 00:58]  corpse (2006): *Cutting*
+[05/03/2020 00:58]  System: You carve some meat, which remains on the corpse.
+[05/03/2020 00:58]  System: You skin it, and the hides are now in the corpse.
+[05/03/2020 00:58]  System: AUTOLOOT: Max weight reached, Wait untill free some space
+[05/03/2020 00:58]  System: You must wait for 0.11 seconds.
+[05/03/2020 00:58]  System: Script <Grab.py> started.
+[05/03/2020 00:58]  System: Script <Grab.py> stopped.
+[05/03/2020 00:58]  System: You are overloaded.  Carrying stones / Max stones : 1473 / 747
+[05/03/2020 00:58]  System: You are overloaded.  Carrying stones / Max stones : 1573 / 747
+[05/03/2020 00:58]  System: You are overloaded.  Carrying stones / Max stones : 1574 / 747
+[05/03/2020 00:58]  System: 106 gold coins have been placed in your pack.
+[05/03/2020 00:58]  System: You grabbed 3 Items, 106 Gold, 5 Trash Tokens
+[05/03/2020 00:58]  System: Your share of the Gold is 106
+[05/03/2020 00:58]  System: Script <Grab.py> started.
+[05/03/2020 00:58]  System: Script <Grab.py> stopped.
+[05/03/2020 00:58]  System: You are overloaded.  Carrying stones / Max stones : 1463 / 747
+[05/03/2020 00:58]  System: You cut away some scales, but they remain on the corpse.
+[05/03/2020 00:59]  System: You are overloaded.  Carrying stones / Max stones : 1573 / 747
+[05/03/2020 00:59]  System: What do you want to use this item on?
+[05/03/2020 00:59]  System: You can't use a bladed item on that.
+[05/03/2020 00:59]  You see:  PigletForDinner 
+[05/03/2020 00:59]  You see:  Hadden the banker
+[05/03/2020 00:59]  You see:  Nelson the wandering healer
+[05/03/2020 00:59]  System: You can't use this bank stone while in combat.
+[05/03/2020 00:59]  System: You can't use this bank stone while in combat.
+[05/03/2020 00:59]  System: You can't use this bank stone while in combat. [2]
+[05/03/2020 00:59]  Hobo Jim: Bank container has 205 items, 1161 stones
+[05/03/2020 01:00]  System: ORGANIZER: Engine Start...
+[05/03/2020 01:00]  System: Resource Box: I added 392 Gold Coin to my storage!
+[05/03/2020 01:00]  System: Resource Box: I added 5 Essence Of Passion to my storage!
+[05/03/2020 01:00]  System: Resource Box: I added 4 Lava Serpent Crust to my storage!
+[05/03/2020 01:00]  System: Resource Box: I added 5 Essence Of Precision to my storage!
+[05/03/2020 01:00]  System: Resource Box: I added 8 Essence Of Order to my storage!
+[05/03/2020 01:00]  System: Resource Box: I added 12 Daemon Claw to my storage!
+[05/03/2020 01:00]  System: Resource Box: I added 1 Corruption to my storage!
+[05/03/2020 01:00]  System: Resource Box: I added 3 Abyssal Cloth to my storage!
+[05/03/2020 01:00]  System: Enhanced Organizer: Finish!
+[05/03/2020 01:01]  System: Resource Box: I added 9 Sand to my storage!
+[05/03/2020 01:02]  System: The item was added to the list.
+[05/03/2020 01:02]  System: The item was added to the list.
+[05/03/2020 01:02]  System: Target an item you wish to unravel
+[05/03/2020 01:02]  System: You successfully unravel the shield, destroying it in the process!
+[05/03/2020 01:02]  System: You received 1 Relic Fragment
+[05/03/2020 01:02]  System: You received 2 Ruby
+[05/03/2020 01:02]  System: You received 3 essence of achievement
+[05/03/2020 01:02]  System: You received 2 Magical Residue
+[05/03/2020 01:02]  System: You received 4 Amber
+[05/03/2020 01:02]  System: You received 3 silver snake skin
+[05/03/2020 01:22]  You see:  PigletForDinner 
+[05/03/2020 01:22]  You see:  PigletForDinner 
+[05/03/2020 01:22]  You see:  Hadden the banker
+[05/03/2020 01:22]  You see:  Nelson the wandering healer
+[05/03/2020 01:22]  System: 97° 59'N, 29° 2'W
+[05/03/2020 01:22]  Hobo Jim: Kal Ort Por [Recall]
+[05/03/2020 01:22]  You see:  CityBooks the parrot
+[05/03/2020 01:22]  You see:  PigletForDinner 
+[05/03/2020 01:22]  You see:  Akilah the waiter
+[05/03/2020 01:22]  You see:  Dungeons the parrot
+[05/03/2020 01:22]  You see:  TMapsFelANDTram the parrot
+[05/03/2020 01:22]  System: WorldMap loaded!
+[05/03/2020 01:23]  System: You place the PigletForDinner Idol into your pack.
+[05/03/2020 01:23]  You see:  GOLD SKULLS 
+[05/03/2020 01:23]  You see:  BULK BOARDS 
+[05/03/2020 01:23]  You see:  Crystals and Frags 
+[05/03/2020 01:23]  You see:  Imbue Mats 
+[05/03/2020 01:23]  You see:  Newbie 
+[05/03/2020 01:23]  You see:  New Stuff 
+[05/03/2020 01:23]  You see:   
+[05/03/2020 01:23]  You see:   
+[05/03/2020 01:23]  You see:   
+[05/03/2020 01:23]  : If you have an empty vendor, remove them or they will be auto deleted!
+[05/03/2020 01:23]  You see:  Sukatai the Keeper of Chivalry
+[05/03/2020 01:23]  You see:   the tailor
+[05/03/2020 01:23]  You see:   the blacksmith
+[05/03/2020 01:23]  You see:   the weaver
+[05/03/2020 01:23]  You see:   the trash collector
+[05/03/2020 01:23]  You see:   the vote registrar
+[05/03/2020 01:23]  You see: Lord blackmyst [WSF]
+[05/03/2020 01:23]  You see:   the town crier
+[05/03/2020 01:23]  You see:   
+[05/03/2020 01:23]  System: You have entered Luna Bank
+[05/03/2020 01:23]  You see:  Seti [AoV]
+[05/03/2020 01:23]  You see:   the hairstylist
+[05/03/2020 01:23]  You see:   the innkeeper
+[05/03/2020 01:23]  You see: Lord The Animal [CoF]
+[05/03/2020 01:23]  You see:  a glass city kitsune 
+[05/03/2020 01:23]  You see:   the tinker
+[05/03/2020 01:23]  You see:   the alchemist
+[05/03/2020 01:23]  You see:   the Holy Mage
+[05/03/2020 01:23]  You see:  Deacon the brewer
+[05/03/2020 01:23]  You see:   The Prov
+[05/03/2020 01:23]  You see:  Lord Blackthorne 
+[05/03/2020 01:23]  You see:  Erol the vet
+[05/03/2020 01:23]  Hobo Jim: Bank container has 209 items, 2064 stones
+[05/03/2020 01:24]  System: Select Source container
+[05/03/2020 01:24]  System: Source Container set to: backpack (0E75) (0x41D3B079)
+[05/03/2020 01:24]  System: ORGANIZER: Engine Start...
+[05/03/2020 01:24]  System: Resource Box: I added 15,624 Gold Coin to my storage!
+[05/03/2020 01:24]  System: Resource Box: I added 2 Ruby to my storage!
+[05/03/2020 01:24]  System: Resource Box: I added 3 Essence Of Achievement to my storage!
+[05/03/2020 01:24]  System: Resource Box: I added 2 Magical Residue to my storage!
+[05/03/2020 01:24]  System: Resource Box: I added 4 Amber to my storage!
+[05/03/2020 01:24]  System: Resource Box: I added 3 Silver Snake Skin to my storage!
+[05/03/2020 01:24]  System: Resource Box: I added 1 Relic Fragment to my storage!
+[05/03/2020 01:24]  System: Enhanced Organizer: Finish!
+[05/03/2020 01:24]  System: Treasures of Tokuno have faded!
+[05/03/2020 01:24]  System: Resource Box: I added 994 Trash Token to my storage!
+[05/03/2020 01:24]  System: Select item to add in Organizer list
+[05/03/2020 01:24]  System: Organizer item added:  (3191) (0x4016BA74)
+[05/03/2020 01:24]  System: ORGANIZER: Engine Start...
+[05/03/2020 01:24]  System: Resource Box: I added 1 Luminescent Fungi to my storage!
+[05/03/2020 01:24]  System: Enhanced Organizer: Finish!
+[05/03/2020 01:25]  System: Resource Box: I added 34 Rough Stone to my storage!
+[05/03/2020 01:25]  System: Target the sign of the house you wish to paint.
+[05/03/2020 01:25]  You see:   the tailor
+[05/03/2020 01:26]  : Greetings.  Have a look around.
+[05/03/2020 01:26]  : The total of thy purchase is 11 Gold, which has been withdrawn from your bank account.  My thanks for the patronage.
+[05/03/2020 01:26]  You see:   
+[05/03/2020 01:26]  Hobo Jim: Bank container has 209 items, 2064 stones
+[05/03/2020 01:26]  System: What should I use these scissors on?
+[05/03/2020 01:26]  System: Resource Box: I added 40 Cut Leather to my storage!
+[05/03/2020 01:26]  System: You are overloaded.  Carrying stones / Max stones : 1206 / 747
+[05/03/2020 01:26]  System: What should I use these scissors on?
+[05/03/2020 01:26]  System: Resource Box: I added 140 Cut Leather to my storage!
+[05/03/2020 01:26]  System: Resource Box: I added 18 Dragon Scales to my storage!
+[05/03/2020 01:27]  System: Resource Box: I added 6 Dragon Scales to my storage!
+[05/03/2020 01:27]  System: What should I use these scissors on?
+[05/03/2020 01:27]  System: Resource Box: I added 20 Cut Leather to my storage!
+[05/03/2020 01:28]  You see:   
+[05/03/2020 01:28]  System: 500 gold has been withdrawn from your bank box.
+[05/03/2020 01:28]  System: You have insured the item
+[05/03/2020 01:28]  System: You have insured the item [21]
+[05/03/2020 01:28]  System: 500 gold has been withdrawn from your bank box. [21]
+[05/03/2020 01:36]  You see:   
+[05/03/2020 01:38]  System: Script <Grab.py> started.
+[05/03/2020 01:38]  System: You must wait for others to leave before you can do that.
+[05/03/2020 01:38]  System: Script <Grab.py> stopped.
+[05/03/2020 01:38]  System: Script <Grab.py> started.
+[05/03/2020 01:38]  System: Script <Grab.py> stopped.
+[05/03/2020 01:38]  System: You must wait for others to leave before you can do that. [3]
+[05/03/2020 01:38]  You see:   The Prov
+[05/03/2020 01:38]  You see:  Lord Blackthorne 
+[05/03/2020 01:38]  You see:  Erol the vet
+[05/03/2020 01:38]  You see:  Coldsteel the hallowed
+[05/03/2020 01:38]  System: You have left Luna Bank
+[05/03/2020 01:38]  You see:  Sherman the bounty officer
+[05/03/2020 01:38]  You see:  a rabbit 
+[05/03/2020 01:38]  You see:   the Keeper of Chivalry
+[05/03/2020 01:38]  You see:   the Keeper of Chivalry
+[05/03/2020 01:38]  System: You have been teleported to: Rare Slasher Room
+[05/03/2020 01:38]  You see:  Whitney the banker
+[05/03/2020 01:38]  System: WorldMap loaded!
+[05/03/2020 01:38]  You see:  Rosemarie the animal trainer
+[05/03/2020 01:38]  You see:  Joelliane the alchemist
+[05/03/2020 01:38]  You see:  Aland the mage
+[05/03/2020 01:39]  You see:  Whitney the banker
+[05/03/2020 01:39]  System: You must wait to perform another action.
+[05/03/2020 01:39]  You see: Race for Pandora
+[05/03/2020 01:39]  You see:  Crosby the banker
+[05/03/2020 01:39]  You see:  Barnaby the event taxed healer
+[05/03/2020 01:39]  You see:  Barnaby the event taxed healer
+[05/03/2020 01:39]  System: You have entered The PVM Room.(Safe Zone)
+[05/03/2020 01:39]  System: You have been teleported to: New PvM Event Room
+[05/03/2020 01:39]  System: WorldMap loaded!
+[05/03/2020 01:39]  System: You have been teleported to: Destard Trammel
+[05/03/2020 01:39]  You see:  Hadden the banker
+[05/03/2020 01:39]  You see:  Nelson the wandering healer
+[05/03/2020 01:39]  System: WorldMap loaded!
+[05/03/2020 01:39]  You see:  PigletForDinner 
+[05/03/2020 01:39]  You see:  PigletForDinner 
+[05/03/2020 01:39]  Hobo Jim: All Guard Me
+[05/03/2020 01:39]  System: PigletForDinner is now guarding you.
+[05/03/2020 01:40]  You see: a wyvern corpse
+[05/03/2020 01:40]  Hobo Jim: All Follow Me
+[05/03/2020 01:40]  System: You cannot move!
+[05/03/2020 01:40]  System: What instrument shall you play?
+[05/03/2020 01:40]  System: That is too far away.
+[05/03/2020 01:40]  System: You can move!
+[05/03/2020 01:40]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/03/2020 01:40]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/03/2020 01:40]  System: What instrument shall you play?
+[05/03/2020 01:40]  System: You are bleeding!
+[05/03/2020 01:40]  Hobo Jim: You are bleeding profusely
+[05/03/2020 01:40]  System: That is too far away.
+[05/03/2020 01:40]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/03/2020 01:40]  System: some damage has been healed : 66
+[05/03/2020 01:40]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/03/2020 01:40]  System: Your concentration is disturbed, thus ruining thy spell.
+[05/03/2020 01:40]  You see: a drake corpse
+[05/03/2020 01:40]  System: The bleeding wounds have healed, you are no longer bleeding!
+[05/03/2020 01:40]  System: What instrument shall you play?
+[05/03/2020 01:40]  System: That is not a musical instrument.
+[05/03/2020 01:40]  System: What instrument shall you play?
+[05/03/2020 01:40]  You see:  a drake 
+[05/03/2020 01:40]  System: Whom do you wish to calm?
+[05/03/2020 01:40]  System: You play hypnotic music, calming your target.
+[05/03/2020 01:40]  You see: a drake corpse
+[05/03/2020 01:41]  System: That is too far away.
+[05/03/2020 01:41]  a greater dragon: You seem to anger the beast!
+[05/03/2020 01:41]  System: Whom do you wish to calm?
+[05/03/2020 01:41]  corpse (2006): *Cutting*
+[05/03/2020 01:41]  System: What do you want to use this item on?
+[05/03/2020 01:41]  System: You can't use a bladed item on that.
+[05/03/2020 01:41]  System: Whom do you wish to calm?
+[05/03/2020 01:41]  System: You attempt to calm your target, but fail.
+[05/03/2020 01:41]  System: You must wait a few moments to use another skill.
+[05/03/2020 01:41]  System: You must wait a few moments to use another skill.
+[05/03/2020 01:41]  System: You must wait a few moments to use another skill.
+[05/03/2020 01:41]  System: Whom do you wish to calm?
+[05/03/2020 01:41]  System: You play hypnotic music, calming your target.
+[05/03/2020 01:41]  System: You must wait a few moments to use another skill.
+[05/03/2020 01:41]  System: That is too far away.
+[05/03/2020 01:41]  a greater dragon: You seem to anger the beast!
+[05/03/2020 01:41]  System: Whom do you wish to calm?
+[05/03/2020 01:41]  System: You attempt to calm your target, but fail.
+[05/03/2020 01:41]  System: You must wait a few moments to use another skill.
+[05/03/2020 01:41]  System: You must wait a few moments to use another skill.
+[05/03/2020 01:41]  System: You must wait a few moments to use another skill.
+[05/03/2020 01:42]  Hobo Jim: Forul Solum [Enemy of One]
+[05/03/2020 01:42]  Hobo Jim: All Kill
+[05/03/2020 01:42]  Hobo Jim: * You feel extremely weak and are in severe pain! *
+[05/03/2020 01:42]  You see: a wyvern corpse
+[05/03/2020 01:42]  Hobo Jim: An Nox [Cure]
+[05/03/2020 01:42]  System: You are already casting a spell.
+[05/03/2020 01:42]  System: You have been cured of all poisons!
+[05/03/2020 01:42]  Hobo Jim: In Mani [Heal]
+[05/03/2020 01:42]  System: some damage has been healed : 3
+[05/03/2020 01:42]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/03/2020 01:42]  System: You are already casting a spell.
+[05/03/2020 01:42]  System: Whom do you wish to calm?
+[05/03/2020 01:42]  System: You attempt to calm your target, but fail.
+[05/03/2020 01:42]  System: You must wait a few moments to use another skill.
+[05/03/2020 01:42]  System: You must wait a few moments to use another skill.
+[05/03/2020 01:42]  System: Whom do you wish to calm?
+[05/03/2020 01:42]  System: You attempt to calm your target, but fail.
+[05/03/2020 01:42]  System: You must wait a few moments to use another skill.
+[05/03/2020 01:42]  System: You must wait a few moments to use another skill. [2]
+[05/03/2020 01:42]  System: You must wait a few moments to use another skill.
+[05/03/2020 01:42]  System: Whom do you wish to calm?
+[05/03/2020 01:42]  System: You play hypnotic music, calming your target.
+[05/03/2020 01:42]  System: You must wait a few moments to use another skill.
+[05/03/2020 01:43]  a greater dragon: You seem to anger the beast!
+[05/03/2020 01:43]  System: Whom do you wish to calm?
+[05/03/2020 01:43]  System: That creature is already being calmed.
+[05/03/2020 01:43]  a greater dragon: You seem to anger the beast!
+[05/03/2020 01:43]  a greater dragon: You seem to anger the beast!
+[05/03/2020 01:43]  Hobo Jim: All Kill
+[05/03/2020 01:43]  System: You have gained a lot of fame.
+[05/03/2020 01:43]  System: You have gained a lot of karma.
+[05/03/2020 01:43]  You see: a dragon corpse
+[05/03/2020 01:43]  System: Whom do you wish to calm?
+[05/03/2020 01:43]  System: You play hypnotic music, calming your target.
+[05/03/2020 01:43]  System: You must wait a few moments to use another skill.
+[05/03/2020 01:43]  System: Tame which animal?
+[05/03/2020 01:43]  a greater dragon: You seem to anger the beast!
+[05/03/2020 01:43]  System: That is too far away.
+[05/03/2020 01:43]  System: That is too far away.
+[05/03/2020 01:43]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/03/2020 01:43]  System: You are already casting a spell.
+[05/03/2020 01:43]  System: some damage has been healed : 65
+[05/03/2020 01:43]  System: You have not yet recovered from casting a spell.
+[05/03/2020 01:43]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/03/2020 01:43]  System: You are frozen and cannot move.
+[05/03/2020 01:43]  System: some damage has been healed : 66
+[05/03/2020 01:43]  System: You are already casting a spell.
+[05/03/2020 01:43]  System: Whom do you wish to calm?
+[05/03/2020 01:43]  System: You are bleeding!
+[05/03/2020 01:43]  Hobo Jim: You are bleeding profusely
+[05/03/2020 01:43]  System: You attempt to calm your target, but fail.
+[05/03/2020 01:43]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/03/2020 01:43]  System: You are already casting a spell.
+[05/03/2020 01:43]  System: some damage has been healed : 63
+[05/03/2020 01:43]  System: You have not yet recovered from casting a spell.
+[05/03/2020 01:43]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/03/2020 01:43]  System: some damage has been healed : 67
+[05/03/2020 01:43]  System: You are already casting a spell.
+[05/03/2020 01:43]  System: You must wait a few moments to use another skill.
+[05/03/2020 01:44]  You see:  a wyvern 
+[05/03/2020 01:44]  System: You must wait a few moments to use another skill.
+[05/03/2020 01:44]  System: The bleeding wounds have healed, you are no longer bleeding!
+[05/03/2020 01:44]  System: Whom do you wish to calm?
+[05/03/2020 01:44]  System: You attempt to calm your target, but fail.
+[05/03/2020 01:44]  System: You must wait a few moments to use another skill.
+[05/03/2020 01:44]  System: You must wait a few moments to use another skill.
+[05/03/2020 01:44]  Hobo Jim: All Kill
+[05/03/2020 01:44]  System: You must wait a few moments to use another skill.
+[05/03/2020 01:44]  You see: a wyvern corpse
+[05/03/2020 01:44]  System: Whom do you wish to calm?
+[05/03/2020 01:44]  You see:  a drake 
+[05/03/2020 01:44]  System: You are bleeding!
+[05/03/2020 01:44]  Hobo Jim: You are bleeding profusely
+[05/03/2020 01:44]  You see:  a giant serpent 
+[05/03/2020 01:44]  You see:  a dragon 
+[05/03/2020 01:44]  System: You attempt to calm your target, but fail.
+[05/03/2020 01:44]  System: You must wait to perform another action.
+[05/03/2020 01:44]  corpse (2006): *Cutting*
+[05/03/2020 01:44]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/03/2020 01:44]  System: You are frozen and cannot move.
+[05/03/2020 01:44]  System: some damage has been healed : 65
+[05/03/2020 01:44]  Hobo Jim: All Kill
+[05/03/2020 01:44]  Hobo Jim: All Kill
+[05/03/2020 01:44]  System: The bleeding wounds have healed, you are no longer bleeding!
+[05/03/2020 01:44]  System: You have gained a lot of fame.
+[05/03/2020 01:44]  System: You have gained a lot of karma.
+[05/03/2020 01:44]  You see: a dragon corpse
+[05/03/2020 01:44]  You see:  a drake 
+[05/03/2020 01:44]  System: Whom do you wish to calm?
+[05/03/2020 01:44]  System: You play hypnotic music, calming your target.
+[05/03/2020 01:44]  System: You must wait a few moments to use another skill.
+[05/03/2020 01:44]  a greater dragon: You seem to anger the beast!
+[05/03/2020 01:44]  a greater dragon: You seem to anger the beast!
+[05/03/2020 01:44]  System: That is too far away.
+[05/03/2020 01:44]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/03/2020 01:44]  System: You are already casting a spell.
+[05/03/2020 01:44]  System: some damage has been healed : 67
+[05/03/2020 01:44]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/03/2020 01:44]  System: You are frozen and cannot move.
+[05/03/2020 01:44]  System: some damage has been healed : 72
+[05/03/2020 01:45]  a greater dragon: You seem to anger the beast!
+[05/03/2020 01:46]  System: HotKey: DISABLED
+[05/03/2020 01:46]  You see:  a dragon 
+[05/03/2020 01:46]  You see:  a giant serpent 
+[05/03/2020 01:46]  You see:  a giant serpent 
+[05/03/2020 01:46]  System: That is too far away.
+[05/03/2020 01:46]  System: HotKey: ENABLED
+[05/03/2020 01:46]  Hobo Jim: All Guard Me
+[05/03/2020 01:46]  System: PigletForDinner is now guarding you.
+[05/03/2020 01:46]  You see:  a drake 
+[05/03/2020 01:46]  You see:  a drake 
+[05/03/2020 01:46]  You see:  a giant serpent 
+[05/03/2020 01:46]  You see:  a giant serpent 
+[05/03/2020 01:46]  System: Whom do you wish to calm?
+[05/03/2020 01:46]  System: You attempt to calm your target, but fail.
+[05/03/2020 01:46]  System: You have gained a lot of fame.
+[05/03/2020 01:46]  System: You have gained a lot of karma.
+[05/03/2020 01:46]  You see: a dragon corpse
+[05/03/2020 01:46]  System: Each piece of your equipment gained 52 Tier XP!
+[05/03/2020 01:46]  You see: a dragon corpse
+[05/03/2020 01:46]  System: You have gained a lot of karma.
+[05/03/2020 01:46]  System: You have gained a lot of fame.
+[05/03/2020 01:46]  System: Each piece of your equipment gained 18 Tier XP!
+[05/03/2020 01:46]  You see: a drake corpse
+[05/03/2020 01:46]  System: Each piece of your equipment gained 17 Tier XP!
+[05/03/2020 01:46]  You see: a drake corpse
+[05/03/2020 01:46]  Hobo Jim: All Guard Me
+[05/03/2020 01:46]  System: PigletForDinner is now guarding you.
+[05/03/2020 01:46]  System: What do you want to use this item on?
+[05/03/2020 01:46]  corpse (2006): *Cutting*
+[05/03/2020 01:46]  System: You carve some meat, which remains on the corpse.
+[05/03/2020 01:46]  System: You skin it, and the hides are now in the corpse.
+[05/03/2020 01:46]  System: You cut away some scales, but they remain on the corpse.
+[05/03/2020 01:46]  You see: a drake corpse
+[05/03/2020 01:46]  System: What do you want to use this item on?
+[05/03/2020 01:46]  corpse (2006): *Cutting*
+[05/03/2020 01:46]  System: You carve some meat, which remains on the corpse.
+[05/03/2020 01:46]  System: You skin it, and the hides are now in the corpse.
+[05/03/2020 01:46]  System: You cut away some scales, but they remain on the corpse.
+[05/03/2020 01:46]  You see:  a giant serpent 
+[05/03/2020 01:46]  System: Script <Grab.py> started.
+[05/03/2020 01:46]  System: You are overloaded.  Carrying stones / Max stones : 786 / 747
+[05/03/2020 01:46]  System: You are overloaded.  Carrying stones / Max stones : 787 / 747
+[05/03/2020 01:46]  System: 735 gold coins have been placed in your pack.
+[05/03/2020 01:46]  System: You grabbed 7 Items, 735 Gold, 10 Trash Tokens
+[05/03/2020 01:46]  System: Your share of the Gold is 735
+[05/03/2020 01:46]  System: Script <Grab.py> stopped.
+[05/03/2020 01:46]  You see: a giant serpent corpse
+[05/03/2020 01:47]  You see: a giant serpent corpse
+[05/03/2020 01:47]  You see:  Jasper The ancient vampire
+[05/03/2020 01:47]  You see:  a giant serpent 
+[05/03/2020 01:47]  You see:  a giant serpent 
+[05/03/2020 01:47]  You see:  a giant serpent 
+[05/03/2020 01:47]  You see:  a giant serpent 
+[05/03/2020 01:47]  System: You are overloaded.  Carrying stones / Max stones : 786 / 747
+[05/03/2020 01:47]  You see: a wyvern corpse
+[05/03/2020 01:47]  Hobo Jim: * You feel disoriented and nauseous! *
+[05/03/2020 01:47]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/03/2020 01:47]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/03/2020 01:47]  PigletForDinner: * The poison seems to have no effect. *
+[05/03/2020 01:47]  You see: a giant serpent corpse
+[05/03/2020 01:47]  Hobo Jim: An Nox [Cure]
+[05/03/2020 01:47]  System: You have been cured of all poisons!
+[05/03/2020 01:47]  Hobo Jim: In Mani [Heal]
+[05/03/2020 01:47]  You see:  a giant serpent 
+[05/03/2020 01:47]  System: [6:47 AM]: The world is saving, please wait.
+[05/03/2020 01:47]  System: [6:47 AM]: World save complete. The entire process took 4.7 seconds.
+[05/03/2020 01:47]  System: You are already casting a spell.
+[05/03/2020 01:47]  Hobo Jim: Forul Solum [Enemy of One]
+[05/03/2020 01:47]  System: Setting ability LightningArrow
+[05/03/2020 01:47]  You see: a giant serpent corpse
+[05/03/2020 01:47]  System: The Lighting Arrow strikes a target
+[05/03/2020 01:47]  System: Each piece of your equipment gained 9 Tier XP!
+[05/03/2020 01:47]  You see: a giant serpent corpse
+[05/03/2020 01:47]  You see: a giant serpent corpse
+[05/03/2020 01:47]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/03/2020 01:47]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/03/2020 01:47]  Hobo Jim: All Guard Me
+[05/03/2020 01:47]  System: PigletForDinner is now guarding you.
+[05/03/2020 01:47]  You see: a giant serpent corpse
+[05/03/2020 01:47]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/03/2020 01:47]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/03/2020 01:47]  System: What do you want to use this item on?
+[05/03/2020 01:47]  corpse (2006): *Cutting*
+[05/03/2020 01:47]  System: You carve some meat, which remains on the corpse.
+[05/03/2020 01:47]  System: You skin it, and the hides are now in the corpse.
+[05/03/2020 01:47]  You see: a giant serpent corpse
+[05/03/2020 01:47]  System: Script <Grab.py> started.
+[05/03/2020 01:47]  System: You are overloaded.  Carrying stones / Max stones : 787 / 747
+[05/03/2020 01:47]  System: You are overloaded.  Carrying stones / Max stones : 788 / 747
+[05/03/2020 01:47]  System: You are overloaded.  Carrying stones / Max stones : 789 / 747
+[05/03/2020 01:47]  System: You are overloaded.  Carrying stones / Max stones : 793 / 747
+[05/03/2020 01:47]  System: You are overloaded.  Carrying stones / Max stones : 868 / 747
+[05/03/2020 01:47]  System: You are overloaded.  Carrying stones / Max stones : 869 / 747
+[05/03/2020 01:47]  System: You are overloaded.  Carrying stones / Max stones : 870 / 747
+[05/03/2020 01:47]  System: 162 gold coins have been placed in your pack.
+[05/03/2020 01:47]  System: You grabbed 7 Items, 162 Gold, 1 Trash Tokens
+[05/03/2020 01:47]  System: Your share of the Gold is 162
+[05/03/2020 01:47]  System: Script <Grab.py> stopped.
+[05/03/2020 01:47]  System: You must wait for 4.63 seconds.
+[05/03/2020 01:47]  System: Script <Grab.py> started.
+[05/03/2020 01:47]  System: Script <Grab.py> stopped.
+[05/03/2020 01:47]  System: You couldn't find anything to grab
+[05/03/2020 01:47]  System: Script <Grab.py> started.
+[05/03/2020 01:47]  System: Script <Grab.py> stopped.
+[05/03/2020 01:47]  System: You are overloaded.  Carrying stones / Max stones : 870 / 747
+[05/03/2020 01:48]  System: You must wait for 3.38 seconds.
+[05/03/2020 01:48]  System: Script <Grab.py> started.
+[05/03/2020 01:48]  System: Script <Grab.py> stopped.
+[05/03/2020 01:48]  System: Script <Grab.py> started.
+[05/03/2020 01:48]  System: You couldn't find anything to grab
+[05/03/2020 01:48]  System: Script <Grab.py> stopped.
+[05/03/2020 01:48]  System: Script <Grab.py> started.
+[05/03/2020 01:48]  System: Script <Grab.py> stopped.
+[05/03/2020 01:48]  System: Script <Grab.py> started.
+[05/03/2020 01:48]  System: You must wait for 3.36 seconds.
+[05/03/2020 01:48]  System: Script <Grab.py> stopped.
+[05/03/2020 01:48]  System: You must wait for 3.08 seconds.
+[05/03/2020 01:48]  System: Script <Grab.py> started.
+[05/03/2020 01:48]  System: You must wait for 2.95 seconds.
+[05/03/2020 01:48]  System: Script <Grab.py> stopped.
+[05/03/2020 01:48]  System: You must wait for 2.77 seconds.
+[05/03/2020 01:48]  System: Script <Grab.py> started.
+[05/03/2020 01:48]  System: Script <Grab.py> stopped.
+[05/03/2020 01:48]  System: You couldn't find anything to grab
+[05/03/2020 01:48]  System: You couldn't find anything to grab
+[05/03/2020 01:48]  System: Script <Grab.py> started.
+[05/03/2020 01:48]  System: Script <Grab.py> stopped.
+[05/03/2020 01:48]  System: Script <Grab.py> started.
+[05/03/2020 01:48]  System: You must wait for 4.61 seconds.
+[05/03/2020 01:48]  System: You must wait for 4.58 seconds.
+[05/03/2020 01:48]  System: Script <Grab.py> stopped.
+[05/03/2020 01:48]  System: Where will you search?
+[05/03/2020 01:48]  You see:  Jasper The ancient vampire
+[05/03/2020 01:48]  System: Your strength has changed by -8.  It is now 194
+[05/03/2020 01:48]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/03/2020 01:48]  System: Setting ability LightningArrow
+[05/03/2020 01:48]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/03/2020 01:48]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/03/2020 01:48]  System: Setting ability PsychicAttack
+[05/03/2020 01:48]  System: Setting ability LightningArrow
+[05/03/2020 01:48]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/03/2020 01:48]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/03/2020 01:48]  System: The Lighting Arrow strikes a target
+[05/03/2020 01:48]  System: You have gained a good amount of fame.
+[05/03/2020 01:48]  System: You have gained a good amount of karma.
+[05/03/2020 01:48]  You see:  the corpse of Jasper
+[05/03/2020 01:48]  System: Setting ability PsychicAttack
+[05/03/2020 01:48]  System: What do you want to use this item on?
+[05/03/2020 01:48]  corpse (2006): *Cutting*
+[05/03/2020 01:48]  System: You carve some meat, which remains on the corpse.
+[05/03/2020 01:48]  System: You attack by psychic energy
+[05/03/2020 01:48]  You see: a giant serpent corpse
+[05/03/2020 01:48]  You see: a giant serpent corpse
+[05/03/2020 01:48]  System: You are overloaded.  Carrying stones / Max stones : 871 / 719
+[05/03/2020 01:48]  System: You are overloaded.  Carrying stones / Max stones : 872 / 719
+[05/03/2020 01:48]  System: You are overloaded.  Carrying stones / Max stones : 873 / 719
+[05/03/2020 01:48]  System: 1,160 gold coins have been placed in your pack.
+[05/03/2020 01:48]  System: You grabbed 3 Items, 1,160 Gold, 46 Trash Tokens
+[05/03/2020 01:48]  System: Your share of the Gold is 1,160
+[05/03/2020 01:48]  System: Script <Grab.py> started.
+[05/03/2020 01:48]  System: Script <Grab.py> stopped.
+[05/03/2020 01:48]  System: You are overloaded.  Carrying stones / Max stones : 873 / 719
+[05/03/2020 01:49]  You see:  a giant serpent 
+[05/03/2020 01:49]  System: The Tookenador Bot: Like my new vault, or this nifty new grab bag?” Then all you gotta do is click some buttons and vote!!! Not only will it help you get some new gear or items but it will bring more people to our server! Let’s make Pandora famous!!! Every vote matters!
+[05/03/2020 01:50]  You see:  Kathooloo's Searching Eye 
+[05/03/2020 01:50]  You see:  a wyvern 
+[05/03/2020 01:50]  You see:  a drake 
+[05/03/2020 01:50]  You see: a drake corpse
+[05/03/2020 01:50]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/03/2020 01:50]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/03/2020 01:50]  You see: a drake corpse
+[05/03/2020 01:50]  System: You have gained a lot of fame.
+[05/03/2020 01:50]  System: You have gained a lot of karma.
+[05/03/2020 01:50]  You see: a blank eye
+[05/03/2020 01:50]  System: What do you want to use this item on?
+[05/03/2020 01:50]  corpse (2006): *Cutting*
+[05/03/2020 01:50]  System: You carve some meat, which remains on the corpse.
+[05/03/2020 01:50]  System: You skin it, and the hides are now in the corpse.
+[05/03/2020 01:50]  System: You cut away some scales, but they remain on the corpse.
+[05/03/2020 01:50]  System: Script <Grab.py> started.
+[05/03/2020 01:50]  System: You are overloaded.  Carrying stones / Max stones : 883 / 719
+[05/03/2020 01:50]  System: You are overloaded.  Carrying stones / Max stones : 983 / 719
+[05/03/2020 01:50]  System: You are overloaded.  Carrying stones / Max stones : 984 / 719
+[05/03/2020 01:50]  System: 209 gold coins have been placed in your pack.
+[05/03/2020 01:50]  System: You grabbed 3 Items, 209 Gold
+[05/03/2020 01:50]  System: Your share of the Gold is 209
+[05/03/2020 01:50]  System: You must wait for 4.98 seconds.
+[05/03/2020 01:50]  System: Script <Grab.py> stopped.
+[05/03/2020 01:50]  You see: a drake corpse
+[05/03/2020 01:50]  You see:  a dragon 
+[05/03/2020 01:50]  System: What do you want to use this item on?
+[05/03/2020 01:50]  corpse (2006): *Cutting*
+[05/03/2020 01:50]  System: You carve some meat, which remains on the corpse.
+[05/03/2020 01:50]  System: You skin it, and the hides are now in the corpse.
+[05/03/2020 01:50]  System: You cut away some scales, but they remain on the corpse.
+[05/03/2020 01:50]  System: You couldn't find anything to grab
+[05/03/2020 01:50]  System: Script <Grab.py> started.
+[05/03/2020 01:50]  System: Script <Grab.py> stopped.
+[05/03/2020 01:50]  System: You are overloaded.  Carrying stones / Max stones : 984 / 719
+[05/03/2020 01:50]  System: Script <Grab.py> started.
+[05/03/2020 01:50]  System: You must wait for 3.61 seconds.
+[05/03/2020 01:50]  System: Script <Grab.py> stopped.
+[05/03/2020 01:50]  System: What should I use these scissors on?
+[05/03/2020 01:50]  System: You are overloaded.  Carrying stones / Max stones : 824 / 719
+[05/03/2020 01:50]  System: Your strength has changed by 8.  It is now 202
+[05/03/2020 01:50]  System: What should I use these scissors on?
+[05/03/2020 01:50]  System: You are overloaded.  Carrying stones / Max stones : 764 / 747
+[05/03/2020 01:50]  System: What should I use these scissors on?
+[05/03/2020 01:50]  You see:  a drake 
+[05/03/2020 01:50]  You see:  a dragon 
+[05/03/2020 01:50]  You see:  a drake 
+[05/03/2020 01:50]  System: You have gained a lot of fame.
+[05/03/2020 01:50]  System: You have gained a lot of karma.
+[05/03/2020 01:50]  You see: a dragon corpse
+[05/03/2020 01:50]  System: Each piece of your equipment gained 16 Tier XP!
+[05/03/2020 01:50]  You see: a drake corpse
+[05/03/2020 01:50]  System: Each piece of your equipment gained 18 Tier XP!
+[05/03/2020 01:50]  You see: a drake corpse
+[05/03/2020 01:50]  You see:  a dragon 
+[05/03/2020 01:50]  System: You have gained a lot of fame.
+[05/03/2020 01:50]  System: You have gained a lot of karma.
+[05/03/2020 01:50]  You see: a dragon corpse
+[05/03/2020 01:50]  You see:  a drake 
+[05/03/2020 01:51]  You see: a drake corpse
+[05/03/2020 01:51]  System: Each piece of your equipment gained 17 Tier XP!
+[05/03/2020 01:51]  You see: a drake corpse
+[05/03/2020 01:51]  You see: a drake corpse
+[05/03/2020 01:51]  You see:  a drake 
+[05/03/2020 01:51]  System: Each piece of your equipment gained 17 Tier XP!
+[05/03/2020 01:51]  System: What do you want to use this item on?
+[05/03/2020 01:51]  corpse (2006): *Cutting*
+[05/03/2020 01:51]  System: You carve some meat, which remains on the corpse.
+[05/03/2020 01:51]  System: You skin it, and the hides are now in the corpse.
+[05/03/2020 01:51]  System: You cut away some scales, but they remain on the corpse.
+[05/03/2020 01:51]  System: You have gained a lot of fame.
+[05/03/2020 01:51]  System: You have gained a lot of karma.
+[05/03/2020 01:51]  System: Each piece of your equipment gained 35 Tier XP!
+[05/03/2020 01:51]  You see: a dragon corpse
+[05/03/2020 01:51]  PigletForDinner: * The poison seems to have no effect. *
+[05/03/2020 01:51]  You see:  a dragon 
+[05/03/2020 01:51]  You see:  a drake 
+[05/03/2020 01:51]  You see:  a wyvern 
+[05/03/2020 01:51]  You see:  a drake 
+[05/03/2020 01:51]  System: You have gained a lot of fame.
+[05/03/2020 01:51]  System: You have gained a lot of karma.
+[05/03/2020 01:51]  You see:  a drake 
+[05/03/2020 01:51]  You see:  a drake 
+[05/03/2020 01:51]  You see:  a drake 
+[05/03/2020 01:51]  You see:  a drake 
+[05/03/2020 01:51]  You see:  a dragon 
+[05/03/2020 01:51]  You see: a drake corpse
+[05/03/2020 01:51]  You see: a wyvern corpse
+[05/03/2020 01:51]  System: You have gained a lot of fame.
+[05/03/2020 01:51]  System: You have gained a lot of karma.
+[05/03/2020 01:51]  You see: a dragon corpse
+[05/03/2020 01:51]  You see: a drake corpse
+[05/03/2020 01:51]  You see: a drake corpse
+[05/03/2020 01:51]  You see: a drake corpse
+[05/03/2020 01:51]  You see: a drake corpse
+[05/03/2020 01:51]  You see:  a water elemental 
+[05/03/2020 01:51]  You see:  a water elemental 
+[05/03/2020 01:51]  You see:  a water elemental 
+[05/03/2020 01:51]  You see:  a water elemental 
+[05/03/2020 01:51]  You see:  a water elemental 
+[05/03/2020 01:51]  You see:  a water elemental 
+[05/03/2020 01:51]  You see: a water elemental corpse
+[05/03/2020 01:51]  System: You feel yourself resisting magical energy.
+[05/03/2020 01:51]  System: What do you want to use this item on?
+[05/03/2020 01:51]  corpse (2006): *Cutting*
+[05/03/2020 01:51]  System: You see nothing useful to carve from the corpse.
+[05/03/2020 01:51]  You see: a water elemental corpse
+[05/03/2020 01:51]  corpse (2006): *Cutting*
+[05/03/2020 01:51]  System: You feel yourself resisting magical energy.
+[05/03/2020 01:51]  You see: a water elemental corpse
+[05/03/2020 01:51]  You see: a water elemental corpse
+[05/03/2020 01:51]  System: What do you want to use this item on?
+[05/03/2020 01:51]  System: You see nothing useful to carve from the corpse.
+[05/03/2020 01:51]  corpse (2006): *Cutting*
+[05/03/2020 01:51]  You see: a water elemental corpse
+[05/03/2020 01:51]  You see: a water elemental corpse
+[05/03/2020 01:51]  corpse (2006): *Cutting*
+[05/03/2020 01:51]  System: What do you want to use this item on? [2]
+[05/03/2020 01:51]  System: You see nothing useful to carve from the corpse. [2]
+[05/03/2020 01:51]  You see: a water elemental corpse
+[05/03/2020 01:51]  corpse (2006): *Cutting*
+[05/03/2020 01:51]  You see: a water elemental corpse
+[05/03/2020 01:51]  corpse (2006): *Cutting*
+[05/03/2020 01:52]  corpse (2006): *Cutting*
+[05/03/2020 01:52]  System: What do you want to use this item on? [3]
+[05/03/2020 01:52]  System: You see nothing useful to carve from the corpse. [3]
+[05/03/2020 01:52]  System: 271 gold coins have been placed in your pack.
+[05/03/2020 01:52]  System: You grabbed 5 Items, 271 Gold
+[05/03/2020 01:52]  System: Your share of the Gold is 271
+[05/03/2020 01:52]  System: Script <Grab.py> started.
+[05/03/2020 01:52]  System: You must wait for 4.91 seconds.
+[05/03/2020 01:52]  System: Script <Grab.py> stopped.
+[05/03/2020 01:52]  System: 165 gold coins have been placed in your pack.
+[05/03/2020 01:52]  System: You grabbed 3 Items, 165 Gold
+[05/03/2020 01:52]  System: Your share of the Gold is 165
+[05/03/2020 01:52]  System: Script <Grab.py> started.
+[05/03/2020 01:52]  System: Script <Grab.py> stopped.
+[05/03/2020 01:52]  System: You can't use this bank stone while in combat.
+[05/03/2020 01:52]  System: You can't use this bank stone while in combat. [2]
+[05/03/2020 01:52]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/03/2020 01:52]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/03/2020 01:52]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/03/2020 01:52]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/03/2020 01:52]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/03/2020 01:52]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/03/2020 01:52]  Hobo Jim: Bank container has 204 items, 1061 stones
+[05/03/2020 01:52]  System: You can't use this bank stone while in combat.
+[05/03/2020 01:52]  System: Resource Box: I added 15 Cut Leather to my storage!
+[05/03/2020 01:52]  System: Resource Box: I added 30 Cut Leather to my storage!
+[05/03/2020 01:52]  System: Resource Box: I added 40 Cut Leather to my storage!
+[05/03/2020 01:52]  You see:  a wyvern 
+[05/03/2020 01:52]  System: You have gained a lot of fame.
+[05/03/2020 01:52]  System: You have gained a lot of karma.
+[05/03/2020 01:52]  You see: a dragon corpse
+[05/03/2020 01:52]  You see:  a dragon 
+[05/03/2020 01:52]  You see:  a wyvern 
+[05/03/2020 01:52]  You see:  PigletForDinner 
+[05/03/2020 01:52]  You see:  a wyvern 
+[05/03/2020 01:52]  PigletForDinner: * The poison seems to have no effect. *
+[05/03/2020 01:53]  You see: a wyvern corpse
+[05/03/2020 01:53]  System: You have gained a lot of fame.
+[05/03/2020 01:53]  System: You have gained a lot of karma.
+[05/03/2020 01:53]  System: Each piece of your equipment gained 35 Tier XP!
+[05/03/2020 01:53]  You see: a dragon corpse
+[05/03/2020 01:53]  System: Each piece of your equipment gained 22 Tier XP!
+[05/03/2020 01:53]  You see: a wyvern corpse
+[05/03/2020 01:53]  You see:  a giant serpent 
+[05/03/2020 01:53]  You see:  a giant serpent 
+[05/03/2020 01:53]  You see:  a giant serpent 
+[05/03/2020 01:53]  You see:  a giant serpent 
+[05/03/2020 01:53]  You see:  a giant serpent 
+[05/03/2020 01:53]  You see:  a giant serpent 
+[05/03/2020 01:53]  PigletForDinner: * The poison seems to have no effect. *
+[05/03/2020 01:53]  You see: a giant serpent corpse
+[05/03/2020 01:53]  You see:  a water elemental 
+[05/03/2020 01:53]  You see:  a water elemental 
+[05/03/2020 01:53]  You see:  PigletForDinner 
+[05/03/2020 01:53]  You see:  a giant serpent 
+[05/03/2020 01:53]  You see: a giant serpent corpse
+[05/03/2020 01:53]  You see: a giant serpent corpse
+[05/03/2020 01:53]  You see:  a drake 
+[05/03/2020 01:53]  You see:  a dragon 
+[05/03/2020 01:53]  You see: a wyvern corpse
+[05/03/2020 01:53]  You see:  a water elemental 
+[05/03/2020 01:53]  You see:  a dragon 
+[05/03/2020 01:53]  You see:  a drake 
+[05/03/2020 01:53]  Hobo Jim: * You feel disoriented and nauseous! *
+[05/03/2020 01:53]  You see:  PigletForDinner 
+[05/03/2020 01:53]  You see:  a wyvern 
+[05/03/2020 01:53]  Hobo Jim: An Nox [Cure]
+[05/03/2020 01:53]  System: You have been cured of all poisons!
+[05/03/2020 01:53]  You see: a drake corpse
+[05/03/2020 01:53]  System: You have gained a lot of fame.
+[05/03/2020 01:53]  System: You have gained a lot of karma.
+[05/03/2020 01:53]  You see: a dragon corpse
+[05/03/2020 01:53]  System: You have gained a lot of fame.
+[05/03/2020 01:53]  System: You have gained a lot of karma.
+[05/03/2020 01:53]  System: Each piece of your equipment gained 34 Tier XP!
+[05/03/2020 01:53]  You see: a dragon corpse
+[05/03/2020 01:53]  System: Each piece of your equipment gained 18 Tier XP!
+[05/03/2020 01:53]  You see: a drake corpse
+[05/03/2020 01:53]  You see: a wyvern corpse
+[05/03/2020 01:54]  You see:  a water elemental 
+[05/03/2020 01:54]  You see:  a water elemental 
+[05/03/2020 01:54]  You see:  a drake 
+[05/03/2020 01:54]  You see: a water elemental corpse
+[05/03/2020 01:54]  You see: a water elemental corpse
+[05/03/2020 01:54]  You see: a drake corpse
+[05/03/2020 01:54]  Hobo Jim: *You feel a bit nauseous*
+[05/03/2020 01:54]  Hobo Jim: An Nox [Cure]
+[05/03/2020 01:54]  System: You are frozen and cannot move.
+[05/03/2020 01:54]  System: You have been cured of all poisons!
+[05/03/2020 01:54]  Hobo Jim: In Mani [Heal]
+[05/03/2020 01:54]  System: You are already casting a spell.
+[05/03/2020 01:54]  Hobo Jim: * You feel disoriented and nauseous! *
+[05/03/2020 01:54]  Hobo Jim: You cannot heal yourself in your current state.
+[05/03/2020 01:54]  System: You have not yet recovered from casting a spell.
+[05/03/2020 01:54]  Hobo Jim: An Nox [Cure]
+[05/03/2020 01:54]  You see: a water elemental corpse
+[05/03/2020 01:54]  Hobo Jim: In Mani [Heal]
+[05/03/2020 01:54]  System: You have gained a lot of fame.
+[05/03/2020 01:54]  System: You have gained a lot of karma.
+[05/03/2020 01:54]  You see: a dragon corpse
+[05/03/2020 01:54]  System: You are frozen and cannot move.
+[05/03/2020 01:54]  Hobo Jim: In Mani [Heal]
+[05/03/2020 01:54]  System: You have been cured of all poisons!
+[05/03/2020 01:54]  System: You have not yet recovered from casting a spell.
+[05/03/2020 01:54]  Hobo Jim: I can't reach that.
+[05/03/2020 01:54]  You see: a water elemental corpse
+[05/03/2020 01:54]  System: Script <Grab.py> started.
+[05/03/2020 01:54]  System: 58 gold coins have been placed in your pack.
+[05/03/2020 01:54]  System: You grabbed 1 Items, 58 Gold
+[05/03/2020 01:54]  System: Your share of the Gold is 58
+[05/03/2020 01:54]  System: You must wait for 4.98 seconds.
+[05/03/2020 01:54]  System: Script <Grab.py> stopped.
+[05/03/2020 01:54]  System: What do you want to use this item on?
+[05/03/2020 01:54]  corpse (2006): *Cutting*
+[05/03/2020 01:54]  System: You see nothing useful to carve from the corpse.
+[05/03/2020 01:54]  System: You must wait for 3.19 seconds.
+[05/03/2020 01:54]  System: Script <Grab.py> started.
+[05/03/2020 01:54]  System: Script <Grab.py> stopped.
+[05/03/2020 01:54]  You see:  a drake 
+[05/03/2020 01:54]  You see:  a wyvern 
+[05/03/2020 01:54]  You see:  a lich 
+[05/03/2020 01:54]  You see:  a dragon 
+[05/03/2020 01:54]  You see:  a drake 
+[05/03/2020 01:54]  You see:  a drake 
+[05/03/2020 01:54]  You see:  a drake 
+[05/03/2020 01:54]  System: You have gained a lot of fame.
+[05/03/2020 01:54]  System: You have gained a lot of karma.
+[05/03/2020 01:54]  You see: a dragon corpse
+[05/03/2020 01:54]  You see: a drake corpse
+[05/03/2020 01:54]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/03/2020 01:54]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/03/2020 01:54]  You see: a drake corpse
+[05/03/2020 01:54]  You see: a lich corpse
+[05/03/2020 01:54]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/03/2020 01:54]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/03/2020 01:54]  You see: a wyvern corpse
+[05/03/2020 01:54]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/03/2020 01:54]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/03/2020 01:54]  System: Each piece of your equipment gained 18 Tier XP!
+[05/03/2020 01:54]  You see: a drake corpse
+[05/03/2020 01:55]  You see:  a drake 
+[05/03/2020 01:55]  You see:  a water elemental 
+[05/03/2020 01:55]  You see:  a drake 
+[05/03/2020 01:55]  You see: a drake corpse
+[05/03/2020 01:55]  You see:  a wyvern 
+[05/03/2020 01:55]  You see:  a water elemental 
+[05/03/2020 01:55]  You see: a water elemental corpse
+[05/03/2020 01:55]  You see: a drake corpse
+[05/03/2020 01:55]  You see:  a wyvern 
+[05/03/2020 01:55]  You see:  a giant serpent 
+[05/03/2020 01:55]  You see:  a water elemental 
+[05/03/2020 01:55]  You see:  a wyvern 
+[05/03/2020 01:55]  PigletForDinner: * The poison seems to have no effect. *
+[05/03/2020 01:55]  System: What do you want to use this item on?
+[05/03/2020 01:55]  corpse (2006): *Cutting*
+[05/03/2020 01:55]  System: You see nothing useful to carve from the corpse.
+[05/03/2020 01:55]  PigletForDinner: * The poison seems to have no effect. *
+[05/03/2020 01:55]  You see: a wyvern corpse
+[05/03/2020 01:55]  System: 163 gold coins have been placed in your pack.
+[05/03/2020 01:55]  System: You grabbed 1 Items, 163 Gold
+[05/03/2020 01:55]  System: Your share of the Gold is 163
+[05/03/2020 01:55]  System: Script <Grab.py> started.
+[05/03/2020 01:55]  System: Script <Grab.py> stopped.
+[05/03/2020 01:55]  You see: a water elemental corpse
+[05/03/2020 01:55]  You see:  a drake 
+[05/03/2020 01:55]  System: Each piece of your equipment gained 20 Tier XP!
+[05/03/2020 01:55]  You see: a wyvern corpse
+[05/03/2020 01:55]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/03/2020 01:55]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/03/2020 01:55]  You see:  a water elemental 
+[05/03/2020 01:55]  You see:  a water elemental 
+[05/03/2020 01:55]  You see:  a water elemental 
+[05/03/2020 01:55]  You see:  a water elemental 
+[05/03/2020 01:55]  You see: a drake corpse
+[05/03/2020 01:55]  You see:  a giant serpent 
+[05/03/2020 01:55]  You see:  a water elemental 
+[05/03/2020 01:55]  You see:  a giant serpent 
+[05/03/2020 01:55]  You see: a giant serpent corpse
+[05/03/2020 01:55]  System: What do you want to use this item on?
+[05/03/2020 01:55]  corpse (2006): *Cutting*
+[05/03/2020 01:55]  System: You carve some meat, which remains on the corpse.
+[05/03/2020 01:55]  System: You skin it, and the hides are now in the corpse.
+[05/03/2020 01:55]  System: Each piece of your equipment gained 9 Tier XP!
+[05/03/2020 01:55]  You see: a giant serpent corpse
+[05/03/2020 01:55]  You see: a water elemental corpse
+[05/03/2020 01:55]  System: Each piece of your equipment gained 9 Tier XP!
+[05/03/2020 01:55]  You see: a giant serpent corpse
+[05/03/2020 01:55]  You see:  a giant serpent 
+[05/03/2020 01:56]  You see:  a drake 
+[05/03/2020 01:56]  You see:  a wyvern 
+[05/03/2020 01:56]  You see: a wyvern corpse
+[05/03/2020 01:56]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/03/2020 01:56]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/03/2020 01:56]  System: Each piece of your equipment gained 18 Tier XP!
+[05/03/2020 01:56]  You see: a drake corpse
+[05/03/2020 01:56]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/03/2020 01:56]  You see: a drake corpse
+[05/03/2020 01:56]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/03/2020 01:56]  You see:  a greater dragon 
+[05/03/2020 01:56]  Hobo Jim: All Follow Me
+[05/03/2020 01:56]  Hobo Jim: All Guard Me
+[05/03/2020 01:56]  System: PigletForDinner is now guarding you.
+[05/03/2020 01:56]  You see:  a dragon 
+[05/03/2020 01:56]  You see:  a wyvern 
+[05/03/2020 01:56]  Hobo Jim: All Follow Me
+[05/03/2020 01:56]  Hobo Jim: All Follow Me
+[05/03/2020 01:56]  Hobo Jim: All Follow Me
+[05/03/2020 01:56]  Hobo Jim: All Follow Me
+[05/03/2020 01:56]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/03/2020 01:56]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/03/2020 01:56]  You see:  a dragon 
+[05/03/2020 01:56]  You see:  a drake 
+[05/03/2020 01:56]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/03/2020 01:56]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/03/2020 01:56]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/03/2020 01:56]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/03/2020 01:56]  Hobo Jim: All Kill
+[05/03/2020 01:56]  System: You have gained a lot of fame.
+[05/03/2020 01:56]  System: You have gained a lot of karma.
+[05/03/2020 01:56]  You see: a dragon corpse
+[05/03/2020 01:56]  Hobo Jim: All Kill
+[05/03/2020 01:56]  PigletForDinner: * The poison seems to have no effect. *
+[05/03/2020 01:56]  Hobo Jim: All Kill
+[05/03/2020 01:56]  PigletForDinner: * The poison seems to have no effect. *
+[05/03/2020 01:56]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/03/2020 01:56]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/03/2020 01:56]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/03/2020 01:56]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/03/2020 01:56]  System: Each piece of your equipment gained 17 Tier XP!
+[05/03/2020 01:56]  You see: a drake corpse
+[05/03/2020 01:56]  You see:  a dragon 
+[05/03/2020 01:56]  Hobo Jim: * You feel disoriented and nauseous! *
+[05/03/2020 01:57]  Hobo Jim: * You feel disoriented and nauseous! *
+[05/03/2020 01:57]  System: Setting ability LightningArrow
+[05/03/2020 01:57]  System: The Lighting Arrow strikes a target
+[05/03/2020 01:57]  System: Setting ability LightningArrow
+[05/03/2020 01:57]  System: You need 12 mana to perform that attack
+[05/03/2020 01:57]  Hobo Jim: All Kill
+[05/03/2020 01:57]  System: You have gained a lot of fame.
+[05/03/2020 01:57]  System: You have gained a lot of karma.
+[05/03/2020 01:57]  You see: a dragon corpse
+[05/03/2020 01:57]  System: Your strength has changed by -5.  It is now 197
+[05/03/2020 01:57]  System: Your dexterity has changed by -6.  It is now 202
+[05/03/2020 01:57]  Hobo Jim: * You feel disoriented and nauseous! *
+[05/03/2020 01:57]  Hobo Jim: An Nox [Cure]
+[05/03/2020 01:57]  System: Your concentration is disturbed, thus ruining thy spell.
+[05/03/2020 01:57]  Hobo Jim: An Nox [Cure]
+[05/03/2020 01:57]  Hobo Jim: An Nox [Cure]
+[05/03/2020 01:57]  System: You are frozen and cannot move.
+[05/03/2020 01:57]  System: You are already casting a spell.
+[05/03/2020 01:57]  System: You have been cured of all poisons!
+[05/03/2020 01:57]  Hobo Jim: In Mani [Heal]
+[05/03/2020 01:57]  System: some damage has been healed : 6
+[05/03/2020 01:57]  a greater dragon: You seem to anger the beast!
+[05/03/2020 01:57]  a greater dragon: You seem to anger the beast!
+[05/03/2020 01:57]  a greater dragon: You seem to anger the beast!
+[05/03/2020 01:57]  a greater dragon: You seem to anger the beast!
+[05/03/2020 01:57]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/03/2020 01:57]  System: some damage has been healed : 72
+[05/03/2020 01:57]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/03/2020 01:57]  System: some damage has been healed : 64
+[05/03/2020 01:57]  a greater dragon: You seem to anger the beast!
+[05/03/2020 01:57]  a greater dragon: You seem to anger the beast!
+[05/03/2020 01:57]  a greater dragon: You seem to anger the beast!
+[05/03/2020 01:57]  a greater dragon: You seem to anger the beast!
+[05/03/2020 01:57]  Hobo Jim: You have hidden yourself well.
+[05/03/2020 01:58]  a greater dragon: You seem to anger the beast!
+[05/03/2020 01:58]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/03/2020 01:58]  System: some damage has been healed : 70
+[05/03/2020 01:58]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/03/2020 01:58]  System: some damage has been healed : 40
+[05/03/2020 01:58]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/03/2020 01:58]  System: Your concentration is disturbed, thus ruining thy spell.
+[05/03/2020 01:58]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/03/2020 01:58]  System: some damage has been healed : 67
+[05/03/2020 01:58]  System: You have not yet recovered from casting a spell.
+[05/03/2020 01:58]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/03/2020 01:58]  System: some damage has been healed : 38
+[05/03/2020 01:58]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/03/2020 01:58]  System: You are already casting a spell.
+[05/03/2020 01:58]  System: some damage has been healed : 62
+[05/03/2020 01:58]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/03/2020 01:58]  System: some damage has been healed : 67
+[05/03/2020 01:58]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/03/2020 01:58]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/03/2020 01:58]  System: You are already casting a spell.
+[05/03/2020 01:58]  System: Setting ability LightningArrow
+[05/03/2020 01:58]  System: The Lighting Arrow strikes a target
+[05/03/2020 01:59]  System: Setting ability LightningArrow
+[05/03/2020 01:59]  System: The Lighting Arrow strikes a target
+[05/03/2020 01:59]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/03/2020 01:59]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/03/2020 01:59]  You see:  a greater dragon 
+[05/03/2020 01:59]  a greater dragon: You seem to anger the beast!
+[05/03/2020 02:00]  System: That is too far away.
+[05/03/2020 02:00]  a greater dragon: You seem to anger the beast!
+[05/03/2020 02:00]  System: Tame which animal?
+[05/03/2020 02:00]  Hobo Jim: *You start to tame the creature.*
+[05/03/2020 02:00]  Hobo Jim: Nice...
+[05/03/2020 02:00]  You see:  a dragon 
+[05/03/2020 02:00]  Hobo Jim: Will you be my friend?
+[05/03/2020 02:00]  a greater dragon: It seems to accept you as master.
+[05/03/2020 02:00]  System: Tame which animal?
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:00]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  System: Tame which animal? [79]
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  System: Tame which animal? [82]
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  System: Tame which animal? [82]
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  a greater dragon: That animal looks tame already.
+[05/03/2020 02:01]  System: Tame which animal? [76]
+[05/03/2020 02:01]  System: That is too far away.
+[05/03/2020 02:01]  System: Your strength has changed by 5.  It is now 202
+[05/03/2020 02:01]  System: Your dexterity has changed by 6.  It is now 208
+[05/03/2020 02:02]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/03/2020 02:02]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/03/2020 02:02]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/03/2020 02:02]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/03/2020 02:02]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/03/2020 02:02]  System: You place the PigletForDinner Idol into your pack.
+[05/03/2020 02:02]  System: Screenshot stored in: C:\Users\crame\Desktop\ClassicUO-Dev\Data\Client\Screenshots\screenshot_2020-05-03_02-02-41.png
+[05/03/2020 02:03]  You see:  a greater dragon 
+[05/03/2020 02:03]  You see:  Hadden the banker
+[05/03/2020 02:03]  You see:  Nelson the wandering healer
+[05/03/2020 02:03]  System: You have been teleported to: Luna - Bank
+[05/03/2020 02:03]  You see:   The Prov
+[05/03/2020 02:03]  You see:   the tinker
+[05/03/2020 02:03]  You see:   the alchemist
+[05/03/2020 02:03]  You see:   the Holy Mage
+[05/03/2020 02:03]  You see:  a glass city kitsune 
+[05/03/2020 02:03]  You see:  Deacon the brewer
+[05/03/2020 02:03]  You see:  Coldsteel the hallowed
+[05/03/2020 02:03]  You see:  Lord Blackthorne 
+[05/03/2020 02:03]  You see:  a greater dragon 
+[05/03/2020 02:03]  You see:   the Keeper of Chivalry
+[05/03/2020 02:03]  You see:   the Keeper of Chivalry
+[05/03/2020 02:03]  You see:  Sherman the bounty officer
+[05/03/2020 02:03]  You see:  a rabbit 
+[05/03/2020 02:03]  System: WorldMap loaded!
+[05/03/2020 02:03]  You see:  Gorrow the mayor
+[05/03/2020 02:03]  You see:   the battle trafficker
+[05/03/2020 02:03]  You see:   the real estate broker
+[05/03/2020 02:03]  You see:  Tabari the animal trainer
+[05/03/2020 02:03]  You see:  Bonny The Luna Librarian
+[05/03/2020 02:03]  You see:  Deacon the brewer
+[05/03/2020 02:03]  You see:  a glass city kitsune 
+[05/03/2020 02:03]  You see:  a rabbit 
+[05/03/2020 02:03]  You see: Lord The Animal [CoF]
+[05/03/2020 02:03]  You see:   the hairstylist
+[05/03/2020 02:03]  You see:   the innkeeper
+[05/03/2020 02:03]  System: You have entered Luna Bank
+[05/03/2020 02:03]  You see:  Seti [AoV]
+[05/03/2020 02:03]  You see:   the town crier
+[05/03/2020 02:03]  You see:   
+[05/03/2020 02:03]  You see: Lord blackmyst [WSF]
+[05/03/2020 02:03]  : Greetings.  Have a look around.
+[05/03/2020 02:03]  System: Script <Grab.py> started.
+[05/03/2020 02:03]  System: You couldn't find anything to grab
+[05/03/2020 02:03]  System: You must wait for 4.94 seconds.
+[05/03/2020 02:03]  System: Script <Grab.py> stopped.
+[05/03/2020 02:03]  System: Script <Grab.py> started.
+[05/03/2020 02:03]  System: You must wait for 4.66 seconds.
+[05/03/2020 02:03]  System: You must wait for 4.63 seconds.
+[05/03/2020 02:03]  System: Script <Grab.py> stopped.
+[05/03/2020 02:03]  System: You must wait for 4.3 seconds.
+[05/03/2020 02:03]  System: Script <Grab.py> started.
+[05/03/2020 02:03]  System: Script <Grab.py> stopped.
+[05/03/2020 02:03]  System: Script <Grab.py> started.
+[05/03/2020 02:03]  System: You must wait for 3.98 seconds.
+[05/03/2020 02:03]  System: You must wait for 3.97 seconds.
+[05/03/2020 02:03]  System: You must wait for 3.86 seconds.
+[05/03/2020 02:03]  System: You must wait for 3.69 seconds.
+[05/03/2020 02:03]  System: You must wait for 3.58 seconds.
+[05/03/2020 02:03]  System: Script <Grab.py> stopped.
+[05/03/2020 02:03]  System: Script <Grab.py> started.
+[05/03/2020 02:03]  System: You must wait for 3.37 seconds.
+[05/03/2020 02:03]  System: Script <Grab.py> stopped.
+[05/03/2020 02:03]  System: You must wait for 3.08 seconds.
+[05/03/2020 02:03]  System: Script <Grab.py> started.
+[05/03/2020 02:03]  System: Script <Grab.py> stopped.
+[05/03/2020 02:03]  System: You must wait for 1.89 seconds.
+[05/03/2020 02:03]  System: Script <Grab.py> started.
+[05/03/2020 02:03]  System: Script <Grab.py> stopped.
+[05/03/2020 02:03]  System: Script <Grab.py> started.
+[05/03/2020 02:03]  System: You must wait for 1.58 seconds.
+[05/03/2020 02:03]  System: You must wait for 1.56 seconds.
+[05/03/2020 02:03]  System: Script <Grab.py> stopped.
+[05/03/2020 02:03]  System: Script <Grab.py> started.
+[05/03/2020 02:03]  System: You must wait for 1.3 seconds.
+[05/03/2020 02:03]  System: You must wait for 1.23 seconds.
+[05/03/2020 02:03]  System: Script <Grab.py> stopped.
+[05/03/2020 02:03]  System: You must wait for 0.98 seconds.
+[05/03/2020 02:03]  System: Script <Grab.py> started.
+[05/03/2020 02:03]  System: You must wait for 0.87 seconds.
+[05/03/2020 02:03]  System: You must wait for 0.7 seconds.
+[05/03/2020 02:03]  System: Script <Grab.py> stopped.
+[05/03/2020 02:03]  System: Script <Grab.py> started.
+[05/03/2020 02:03]  System: You couldn't find anything to grab
+[05/03/2020 02:03]  System: You must wait for 4.95 seconds.
+[05/03/2020 02:03]  System: Script <Grab.py> stopped.
+[05/03/2020 02:03]  System: You must wait for 4.61 seconds.
+[05/03/2020 02:03]  System: Script <Grab.py> started.
+[05/03/2020 02:03]  System: Script <Grab.py> stopped.
+[05/03/2020 02:03]  System: You must wait for 0.7 seconds.
+[05/03/2020 02:03]  : The total of thy purchase is 340 Gold.  My thanks for the patronage.
+[05/03/2020 02:05]  System: You couldn't find anything to grab
+[05/03/2020 02:05]  System: Script <Grab.py> started.
+[05/03/2020 02:05]  System: Script <Grab.py> stopped.
+[05/03/2020 02:05]  System: You have left Luna Bank
+[05/03/2020 02:05]  You see:   the Keeper of Chivalry
+[05/03/2020 02:05]  You see:   the Keeper of Chivalry
+[05/03/2020 02:05]  You see:  Tabari the animal trainer
+[05/03/2020 02:06]  You see:  Tabari the animal trainer
+[05/03/2020 02:06]  You see:  Bonny The Luna Librarian
+[05/03/2020 02:06]  Hobo Jim: stable
+[05/03/2020 02:06]  System: I charge 30 gold per pet for a real week's stable time. I will withdraw it from thy bank account. Which animal wouldst thou like to stable here?
+[05/03/2020 02:06]  Tabari: Your pet has been stabled.
+[05/03/2020 02:06]  Hobo Jim: claim list
+[05/03/2020 02:06]  Tabari: Here you go... and good day to you!
+[05/03/2020 02:06]  You see:  BullBalls 
+[05/03/2020 02:06]  System: You must wait to perform another action.
+[05/03/2020 02:06]  System: Click on the person to transfer ownership to.
+[05/03/2020 02:06]  Hobo Jim: stable
+[05/03/2020 02:06]  System: I charge 30 gold per pet for a real week's stable time. I will withdraw it from thy bank account. Which animal wouldst thou like to stable here?
+[05/03/2020 02:06]  Tabari: Your pet has been stabled.
+[05/03/2020 02:07]  You see:   the Keeper of Chivalry
+[05/03/2020 02:07]  You see:   the alchemist
+[05/03/2020 02:07]  You see: Go-Cart
+[05/03/2020 02:07]  You see: Lord Brady [NPA]
+[05/03/2020 02:07]  You see: Lord Brady [NPA]
+[05/03/2020 02:07]  System: That is not accessible.
+[05/03/2020 02:07]  System: You must wait to perform another action.
+[05/03/2020 02:07]  Erol: Greetings.  Have a look around.
+[05/03/2020 02:07]  System: Script <Grab.py> started.
+[05/03/2020 02:07]  System: You couldn't find anything to grab
+[05/03/2020 02:07]  System: You must wait for 4.94 seconds.
+[05/03/2020 02:07]  System: Script <Grab.py> stopped.
+[05/03/2020 02:07]  System: You must wait for 4.69 seconds.
+[05/03/2020 02:07]  System: Script <Grab.py> started.
+[05/03/2020 02:07]  System: Script <Grab.py> stopped.
+[05/03/2020 02:07]  System: You must wait for 4.39 seconds.
+[05/03/2020 02:07]  System: Script <Grab.py> started.
+[05/03/2020 02:07]  System: Script <Grab.py> stopped.
+[05/03/2020 02:07]  You see: Wheel

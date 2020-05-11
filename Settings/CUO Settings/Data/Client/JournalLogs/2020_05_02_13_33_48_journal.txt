@@ -1,0 +1,248 @@
+[05/02/2020 13:33]  System: WorldMap loading...
+[05/02/2020 13:33]  System: You have 0 of max 50 in your mailbox.
+[05/02/2020 13:33]  You see: Lord Hobo Jim [SOUL]
+[05/02/2020 13:33]  You see:  Spenser the banker
+[05/02/2020 13:33]  System: 
+[05/02/2020 13:33]  You see:  Spenser the banker
+[05/02/2020 13:33]  System: Loading WorldMap markers..
+[05/02/2020 13:33]  System: WorldMap markers loaded (0)
+[05/02/2020 13:33]  System: WorldMap loaded!
+[05/02/2020 13:33]  System: AUTOLOOT: Engine Start...
+[05/02/2020 13:34]  System: You have left the Pandora Casino & Pandora Coin store area.
+[05/02/2020 13:34]  System: You are now under the protection of the town guards.
+[05/02/2020 13:34]  You see:  Treva the banker
+[05/02/2020 13:34]  You see:  Laird the minter
+[05/02/2020 13:34]  You see:  Ace the general goods seller
+[05/02/2020 13:34]  You see:  Narmada the universal repairdeed seller
+[05/02/2020 13:34]  You see:  Ivana the Gold Sink Banker
+[05/02/2020 13:34]  You see:  Nori the jeweler
+[05/02/2020 13:34]  System: WorldMap loaded!
+[05/02/2020 13:34]  You see:  Ivana the Gold Sink Banker
+[05/02/2020 13:34]  You see:  Ludia the cobbler
+[05/02/2020 13:34]  You see:  Clementina the provisioner
+[05/02/2020 13:34]  You see:  Mason the cook
+[05/02/2020 13:34]  You see:  Emilio the tortured artist
+[05/02/2020 13:34]  Clementina: Greetings.  Have a look around.
+[05/02/2020 13:34]  System: Script <Grab.py> started.
+[05/02/2020 13:34]  System: Script <Grab.py> stopped.
+[05/02/2020 13:34]  System: Script <Grab.py> started.
+[05/02/2020 13:34]  System: Script <Grab.py> stopped.
+[05/02/2020 13:34]  System: Script <Grab.py> started.
+[05/02/2020 13:34]  System: Script <Grab.py> stopped.
+[05/02/2020 13:34]  System: Script <Grab.py> started.
+[05/02/2020 13:34]  System: You can't do that in towns.
+[05/02/2020 13:34]  System: Script <Grab.py> stopped.
+[05/02/2020 13:34]  System: Script <Grab.py> started.
+[05/02/2020 13:34]  System: Script <Grab.py> stopped.
+[05/02/2020 13:34]  System: Script <Grab.py> started.
+[05/02/2020 13:34]  System: Script <Grab.py> stopped.
+[05/02/2020 13:34]  System: Script <Grab.py> started.
+[05/02/2020 13:34]  System: Script <Grab.py> stopped.
+[05/02/2020 13:34]  System: Script <Grab.py> started.
+[05/02/2020 13:34]  System: Script <Grab.py> stopped.
+[05/02/2020 13:34]  System: Script <Grab.py> started.
+[05/02/2020 13:34]  System: Script <Grab.py> stopped.
+[05/02/2020 13:34]  System: Script <Grab.py> started.
+[05/02/2020 13:34]  System: Script <Grab.py> stopped.
+[05/02/2020 13:34]  System: Script <Grab.py> started.
+[05/02/2020 13:34]  System: Script <Grab.py> stopped.
+[05/02/2020 13:34]  System: Script <Grab.py> started.
+[05/02/2020 13:34]  System: Script <Grab.py> stopped.
+[05/02/2020 13:34]  System: Script <Grab.py> started.
+[05/02/2020 13:34]  System: Script <Grab.py> stopped.
+[05/02/2020 13:34]  System: Script <Grab.py> started.
+[05/02/2020 13:34]  System: Script <Grab.py> stopped.
+[05/02/2020 13:34]  System: Script <Grab.py> started.
+[05/02/2020 13:34]  System: You can't do that in towns. [14]
+[05/02/2020 13:34]  System: Script <Grab.py> stopped.
+[05/02/2020 13:34]  System: Script <Grab.py> started.
+[05/02/2020 13:34]  System: Script <Grab.py> stopped.
+[05/02/2020 13:34]  System: Script <Grab.py> started.
+[05/02/2020 13:34]  System: Script <Grab.py> stopped.
+[05/02/2020 13:34]  System: Script <Grab.py> started.
+[05/02/2020 13:34]  System: Script <Grab.py> stopped.
+[05/02/2020 13:34]  System: Script <Grab.py> started.
+[05/02/2020 13:34]  System: Script <Grab.py> stopped.
+[05/02/2020 13:34]  System: Script <Grab.py> started.
+[05/02/2020 13:34]  System: Script <Grab.py> stopped.
+[05/02/2020 13:34]  System: Script <Grab.py> started.
+[05/02/2020 13:34]  System: You can't do that in towns. [10]
+[05/02/2020 13:34]  System: Script <Grab.py> stopped.
+[05/02/2020 13:34]  System: Script <Grab.py> started.
+[05/02/2020 13:34]  System: Script <Grab.py> stopped.
+[05/02/2020 13:34]  System: Script <Grab.py> started.
+[05/02/2020 13:34]  System: Script <Grab.py> stopped.
+[05/02/2020 13:34]  System: Script <Grab.py> started.
+[05/02/2020 13:34]  System: Script <Grab.py> stopped.
+[05/02/2020 13:34]  System: Script <Grab.py> started.
+[05/02/2020 13:34]  System: Script <Grab.py> stopped.
+[05/02/2020 13:34]  You see:  Ranard the tavern keeper
+[05/02/2020 13:34]  System: You can't do that in towns. [5]
+[05/02/2020 13:34]  You see:  Evan the beggar
+[05/02/2020 13:34]  You see:  Drew the barkeeper
+[05/02/2020 13:34]  You see:  Morris the scribe
+[05/02/2020 13:34]  You see:  Marta the waiter
+[05/02/2020 13:34]  You see:  Canute the Naturalist
+[05/02/2020 13:34]  You see:  Vevila the hair stylist
+[05/02/2020 13:34]  You see:  Queena the hairstylist
+[05/02/2020 13:34]  You see:  Chander the herbalist
+[05/02/2020 13:34]  You see:  Meara the alchemist
+[05/02/2020 13:34]  You see:  Jezebel the hairstylist
+[05/02/2020 13:34]  You see:  Ludia the cobbler
+[05/02/2020 13:34]  You see:  Emilio the tortured artist
+[05/02/2020 13:34]  You see:  Clementina the provisioner
+[05/02/2020 13:34]  You see:  a cat 
+[05/02/2020 13:34]  You see:  Blade the armorer
+[05/02/2020 13:34]  You see:  Hisa the bard
+[05/02/2020 13:34]  You see:  Ace the general goods seller
+[05/02/2020 13:34]  You see:  Mia the weaponsmith
+[05/02/2020 13:34]  You see:  Narmada the universal repairdeed seller
+[05/02/2020 13:34]  You see:  Ivana the Gold Sink Banker
+[05/02/2020 13:34]  You see:  Alger the tinker guildmaster
+[05/02/2020 13:34]  You see:  Nori the jeweler
+[05/02/2020 13:34]  System: Opening door...
+[05/02/2020 13:35]  You see:  Texas Hold Em' - 50/100 
+[05/02/2020 13:35]  You see:  Amadis the minter
+[05/02/2020 13:35]  You see:  Laird the minter
+[05/02/2020 13:35]  You see:  Treva the banker
+[05/02/2020 13:35]  You see:  Akanke the town crier
+[05/02/2020 13:35]  You see:  Anthony the bounty officer
+[05/02/2020 13:35]  You see:  Tanner the trash collector
+[05/02/2020 13:35]  You see:  Akshay the tavern keeper
+[05/02/2020 13:35]  You see:  Beagan the cook
+[05/02/2020 13:35]  You see:  Ward the cook
+[05/02/2020 13:35]  You see:  Bogart the barkeeper
+[05/02/2020 13:35]  You see:  Nevan the butcher
+[05/02/2020 13:35]  You see:  Marietta the waiter
+[05/02/2020 13:35]  You see:  Acantha the brewer
+[05/02/2020 13:35]  You see:  Evan the beggar
+[05/02/2020 13:35]  You see:  a towhee 
+[05/02/2020 13:35]  You see:  Acantha the brewer
+[05/02/2020 13:35]  You see:  Marietta the waiter
+[05/02/2020 13:35]  You see:  Beagan the cook
+[05/02/2020 13:35]  You see:  Akshay the tavern keeper
+[05/02/2020 13:35]  You see:  Bogart the barkeeper
+[05/02/2020 13:35]  You see:  Ward the cook
+[05/02/2020 13:35]  You see:  Kalkin the mapmaker
+[05/02/2020 13:35]  You see:  Natasha the shipwright
+[05/02/2020 13:35]  You see:  Bogart the barkeeper
+[05/02/2020 13:35]  You see:  Akshay the tavern keeper
+[05/02/2020 13:35]  You see:  Ward the cook
+[05/02/2020 13:35]  You see:  Beagan the cook
+[05/02/2020 13:35]  You see:  Tanner the trash collector
+[05/02/2020 13:35]  You see:  Bem the vote registrar
+[05/02/2020 13:35]  You see:  Akanke the town crier
+[05/02/2020 13:35]  You see:  a dolphin 
+[05/02/2020 13:35]  You see:  Treva the banker
+[05/02/2020 13:35]  You see:  Amadis the minter
+[05/02/2020 13:35]  You see:  Laird the minter
+[05/02/2020 13:35]  You see:  Jackie the Depressed
+[05/02/2020 13:35]  You see:  Texas Hold Em' - 50/100 
+[05/02/2020 13:35]  You see:  Alger the tinker guildmaster
+[05/02/2020 13:35]  You see:  Sarakki the notary
+[05/02/2020 13:35]  Sarakki: You there! I have a job for you.
+[05/02/2020 13:35]  You see:  Joy the treasure hunter
+[05/02/2020 13:35]  You see:  Talbart the warrior
+[05/02/2020 13:35]  You see:  Sam the fisher
+[05/02/2020 13:35]  You see:  Anthea the baker
+[05/02/2020 13:35]  You see:  Ares the carpenter
+[05/02/2020 13:35]  You see:  Treasa the architect
+[05/02/2020 13:35]  You see:  Panthea the real estate broker
+[05/02/2020 13:35]  You see:  Ernest the impresario
+[05/02/2020 13:35]  System: Opening door...
+[05/02/2020 13:35]  System: Opening door...
+[05/02/2020 13:35]  You see:  Lorenzo the miner guildmaster
+[05/02/2020 13:35]  You see:  Margo the animal trainer
+[05/02/2020 13:35]  You see:  Bonnie the master of trades
+[05/02/2020 13:35]  You see:  Verity the librarian
+[05/02/2020 13:35]  You see:  Joy the treasure hunter
+[05/02/2020 13:35]  You see:  Enrico the thief
+[05/02/2020 13:35]  You see:  Corey the paladin
+[05/02/2020 13:35]  You see:  Talbot the Naturalist
+[05/02/2020 13:35]  You see:  Zorda the artist
+[05/02/2020 13:35]  System: Opening door...
+[05/02/2020 13:35]  You see:  Xanthe the musician
+[05/02/2020 13:35]  Panthea: Greetings.  Have a look around.
+[05/02/2020 13:35]  System: Script <Grab.py> started.
+[05/02/2020 13:35]  System: You can't do that in towns.
+[05/02/2020 13:35]  System: Script <Grab.py> stopped.
+[05/02/2020 13:35]  System: You can't do that in towns.
+[05/02/2020 13:36]  Treasa: Greetings.  Have a look around.
+[05/02/2020 13:36]  Treasa: The total of thy purchase is 35,001 Gold, which has been withdrawn from your bank account.  My thanks for the patronage.
+[05/02/2020 13:36]  You see:  Ernest the impresario
+[05/02/2020 13:36]  System: Opening door...
+[05/02/2020 13:36]  You see:  Sarakki the notary
+[05/02/2020 13:36]  System: <Pandora> Seti: how do we make or what drops or sells these new cannons??
+[05/02/2020 13:37]  System: You can't do that in towns.
+[05/02/2020 13:37]  System: Script <Grab.py> started.
+[05/02/2020 13:37]  System: Script <Grab.py> stopped.
+[05/02/2020 13:37]  System: You can't do that in towns.
+[05/02/2020 13:38]  System: 97° 59'N, 29° 2'W
+[05/02/2020 13:38]  Hobo Jim: Kal Ort Por [Recall]
+[05/02/2020 13:38]  System: You have left the protection of the town guards.
+[05/02/2020 13:38]  You see:  CityBooks the parrot
+[05/02/2020 13:38]  You see:  Akilah the waiter
+[05/02/2020 13:38]  You see:  Dungeons the parrot
+[05/02/2020 13:38]  You see:  TMapsFelANDTram the parrot
+[05/02/2020 13:38]  System: WorldMap loaded!
+[05/02/2020 13:38]  You see:  GOLD SKULLS 
+[05/02/2020 13:38]  System: 131° 18'S, 18° 25'W
+[05/02/2020 13:38]  Hobo Jim: Kal Ort Por [Recall]
+[05/02/2020 13:38]  You see:  Shelly the banker
+[05/02/2020 13:38]  You see:  Dona the banker
+[05/02/2020 13:38]  System: WorldMap loaded!
+[05/02/2020 13:39]  System: 64° 14'N, 46° 28'W
+[05/02/2020 13:39]  Hobo Jim: Kal Ort Por [Recall]
+[05/02/2020 13:39]  System: WorldMap loaded!
+[05/02/2020 13:40]  System: Script <Grab.py> started.
+[05/02/2020 13:40]  System: You couldn't find anything to grab
+[05/02/2020 13:40]  System: You must wait for 4.97 seconds.
+[05/02/2020 13:40]  System: Script <Grab.py> stopped.
+[05/02/2020 13:40]  System: Script <Grab.py> started.
+[05/02/2020 13:40]  System: You must wait for 4.59 seconds.
+[05/02/2020 13:40]  System: You must wait for 4.55 seconds.
+[05/02/2020 13:40]  System: Script <Grab.py> stopped.
+[05/02/2020 13:41]  You see:  a hind 
+[05/02/2020 13:41]  You see:  a hind 
+[05/02/2020 13:41]  You see:  Exicutioner 
+[05/02/2020 13:41]  System: Your strength has changed by 10.  It is now 212
+[05/02/2020 13:41]  System: Your dexterity has changed by 10.  It is now 218
+[05/02/2020 13:41]  System: Your intelligence has changed by 10.  It is now 76
+[05/02/2020 13:41]  System: Your strength has changed by -10.  It is now 202
+[05/02/2020 13:41]  System: Your dexterity has changed by -10.  It is now 208
+[05/02/2020 13:41]  System: Your intelligence has changed by -10.  It is now 66
+[05/02/2020 13:41]  You see:  a hind 
+[05/02/2020 13:41]  You see:  an ettin 
+[05/02/2020 13:42]  System: That is too far away.
+[05/02/2020 13:42]  System: That is too far away.
+[05/02/2020 13:43]  System: That is too far away.
+[05/02/2020 13:43]  System: A house cannot be created here. Either something is blocking the house or part of the house would not be on valid terrain.
+[05/02/2020 13:43]  System: A house cannot be created here. Either something is blocking the house or part of the house would not be on valid terrain.
+[05/02/2020 13:43]  System: A house cannot be created here. Either something is blocking the house or part of the house would not be on valid terrain.
+[05/02/2020 13:43]  System: That is too far away.
+[05/02/2020 13:44]  System: [6:44 PM]: The world is saving, please wait.
+[05/02/2020 13:44]  System: [6:44 PM]: World save complete. The entire process took 4.9 seconds.
+[05/02/2020 13:44]  System: You couldn't find anything to grab
+[05/02/2020 13:44]  System: Script <Grab.py> started.
+[05/02/2020 13:44]  System: Script <Grab.py> stopped.
+[05/02/2020 13:44]  System: You must wait for 1.06 seconds.
+[05/02/2020 13:44]  System: Script <Grab.py> started.
+[05/02/2020 13:44]  System: Script <Grab.py> stopped.
+[05/02/2020 13:45]  System: Script <Grab.py> started.
+[05/02/2020 13:45]  System: You couldn't find anything to grab
+[05/02/2020 13:45]  System: You must wait for 4.97 seconds.
+[05/02/2020 13:45]  System: Script <Grab.py> stopped.
+[05/02/2020 13:45]  System: A house cannot be created here. Either something is blocking the house or part of the house would not be on valid terrain.
+[05/02/2020 13:45]  System: A house cannot be created here. Either something is blocking the house or part of the house would not be on valid terrain.
+[05/02/2020 13:45]  System: A house cannot be created here. Either something is blocking the house or part of the house would not be on valid terrain.
+[05/02/2020 13:45]  System: A house cannot be created here. Either something is blocking the house or part of the house would not be on valid terrain. [2]
+[05/02/2020 13:45]  System: Script <Grab.py> started.
+[05/02/2020 13:45]  System: You couldn't find anything to grab
+[05/02/2020 13:45]  System: You must wait for 4.94 seconds.
+[05/02/2020 13:45]  System: Script <Grab.py> stopped.
+[05/02/2020 13:46]  System: A house cannot be created here. Either something is blocking the house or part of the house would not be on valid terrain.
+[05/02/2020 13:46]  System: A house cannot be created here. Either something is blocking the house or part of the house would not be on valid terrain.
+[05/02/2020 13:47]  System: A house cannot be created here. Either something is blocking the house or part of the house would not be on valid terrain.
+[05/02/2020 13:49]  System: A house cannot be created here. Either something is blocking the house or part of the house would not be on valid terrain.
+[05/02/2020 13:49]  System: A house cannot be created here. Either something is blocking the house or part of the house would not be on valid terrain.
+[05/02/2020 13:49]  System: A house cannot be created here. Either something is blocking the house or part of the house would not be on valid terrain.

@@ -1,0 +1,71 @@
+[05/07/2020 20:03]  System: WorldMap loading...
+[05/07/2020 20:03]  System: You have 6 of max 50 in your mailbox.
+[05/07/2020 20:03]  You see:  Hobo Jim [SOUL]
+[05/07/2020 20:03]  You see:   the blacksmith
+[05/07/2020 20:03]  You see:   the weaver
+[05/07/2020 20:03]  You see:   the trash collector
+[05/07/2020 20:03]  You see:   the tailor
+[05/07/2020 20:03]  You see:   the town crier
+[05/07/2020 20:03]  You see:   
+[05/07/2020 20:03]  You see:   the innkeeper
+[05/07/2020 20:03]  You see: Lord blackmyst [WSF]
+[05/07/2020 20:03]  You see: Lord Evolution [WSF]
+[05/07/2020 20:03]  You see:  Seti [AoV]
+[05/07/2020 20:03]  You see:   the hairstylist
+[05/07/2020 20:03]  You see:   the vote registrar
+[05/07/2020 20:03]  You see:   the real estate broker
+[05/07/2020 20:03]  You see:   The Prov
+[05/07/2020 20:03]  You see:   the tinker
+[05/07/2020 20:03]  You see:   the alchemist
+[05/07/2020 20:03]  You see:   the Holy Mage
+[05/07/2020 20:03]  You see:  Deacon the brewer
+[05/07/2020 20:03]  System: 
+[05/07/2020 20:03]  You see:   the blacksmith
+[05/07/2020 20:03]  You see:   the weaver
+[05/07/2020 20:03]  You see:   the trash collector
+[05/07/2020 20:03]  You see:   the tailor
+[05/07/2020 20:03]  You see:   the town crier
+[05/07/2020 20:03]  You see:   
+[05/07/2020 20:03]  You see:   the innkeeper
+[05/07/2020 20:03]  You see: Lord blackmyst [WSF]
+[05/07/2020 20:03]  You see: Lord Evolution [WSF]
+[05/07/2020 20:03]  You see:  Seti [AoV]
+[05/07/2020 20:03]  You see:   the hairstylist
+[05/07/2020 20:03]  You see:   the vote registrar
+[05/07/2020 20:03]  You see:   the real estate broker
+[05/07/2020 20:03]  You see:   The Prov
+[05/07/2020 20:03]  You see:   the tinker
+[05/07/2020 20:03]  You see:   the alchemist
+[05/07/2020 20:03]  You see:   the Holy Mage
+[05/07/2020 20:03]  You see:  Deacon the brewer
+[05/07/2020 20:03]  System: Loading WorldMap markers..
+[05/07/2020 20:03]  System: WorldMap loaded!
+[05/07/2020 20:03]  System: WorldMap markers loaded (0)
+[05/07/2020 20:03]  System: AUTOLOOT: Engine Start...
+[05/07/2020 20:03]  You see:   
+[05/07/2020 20:03]  You see:  Sukatai the Keeper of Chivalry
+[05/07/2020 20:04]  System: 65° 2'N, 16° 52'W
+[05/07/2020 20:04]  Hobo Jim: Kal Ort Por [Recall]
+[05/07/2020 20:04]  System: You have left Luna Bank
+[05/07/2020 20:04]  You see:  a dread spider 
+[05/07/2020 20:04]  System: WorldMap loaded!
+[05/07/2020 20:04]  You see: a dread spider corpse
+[05/07/2020 20:04]  You see:  a trapdoor spider 
+[05/07/2020 20:04]  System: Script <GetPets.py> started.
+[05/07/2020 20:04]  You see:  PigletForDinner 
+[05/07/2020 20:04]  You see:  iAteKanga 
+[05/07/2020 20:04]  System: Script <GetPets.py> stopped.
+[05/07/2020 20:04]  Hobo Jim: All Guard Me
+[05/07/2020 20:04]  System: iAteKanga is now guarding you.
+[05/07/2020 20:04]  You see:  a trapdoor spider 
+[05/07/2020 20:04]  You see:  a trapdoor spider 
+[05/07/2020 20:04]  Hobo Jim: All Kill
+[05/07/2020 20:04]  System: Bandages cannot be used on that.
+[05/07/2020 20:04]  Hobo Jim: All Follow Me
+[05/07/2020 20:04]  System: Bandages cannot be used on that. [2]
+[05/07/2020 20:04]  Hobo Jim: All Guard Me
+[05/07/2020 20:04]  System: PigletForDinner is now guarding you.
+[05/07/2020 20:04]  System: iAteKanga is now guarding you.
+[05/07/2020 20:04]  System: Some of the damage you received has been converted to heal you.
+[05/07/2020 20:04]  System: some damage has been healed : 11
+[05/07/2020 20:04]  Hobo Jim: All Follow Me

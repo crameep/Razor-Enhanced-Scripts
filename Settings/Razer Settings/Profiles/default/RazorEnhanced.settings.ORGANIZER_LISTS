@@ -1,0 +1,30 @@
+[
+  {
+    "Description": "potions",
+    "Delay": 0,
+    "Source": 1090046844,
+    "Destination": 1090529957,
+    "Selected": false
+  },
+  {
+    "Description": "imbuingmats",
+    "Delay": 750,
+    "Source": 1090046844,
+    "Destination": 1094288865,
+    "Selected": true
+  },
+  {
+    "Description": "trash",
+    "Delay": 1000,
+    "Source": 1090046844,
+    "Destination": 1078282307,
+    "Selected": false
+  },
+  {
+    "Description": "tools",
+    "Delay": 750,
+    "Source": 1104392313,
+    "Destination": 1074371422,
+    "Selected": false
+  }
+]

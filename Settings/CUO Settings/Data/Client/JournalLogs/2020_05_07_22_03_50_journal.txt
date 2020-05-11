@@ -1,0 +1,1113 @@
+[05/07/2020 22:03]  System: WorldMap loading...
+[05/07/2020 22:03]  System: You have 6 of max 50 in your mailbox.
+[05/07/2020 22:03]  You see: Lord Hobo Jim [SOUL]
+[05/07/2020 22:03]  You see:  Shitha (Infested)
+[05/07/2020 22:03]  You see: an oni corpse
+[05/07/2020 22:03]  You see: a lizardman corpse
+[05/07/2020 22:03]  You see: a deathwatchbeetle corpse
+[05/07/2020 22:03]  You see: a deathwatchbeetle hatchling corpse
+[05/07/2020 22:03]  You see: Lord handikap [HB]
+[05/07/2020 22:03]  You see:  Serado the awakened (Infested)
+[05/07/2020 22:03]  You see: an oni corpse
+[05/07/2020 22:03]  You see: a hiryu corpse
+[05/07/2020 22:03]  You see: an oni corpse
+[05/07/2020 22:03]  You see:  a pandorian tiger 
+[05/07/2020 22:03]  You see: a hiryu corpse
+[05/07/2020 22:03]  You see: an oni corpse
+[05/07/2020 22:03]  You see: a hiryu corpse
+[05/07/2020 22:03]  You see: a pandorian tiger corpse
+[05/07/2020 22:03]  You see: a hiryu corpse
+[05/07/2020 22:03]  You see: the remains of Hobo Jim
+[05/07/2020 22:03]  System: 
+[05/07/2020 22:03]  You see:  iAteKanga 
+[05/07/2020 22:03]  You see:  PigletForDinner 
+[05/07/2020 22:03]  You see:  Shitha (Infested)
+[05/07/2020 22:03]  You see: an oni corpse
+[05/07/2020 22:03]  You see: a lizardman corpse
+[05/07/2020 22:03]  You see: a deathwatchbeetle corpse
+[05/07/2020 22:03]  You see: a deathwatchbeetle hatchling corpse
+[05/07/2020 22:03]  You see: Lord handikap [HB]
+[05/07/2020 22:03]  You see:  Serado the awakened (Infested)
+[05/07/2020 22:03]  You see: an oni corpse
+[05/07/2020 22:03]  You see: a hiryu corpse
+[05/07/2020 22:03]  You see: an oni corpse
+[05/07/2020 22:03]  You see:  a pandorian tiger 
+[05/07/2020 22:03]  You see:  iAteKanga 
+[05/07/2020 22:03]  You see:  PigletForDinner 
+[05/07/2020 22:03]  You see: a hiryu corpse
+[05/07/2020 22:03]  You see: an oni corpse
+[05/07/2020 22:03]  You see: a hiryu corpse
+[05/07/2020 22:03]  You see: a pandorian tiger corpse
+[05/07/2020 22:03]  You see: a hiryu corpse
+[05/07/2020 22:03]  You see: the remains of Hobo Jim
+[05/07/2020 22:03]  System: Loading WorldMap markers..
+[05/07/2020 22:03]  System: WorldMap loaded!
+[05/07/2020 22:03]  System: WorldMap markers loaded (0)
+[05/07/2020 22:03]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:03]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:03]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:03]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:03]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:03]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:03]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:03]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:03]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:03]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:03]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:03]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:03]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:03]  System: Each piece of your equipment gained 14 Tier XP!
+[05/07/2020 22:03]  You see: a lizardman corpse
+[05/07/2020 22:03]  Hobo Jim: An Nox [Cure]
+[05/07/2020 22:03]  System: The soul charge effect converts some of the damage you received into mana.
+[05/07/2020 22:03]  System: Your concentration is disturbed, thus ruining thy spell.
+[05/07/2020 22:03]  System: Some of the damage you received has been converted to heal you.
+[05/07/2020 22:03]  System: some damage has been healed : 2
+[05/07/2020 22:03]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/07/2020 22:03]  Hobo Jim: An Nox [Cure]
+[05/07/2020 22:03]  System: You are already casting a spell.
+[05/07/2020 22:03]  Hobo Jim: An Nox [Cure]
+[05/07/2020 22:03]  System: Your calm senses made you able to continue casting the spell.
+[05/07/2020 22:03]  System: You are frozen and cannot move.
+[05/07/2020 22:03]  System: You have failed to cure your target!
+[05/07/2020 22:03]  handikap: Divinum Furis [Divine Fury]
+[05/07/2020 22:03]  Hobo Jim: An Nox [Cure]
+[05/07/2020 22:03]  handikap: Vas An Nox [Arch Cure]
+[05/07/2020 22:03]  System: You have been cured of all poisons!
+[05/07/2020 22:03]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/07/2020 22:03]  handikap: In Vas Mani [Greater Heal]
+[05/07/2020 22:03]  System: You are already casting a spell.
+[05/07/2020 22:03]  System: some damage has been healed : 84
+[05/07/2020 22:04]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/07/2020 22:04]  System: You are frozen and cannot move. [2]
+[05/07/2020 22:04]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/07/2020 22:04]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:04]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/07/2020 22:04]  Hobo Jim: You cannot heal yourself in your current state.
+[05/07/2020 22:04]  Hobo Jim: An Nox [Cure]
+[05/07/2020 22:04]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/07/2020 22:04]  handikap: Vas An Nox [Arch Cure]
+[05/07/2020 22:04]  System: You have been cured of all poisons!
+[05/07/2020 22:04]  Hobo Jim: An Nox [Cure]
+[05/07/2020 22:04]  System: Some of the damage you received has been converted to heal you. [42]
+[05/07/2020 22:04]  System: Your concentration is disturbed, thus ruining thy spell.
+[05/07/2020 22:04]  System: You are already casting a spell. [2]
+[05/07/2020 22:04]  System: You have failed to cure your target!
+[05/07/2020 22:04]  handikap: Vas An Nox [Arch Cure]
+[05/07/2020 22:04]  System: You are frozen and cannot move. [2]
+[05/07/2020 22:04]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:04]  System: The soul charge effect converts some of the damage you received into mana.
+[05/07/2020 22:04]  System: some damage has been healed : 2
+[05/07/2020 22:04]  handikap: In Vas Mani [Greater Heal]
+[05/07/2020 22:04]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:04]  handikap: Vas An Nox [Arch Cure]
+[05/07/2020 22:04]  handikap: Vas An Nox [Arch Cure]
+[05/07/2020 22:04]  handikap: Vas An Nox [Arch Cure]
+[05/07/2020 22:04]  System: Some of the damage you received has been converted to heal you.
+[05/07/2020 22:04]  handikap: In Vas Mani [Greater Heal]
+[05/07/2020 22:04]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/07/2020 22:04]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/07/2020 22:04]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/07/2020 22:04]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/07/2020 22:04]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/07/2020 22:04]  System: some damage has been healed : 7
+[05/07/2020 22:04]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/07/2020 22:04]  System: Each piece of your equipment gained 3 Tier XP!
+[05/07/2020 22:04]  You see: a deathwatchbeetle hatchling corpse
+[05/07/2020 22:04]  Syththil: Syssitlis tyskth!
+[05/07/2020 22:04]  Syththil: Away with thee!
+[05/07/2020 22:04]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/07/2020 22:04]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/07/2020 22:04]  System: some damage has been healed : 4
+[05/07/2020 22:04]  System: Some of the damage you received has been converted to heal you. [2]
+[05/07/2020 22:04]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/07/2020 22:04]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/07/2020 22:04]  System: Each piece of your equipment gained 4 Tier XP!
+[05/07/2020 22:04]  You see: a lizardman corpse
+[05/07/2020 22:04]  Syththil: Ssi aththes! Sia.
+[05/07/2020 22:04]  Syththil: Oooh, me hurt...
+[05/07/2020 22:04]  System: Each piece of your equipment gained 5 Tier XP!
+[05/07/2020 22:04]  You see: a lizardman corpse
+[05/07/2020 22:04]  Hobo Jim: they changed this
+[05/07/2020 22:04]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:04]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/07/2020 22:04]  You see:  Serado the awakened (Infested)
+[05/07/2020 22:04]  You see:  iAteKanga 
+[05/07/2020 22:04]  You see:  PigletForDinner 
+[05/07/2020 22:04]  You see:  a pandorian tiger 
+[05/07/2020 22:04]  You see:  a deathwatch beetle (Infested)
+[05/07/2020 22:04]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/07/2020 22:04]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/07/2020 22:04]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:04]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:04]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:04]  System: The soul charge effect converts some of the damage you received into mana.
+[05/07/2020 22:04]  System: Some of the damage you received has been converted to heal you.
+[05/07/2020 22:04]  System: some damage has been healed : 2
+[05/07/2020 22:04]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:04]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:04]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:04]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:04]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:04]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:04]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:04]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:04]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:04]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:04]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:04]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:04]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:04]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:04]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:04]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:04]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:04]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:04]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:04]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:04]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:04]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:04]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:04]  System: some damage has been healed : 2
+[05/07/2020 22:04]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/07/2020 22:04]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:04]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:04]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:04]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:04]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:04]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:04]  System: Some of the damage you received has been converted to heal you.
+[05/07/2020 22:04]  System: The soul charge effect converts some of the damage you received into mana.
+[05/07/2020 22:04]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:04]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:04]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:04]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:04]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:04]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:04]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:04]  System: some damage has been healed : 1
+[05/07/2020 22:04]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:04]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:04]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:04]  System: Some of the damage you received has been converted to heal you.
+[05/07/2020 22:04]  System: The soul charge effect converts some of the damage you received into mana.
+[05/07/2020 22:04]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:04]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/07/2020 22:04]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:04]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:04]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:04]  You see: Lord handikap [HB]
+[05/07/2020 22:04]  System: 3000 gold has been withdrawn from your bank box.
+[05/07/2020 22:04]  System: 4500 gold has been withdrawn from your bank box.
+[05/07/2020 22:04]  System: 1300 gold has been withdrawn from your bank box.
+[05/07/2020 22:04]  System: 750 gold has been withdrawn from your bank box.
+[05/07/2020 22:04]  System: 1200 gold has been withdrawn from your bank box.
+[05/07/2020 22:04]  System: 650 gold has been withdrawn from your bank box.
+[05/07/2020 22:04]  System: 500 gold has been withdrawn from your bank box.
+[05/07/2020 22:04]  System: 1500 gold has been withdrawn from your bank box.
+[05/07/2020 22:04]  System: 1100 gold has been withdrawn from your bank box.
+[05/07/2020 22:04]  System: 1000 gold has been withdrawn from your bank box.
+[05/07/2020 22:04]  System: 3250 gold has been withdrawn from your bank box.
+[05/07/2020 22:04]  System: You gasp for air as you are pulled out of the underworld!  You suffer no loss of fame or karma this time.
+[05/07/2020 22:04]  System: 54100 gold has been withdrawn from your bank box.
+[05/07/2020 22:04]  You see: the remains of Hobo Jim
+[05/07/2020 22:04]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:04]  System: Some of the damage you received has been converted to heal you.
+[05/07/2020 22:04]  System: The soul charge effect converts some of the damage you received into mana.
+[05/07/2020 22:04]  handikap: Rel Sanct [Bless]
+[05/07/2020 22:04]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:04]  System: 500 gold has been withdrawn from your bank box. [19]
+[05/07/2020 22:04]  System: 750 gold has been withdrawn from your bank box. [3]
+[05/07/2020 22:04]  System: 3000 gold has been withdrawn from your bank box.
+[05/07/2020 22:04]  System: 1300 gold has been withdrawn from your bank box. [2]
+[05/07/2020 22:04]  System: 4500 gold has been withdrawn from your bank box. [4]
+[05/07/2020 22:04]  System: You will be automatically resurrected in 15 minutes.  You can explore the underworld or find another way to live again.
+[05/07/2020 22:04]  You see:  Serado the awakened (Infested)
+[05/07/2020 22:04]  You see: Lord handikap [HB]
+[05/07/2020 22:04]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:04]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:04]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:04]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:04]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:04]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:04]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:04]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:04]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/07/2020 22:04]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/07/2020 22:04]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:04]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:04]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:04]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:04]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:04]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:04]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:04]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:04]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:04]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:04]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:04]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:04]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:04]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:05]  handikap: Divinum Furis [Divine Fury]
+[05/07/2020 22:05]  handikap: Vas An Nox [Arch Cure]
+[05/07/2020 22:05]  You see:  Ssaisss (Infested)
+[05/07/2020 22:05]  handikap: An Corp [Resurrection]
+[05/07/2020 22:05]  Ssaisss: Ththsisais liththaisth.
+[05/07/2020 22:05]  Ssaisss: Away with thee!
+[05/07/2020 22:05]  Ssaisss: Thisysamyss ssi. Lilits.
+[05/07/2020 22:05]  Ssaisss: Oof! That hurt!
+[05/07/2020 22:05]  Ssaisss: Ssissaisyssysth sthiath!
+[05/07/2020 22:05]  Ssaisss: No, kill me not!
+[05/07/2020 22:05]  You see: a lizardman corpse
+[05/07/2020 22:05]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:05]  handikap: Rel Sanct [Bless]
+[05/07/2020 22:05]  handikap: Rel Sanct [Bless]
+[05/07/2020 22:05]  handikap: Vas An Nox [Arch Cure]
+[05/07/2020 22:05]  handikap: An Corp [Resurrection]
+[05/07/2020 22:05]  You see:  a ridable llama 
+[05/07/2020 22:05]  You see: a deathwatchbeetle hatchling corpse
+[05/07/2020 22:05]  handikap: Augus Luminos [Holy Light]
+[05/07/2020 22:05]  You see: a deathwatchbeetle hatchling corpse
+[05/07/2020 22:05]  handikap: An Corp [Resurrection]
+[05/07/2020 22:05]  System: You have lost a lot of fame.
+[05/07/2020 22:05]  Hobo Jim: In Mani [Heal]
+[05/07/2020 22:05]  System: some damage has been healed : 8
+[05/07/2020 22:05]  Hobo Jim: In Mani [Heal]
+[05/07/2020 22:05]  System: handikap : Attempting to heal you.
+[05/07/2020 22:05]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/07/2020 22:05]  System: some damage has been healed : 91
+[05/07/2020 22:05]  You see: some damage has been healed : 8
+[05/07/2020 22:05]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/07/2020 22:05]  System: some damage has been healed : 88
+[05/07/2020 22:05]  You see:  Serado the awakened (Infested)
+[05/07/2020 22:05]  You see:  iAteKanga 
+[05/07/2020 22:05]  You see:  PigletForDinner 
+[05/07/2020 22:05]  You see:  a pandorian tiger 
+[05/07/2020 22:05]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:05]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:05]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:05]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:05]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/07/2020 22:05]  You see: a llama corpse
+[05/07/2020 22:05]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:05]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:05]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:05]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/07/2020 22:05]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/07/2020 22:05]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:05]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:05]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:05]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:05]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:05]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:05]  System: The soul charge effect converts some of the damage you received into mana.
+[05/07/2020 22:05]  System: Some of the damage you received has been converted to heal you.
+[05/07/2020 22:05]  System: some damage has been healed : 2
+[05/07/2020 22:05]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:05]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:05]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:05]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:05]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:05]  You see: a pandorian tiger corpse
+[05/07/2020 22:05]  You see:  iAteKanga 
+[05/07/2020 22:05]  System: That is too far away.
+[05/07/2020 22:05]  handikap: Divinum Furis [Divine Fury]
+[05/07/2020 22:05]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:05]  System: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:05]  You see: Lord handikap [HB]
+[05/07/2020 22:05]  handikap: Vas An Nox [Arch Cure]
+[05/07/2020 22:06]  System: some damage has been healed : 2
+[05/07/2020 22:06]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/07/2020 22:06]  System: Some of the damage you received has been converted to heal you.
+[05/07/2020 22:06]  System: The soul charge effect converts some of the damage you received into mana.
+[05/07/2020 22:06]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:06]  System: some damage has been healed : 2
+[05/07/2020 22:06]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:06]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:06]  PigletForDinner: * The poison seems to have no effect. *
+[05/07/2020 22:06]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:06]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:06]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:06]  System: Some of the damage you received has been converted to heal you.
+[05/07/2020 22:06]  System: The soul charge effect converts some of the damage you received into mana.
+[05/07/2020 22:06]  System: some damage has been healed : 2
+[05/07/2020 22:06]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/07/2020 22:06]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:06]  handikap: Vas An Nox [Arch Cure]
+[05/07/2020 22:06]  Hobo Jim: An Nox [Cure]
+[05/07/2020 22:06]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:06]  System: You have failed to cure your target!
+[05/07/2020 22:06]  Hobo Jim: An Nox [Cure]
+[05/07/2020 22:06]  System: Some of the damage you received has been converted to heal you.
+[05/07/2020 22:06]  System: The soul charge effect converts some of the damage you received into mana.
+[05/07/2020 22:06]  System: some damage has been healed : 2
+[05/07/2020 22:06]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:06]  System: BANDAGE HEAL: Engine Start...
+[05/07/2020 22:06]  System: You have failed to cure your target!
+[05/07/2020 22:06]  System: Who will you use the bandages on?
+[05/07/2020 22:06]  System: You begin applying the bandages.
+[05/07/2020 22:06]  System: You are able to resurrect your patient.
+[05/07/2020 22:06]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:06]  System: Who will you use the bandages on?
+[05/07/2020 22:06]  System: You begin applying the bandages.
+[05/07/2020 22:06]  System: You finish applying the bandages.
+[05/07/2020 22:06]  System: some damage has been healed : 2
+[05/07/2020 22:06]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/07/2020 22:06]  handikap: Divinum Furis [Divine Fury]
+[05/07/2020 22:06]  You see: Lord handikap [HB]
+[05/07/2020 22:06]  System: Some of the damage you received has been converted to heal you. [2]
+[05/07/2020 22:06]  System: The soul charge effect converts some of the damage you received into mana. [2]
+[05/07/2020 22:06]  System: You begin applying the bandages.
+[05/07/2020 22:06]  System: Who will you use the bandages on?
+[05/07/2020 22:06]  System: You finish applying the bandages.
+[05/07/2020 22:06]  Hobo Jim: An Nox [Cure]
+[05/07/2020 22:06]  System: You have failed to cure your target!
+[05/07/2020 22:06]  You see: Lord handikap [HB]
+[05/07/2020 22:06]  Hobo Jim: An Nox [Cure]
+[05/07/2020 22:06]  System: some damage has been healed : 2
+[05/07/2020 22:06]  System: You begin applying the bandages. [2]
+[05/07/2020 22:06]  System: Who will you use the bandages on? [2]
+[05/07/2020 22:06]  Hobo Jim: An Nox [Cure]
+[05/07/2020 22:06]  System: You finish applying the bandages.
+[05/07/2020 22:06]  System: You are frozen and cannot move.
+[05/07/2020 22:06]  System: You have been cured of all poisons!
+[05/07/2020 22:06]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:06]  System: Some of the damage you received has been converted to heal you.
+[05/07/2020 22:06]  System: The soul charge effect converts some of the damage you received into mana.
+[05/07/2020 22:06]  You see:  a pandorian tiger 
+[05/07/2020 22:06]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:06]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:06]  You see:  Serado the awakened (Infested)
+[05/07/2020 22:06]  System: You begin applying the bandages.
+[05/07/2020 22:06]  System: Who will you use the bandages on?
+[05/07/2020 22:06]  System: You heal what little damage your patient had.
+[05/07/2020 22:06]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:06]  System: You finish applying the bandages.
+[05/07/2020 22:06]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:06]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/07/2020 22:06]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:06]  handikap: Divinum Furis [Divine Fury]
+[05/07/2020 22:06]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:06]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:06]  System: You begin applying the bandages.
+[05/07/2020 22:06]  System: Who will you use the bandages on?
+[05/07/2020 22:06]  System: You finish applying the bandages.
+[05/07/2020 22:06]  System: some damage has been healed : 2
+[05/07/2020 22:06]  System: Some of the damage you received has been converted to heal you.
+[05/07/2020 22:06]  System: The soul charge effect converts some of the damage you received into mana.
+[05/07/2020 22:06]  System: You have been cured of all poisons!
+[05/07/2020 22:06]  Hobo Jim: All Kill
+[05/07/2020 22:06]  System: You begin applying the bandages. [2]
+[05/07/2020 22:06]  System: Who will you use the bandages on? [2]
+[05/07/2020 22:06]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:06]  System: You finish applying the bandages.
+[05/07/2020 22:06]  System: You heal what little damage your patient had.
+[05/07/2020 22:06]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:06]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:06]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:06]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:06]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:06]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:06]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:06]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/07/2020 22:06]  System: Who will you use the bandages on?
+[05/07/2020 22:06]  System: You begin applying the bandages.
+[05/07/2020 22:06]  handikap: Divinum Furis [Divine Fury]
+[05/07/2020 22:06]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:06]  System: You finish applying the bandages.
+[05/07/2020 22:06]  System: You have been cured of all poisons!
+[05/07/2020 22:06]  handikap: Divinum Furis [Divine Fury]
+[05/07/2020 22:06]  System: Some of the damage you received has been converted to heal you.
+[05/07/2020 22:06]  System: some damage has been healed : 1
+[05/07/2020 22:06]  handikap: Vas An Nox [Arch Cure]
+[05/07/2020 22:06]  System: You begin applying the bandages.
+[05/07/2020 22:06]  System: Who will you use the bandages on?
+[05/07/2020 22:06]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:06]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:06]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/07/2020 22:06]  System: You finish applying the bandages.
+[05/07/2020 22:06]  System: You have been cured of all poisons!
+[05/07/2020 22:06]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/07/2020 22:06]  You see: some damage has been healed : 1 [53]
+[05/07/2020 22:06]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:06]  System: You begin applying the bandages.
+[05/07/2020 22:06]  System: Who will you use the bandages on?
+[05/07/2020 22:06]  Hobo Jim: An Nox [Cure]
+[05/07/2020 22:06]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/07/2020 22:06]  System: You are already casting a spell.
+[05/07/2020 22:06]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/07/2020 22:06]  Hobo Jim: The spell fizzles.
+[05/07/2020 22:06]  System: You finish applying the bandages.
+[05/07/2020 22:06]  System: You have been cured of all poisons!
+[05/07/2020 22:06]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/07/2020 22:06]  Hobo Jim: The spell fizzles.
+[05/07/2020 22:06]  System: Your concentration is disturbed, thus ruining thy spell.
+[05/07/2020 22:06]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/07/2020 22:06]  System: Some of the damage you received has been converted to heal you. [53]
+[05/07/2020 22:06]  System: You begin applying the bandages.
+[05/07/2020 22:06]  System: Who will you use the bandages on?
+[05/07/2020 22:06]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/07/2020 22:06]  System: some damage has been healed : 92
+[05/07/2020 22:06]  System: You are already casting a spell.
+[05/07/2020 22:06]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/07/2020 22:06]  System: You finish applying the bandages.
+[05/07/2020 22:06]  System: You have been cured of all poisons!
+[05/07/2020 22:06]  System: some damage has been healed : 85
+[05/07/2020 22:06]  System: You begin applying the bandages.
+[05/07/2020 22:06]  System: Who will you use the bandages on?
+[05/07/2020 22:06]  handikap: Forul Solum [Enemy of One]
+[05/07/2020 22:06]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:07]  You see: Lord handikap [HB]
+[05/07/2020 22:07]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:07]  System: You are already casting a spell.
+[05/07/2020 22:07]  System: You finish applying the bandages.
+[05/07/2020 22:07]  System: You begin applying the bandages.
+[05/07/2020 22:07]  System: Who will you use the bandages on?
+[05/07/2020 22:07]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:07]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:07]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:07]  System: You heal what little damage your patient had.
+[05/07/2020 22:07]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:07]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:07]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/07/2020 22:07]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:07]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:07]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:07]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:07]  handikap: Divinum Furis [Divine Fury]
+[05/07/2020 22:07]  handikap: Vas An Nox [Arch Cure]
+[05/07/2020 22:07]  System: You finish applying the bandages.
+[05/07/2020 22:07]  System: You have been cured of all poisons!
+[05/07/2020 22:07]  System: You begin applying the bandages. [2]
+[05/07/2020 22:07]  System: Who will you use the bandages on? [2]
+[05/07/2020 22:07]  You see: Lord handikap [HB]
+[05/07/2020 22:07]  Hobo Jim: Forul Solum [Enemy of One]
+[05/07/2020 22:07]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:07]  System: You finish applying the bandages.
+[05/07/2020 22:07]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/07/2020 22:07]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:07]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:07]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/07/2020 22:07]  System: Setting ability ArmorIgnore
+[05/07/2020 22:07]  System: You begin applying the bandages.
+[05/07/2020 22:07]  System: Who will you use the bandages on?
+[05/07/2020 22:07]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:07]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:07]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:07]  System: Your attack penetrates their armor!
+[05/07/2020 22:07]  System: Setting ability ArmorIgnore
+[05/07/2020 22:07]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:07]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:07]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:07]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:07]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:07]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:07]  System: You have been cured of all poisons!
+[05/07/2020 22:07]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:07]  System: Setting ability ArmorIgnore
+[05/07/2020 22:07]  System: You finish applying the bandages.
+[05/07/2020 22:07]  System: Setting ability ArmorIgnore
+[05/07/2020 22:07]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/07/2020 22:07]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:07]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:07]  System: You begin applying the bandages.
+[05/07/2020 22:07]  System: Who will you use the bandages on?
+[05/07/2020 22:07]  System: Setting ability ArmorIgnore
+[05/07/2020 22:07]  System: Your attack penetrates their armor! [7]
+[05/07/2020 22:07]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:07]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:07]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:07]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:07]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:07]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:07]  System: Setting ability ArmorIgnore
+[05/07/2020 22:07]  System: You have been cured of all poisons!
+[05/07/2020 22:07]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:07]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:07]  System: Setting ability ArmorIgnore
+[05/07/2020 22:07]  System: You finish applying the bandages.
+[05/07/2020 22:07]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:07]  System: Setting ability ArmorIgnore
+[05/07/2020 22:07]  You see: the remains of handikap
+[05/07/2020 22:07]  You see: Lord handikap [HB]
+[05/07/2020 22:07]  System: Your attack penetrates their armor! [6]
+[05/07/2020 22:07]  System: Setting ability ArmorIgnore
+[05/07/2020 22:07]  System: Setting ability ArmorIgnore
+[05/07/2020 22:07]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/07/2020 22:07]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:07]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:07]  System: Who will you use the bandages on?
+[05/07/2020 22:07]  System: You begin applying the bandages.
+[05/07/2020 22:07]  System: Setting ability ArmorIgnore
+[05/07/2020 22:07]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:07]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:07]  System: Setting ability ArmorIgnore
+[05/07/2020 22:07]  System: Your attack penetrates their armor! [8]
+[05/07/2020 22:07]  System: Some of the damage you received has been converted to heal you.
+[05/07/2020 22:07]  System: some damage has been healed : 1
+[05/07/2020 22:07]  System: You finish applying the bandages.
+[05/07/2020 22:07]  System: You have been cured of all poisons!
+[05/07/2020 22:07]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/07/2020 22:07]  System: Setting ability ArmorIgnore
+[05/07/2020 22:07]  System: You begin applying the bandages.
+[05/07/2020 22:07]  System: Who will you use the bandages on?
+[05/07/2020 22:07]  System: Setting ability ArmorIgnore
+[05/07/2020 22:07]  System: Your attack penetrates their armor! [2]
+[05/07/2020 22:07]  You see: some damage has been healed : 1 [7]
+[05/07/2020 22:07]  System: Setting ability ArmorIgnore
+[05/07/2020 22:07]  System: You finish applying the bandages.
+[05/07/2020 22:07]  System: You have been cured of all poisons!
+[05/07/2020 22:07]  System: Setting ability ArmorIgnore
+[05/07/2020 22:07]  System: You begin applying the bandages.
+[05/07/2020 22:07]  System: Who will you use the bandages on?
+[05/07/2020 22:07]  System: Setting ability ArmorIgnore
+[05/07/2020 22:07]  System: Your attack penetrates their armor! [6]
+[05/07/2020 22:07]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:07]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:07]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/07/2020 22:07]  System: Some of the damage you received has been converted to heal you. [7]
+[05/07/2020 22:07]  System: You finish applying the bandages.
+[05/07/2020 22:07]  You see:  a deathwatch beetle (Infested)
+[05/07/2020 22:07]  You see:  Lishath (Infested)
+[05/07/2020 22:07]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:07]  System: You begin applying the bandages.
+[05/07/2020 22:07]  System: Who will you use the bandages on?
+[05/07/2020 22:07]  Hobo Jim: An Corp [Resurrection]
+[05/07/2020 22:07]  System: You are already casting a spell.
+[05/07/2020 22:07]  System: You have been cured of all poisons!
+[05/07/2020 22:07]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:07]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:07]  System: You finish applying the bandages.
+[05/07/2020 22:07]  System: Your concentration is disturbed, thus ruining thy spell.
+[05/07/2020 22:07]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/07/2020 22:07]  System: You begin applying the bandages. [2]
+[05/07/2020 22:07]  System: Who will you use the bandages on? [2]
+[05/07/2020 22:07]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:07]  Hobo Jim: An Nox [Cure]
+[05/07/2020 22:07]  System: You are already casting a spell.
+[05/07/2020 22:07]  System: You are frozen and cannot move.
+[05/07/2020 22:07]  System: You have failed to cure your target!
+[05/07/2020 22:07]  System: You finish applying the bandages.
+[05/07/2020 22:07]  Hobo Jim: An Nox [Cure]
+[05/07/2020 22:07]  System: The soul charge effect converts some of the damage you received into mana.
+[05/07/2020 22:07]  System: Some of the damage you received has been converted to heal you.
+[05/07/2020 22:07]  System: some damage has been healed : 2
+[05/07/2020 22:07]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:07]  System: You begin applying the bandages.
+[05/07/2020 22:07]  System: Who will you use the bandages on?
+[05/07/2020 22:07]  System: You have been cured of all poisons!
+[05/07/2020 22:07]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/07/2020 22:07]  System: You are already casting a spell.
+[05/07/2020 22:07]  System: You are frozen and cannot move.
+[05/07/2020 22:07]  System: some damage has been healed : 52
+[05/07/2020 22:07]  System: You finish applying the bandages.
+[05/07/2020 22:07]  System: Your concentration is disturbed, thus ruining thy spell.
+[05/07/2020 22:07]  System: You begin applying the bandages.
+[05/07/2020 22:07]  System: Who will you use the bandages on?
+[05/07/2020 22:07]  Hobo Jim: An Corp [Resurrection]
+[05/07/2020 22:07]  System: You are already casting a spell.
+[05/07/2020 22:07]  System: You begin applying the bandages.
+[05/07/2020 22:07]  System: Who will you use the bandages on?
+[05/07/2020 22:07]  System: You begin applying the bandages. [2]
+[05/07/2020 22:07]  System: Who will you use the bandages on? [2]
+[05/07/2020 22:07]  Hobo Jim: An Corp [Resurrection]
+[05/07/2020 22:07]  System: You are already casting a spell.
+[05/07/2020 22:07]  System: You begin applying the bandages.
+[05/07/2020 22:07]  System: Who will you use the bandages on?
+[05/07/2020 22:07]  System: You begin applying the bandages. [2]
+[05/07/2020 22:07]  System: Who will you use the bandages on? [2]
+[05/07/2020 22:07]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/07/2020 22:07]  System: You begin applying the bandages.
+[05/07/2020 22:07]  System: Who will you use the bandages on?
+[05/07/2020 22:08]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/07/2020 22:08]  System: You finish applying the bandages.
+[05/07/2020 22:08]  System: You begin applying the bandages. [2]
+[05/07/2020 22:08]  System: Who will you use the bandages on? [2]
+[05/07/2020 22:08]  System: You heal what little damage your patient had.
+[05/07/2020 22:08]  You see:  Serado the awakened (Infested)
+[05/07/2020 22:08]  You see:  a pandorian tiger 
+[05/07/2020 22:08]  You see:  iAteKanga 
+[05/07/2020 22:08]  You see:  PigletForDinner 
+[05/07/2020 22:08]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/07/2020 22:08]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:08]  System: Who will you use the bandages on?
+[05/07/2020 22:08]  System: You begin applying the bandages.
+[05/07/2020 22:08]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:08]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:08]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/07/2020 22:08]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/07/2020 22:08]  System: You finish applying the bandages.
+[05/07/2020 22:08]  System: You have been cured of all poisons!
+[05/07/2020 22:08]  System: Setting ability ArmorIgnore
+[05/07/2020 22:08]  System: Your attack penetrates their armor!
+[05/07/2020 22:08]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/07/2020 22:08]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/07/2020 22:08]  System: Setting ability ArmorIgnore
+[05/07/2020 22:08]  System: You begin applying the bandages.
+[05/07/2020 22:08]  System: Who will you use the bandages on?
+[05/07/2020 22:08]  Hobo Jim: Consecrus Arma [Consecrate Weapon]
+[05/07/2020 22:08]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/07/2020 22:08]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:08]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:08]  Hobo Jim: Divinum Furis [Divine Fury]
+[05/07/2020 22:08]  System: You are already casting a spell.
+[05/07/2020 22:08]  System: You finish applying the bandages.
+[05/07/2020 22:08]  System: You have been cured of all poisons!
+[05/07/2020 22:08]  System: Your attack penetrates their armor! [3]
+[05/07/2020 22:08]  System: You begin applying the bandages.
+[05/07/2020 22:08]  System: Who will you use the bandages on?
+[05/07/2020 22:08]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:08]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:08]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:08]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:08]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:08]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:08]  handikap: Divinum Furis [Divine Fury]
+[05/07/2020 22:08]  System: You finish applying the bandages.
+[05/07/2020 22:08]  handikap: Vas An Nox [Arch Cure]
+[05/07/2020 22:08]  System: You may not loot this corpse.
+[05/07/2020 22:08]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:08]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:08]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:08]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:08]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:08]  System: Who will you use the bandages on?
+[05/07/2020 22:08]  System: You begin applying the bandages.
+[05/07/2020 22:08]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:08]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:08]  Hobo Jim: * You are in extreme pain, and require immediate aid! *
+[05/07/2020 22:08]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:08]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:08]  System: You did not stay close enough to heal your patient!
+[05/07/2020 22:08]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:08]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:08]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:08]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:08]  System: You begin applying the bandages.
+[05/07/2020 22:08]  System: Who will you use the bandages on?
+[05/07/2020 22:08]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:08]  System: The soul charge effect converts some of the damage you received into mana.
+[05/07/2020 22:08]  System: Some of the damage you received has been converted to heal you.
+[05/07/2020 22:08]  System: some damage has been healed : 2
+[05/07/2020 22:08]  System: 3000 gold has been withdrawn from your bank box.
+[05/07/2020 22:08]  System: 4500 gold has been withdrawn from your bank box.
+[05/07/2020 22:08]  System: 1300 gold has been withdrawn from your bank box.
+[05/07/2020 22:08]  System: 750 gold has been withdrawn from your bank box.
+[05/07/2020 22:08]  System: 1200 gold has been withdrawn from your bank box.
+[05/07/2020 22:08]  System: 650 gold has been withdrawn from your bank box.
+[05/07/2020 22:08]  System: 500 gold has been withdrawn from your bank box.
+[05/07/2020 22:08]  System: 1500 gold has been withdrawn from your bank box.
+[05/07/2020 22:08]  System: 1100 gold has been withdrawn from your bank box.
+[05/07/2020 22:08]  System: 1000 gold has been withdrawn from your bank box.
+[05/07/2020 22:08]  System: 3250 gold has been withdrawn from your bank box.
+[05/07/2020 22:08]  System: You gasp for air as you are pulled out of the underworld!  You suffer no loss of fame or karma this time.
+[05/07/2020 22:08]  System: 54100 gold has been withdrawn from your bank box.
+[05/07/2020 22:08]  You see: the remains of Hobo Jim
+[05/07/2020 22:08]  System: You were unable to finish your work before you died.
+[05/07/2020 22:08]  You see: Lord handikap [HB]
+[05/07/2020 22:08]  You see: some damage has been healed : 2 [35]
+[05/07/2020 22:08]  System: 500 gold has been withdrawn from your bank box. [19]
+[05/07/2020 22:08]  System: 750 gold has been withdrawn from your bank box. [3]
+[05/07/2020 22:08]  System: 3000 gold has been withdrawn from your bank box.
+[05/07/2020 22:08]  System: 1300 gold has been withdrawn from your bank box. [2]
+[05/07/2020 22:08]  System: 4500 gold has been withdrawn from your bank box. [4]
+[05/07/2020 22:08]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:08]  System: You will be automatically resurrected in 15 minutes.  You can explore the underworld or find another way to live again.
+[05/07/2020 22:08]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:08]  System: Some of the damage you received has been converted to heal you. [36]
+[05/07/2020 22:08]  System: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:08]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:08]  handikap: Vas An Nox [Arch Cure]
+[05/07/2020 22:08]  You see: Lord handikap [HB]
+[05/07/2020 22:08]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:08]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:08]  iAteKanga: * The poison seems to have no effect. *
+[05/07/2020 22:08]  handikap: Vas An Nox [Arch Cure]
+[05/07/2020 22:08]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/07/2020 22:08]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/07/2020 22:08]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:08]  handikap: Vas An Nox [Arch Cure]
+[05/07/2020 22:08]  You see: the remains of handikap
+[05/07/2020 22:08]  You see: Lord handikap [HB]
+[05/07/2020 22:08]  You see:  Serado the awakened (Infested)
+[05/07/2020 22:08]  You see:  a pandorian tiger 
+[05/07/2020 22:08]  You see:  iAteKanga 
+[05/07/2020 22:08]  You see:  PigletForDinner 
+[05/07/2020 22:08]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:08]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:08]  You see:  a deathwatch beetle hatchling (Infested)
+[05/07/2020 22:08]  You see:  Icythhlysy (Infested)
+[05/07/2020 22:08]  You see: Lord handikap [HB]
+[05/07/2020 22:08]  You see:  Serado the awakened (Infested)
+[05/07/2020 22:08]  You see:  a pandorian tiger 
+[05/07/2020 22:08]  You see:  iAteKanga 
+[05/07/2020 22:08]  You see:  PigletForDinner 
+[05/07/2020 22:08]  You see: a pandorian tiger corpse
+[05/07/2020 22:08]  You see:  iAteKanga 
+[05/07/2020 22:08]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:08]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:08]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:09]  You see:  a deathwatch beetle 
+[05/07/2020 22:09]  You see:  Issthyl 
+[05/07/2020 22:09]  You see:  Shassthy (Infested)
+[05/07/2020 22:09]  You see:  Issysh (Infested)
+[05/07/2020 22:09]  You see:  a horse 
+[05/07/2020 22:09]  You see:  a dire wolf 
+[05/07/2020 22:09]  You see:  a dire wolf 
+[05/07/2020 22:09]  You see:  a black bear 
+[05/07/2020 22:09]  You see:  a black bear 
+[05/07/2020 22:09]  You see:  a brown bear 
+[05/07/2020 22:09]  You see: ankh
+[05/07/2020 22:09]  Hobo Jim: I am dead and cannot do that.
+[05/07/2020 22:09]  Hobo Jim: I am dead and cannot do that.
+[05/07/2020 22:09]  You see: Lord handikap [HB]
+[05/07/2020 22:09]  You see:  a black bear 
+[05/07/2020 22:09]  You see:  a brown bear 
+[05/07/2020 22:09]  You see:  a black bear 
+[05/07/2020 22:09]  You see:  a reaper (Infested)
+[05/07/2020 22:09]  You see:  a timber wolf 
+[05/07/2020 22:09]  You see:  a dire wolf (Infested)
+[05/07/2020 22:09]  You see:  a reaper 
+[05/07/2020 22:09]  You see:  a reaper (Infested)
+[05/07/2020 22:09]  You see:  a reaper (Infested)
+[05/07/2020 22:09]  You see:  a reaper (Infested)
+[05/07/2020 22:09]  You see:  a black bear (Infested)
+[05/07/2020 22:09]  You see:  a black bear (Infested)
+[05/07/2020 22:09]  You see:  a brown bear 
+[05/07/2020 22:09]  You see:  a black bear 
+[05/07/2020 22:09]  You see:  a kaze kemono 
+[05/07/2020 22:09]  You see:  a kaze kemono 
+[05/07/2020 22:09]  You see:  a sparrow 
+[05/07/2020 22:10]  You see:  a kaze kemono 
+[05/07/2020 22:10]  You see:  a brown bear 
+[05/07/2020 22:10]  You see:  a black bear 
+[05/07/2020 22:10]  You see:  a kaze kemono 
+[05/07/2020 22:10]  You see:  a grey wolf 
+[05/07/2020 22:10]  You see:  a kaze kemono 
+[05/07/2020 22:10]  You see:  a grey wolf 
+[05/07/2020 22:10]  You see: Lady a ronin (Infested)
+[05/07/2020 22:10]  You see:  Ssyraaath (Infested)
+[05/07/2020 22:10]  You see: Lord a ronin (Infested)
+[05/07/2020 22:10]  You see: Lord a ronin (Infested)
+[05/07/2020 22:10]  You see:  a deathwatch beetle 
+[05/07/2020 22:10]  You see:  a deathwatch beetle 
+[05/07/2020 22:10]  You see:  Issthyl 
+[05/07/2020 22:10]  You see:  a deathwatch beetle hatchling (Infested)
+[05/07/2020 22:10]  You see:  Syys (Infested)
+[05/07/2020 22:10]  You see:  a deathwatch beetle (Infested)
+[05/07/2020 22:10]  You see:  Syys (Infested)
+[05/07/2020 22:10]  You see:  a deathwatch beetle hatchling (Infested)
+[05/07/2020 22:10]  You see:  Lishath (Infested)
+[05/07/2020 22:10]  You see:  a deathwatch beetle hatchling 
+[05/07/2020 22:10]  You see:  PigletForDinner 
+[05/07/2020 22:10]  You see:  Serado the awakened (Infested)
+[05/07/2020 22:10]  You see:  a pandorian tiger 
+[05/07/2020 22:10]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:10]  You see:  a deathwatch beetle hatchling 
+[05/07/2020 22:10]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:10]  You see: a deathwatchbeetle hatchling corpse
+[05/07/2020 22:10]  You see:  a deathwatch beetle (Infested)
+[05/07/2020 22:10]  You see:  a black bear (Infested)
+[05/07/2020 22:10]  You see:  a horse (Infested)
+[05/07/2020 22:10]  You see:  Icythhlysy (Infested)
+[05/07/2020 22:10]  You see:  Tyscesth (Infested)
+[05/07/2020 22:10]  You see:  a deathwatch beetle hatchling (Infested)
+[05/07/2020 22:10]  You see:  a deathwatch beetle hatchling (Infested)
+[05/07/2020 22:10]  You see:  Thlyly (Infested)
+[05/07/2020 22:10]  You see:  Nakai the healer
+[05/07/2020 22:10]  You see:  a fan dancer (Infested)
+[05/07/2020 22:10]  You see:  a dire wolf (Infested)
+[05/07/2020 22:10]  System: You are frozen and cannot move.
+[05/07/2020 22:10]  System: 5000 gold has been withdrawn from your bank box.
+[05/07/2020 22:10]  System: You have 335316591 gold in cash remaining in your bank box.
+[05/07/2020 22:10]  System: Who will you use the bandages on?
+[05/07/2020 22:10]  System: You begin applying the bandages.
+[05/07/2020 22:11]  System: You finish applying the bandages.
+[05/07/2020 22:11]  System: 15,000 gold has been withdrawn from your bank box.
+[05/07/2020 22:11]  System: You have 335,301,591 gold in cash remaining in your bank box.
+[05/07/2020 22:11]  You see: the remains of Hobo Jim
+[05/07/2020 22:11]  You see: the remains of Hobo Jim
+[05/07/2020 22:11]  You see: the remains of Hobo Jim
+[05/07/2020 22:11]  System: You must wait to perform another action.
+[05/07/2020 22:11]  System: You begin applying the bandages.
+[05/07/2020 22:11]  System: Who will you use the bandages on?
+[05/07/2020 22:11]  System: You finish applying the bandages.
+[05/07/2020 22:11]  Iitsliss: Salsth salsthaasithththth sytstha.
+[05/07/2020 22:11]  Iitsliss: Oof! That hurt!
+[05/07/2020 22:11]  Hobo Jim: In Vas Mani [Greater Heal]
+[05/07/2020 22:11]  System: some damage has been healed : 18
+[05/07/2020 22:11]  System: You begin applying the bandages.
+[05/07/2020 22:11]  System: Who will you use the bandages on?
+[05/07/2020 22:11]  System: Some of the damage you received has been converted to heal you.
+[05/07/2020 22:11]  System: some damage has been healed : 3
+[05/07/2020 22:11]  You see: a lizardman corpse
+[05/07/2020 22:11]  System: You finish applying the bandages.
+[05/07/2020 22:11]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/07/2020 22:11]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/07/2020 22:11]  System: You heal what little damage your patient had.
+[05/07/2020 22:11]  System: You begin applying the bandages.
+[05/07/2020 22:11]  System: Who will you use the bandages on?
+[05/07/2020 22:11]  You see: a llama corpse
+[05/07/2020 22:11]  System: You must wait to perform another action.
+[05/07/2020 22:11]  You see: a dire wolf corpse
+[05/07/2020 22:11]  You see:  Thslish (Infested)
+[05/07/2020 22:11]  You see:  a deathwatch beetle hatchling (Infested)
+[05/07/2020 22:11]  You see:  a deathwatch beetle hatchling (Infested)
+[05/07/2020 22:11]  You see:  Thlyly (Infested)
+[05/07/2020 22:11]  You see:  a deathwatch beetle hatchling (Infested)
+[05/07/2020 22:11]  You see:  a black bear (Infested)
+[05/07/2020 22:11]  You see:  a horse (Infested)
+[05/07/2020 22:11]  You see:  Icythhlysy (Infested)
+[05/07/2020 22:11]  You see:  a deathwatch beetle (Infested)
+[05/07/2020 22:11]  You see:  Serado the awakened (Infested)
+[05/07/2020 22:11]  You see:  PigletForDinner 
+[05/07/2020 22:11]  You see:  handikap [HB]
+[05/07/2020 22:11]  You see:  iAteKanga 
+[05/07/2020 22:11]  You see:  a deathwatch beetle 
+[05/07/2020 22:11]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:11]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:11]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:11]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:11]  System: Who will you use the bandages on?
+[05/07/2020 22:11]  System: You begin applying the bandages.
+[05/07/2020 22:11]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/07/2020 22:11]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/07/2020 22:12]  System: You are able to resurrect your patient.
+[05/07/2020 22:12]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/07/2020 22:12]  a pandorian tiger: * The poison seems to have no effect. *
+[05/07/2020 22:12]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/07/2020 22:12]  System: You begin applying the bandages.
+[05/07/2020 22:12]  System: Who will you use the bandages on?
+[05/07/2020 22:12]  System: Script <pvm_pvp_attack_simple.py> started.
+[05/07/2020 22:12]  System: Script <pvm_pvp_attack_simple.py> stopped.
+[05/07/2020 22:12]  System: Each piece of your equipment gained 3 Tier XP!
+[05/07/2020 22:12]  You see: the remains of Serado
+[05/07/2020 22:12]  System: You finish applying the bandages.
+[05/07/2020 22:12]  Hobo Jim: All Kill
+[05/07/2020 22:12]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:12]  System: Who will you use the bandages on?
+[05/07/2020 22:12]  handikap: "5vbbbzbz115zz3b313zzzzzzzz6b351115111111ü3zzzzzzü""1111bccb11113züccz6b113z1zz13111131111
+[05/07/2020 22:12]  System: You must wait to perform another action.
+[05/07/2020 22:12]  System: Who will you use the bandages on?
+[05/07/2020 22:12]  handikap: fucking champ
+[05/07/2020 22:12]  You see:  handikap [HB]
+[05/07/2020 22:12]  System: You begin applying the bandages.
+[05/07/2020 22:12]  System: Who will you use the bandages on?
+[05/07/2020 22:12]  System: You finish applying the bandages.
+[05/07/2020 22:12]  System: You begin applying the bandages.
+[05/07/2020 22:12]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:12]  System: Who will you use the bandages on?
+[05/07/2020 22:12]  System: You finish applying the bandages.
+[05/07/2020 22:12]  System: You begin applying the bandages.
+[05/07/2020 22:12]  System: Who will you use the bandages on?
+[05/07/2020 22:12]  System: You finish applying the bandages.
+[05/07/2020 22:12]  handikap: ""
+[05/07/2020 22:12]  handikap: Forul Solum [Enemy of One]
+[05/07/2020 22:12]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:12]  System: You must wait for others to leave before you can do that.
+[05/07/2020 22:12]  System: Script <Grab.py> started.
+[05/07/2020 22:12]  handikap: all 105-110
+[05/07/2020 22:12]  System: Script <Grab.py> stopped.
+[05/07/2020 22:12]  Hobo Jim: lol
+[05/07/2020 22:12]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:12]  Hobo Jim: lota crystal energy and earth
+[05/07/2020 22:12]  Hobo Jim: not worth it
+[05/07/2020 22:12]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:12]  Hobo Jim: all folllow me
+[05/07/2020 22:12]  System: Script <Grab.py> started.
+[05/07/2020 22:12]  System: a bank check has been placed in your pack.
+[05/07/2020 22:12]  System: You grabbed 285,792 Gold
+[05/07/2020 22:12]  System: Your share of the Gold is 285,792
+[05/07/2020 22:12]  System: You must wait for 4.97 seconds.
+[05/07/2020 22:12]  System: Script <Grab.py> stopped.
+[05/07/2020 22:12]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:12]  System: Who will you use the bandages on?
+[05/07/2020 22:12]  System: You begin applying the bandages.
+[05/07/2020 22:13]  System: You are able to resurrect your patient.
+[05/07/2020 22:13]  System: You begin applying the bandages.
+[05/07/2020 22:13]  System: Who will you use the bandages on?
+[05/07/2020 22:13]  System: You finish applying the bandages.
+[05/07/2020 22:13]  System: a bank check has been placed in your pack.
+[05/07/2020 22:13]  System: You grabbed 122,841 Gold
+[05/07/2020 22:13]  System: Your share of the Gold is 122,841
+[05/07/2020 22:13]  System: Script <Grab.py> started.
+[05/07/2020 22:13]  System: Script <Grab.py> stopped.
+[05/07/2020 22:13]  System: You begin applying the bandages.
+[05/07/2020 22:13]  System: Who will you use the bandages on?
+[05/07/2020 22:13]  System: You finish applying the bandages.
+[05/07/2020 22:13]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:13]  System: You begin applying the bandages.
+[05/07/2020 22:13]  System: Who will you use the bandages on?
+[05/07/2020 22:13]  System: You finish applying the bandages.
+[05/07/2020 22:13]  System: Script <Grab.py> started.
+[05/07/2020 22:13]  System: a bank check has been placed in your pack.
+[05/07/2020 22:13]  System: You grabbed 186,887 Gold
+[05/07/2020 22:13]  System: Your share of the Gold is 186,887
+[05/07/2020 22:13]  System: Script <Grab.py> stopped.
+[05/07/2020 22:13]  handikap: all guard
+[05/07/2020 22:13]  You see:  handikap [HB]
+[05/07/2020 22:13]  You see:  a pandorian tiger 
+[05/07/2020 22:13]  You see:  handikap [HB]
+[05/07/2020 22:13]  System: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:13]  You see:  handikap [HB]
+[05/07/2020 22:13]  System: Script <Grab.py> started.
+[05/07/2020 22:13]  System: a bank check has been placed in your pack.
+[05/07/2020 22:13]  System: You grabbed 121,808 Gold
+[05/07/2020 22:13]  System: Your share of the Gold is 121,808
+[05/07/2020 22:13]  System: You must wait for 4.98 seconds.
+[05/07/2020 22:13]  System: Script <Grab.py> stopped.
+[05/07/2020 22:13]  System: You must wait for 2.8 seconds.
+[05/07/2020 22:13]  System: Script <Grab.py> started.
+[05/07/2020 22:13]  System: Script <Grab.py> stopped.
+[05/07/2020 22:13]  You see:  Asiyss (Infested)
+[05/07/2020 22:13]  System: Script <Grab.py> started.
+[05/07/2020 22:13]  System: a bank check has been placed in your pack.
+[05/07/2020 22:13]  System: You grabbed 155,458 Gold
+[05/07/2020 22:13]  System: Your share of the Gold is 155,458
+[05/07/2020 22:13]  System: You must wait for 4.95 seconds.
+[05/07/2020 22:13]  System: Script <Grab.py> stopped.
+[05/07/2020 22:13]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:13]  Hobo Jim: what a pos
+[05/07/2020 22:13]  handikap: * handikap begins to spasm uncontrollably. *
+[05/07/2020 22:13]  Hobo Jim: Vas An Nox [Arch Cure]
+[05/07/2020 22:13]  System: You have cured the target of all poisons!
+[05/07/2020 22:13]  System: You have cured the target of all poisons! [3]
+[05/07/2020 22:14]  Hobo Jim: 38 crystal earth and energty
+[05/07/2020 22:14]  Hobo Jim: each
+[05/07/2020 22:14]  System: Script <Grab.py> started.
+[05/07/2020 22:14]  System: You must wait for others to leave before you can do that.
+[05/07/2020 22:14]  handikap: ""
+[05/07/2020 22:14]  System: Script <Grab.py> stopped.
+[05/07/2020 22:14]  System: 15,439 gold coins have been placed in your pack.
+[05/07/2020 22:14]  System: You grabbed 15,439 Gold
+[05/07/2020 22:14]  System: Your share of the Gold is 15,439
+[05/07/2020 22:14]  System: Script <Grab.py> started.
+[05/07/2020 22:14]  System: You must wait for 4.94 seconds.
+[05/07/2020 22:14]  System: Script <Grab.py> stopped.
+[05/07/2020 22:14]  handikap: infested yamadan
+[05/07/2020 22:14]  System: You must wait for others to leave before you can do that.
+[05/07/2020 22:14]  handikap: lol
+[05/07/2020 22:14]  handikap: it was hell
+[05/07/2020 22:14]  You see:  handikap [HB]
+[05/07/2020 22:14]  Hobo Jim: was insane
+[05/07/2020 22:14]  Hobo Jim: not like it used to be
+[05/07/2020 22:14]  handikap: yeha
+[05/07/2020 22:14]  Hobo Jim: at all
+[05/07/2020 22:14]  You see:  Cytsi 
+[05/07/2020 22:14]  Hobo Jim: looked cool as hell
+[05/07/2020 22:14]  Hobo Jim: lightning flying at you
+[05/07/2020 22:14]  Hobo Jim: though
+[05/07/2020 22:14]  handikap: i dont like it
+[05/07/2020 22:15]  handikap: yeah
+[05/07/2020 22:15]  You see:  handikap [HB]
+[05/07/2020 22:15]  Hobo Jim: not worth it at all
+[05/07/2020 22:15]  handikap: wtf that
+[05/07/2020 22:15]  handikap: :D
+[05/07/2020 22:15]  Hobo Jim: not a single tot
+[05/07/2020 22:15]  System: Script <ShrinkPets.py> started.
+[05/07/2020 22:15]  System: Shrinking...
+[05/07/2020 22:15]  System: You place the PigletForDinner Idol into your pack.
+[05/07/2020 22:15]  System: Shrinking...
+[05/07/2020 22:15]  System: You place the iAteKanga Idol into your pack.
+[05/07/2020 22:15]  System: Shrinking...
+[05/07/2020 22:15]  System: Script <ShrinkPets.py> stopped.
+[05/07/2020 22:15]  handikap: ""
+[05/07/2020 22:15]  handikap: same here
+[05/07/2020 22:15]  You see:  handikap [HB]
+[05/07/2020 22:15]  Hobo Jim: definately changed it
+[05/07/2020 22:15]  You see:  a deathwatch beetle hatchling (Infested)
+[05/07/2020 22:15]  handikap: yeah
+[05/07/2020 22:15]  You see:  handikap [HB]
+[05/07/2020 22:15]  handikap: if its not
+[05/07/2020 22:15]  Hobo Jim: i used to solo this on a 700 skillcap server
+[05/07/2020 22:15]  Hobo Jim: lol
+[05/07/2020 22:15]  handikap: its easy to get major tots
+[05/07/2020 22:16]  Hobo Jim: in the mines back by the fire bettle
+[05/07/2020 22:16]  Hobo Jim: theres lots of infested usually
+[05/07/2020 22:16]  handikap: ok bro i need to sleep thy
+[05/07/2020 22:16]  You see:  handikap [HB]
+[05/07/2020 22:16]  handikap: again
+[05/07/2020 22:16]  Hobo Jim: me to
+[05/07/2020 22:16]  Hobo Jim: lol
+[05/07/2020 22:16]  Hobo Jim: sorry for getting you murderd a dozen times
+[05/07/2020 22:16]  handikap: it was fun even we dead lol
+[05/07/2020 22:16]  Hobo Jim: lol
+[05/07/2020 22:16]  handikap: np
+[05/07/2020 22:16]  handikap: it was funny
+[05/07/2020 22:16]  Hobo Jim: prolly been a while since you died here eh?
+[05/07/2020 22:16]  handikap: :D
+[05/07/2020 22:16]  handikap: yeah
+[05/07/2020 22:16]  You see:  handikap [HB]
+[05/07/2020 22:16]  handikap: lol
+[05/07/2020 22:17]  Hobo Jim: i had no idea
+[05/07/2020 22:17]  Hobo Jim: i really used to solo that
+[05/07/2020 22:17]  System: Some of the damage you received has been converted to heal you.
+[05/07/2020 22:17]  System: some damage has been healed : 2
+[05/07/2020 22:17]  You see: a lizardman corpse
+[05/07/2020 22:17]  System: Who will you use the bandages on?
+[05/07/2020 22:17]  System: You begin applying the bandages.
+[05/07/2020 22:17]  Hobo Jim: nothing but a cu
+[05/07/2020 22:17]  System: You heal what little damage your patient had.
+[05/07/2020 22:17]  handikap: mee either
+[05/07/2020 22:17]  You see:  handikap [HB]
+[05/07/2020 22:17]  Hobo Jim: and wither
+[05/07/2020 22:17]  Hobo Jim: lol
+[05/07/2020 22:17]  handikap: ok
+[05/07/2020 22:17]  Hobo Jim: night
+[05/07/2020 22:17]  handikap: take care bro
+[05/07/2020 22:17]  handikap: thy
+[05/07/2020 22:17]  You see:  handikap [HB]
+[05/07/2020 22:17]  System: 97° 59'N, 29° 2'W
+[05/07/2020 22:17]  System: Thy spell doth not appear to work...
+[05/07/2020 22:17]  handikap: later
+[05/07/2020 22:17]  System: 97° 59'N, 29° 2'W
+[05/07/2020 22:17]  System: Thy spell doth not appear to work...
+[05/07/2020 22:17]  You see:  handikap [HB]
+[05/07/2020 22:17]  System: There are no charges left on that item.
+[05/07/2020 22:17]  System: 97° 59'N, 29° 2'W
+[05/07/2020 22:17]  Hobo Jim: Kal Ort Por [Recall]
+[05/07/2020 22:17]  You see:  CityBooks the parrot
+[05/07/2020 22:17]  You see:  Akilah the waiter
+[05/07/2020 22:17]  You see:  Dungeons the parrot
+[05/07/2020 22:17]  You see:  TMapsFelANDTram the parrot
+[05/07/2020 22:17]  System: WorldMap loaded!
+[05/07/2020 22:17]  You see:  GOLD SKULLS 
+[05/07/2020 22:17]  You see:  BULK BOARDS 
+[05/07/2020 22:17]  You see:  Crystals and Frags 
+[05/07/2020 22:17]  You see:  Imbue Mats 
+[05/07/2020 22:17]  You see:  Newbie 
+[05/07/2020 22:17]  You see:   
+[05/07/2020 22:17]  You see:   
+[05/07/2020 22:17]  You see:  Sukatai the Keeper of Chivalry
+[05/07/2020 22:17]  You see:   
+[05/07/2020 22:17]  : If you have an empty vendor, remove them or they will be auto deleted!
+[05/07/2020 22:17]  You see:   the tailor
+[05/07/2020 22:17]  You see:   the blacksmith
+[05/07/2020 22:17]  You see:   the weaver
+[05/07/2020 22:17]  You see:   the trash collector
+[05/07/2020 22:17]  You see:   the vote registrar
+[05/07/2020 22:17]  You see: Lord blackmyst [WSF]
+[05/07/2020 22:17]  You see:   the town crier
+[05/07/2020 22:17]  You see:   
+[05/07/2020 22:17]  System: You have entered Luna Bank
+[05/07/2020 22:17]  You see: Lord Evolution [WSF]
+[05/07/2020 22:17]  You see:   the hairstylist
+[05/07/2020 22:17]  You see:   the innkeeper
+[05/07/2020 22:17]  You see:  Seti [AoV]
+[05/07/2020 22:17]  You see: Lady Sparks [WKA]
+[05/07/2020 22:18]  You see:   the tinker
+[05/07/2020 22:18]  You see:  Deacon the brewer
+[05/07/2020 22:18]  You see:   the alchemist
+[05/07/2020 22:18]  You see:   the Holy Mage
+[05/07/2020 22:18]  You see:   The Prov
+[05/07/2020 22:18]  Hobo Jim: balance
+[05/07/2020 22:18]  : Thy current bank balance is 0 platinum and 335,301,591 gold.
+[05/07/2020 22:18]  Hobo Jim: bank
+[05/07/2020 22:18]  Hobo Jim: Bank container has 345 items, 1267 stones
+[05/07/2020 22:18]  System: 285,792 gold was deposited in your account.
+[05/07/2020 22:18]  System: 121,808 gold was deposited in your account.
+[05/07/2020 22:18]  System: 122,841 gold was deposited in your account.
+[05/07/2020 22:18]  System: 186,887 gold was deposited in your account.
+[05/07/2020 22:18]  System: 155,458 gold was deposited in your account.
+[05/07/2020 22:18]  Hobo Jim: balance
+[05/07/2020 22:18]  : Thy current bank balance is 0 platinum and 336,174,377 gold.
+[05/07/2020 22:18]  System: 15,439 gold was deposited in your account.

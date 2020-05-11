@@ -1,0 +1,34 @@
+[05/02/2020 15:22]  System: WorldMap loading...
+[05/02/2020 15:22]  System: You have 0 of max 50 in your mailbox.
+[05/02/2020 15:22]  You see: Lord Hobo Jim [SOUL]
+[05/02/2020 15:22]  System: 
+[05/02/2020 15:22]  System: Loading WorldMap markers..
+[05/02/2020 15:22]  System: WorldMap markers loaded (0)
+[05/02/2020 15:22]  System: WorldMap loaded!
+[05/02/2020 15:22]  System: AUTOLOOT: Engine Start...
+[05/02/2020 15:24]  You see:  NollKoll 
+[05/02/2020 15:25]  Hobo Jim: Should fit here yes?
+[05/02/2020 15:25]  You see:  NollKoll 
+[05/02/2020 15:25]  NollKoll: dark?
+[05/02/2020 15:25]  Hobo Jim: yup
+[05/02/2020 15:25]  NollKoll: big spender
+[05/02/2020 15:25]  Hobo Jim: lol dont lookt at my donations :)
+[05/02/2020 15:25]  Hobo Jim: im sure theres wose
+[05/02/2020 15:25]  Hobo Jim: worse
+[05/02/2020 15:25]  You see:  NollKoll 
+[05/02/2020 15:25]  NollKoll: could move it
+[05/02/2020 15:25]  NollKoll: inwards
+[05/02/2020 15:26]  NollKoll: if you want
+[05/02/2020 15:26]  You see:  NollKoll 
+[05/02/2020 15:26]  Hobo Jim: nah your good just glad to have it down
+[05/02/2020 15:26]  Hobo Jim: spent hours trynig to get it all over here
+[05/02/2020 15:26]  NollKoll: kk.. you sure?
+[05/02/2020 15:26]  Hobo Jim: yup
+[05/02/2020 15:26]  System: You traded 48,000,000 gold to NollKoll.
+[05/02/2020 15:26]  System: You are now the owner of this house.  The house's co-owner, friend, ban, and access lists have been cleared.  You should double-check the security settings on any doors and teleporters in the house.
+[05/02/2020 15:27]  You see:  NollKoll 
+[05/02/2020 15:29]  System: <Pandora> Seti: how do we make or what drops or sells these new cannons??
+[05/02/2020 15:29]  System: Your strength has changed by 10.  It is now 212
+[05/02/2020 15:29]  System: Your dexterity has changed by 10.  It is now 218
+[05/02/2020 15:29]  System: Your intelligence has changed by 10.  It is now 76
+[05/02/2020 15:29]  You see:  NollKoll 
