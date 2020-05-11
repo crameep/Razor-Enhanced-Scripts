@@ -1,0 +1,11 @@
+
+Items.UseItem(0x40F8B1AB)
+Misc.Pause(1000)
+Items.UseItem(0x40F8B116)
+Misc.Pause(1000)
+Gumps.WaitForGump(354527139, 10000)
+Gumps.SendAction(354527139, 2)
+Misc.Pause(2000)
+Gumps.WaitForGump(128397316, 10000)
+Gumps.SendAction(128397316, 5)
+Misc.Pause(1000)
